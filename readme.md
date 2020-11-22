@@ -1,5 +1,5 @@
 # Luciana's digital garden
 
-Welcome!
-
+Bienvenides
+Notas sobre literatura, lingüística, etc.
 
