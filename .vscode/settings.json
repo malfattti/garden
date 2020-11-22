@@ -1,5 +1,6 @@
 {
   "editor.minimap.enabled": false,
+  "foam.openDailyNote.directory": "journal",
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
