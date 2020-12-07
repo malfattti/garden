@@ -1,2 +1,149 @@
 # Lecture 10 Cultural Materialism and New Historicism
 
+- Tradition that has been developing besides French hotspots we have tackled so far
+- Developed in Great Britain
+  
+  ## Raymond Williams
+ - Cultural materialism
+  - new left view on culture
+  - Stems from Williams' discontent with Marxist reductionism re. literature and culture in general 
+    - viewed as part of the superstructure, regulated by the base according to the distribution of means of production
+    - cultural materialism in turn tries to re-connect literature with history but at the same time view literature as autonomous, with a transgressive potential
+    - opposed to Formalism in that it had an immanent conception of the work of art, Williams tries to bring back the significance of history to the work of art.
+    - but he cannot do this with Marxism because of its limited view  
+  - Predecessor: Gramsci
+    - important for neo-Marxist analysis and has written about populism
+    - Italian fascism has absorbed the part of the population which was supposed to be Marxism's audience: farmers and workers. This proves Marxism's historical determinism wrong
+      - similarly, revolution should not have happened in the USSR (according to Marx)
+      - why? 
+    - Gramsci coins two terms:
+      - hegemony:
+        - manipulation of the lower classes against their better interests?
+        - new governmental forces work in more subtle ways than Marx had anticipated
+        - hegemony does not work by brutal force but creates a consensus which hides the brutal forces 
+        - naturalizes man-made forms of domination
+        - Thus, populism:
+          - uneducated citizens that face a complicated world, so delegate their agency to a political voice that reduces the complication and turns it into a Manichean fight (us versus them)
+            - left wing populism attacks elites for manipulating the interests of the proletariat (this is why organic intellectuals are important)
+            - right wing populism attacks the "establishment" and blames non-native forces for a society's problems
+            - both share an enemy: the elites, who tell them what they should think or do.the difference is the external enemy in right wing populism
+            - in the case of Italian fascism, the blame is on Jewish population who explote a traditionally left electorate
+            - against that they mobilize the notion of nation, to an extreme extent. So far this concept of nation hadn't existed, gap between the north and the south.
+            - Mussolini tries to recreate the glory of old Rome.
+            - the problems of the leftist population are ignored by a liberal elite that focuses on the racist and nationalist views of this potential clientele (even if the problems themselves may be real). This antagonizes them
+          - Hegemony: useful to convince (rhetoric+idea of unity, feeling part of something large and powerful) the working class to act against their interests and to make deals with other blocs.
+          - More subtle strategies to perpetuate the status quo than direct violence
+          
+      - organic intellectual
+        -  The organic intellectual has the job of educating the working class about these machinations
+          - For Marxism, intellectuals have a paradoxical role:
+            - role to recognize subtleties of world history (and even more so in the case of hegemony) / danger to be too far from the working class they are supposed to serve.
+              - for example, in the US liberal intellectuals disdain Trump's voters bc they consider them stupid for falling for Trump's machinations
+              - how to deal with these groups?
+                - patronizing can have catastrophic consequences
+                - the organic intellectual (opposes to Lenin in his conception of leaders) is able to retain ties to working class and is not seduced by political power nor the ivory tower ([[Stuart Hall]])
+                  - dangers of disconnect
+                  - still a problem
+     - The New Left     
+       - Criticism of Marx's determinism (literature as well as class antagonism, which breaks out in places where it shouldn't have broken out)
+       - reevaluation of the importance and the affect that culture and history have for each other
+       - critique of pure aestheticism in New Criticism and Formalism which was the norm in British literature departments 
+     - in his chapter [[Literature]] in [[*Marxism and Literature*]], Williams argues 
+       - against the idea that literature and its historical context are detached
+       - for a more central role of literature in the conformation of its historical context (not only mirroring the distribution of means of production -passive role- but playing a more active, important role)
+       - he criticizes the idea that there are universal qualities of literature (full, central, immediate human experience)
+       - the conception of literature has gone through historical changes
+       - within 200-300 years, these tendencies apply to the idea of literature:
+         - from learning to taste or sensibility 
+         - specialization to imaginative works
+         - development of the idea of tradition within national context, resulting in the delimitation of a 'national literature" (the idea of nation is recent)
+       - thus our current conception of literature is a product of these historical tendencies, which are related to the rising bourgeois class (and is thus ideologically charged)
+       - it implies many exclusions from the canon 
+       - it defines the values which criticism asserts
+       - these criteria can thus be changed, but they are presented as natural so that it is harder to change them
+       - The role of literature and the "structures of feeling"
+         - literature is a product of historical context and not just a mirror to it
+         - part of means of production (literature also exerts a certain force. part of the arsenal to influence and manipulate people: the symbolic order)
+         -  structures of feeling, a concept which relates to Foucault's epistemes and Lyotard's rules of language games:
+            -   these area psycho-social strata of emotions and symbolic systems to express them which are not completely independent, nor completely determined by the base (modes and means of production)
+                -    not necessarily rational but express something that in the episteme ([[Michel Foucault]]) does not find a room to be expressed
+
+## Stuart Hall
+- Part of the Birmingham School
+  - influenced by Raymond Williams
+  - search for sources of cultural resistance to the hegemonic strategies of capitalism and the culture industry
+  - hegemony is more defined, as is not a homologic realm of control but a conflicting arena where interests, coalitions and struggles are being negotiated
+    - recalibration of theories and methods, avoidance of becoming a master narrative, being open to new challenges, theory must be adapted to contexts
+    - not one method, instead: multiple tools, what is at hand (bricolage)
+- [[Cultural studies and its Theoretical Legacies]] provides a historical inventory of the dynamics and changes in the leftist paradigm of the British Culturalism 
+- foregrounds problem of the organic intellectual (balance between theoretical, intellectual and concrete, practical work)
+- like Williams, Hall points out the shortcomings of orthodox Marxism against which the New Left sets itself:
+  - lack of attention to culture, ideology, the symbolic, and their repercussion in Marx's theory of history
+  - the Eurocentrism of Marxist theory (capitalism did not evolve organically everywhere). The laws according to which history evolved according to Marx might not work everywhere in the same way
+- the organic intellectual  
+  - according to Gramsci, has to work on two fronts:
+    - the intellectual, theoretical
+    - the practical
+  - Break with German tradition: Adorno and Horkheimer have no interest in popular culture, but Hall does 
+  - Hall believes that popular culture can play a resisting role bc it distills some structures of feeling which are not given room in the high culture (voice of the disenfranchised)
+- Culture as displacement
+  - all textual practices must assume this displacement
+  - episteme: there is not one discourse, but many which interact
+  - all discourses, including the academic, are textually rooted and driven
+  - perpetual slippage within discourse and in the clashes between discourses
+  - in dealing with cultural artifacts, one must do justice to the slippage. This will have repercussions on your theory. Theory requires closure but you do not find it in alternative cultural discourses. Clash between two modes of writing (traditional theory versus cultural discourses)
+
+## The New Historicism and the Question of History
+- big role of history for Marx, Levis-Strauss, Foucault, etc.
+- but how is the historical context addressed?
+- how fixed in history as a force? It is certain that history exerts a force, but how does it do it? 
+- linguistic turn does not leave the concept of history unscathed
+- textuality of history: history is in itself something that we can only address through language
+  - According to Jameson, history is an absent cause. We can only approach it after it passes through a narrativization in the political unconscious
+    - as in the individual, the unconscious exerts a force but cannot be accessed directly
+
+- what is new about New Historicism?
+  - US academia in the 90s
+  - similar but different from the cultural materialism of the Birmingham School
+  - no leftist agenda
+  - combination between insights of former historicisms and poststructuralism
+  - rather a methodology than coherent theory
+  - history as succession of different epistemes
+  - epistemes are a heterogeneous field of negations, struggles and opinions which create what Greenblatt call "social energy"
+
+## Stephen Greenblatt
+- Focus on renaissance and Shakespeare
+- Shakespeare's work is not a mirror of the episteme of the renaissance but a sublimation of different discursive fields fighting for dominance
+- Shakespeare reflects, negotiates, transgresses and feeds back into the culture these language games
+- Cultural poetics
+  - culture as heterogeneous networks, its traces can be found in literature and other forms as well
+  - New Historicism juxtaposes literary works with other discourses to show the complexity of the field and to show how language games interact, shift or are displaced
+  - there are no master discourses in history. Epistemes are no the expression of a master discourse, they are the moving result of different disocurses clashing with each other
+  - the text itself is also unstable. It cannot comprise all the things it might touch upon. There is always an excess of significance
+  - we must track what can be glimpsed at the margins of the text ([[Jacques Derrida]])
+  - Culture, cultural history and history itself can be deciphered only as the poetic displacement that takes place in its textualization
+    - history is a large mass of elements. when we try to put order to them in a narrativization, we take some things, and some leave out
+  - Work of art as collective work  
+    - Shakespeare the genius versus the idea of collective production of literary pleasure and interest
+      - especially relevant for theater
+      - this is close to Jauss' project (this is why Jauss is criticized as old wine in new skins), 
+      - but Greenblatt  is not looking at literary history but literature as the distillation of different forces leaving traces in the work of art
+      - however, similar to Jauss he underlines the relevance of the reader in the constitution of literature's aesthetic value
+    - What Greenblatt adds is the idea of "social energy'
+      - replaces the idea of literary innovation in Jauss
+      - how can the social energy be defined? a bit ethereal and vague
+      - something that the work of art preserves and can be released in different contexts?
+      - how does the process of re-releasing the social energy happens?
+      - tautology: he uses Shakespeare's works, which are successful, powerful and enduring (why?), to assume a social energy that is in turn the root of their endurance
+     - Rules of the game:
+       - no appeals to genius as sole origin
+       - no motiveless creation
+       - no transcendent representation (no aesthetic ahistoricism)
+       - no autonomous artifacts
+       - no expression without a from and a for (against monologism of literature)
+       - no art without social energy
+       - no spontaneity in art
+
+- Although the concept of social energy is fuzzy is allows to contextualize literary works in a richer and less homogeneous context
+- theater is particularly interesting bc it allows to try things that transgress the particular historical context and getting an immediate feedback for it
+- the audience has the illusion of theater being disconnected from the manipulations of everyday life. Seen as nonuseful and nonpractical but it is very  much connected to its context
