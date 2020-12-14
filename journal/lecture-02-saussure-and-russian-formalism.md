@@ -1,0 +1,110 @@
+# Lecture 02: Saussure and Russian Formalism
+
+## Towards a scientific approach to literature
+- These schools developed between 1900 and 1930 and their aims were:
+  - to discover what makes literature distinctive (its specificity)
+  - to overcome Philology's contextual agenda, which has dominated the study of literature so far
+  - to approach literature scientifically (as opposed to New Criticism, which states that since literature's discourse is different from science's, it should not be analyzed by its means)
+- Both try to decontextualize the literary text and approach it immanently
+  - against intentional and affective fallacies: only interested in what the text says, not what the author's intention was, nor the reader's reaction to the text
+- Both argue that literature constitutes a distinct téchné to describe reality and that this technique can be described by means of other discourses (scientific, analytic) or téchnés
+- the emphasis is on the form, or structure, since it is the form or the structure that distinguish literary from other discourses
+- literature uses a different language and thus forms a different discourse than others
+- this means that they strive to use one discourse to describe another (in a way, this does literary discourse a sort of injustice. Literary theory is a tool, but it is a mistake to try to find theory "exemplified" in literary texts, because they are different discourses). What does this mean?
+
+## Victor Shklovslky: *Art as Technique*
+- As perception becomes habitual, it becomes automatic
+- This desensitizes us to the individual object. We do not perceive it entirely, only its main characteristics. This remind us of Nietzsche's Apollonian thinking, in that it relies on worn metaphors which are far form the perceptions they want to represent
+-  Prose language thus follows another economy of language. In daily language, we want to communicate effectively and fast, the peculiarities of concepts don't tend to matter
+- Literature is there to deautomatize our perceptions
+- In line with a branch of Modernism (Stein, Williams) which aims to give single objects their individuality, which this prosaic use of language has robbed them of
+  - for example: a rose is so overdetermined by all the meanings attached to it, that it is hard to see it as a single object
+- Nietzsche says that each word becomes a concept not to represent an individual perception but to fit countless other, more or less similar, never equal. A concept makes equivalent what is non-equivalent.
+- Marx's conceptualization of ideology and its effects as false consciousness are also related to Shklovski's ideas of language, as ideology makes us naturalize things that are not. Automatization can thus also be used for ideological purposes.
+- Poetic language makes perception more difficult an economy not of the conceptualization but an economy of 
+- the purpose of art is to convey the sensation of things as they are perceived, not as they are known
+- art should increase the length and difficulty of perception. The process of perception is an aesthetic end in itself and must be prolonged
+ - Art is a way to experience the artfulness of an object, the object is not important (beauty is thus nos important)
+- Aesthetic perception is all about perception. The attitude that one has towards something.
+- The act of perception thus assumes center stage. Knowledge is juxtaposed to perception
+- art makes clear that something is getting lost in the automatization of our perception
+- Modernism was a critique of the Enlightenment
+- Modernism is a result of the transcendental homelessness: The assumption that there is something transcendental that could create a consensus re what our reality is and what it looks like is gone
+- Everything after Romanticism (Naturalism, Realism, Modernism) are instances of the subjectivation of truth: the act of perception becomes the main truth
+- For Modernism, the role of art is not that of mimesis, but to make the act of perception difficult
+- Because there is no more transcendent truth, the focus is on subjective perception (not objective knowledge)
+- William Carlos Williams
+  - the poem "Between Walls" captures the difficulty of perception as its stumbling lines capture the "slowing down" 
+  - the object is not important, the piece of glass could be anything else. What is important is the act of perception. The object itself is trivial.
+  - Art as a sum of beautiful objects becomes questionable
+  - Defamiliarization can also work for ideological purposes, that is, as denaturalization (in Marx's terms)
+    - Shklovsky shows this in his example, Tolstoy's story "Kholstomer", which aims at defamiliarizing us with the concept of private property (one that is in our society natural, normal, true, but in fact, man-made and thus changeable) through the use of a horse's point of view 
+  - Defamiliarization can also be linked to Freud's concept of uncanny
+    - the uncanny is something unfamiliar that still evokes something familiar.  Defamiliarizes us with what is familiar.
+    - This is Shklovsky's definition of the technique art as a whole. And in that very process changing our perception of what seems to be familiar.
+    - That which is individually repressed in Freud turns into society's repressed in Tolstoy.
+  - Poetic language
+    - not made of metaphors for the sake of beauty (classical conception of art)
+     -  the metaphors aim at slowing down the perception. Thus must be a "new" metaphor
+    -  Against Kant: not for contemplation in Kant's sense, as this entails a harmony between reason and imagination.
+    -  For Shklovsky, art should jolt us out of the contemplation and privide a new perspective on things
+    -  The reader is acorded an important role 
+       -  Literature requires the reader's working through its defamiliarized speech
+       -  It's not that poetic language is un-economic, it just follows another economy
+          -  economy of precision is everyday language's economy. Concepts should be precise, they should not leave room for interpretation.
+          -  poetic language follows the economy of connotation
+             -  a metaphor cannot be perceived conceptually, we have to interpret it, it is unprecise. 
+ - Depragmatization
+   - To ensure the new, altered perspective, the work of art (or what it represents) must be depragmatized
+     - it doesn't have a function that points out of itself. It is simply there
+   - the artful object has to be taken out of its original context in order to be perceived differently and on its own      
+    - any object can be perceived as beautiful by putting its function into brackets to highlight its beauty (that is depragmatization)
+    - a work of art does not exist because of its beauty, beauty is what is being created by a depragmatized perspective
+    - for example, an old world map is not being used to guide your way, as it was originally created to do. Instead we depragmatize it and foreground its beauty
+  ## The Linguistic Turn: Ferdinand de Saussure
+- Linguist teaching in Geneva, who revolutionized how we conceive language
+- The distinction between a poetic and a scientific language is an artificial one, like all language is structurally and inherently metaphoric (Nietzsche's influence can be here heard)... or is it?
+- Saussure makes a distinction between  
+  - language (the social and the essential)  
+  - speaking (the individual and contingent)
+  - this opposition between language and speaking is thus hierarchic
+    - the structure is essential and trans-historical (what he wants to focus on) and the individual act is accidental (he will disregard this)
+    - but without these events there would not be any structure, because the structure can only be distilled from those individual events
+- In trying to distill the structure of language Saussure also distinguishes between:
+  - the diachronic events: the single events of utterance, in time and subject to change
+  - the synchronic structure: it is out of time, without it the events would not make sense
+    - however the structure is invisible, it can only manifest itself through the events
+    - but Saussure states that we do not learn about the synchronic states by studying diachronic events
+      - but this is not true, it is only through the event that any structure could be made visible
+    - This is similar to Kant's conception of reason: it is not within history, it is not subject to change
+      - structure is also not within history, and is therefore open to rational analysis, as it also stays the same
+      - For Kant, the equivalent to the event is "the anthropological", which in contrast to reason can be discarded
+- The sign:
+  - each linguistic term derives its value from its opposition to all the other surroundings
+    - this is an innovative approach, because he disconnects the sign from its referent and reduces its to its main components 
+    - there is no necessity to call a 'tree' a 'tree'. There is no inherent connection between the signifier and the signified. 
+    - the referent (the object that the sign -the combination of signifier and signified-) is left out of the picture
+  - the sign is made up of 
+    - the signifier (the 'material', acoustic or written part of it)
+    - the signified (the mental idea or concept connected to, evoked by, the signifier)
+    - there is no logical or necessary relation between these two components (nor between the signifier and the referent -however the referent is left out for Saussure-)
+      - this is made clear when we notice that a signified can be be manifested with very different signifiers depending on the language
+      - thus the signifier only works because it distinguishes itself from other signifiers, not because of its connection to the signified. That is the only way in which language can work 
+    - language is then a purely arbitrary -and not necessary- system of negative differentials
+    - this shows that language is a very unstable structure
+    - we can never capture a concept with a signifier that has no logical (no positive) connection to it
+    - what holds true for the signifier also holds true for the signified. The concepts only work because there are other concepts that they differ from. This makes the system even more unstable
+    - because signifiers are connected to everything that they are not, they become potentially metaphoric, because figurative language evokes what it does not immediately signify
+    - It is also inherently metonymic: all the other signs are contingent upon the sign that we use and only the coexistence on the linguistic space is what creates the sign as such
+- What implications does Saussure's theory have?
+  -  Because we access and express the world using a system that is radically negative and only differential, then all perception and language itself is highly volatile and unstable
+  - meanings are never present, they are created through a differential mechanism
+  - no truth can ever be "present", it can only be made present by language, which in turn cannot make it present. All truth is deferred and deducted from something prior to it.
+    - we can only refer to truth with a language that in itself can never hold any truth because it is purely negative differential
+    - we can never represent the world or the truth, re-presence has never been possible
+  - Saussure was not really aware of these ramifications, Derrida was the one who pointed them out
+- Written and oral language
+  - the slipping of the signifier and signified (différance) applies to both written and oral language
+    - not because in oral language the speaker is present, does that mean that there is presence in language. 
+    - binary oppositions will become central to structuralism, and to its critique, in the form of post-structuralism, later. Post-structuralism will ask whether thinking in binary oppositions is an anthropological concept or a form of (phal)logocentric thinking
+      - opposition: Saussure says that a signifier stands in opposition to all other signifiers, but why does he call this relationship opposition? It may be different from the others, but not necessarily opposed to them
