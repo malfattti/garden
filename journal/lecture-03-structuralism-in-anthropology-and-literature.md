@@ -1,0 +1,118 @@
+# Lecture 03: Structuralism in Anthropology and Literature
+## Lévi-Strauss
+- Structure and event
+  - Saussure's analysis of language can be applied to other fields where the events obstruct the view of what is behind them
+  - Lévi-Strauss has the same problem in his study of myths, because so far the approaches had been rather chaotic, "impressionistic"
+    - these myths don't seem to make sense, but somehow they must mean something. The pure narrative however dos not give this away
+    - They could be thus discarded as the occurrences of primitive people, but he wants to find a logic to them
+    - he will argue that myth follows its own ana-logic
+  - On the contrary, he wants to elevate the study of myths to a scientific status
+  - he raises the question: why explain the world through complicated stories when there are empirical explanations that they are acquainted with as well?
+  -  further, why should there be so much variety if ultimately the reflect feelings common to the whole of mankind
+  - They express something fundamental in a different way than science 
+  - An approach that goes beyond the content and beyond all the varieties (what is contingent) and explains the structure is called for. 
+    - the content of myth does not give it away
+    - This approach could explain the fact that myths are so similar in spite of their contingent content
+      - similarities are according to him the structure of mythology
+    - there must be something that unites them
+- Mythic time
+  - Time aspect: muths always refer to events that took place long ago but that are timeless. They explain the past, present and future. So, myth combines langue (the ahistorical) and parole (the historical and contingent) and creates a third element that combines the property of the two
+    - Mythic time is not linear, it is circular and repetitive, and explains historical events through a ahistorical structure
+    - a narrative is always linear, but the events do not follow linear time but rather a circular time. This is why they can refer to the present, and they may explain the present and the future through the perspective of the past (similar to rituals)
+    - myth then combines the two: event and structure, but the event is not structuralism's focus
+    - If we go beyond the event and focus on the structure we may also explain the similarities between myths of different communities
+- Myth, Poetry and Linguistics
+  - Myth can be translated, while poetry cannot (that which it expresses is translated into every single event of storytelling in every ethnic community)
+  - Myth can be analyzed like any other linguistic object, made up of constitutent units (mythemes)
+    -  but these are  more complex than the elements of language
+ - Diachrony and Synchrony
+   - Myth has both the synchronic (structure, reversible) and diachronic (event, non-reversible)
+   - comparison to music: the melody is the diachronic line and the synchronic elements would be the harmony
+   - Myths should be read along the synchronic line (we should discard the event)
+ - The chart    
+   - The numbers are different concurrent units (events, themes, blocks of meaning) which help us analyze the structure of the story
+     - organize them into binary oppositions
+   - The narrative itself has to be discarded.
+     - there is a price to pay for this
+ - The Oedipus Myth:
+   - The narrative flow goes down the chart
+   - the columns organize the recurring themselves
+   - these columns help us notice what the myths means structurally: different categories of recurring themselves
+     - overrating and underrating of blood relations (one binary opposition)
+     - autochthonous and non autochthonous origin of men
+   - and these columns speak to each other
+ - Solving unsolvable contradictions
+   - on the one hand there is a belief in the autochthonous (man born from one)
+   - on the other hand, the knowledge that man is born out of two
+   - this contradiction cannot be solved, both coexist side by side, they cannot be subjected to an either/or logic
+   - the opposition stays intact in the myth: this is the difference between myth and science
+   - the problem cannot be solved, but the myth offers a tool that relates both the belief and the knowledge
+   - the contradiction is not solved, but made weaker, bearable for people
+   - Universality and cosmology: cosmology is able to uphold contradictions: works according to a both/and logic. This is why it can cover the entire cosmos. Universality is always based on one principle (reason is the only universal thing). There are things that are not universal, and thus are excluded
+  
+- The trickster figure
+  - in almost all of Native American Mythology there is the coyote or the raven as a kind of original creator figure
+  - why?
+    - it functions as a mediator between two opposing terms in a myth
+    - in this particular case, they are both carnivorous and do not kill what they eat
+    - this explains the existence of both herbivores and carnivores in the world
+    - they are thus embodiments of this contradictory structure
+    - they mediate, but do not solve the problem between these binary oppositions
+- Binary Oppositions
+  - in our daily experience, we find that we cannot always decide between two things
+  - myth is a way to deal with them, as science, with syllogistic reason, cannot. Therefore, the idea that science would be a more efficient way to explain the things that myths explain, is overthrown
+  - Love, death, revenge: fields of human experience in which science does not provide a satisfactory explanation
+  - myth is more effective in that can hold the contradictions these experiences entail
+  - In myths, Gods can have contradictory attributes, both in their qualities and in their behavior
+  - the unsolvable riddle that a single persona cannot be all good or all bad
+    - this differs from monotheistic religions, in which God sums up all the good qualities and another figure all the bad aspects
+- Levi-Strauss other work:
+- In Mythologica he argues that many myths boil down to one of the most basic binary oppositions: that one between nature and culture 
+- The incest taboo combines both nature and culture:
+  - it bridges both grounds because:
+    -  it is a rule that is both naturally beneficial (because incest is genetically questionable) and sanctioned culturally
+    -  thus, something that covers both fields
+   - Levis Strauss says that the myth has the logic of a bricoleur: a person who takes what is at hand and is interested in that things work, not why. What counts is the end result.
+   - science has the logic of the ingenieur, who wonders why things work
+     - it could be said that the ingenieur is the structuralist, who want to get behind the events
+   - does the ingenieur exist? or is the ingenieur only another myth of the bricoleur
+ - Rehabilitating Myth  
+   - Myth is always one generation away from disappearing but they can adapt to the circumstances .
+   - the narrator has a central role in this transmission
+   - the idea of originality belongs to written literature, myth has no original version. The storyteller is expected to create the stories anew and adapt them to the circumstances
+ ## Roman Jakobson
+ - He wants to find out how structuralism can be applied to the study of literature
+   - He tried to bridge the fields of linguistics and poetics
+   - His criticism was therefore also more
+analytic than literary
+  - He followed the question of how poetry works (poetic function)
+  - Poetic language:
+    - there is no categorical distinction between poetic, prose or everyday language
+    - rather, gradual differences
+    - the poetic function of language is present in every act of communication, but is more prominent in poetry proper
+      - poetry points to its being poetry and we hace a certain attitude when we approach it
+  - The functions of language
+    - Each act of communication entails different functions, but they are hierarchically ordered depending on the situation
+  - Poetics
+    - the poetic function is characterized by:
+      - the focus on the message for its own sake. It is self-referential and signals its own status as poetic
+      - the projection of “the principle of equivalence from the axis of selection into the axis of combination”
+  - Selection and combination
+    - Language is characterized by two principles:
+      - a word can be replaced by another (similarity metaphor)
+      - words can be combined with each other (contiguity, metonymy)
+    - in everyday language, speakers select one of the terms they perceive as equivalent. In poetic language, terms perceived as equivalent are combined
+      - in prose, the metonymic flow is emphasized. In poetry, the metaphoric axis (simultaneous coexistence of various significations - a metaphor stands for something else) takes over
+    - poetic communication maximizes redundancy and everyday language minimizes it
+    - different economies: everyday language: dennotative, precise / poetic language: connotative 
+- Dichotomies
+  - Jakobson makes far reaching claims about the dichotomy between metaphor and metonymy
+    - he says that this dichotomy can be applied to all human behavior
+  - are these structures there or are we projecting them?
+  - what we can affirm is that the two poles in this dichotomy are, just as it occurs with many other dichotomies, not equivalent
+  -in this case, metonymy has been left aside as metaphor has been much more prominent and focused on  
+     -  this is strange, as metonymy belongs to everyday language, then why would it easily defy interpretation" as Jakobson states, when it is connected to the flow of language. We would expect for metaphor to defy interpretation
+     -  metonymy is also a trope, so it seems to belong to both axis at the same time. 
+        -  they are not in pure opposition to each other
+
+ 
