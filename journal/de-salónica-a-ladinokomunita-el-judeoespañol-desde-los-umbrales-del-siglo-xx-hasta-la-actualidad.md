@@ -76,10 +76,49 @@
   - inicialmente el proceso de apertura hacia el occidente y la reforma de la enseñanza habían contribuido al boom de la producción escrita del ladino y a su elaboración lingüística y discursiva
   - esta apertura también generó un impulso por parte de los judíos franceses de "civilizar"a sus correligionarios sefardíes (colonialismo cultural).
   - esto contribuyó a la falta de prestigio del judeoespañol entre los sefardíes --> afrancesamiento: adoptan el punto de vista francés sobre su propia lengua, que tildan de jargon, y consideran más fino hablar francés (primero clases acomodadas y después tb las clases bajas)
-  - los sefardíes también entraron en contacto con las ideologías que los occidentales sostenían sobre su lengua: que era una lengua anticuada, que 
-  -  
-- se generalizan el bi- y  multilingüisimo
-- el judeoespañol se relega a lo privado
-- se rompe la unidad lingüística
+  - los sefardíes también entraron en contacto con las ideologías que los occidentales sostenían sobre su lengua: que era una lengua anticuada, que era un español "raro". esto contribuyó a perjudicar la autoestima lingüística de una parte de los sefardíes que creen que tu lengua ya no tiene futuro. otros sefardíes creen que antes de hablar un "mal" español es mejor hablar un buen francés. El judeoespañol queda relegado al ámbito de lo familiar y es considerada subestándar.
+  - los sefardíes también entran en contacto con los askenazíes, grupo mayoritario del judaísmo. Se difunden la literatura y prensa askenazíes, traducidas al judeoespañol o en hebreo o alemán en algunos países. Muchos judíos sefardíes van a formarse a centros askenazíes, sobre todo en Viena. También entran en contacto con judíos que inmigran de países de Europa centro-oriental que no se asimilan lingüísticamente y que sostienen la ideología sionista (uso del hebreo como lengua nacional judía y propulsan la emigración a Palestina). Entonces el ladino deja de ser la lengua y seña de identidad judía por excelencia.
+ 
+- se generalizan el bi- y  multilingüismo
+  - proceso con dos facetas: 
+    - la occidentalización: adopción de una lengua occidental (francés, italiano, alemán) como lengua de cultura--> retroceso del sefardí al ámbito familiar/ clases no instruidas
+    - la aculturación: la independencia de los países del OImperio otomano da lugar a grandes cambios sociales, culturales y lingüísticos. de ser uno de muchos grupos étnicos de un imperio, los judíos sefardíes pasan a ser un grupo minoritario en un estado nación que tiene como uno de sus rasgos identitarios más importantes una lengua común. Como ciudadanos de este estado los sefardíes deben integrarse a la vida de la nación inclusive en lo educativo y lingüístico. Paralelamente el ladino desaparecen del ámbito público: de los ámbitos oficiales pero después también de los comerciales y sociales. Es decir que el judeoespañol pasa a usarse solo en el ámbito privado y oral, lo que implica un empobrecimiento de la lengua
+  - estos procesos ocurren en diferentes momentos de acuerdo con la zona geográfica: en los estados Balcánicos desde finales del s. XIX, en Turquía sigue el proceso de afrancesamiento hasta que en los años veinte con las reformas de Atatürk se inicia la imposición del turco como lengua nacional (el ladino y el francés quedan relegados a lo privado), en Salónica hay políticas de helenización pero el judeoespañol sigue siendo importante en los aspectos administrativos de las comunidades y en la vida social y comercial hasta los años 30. 
+- el judeoespañol se relega a lo privado:
+  - deja de ser la lengua principal, y eventualmente deja de ser la primera lengua porque la integración lingüística es impulsada no solo por el estado sino por los padres, ya que las lenguas nacionales y/o las occidentales se consideran más útiles que el ladino
+  - Bulgaria es uno de los países en los que esto ocurre más rápido
+- se rompe la unidad lingüística:
+  - en todos los niveles de la lengua (no solo, como hasta ahora, en los niveles fónico y léxico) se notan cada vez más evoluciones más divergentes.
+  - Esto se da por influjo de las lenguas nacionales y por el declive de la literatura y la prensa, el declive del uso del judeoespañol en lo escrito y la consecuencia de las nuevas fronteras políticas en la comunicación entre las comunidades
+  - Consecuencias: 
+    - desaparición de la escritura común. Hasta el primer cuatro del s. XX el alefato era la escritura normal del ladino, pero a medida que los jóvenes adquieren el alfabeto de la lengua nacional, menos son quienes dominan la escritura hebrea y la ortografía judeoespañola.
+      - el judeoespañol se lee y escribe menos
+      - caos gráfico y ortográfico al ya no utilizarse la escritura aljamiada única. cada uno lo escribe como puede y de acuerdo al alfabeto y ortografía de su país de residencia o de una lengua occidental que conoce (o mezclando).
+      - los jóvenes ya no tiene acceso a la escritura de sus antepasados
 - también, claro, la comunidad de hablantes desaparece a causa de la emigración masiva y del holocausto
-### 
+  - los judíos emigran por la situación económica, presiones sociales y discriminación de la mayoría nacional en muchos países, guerras, epidemias y otras desgracias. Olas de emigración posteriores por el antisemitismo y crisis económica del período de entreguerras.
+  - Descenso poblacional: de una mayoría en ciudades multiétnicas como Salónica la comunidad sefardí pasa a ser una minoría en ciudades que adhieren a la identidad del estado nación
+  - el holocausto extermina gran parte de la comunidad sefardí restante, especialmente en Grecia
+  - la creación del Estado israelí en 1948 motivó una emigración masiva de los países que aún después de la 2da guerra mundial contaban con una población sefardí cuantitativamente importante
+### El judeoespañol en la segunda mitad del s. XX
+- Turquía: Estambul alberga hoy a la única comunidad sefardí numéricamente importante que se mantiene en zonas tradicionales de residencia.
+  - esta comunidad es al menos trilingüe: turco-francés-judeoespañol (tradicionalmente), hoy el inglés sustituye al francés
+  - influjo del turco en el judeoespañol--> continuum: turco-judeoespañol latino-turco y francés propia de los judíos de Turquía-judeoespañol más influenciado por francés o turco
+  - cambio de actitud hacia la lengua: revalorización del ladino que de insuficiente y pobre pasa a ser chic para la burguesía judía de Estambul y entre los jóvenes (lengua secreta, para anécdotas, lengua vehicular para aprender otras lenguas romances)
+- Estados Unidos e Israel:
+  - tanto en uno como otra país hay presión por asimilación y adopción de lengua y estilo de vida nacionales
+  - por estas razones muchos padres no transmiten la lengua
+  - los sefardíes también se ven en contacto con una población judía mayoritariamente sefardí. Por los matrimonios mixtos entre sefardíes y asquenazíes también se pierde el ladino como lengua de comunicación
+
+### Situación actual
+- el judeoespañol se encuentra en agonía como lengua viva desde al menos 30 años:
+  - retroceso en el número de hablantes de generación en generación en los últimos 50+ años
+  - restricción de uso en lo cuantitativo y cualitativo
+  - es imposible saber cuántos hablantes hay y cómo determinar quiénes son capaces de hablarlo versus cuántos dicen hablarlo y cuántos verdaderamente utilizan la lengua
+- sin embargo también hay un renacimiento del judeoespañol como objeto de estudio y un interés creciente por la cultura sefardí
+ - esfuerzos recientes por salvar la lengua:
+   - creación en Israel de la Autoridad Nasionala del Ladino i su Kultura (1997), institución estatal para la defensa y difusión del judeoespañol. Actividades para preservar y divulgar la lengua, promoción de la enseñanza en universidades israelíes, publicación de libros en judeoespañol (sin embargo, solo géneros como cuento poesía o recetas), etc
+     - otros medios de comunicación que difunden información en judeoespañol sólo lo hacen, también, en el caso de géneros limitados, la información "seria"se trata en otra lengua. Una excepción es el periódico *El Amanescer* de Estambul que se publica enteramente en judeoespañol
+ - nuevas redes de hablantes no localizadas geográficamente, ya que hay muy pocas comunidades de hablantes en el sentido tradicional:   
+   - internet tiene un papel central en el renacer del judeoespañol
+   - intercambio de información, publicación de revistas en judeoespañol, comunicaciones en ladino en comunidades virtuales como Ladinokomunitá
