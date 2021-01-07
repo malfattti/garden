@@ -1,2 +1,52 @@
-# La Forma Externa. La Fuerza Coercitiva De La Estrofa
+# La forma externa. La fuerza coercitiva de la estrofa
+Rosa Navarro Durán
 
+- La forma del poema tiene exigencias y connotaciones. 
+- La elección de la forma y el asunto del poema coinciden en los poemas visuales (como los *Calligrammes* de Apollinaire), pero lo hacen también de formas más sutiles. 
+- En la poesía contemporánea los límites suelen surgir del blanco, anteriormente las formas estróficas los facilitaban. 
+- el lector debe conocer las normas de construcción del poema porque estas ofrecen repertorios.
+- los moldes estróficos condicionan la materia del verso y cuantas mayores exigencias tengan mayor será el artificio requerido para cumplirlas y menor el espacio para la originalidad.
+- Jaime Gil de Biedma comenta que las exigencias de la forma poética pueden justificar deficiencias del poeta.
+- Lázaro Carreter afirma que una vez elegida la forma es inevitable que influya los materiales que se someten a ella
+- Lope de Vega en unos versos del *Arte nuevo de hacer comedias en este tiempo* dice que las décimas son para quejas, el soneto para lxs que aguardan, los romances para relatos y sobre todo octavas, los tercetos para cosas graves y las redondillas para la temática amorosa.
+- las normas también son esenciales para su transgresión, que solamente puede identificarse conociendo las características de una forma determinada
+- Un mismo tema puede tener una interpretación muy diferente de acuerdo a la forma que se elija para tratarlo (por ejemplo, ludismo o intenso sentimentalismo en dos poemas de Cetina sobre la mirada de la amada)
+## Formas poéticas:
+- Ovejillo: 
+  - 10 versos: 6+4
+  - primera parte (6): tres pareados de pie quebrado
+    - tres octosílabos con una interrogación
+     - seguidos cada uno de ellos por un tetrasílabo con la respuesta, que repite la rima del verso correspondiente
+  - segunda parte: una redondilla, el último verso repite las tres palabras del pie quebrado (en los tetrasílabos). Aquí se produce una recolección.
+ - Sextina: forma poética de seis estrofas
+    - las seis palabras finales aparecen en las seis estrofas de seis maneras distintas y repetidas de dos en dos en los versos de un terceto final
+  - Estrofa de arte mayor:
+    - doce sílabas divididas en hemistiquios de seis sílabas que acentúan sus sílabas segunda y quinta.
+    - suele utilizarse la octava compuesta de dos cuartetos trabados por la rima ABBA: ACCA
+  - Décimas:
+    - Calderón las usa para quejas, tanto existenciales como amorosas, de Segismundo en *La vida es sueño*.
+    - Diez versos octosílabos con rima consonante (abbaaccddc)
+  - Soneto
+    - Estructura cerrada
+    - es la estrofa culta esencial de la lírica española
+    - balance entre restricción y libertad
+    - catorce versos divididos en dos partes:
+      - dos cuartetos con rima fija
+      - dos tercetos con rima variable 
+      - ABBA ABBA CDE CDE (con variación en los tercetos)
+    - Garcilaso de la Vega es un gran exponente de la incorporación del soneto a la lírica española
+- Romance
+  - origen: la octava real, métrica perteneciente a la epopeya culta. Por eso los romances son buenos para narrar
+  - se trata de una estructura abierta con una serie indefinida de octosílabos con rima en los pares
+    - según la época la rima va a ser asonante (en los romances viejos y la época de esplendor, el s. XVI) o consonante (a fines del s. XV)
+  - las cuartetas serían la unidad básica del romance
+- Octava real:
+  - relatos mitológicos son la materia, narrados como fábula 
+  - Garcilaso la usa en su tercera égloga
+  - no está subdividida en unidades como el soneto
+  - endecasílabos con rima consonante (ABABABCC)
+- Tercetos encadenados
+  - fueron las formas versificatorias de epístolas y elegías
+  - endecasílabos con rima consonante ABA BCB CDC …. XYX YZYZ 
+- Redondillas
+  - octosílabos con rima consonante abba

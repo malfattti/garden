@@ -5,7 +5,7 @@
 - Hoy por hoy, pocos rastros quedan de estos judíos tanto en Salónica como en el resto de las tierras que componían el Imperio Otomano.
 
 ## 1. ¿Por qué esta lengua se mantuvo durante cuatro siglos alrededor del Mediterráneo Oriental?
-- No es debido a la tenacidad de un pueblo ni a su fidelidad por la España que los impulsó
+- No es debido a la tenacidad de un pueblo ni a su fidelidad por la España que los expulsó
 - Por el contrario la autora postula que se debe a las circunstancias en las que se encontraba el Imperio otomano, que no daba ningún motivo para sustituir el ladino por otra lengua (con la que tampoco contaban).
   ### Organización del Imperio Otomano
 - La diversidad de los pueblos comprendidos por el Imperio Otomano pudo mantenerse gracias a las políticas liberales del mismo, no basadas en un deseo de tolerancia sino más bien en razones pragmáticas y en la indiferencia.
