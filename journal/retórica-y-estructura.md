@@ -1,31 +1,24 @@
 # Recursos poéticos
 Los recursos poéticos, también llamados figuras literarias o figuras retóricas, son formas no convencionales de usar las palabras que les dan expresividad, vivacidad y belleza con el objetivo de sorprender, emocionar, sugerir y/o persuadir. 
+
 - **Aliteración**:
-  - subrayado esporádico del sonido en versos de un poema. 
-   - empleo de palabras con los mismos sonidos, que produce un efecto acústico normalmente en relación con el sentido de la frase
-    - este subrayado puede convertirse en la clave del texto como pasa en el poema de Góngora **De una dama que, quitándose con una sortija, se picó con un alfiler*, donde la abundancia de *íes* denotan el pinchazo del alfiler 
+  
+  - subrayado esporádico del sonido en versos de un poema.
+  - empleo de palabras con los mismos sonidos, que produce un efecto acústico normalmente en relación con el sentido de la frase
+  - este subrayado puede convertirse en la clave del texto como pasa en el poema de Góngora *De una dama que, quitándose con una sortija, se picó con un alfiler*, donde la abundancia de *íes* denotan el pinchazo del alfiler 
 - **Anáfora**: 
      - Es la repetición de una palabra (o de varias palabras) al comienzo de los versos o enunciados. 
      - Es un recurso estructural y fónico
      - da unidad al poema y marca los límites del mismo
      - Por ejemplo, Luis Cernuda usa este recurso en su poema "Donde habite el olvido", en el que repite la palabra *donde* al comienzo de las estrofas periféricas del poema y en el centro de las estrofas centrales, y el verso final del poema también comienza con esta palabra. En este poema se juega con la ausencia o presencia de la anáfora, que va intensificando su efecto.
- - **Paranomasia**
-   - Semejanza fonética entre dos vocablos muy parecidos pero que tienen significado distinto: 
-   
-   “Alángeles y arcángeles se juntan
-   contra el hombre.
-   Y el hambre hace su presa, los
-   túmulos su agosto”
-(Blas de Otero, s. XX)
+ -  **Paranomasia**
+    -  Semejanza fonética entre dos vocablos muy parecidos pero que tienen significado distinto: “**Alángeles** y **arcángeles** se juntan contra el **hombre**. Y el **hambre** hace su presa, los túmulos su agosto” (Blas de Otero, s. XX)
 
 - **Políptoton**
-    - Repetición de una misma palabra en diferentes funciones o con diferentes morfemas
+  - Repetición de una misma palabra en diferentes funciones o con diferentes morfemas
 - **Hipérbole**
-  - exageración poética:
-  
-“Érase un hombre a una nariz pegado,
-érase una nariz superlativa…”
- - **Metáfora**
+  - exageración poética: “Érase un hombre a una nariz pegado, érase una nariz superlativa…”
+- **Metáfora**
     - referencia a un componente que no se menciona mediante otro término
      - Comparación. Figura retórica por
 medio de la cual una realidad o
