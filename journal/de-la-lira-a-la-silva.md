@@ -1,64 +1,71 @@
 # De la lira a la silva
 Jaime Siles
 
-- La lengua poética castellana alcanza su madurez durante los ss. XVI y XVII
-  - se consolida la estructura que la define y acompaña
+- La lengua poética castellana alcanza su **madurez** durante los **ss. XVI y XVII**
+   - se consolida la estructura que la define y acompaña
+   -  - **Formas poéticas latinas en vulgar**
   - Se produce un cambio profundo y radical con la introducción de:
-    - el endecasílado importado de Italia
-    - el soneto como nueva forma del epigrama
-    - la elegía (próxima tanto a la sátira como a la epístola)
-    - oda cancioneril y la égloga (continuadora del idilio)
+    - el endecasílado importado de **Italia**
+    - el **soneto como nueva forma del epigrama**
+    - Formas y géneros que vienen de la antigüedad clásica:
+      - la **elegía** (próxima tanto a la sátira como a la **epístola**)
+      - oda cancioneril y la **égloga** (continuadora del **idilio**)
     - laberinto de la silva
     - el locus amoenus de la fábula
   - como consecuencia de estos cambios sus formas y temas se amplian
-  - de las estructuras medievales quedan las posibilidades de la canción y el fluido rítmico-verbal del romance
+  - de las **estructuras medievale**s quedan las posibilidades de la **canción** y el fluido rítmico-verbal del **romance** + **decir**
 - El cambio se inicia en 1526 cuando Boscán es desafiado por el embajador de Venecia Andrea Navagero a probar las formas italianizantes
-  - Garcilaso es el punto más alto de esta empresa, pero no el único poeta en intentarlo: Fray Luis de León, Aldana, Herrera, San Juan de La Cruz.
-- A las formas italianizantes se les suman los tópicos relacionados con el neoplatonismo, lectura en clave renacentista de los autores clásicos y la asunción de una nueva teoría poética
-- La tradición española estaba basada en el *Cancionero general*. 
+  - Garcilaso es el punto más alto de esta empresa, pero no el único poeta en intentarlo: **Fray Luis de León, Aldana, Herrera, San Juan de La Cruz**.
+- A las formas italianizantes se les suman los tópicos relacionados con el **neoplatonismo** (**filosofía platónica cristianizada**, amor neoplatónico: sin contacto físico), lectura en clave renacentista de los autores clásicos y la asunción de una nueva teoría poética
+- La tradición española estaba basada en el ***Cancionero general***. 
   - La unión entre este *Cancionero* y el gusto italianizante da lugar a la poesía del barroco --> conceptismo
   - en este momento se revaloriza la poesía del s. XV, el romance y la canción
+  - **Juan de Mena y Manrique**
   - más tarde en la generación del 27 los poetas revalorizan la canción 
-- ¿Cómo separar lo culto de lo popular? y ¿cómo distinguir renacimiento, manierismo y barroco?
-  - hay temas y formas comunes a todos esos movimientos
+- ¿Cómo separar **lo culto de lo popular**? y ¿cómo distinguir **renacimiento, manierismo y barroco**?
+  - hay **temas y formas comunes** a todos esos movimientos
   - hay autores que se mueven entre las tradiciones
   - en la poesía siempre se expresa el presente cargado de pasado y de futuro, en la poesía todo se transforma, nada se pierde del todo.
+  - **La poesía del siglo de Oro no es una sino varias**: la de los tres movimientos, **renacimiento, manierismo, barroco**
   - La sociedad de esta época también es una sociedad cambiante: 
-    - el decaimiento del programa renacentista después de guerras, bancarrota y calamidad hace que entre en crisis la fe en la razón y la inteligencia
-    - nostalgia por el orden medieval, sus ideas y creencias
+    - **decadencia del programa renacentista** después de **guerras, bancarrota y calamidad** hace que entre en crisis la fe en la razón y la inteligencia
+    - **nostalgia por el orden medieval**, sus ideas y creencias
       - resurgimiento de las formas de vida religiosa
-      - trascendencia por sobre la inmanencia renacentista
-      - el neoestoicisimo articula el desengaño
+        - **Concilio de Trento**: **reestructuración de la vida religiosa**, disciplinar la herejía de la Reforma. **El barroco es el arte de la contrarreforma**
+        - **Dios es el centro de la realidad**
+      - **trascendencia** por sobre la **inmanencia** renacentista
+      - el **neoestoicisimo** articula el **desengaño y desprecio por el mundo**
       - las creencias sustituyen a las ideas cuando estas hacen agua
-    - por esto se unen los topoi:
+    - por esto **cambian los ***topoi*** del Renacimiento al Barroco**. Conviven los siguientes topoi:
       - desprecio por el mundo (de trasfondo religioso)
       - *carpe diem* y *collige, virgo, rosas*, que venían de la tradición clásica y que no tenían el sentido trascendente que toman en el barroco, cuando funcionan como una especie de propaganda religiosa
-    - en la poesía se supera el vitalismo renacentista y se manifiesta en cambio una vivencia agónica y una creencia en el más allá (inmanencia/trascendencia)
+    - en la poesía se supera el vitalismo renacentista y se manifiesta en cambio una vivencia agónica y una **creencia en el más allá, vida después de la muerte** (inmanencia/trascendencia)
     - el arte barroco se diferencia del renacentista en que:
-      - reaviva los tópicos de la imaginería medieval
+      - reaviva los tópicos de la **imaginería medieval**
       - desprecia los virtuosismos del lenguaje manierista
       - lo sensorial reemplaza a lo conceptual
-      - concepción escénica del espacio, del tiempo y del yo
+      - concepción escénica del **espacio, del tiempo** y del yo
       - es más importante el sistema de representación que las cosas que se representan
-     - poesía renacentista frente a poesía barroca:    
-        - el mundo es un enigma y el lenguaje su solución
-        - Renacimiento: garcilasismo y petrarquismo. la función es más importante que la forma
+     - poesía renacentista frente a poesía manierista y barroca:    
+     - - Renacimiento: **garcilasismo y petrarquismo** (**=lírica italianizante**). La función es más importante que la forma. **Formas cerradas y fijas**. ***Imitatio y elocutio.*** **Se lee a Ovidio, Horacio y Virgilio**
         - manierismo:  a partir de 1656. el humanismo fracasa y el lenguaje es el protagonista principal. la función es menos importante que la forma. La forma se autonomiza. y esto genera un proceso de atomización, se fragmenta el objeto, sujeto y mundo. geométricas correlaciones
         - barroco: 
-          - gongorismo. 
-          - Poetas que conocen el endecasílabo y a la vez no dudan en usar el romance, la seguidilla, el villancico y la canción. Lo culto y lo popular se combinan, creando una impresión de mundo unido y compacto en el que Dios es el centro.
-          - aspiración a la unidad de lo que se había fragmentado en el renacimiento y manierismo. 
+          - **gongorismo**. 
+          - Poetas que conocen formas líricas como el **endecasílabo** y a la vez no dudan en usar el **romance, la seguidilla, el villancico y la canción** (estas formas se reajustan y reviven). Lo culto y lo popular se combinan, creando una impresión de mundo unido y compacto en el que Dios es el centro.
+          - aspiración a la unidad de lo que se había fragmentado en el renacimiento y manierismo: **diseminación y recolección (algo que se dice en el poema se resume al final)**. 
           - Renuncia a la inteligencia y la reemplaza por la confianza en los sentidos. 
-          - la lira renacentista (estrofa de cinco versos, tres heptasílabos y dos endecasílabos: 7a 11B, 7a, 7b, 11B) da lugar a la silva barroca (versos endecasílabos y heptasílabos de rima consonante libre. Moderna y una forma de transición al verso libre moderno)
-          - toda construcción humana termina en ruinas
+          - la lira renacentista **(aBabB)** (estrofa de cinco versos, tres heptasílabos y dos endecasílabos: 7a 11B, 7a, 7b, 11B) da lugar a la silva barroca (versos endecasílabos y heptasílabos de rima consonante libre. Moderna y una forma de transición al verso libre moderno)
+          - toda construcción humana termina en **ruinas** (poética de las ruinas, Ambrosio de Morales, arqueólogo)
           - el aristotelismo nutre tanto las poéticas como las teorías literarias de la época
-          - formas más abiertas que las del renacimiento y las manieristas
-          - Se recrea el romance: nuevas posibilidades estéticas, se potencia no sus características arcaicas sino su potencial moderno: lo irónico, lo satírico-burlesco
-          - de lo monocorde a lo coral
-          - la variedad se impone como criterio estético
-          - todo se convierte en potencial objeto de un poema
+          - **formas más abiertas** que las del renacimiento y las manieristas (se recupera el romance, por ejemplo)
+          - Se recrea el romance: nuevas posibilidades estéticas, se potencia no sus características arcaicas sino su potencial moderno: **lo irónico, lo satírico-burlesco**
+          - de lo monocorde renacentista a lo **coral, polifónico**
+          - **la variedad se impone como criterio estético**
+          - **todo** se convierte en **potencial objeto de un poema**
+          - ***Inventio***
+          - **Se lee a Tibulo, Catulo y Propercio**
           - tratamiento irreverente pero humanizado de las divinidades de la antigüedad
           - sensación de límite o derrota frente a la de triunfo o gozo del renacimiento
-          - nihilismo, desencanto del mundo, desconfianza en el sistema de valores del renacimiento, insuficiendia de la propia realidad 
-          - aspectos muy modernos del barroco que adelantan el romanticismo o el expresionismo alemán: hacia ellos volverán los modernistas como Rubén Darío y los poetas de la generación del 27.
+          - nihilismo, desencanto del mundo, desconfianza en el sistema de valores del renacimiento, insuficiencia de la propia realidad 
+          - aspectos muy modernos del barroco que adelantan el romanticismo o el expresionismo alemán: hacia ellos volverán los modernistas como **Rubén Darío** y los poetas de la **generación del 27**.
   
