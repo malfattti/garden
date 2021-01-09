@@ -82,3 +82,33 @@
 -  Existen procesos de revitalización cultural y lingüística del judeoespañol
 -  sobre todo ocurre en Internet y las redes sociales: foros como Ladinokomunita e iniciativas individuales y colectivas en Youtube y Facebook
 -  La hipótesis de una Sefarad 4 en la que la lengua y cultura Sefardí se desplaza a la Red, las comunidades son virtuales
+
+## Clase 2
+
+** Los glotónimos del judeoespañol
+- Nombres étnicos, o sea, de la propia comunidad:
+  - español (levantino)
+  - españolico
+  - españolit
+  - sefaradi (es como se dice "español" en hebreo)
+  - lingua levantina
+  - ladino:
+    - difundido desde Israel a finales del s. XX
+    - Identifica la lengua como distinta al español
+- Nombres científicos:
+    - primeras denominaciones:
+      - Judenspanisch, judeoespañol, judéo-espagnol, Judeo-Spanish
+      - se divulgan en el s. XX a través de las obras de Max Leopold Wagner
+      - ámbito de estudios hispánicos: español sefardí, sefardí
+      - ámbito de estudios judíos:judezmo (que es análogo a otros glotónimos como yidish, yahudit o yevanic, en oposición a judeo-alemán, judeo-árabe o judeo-griego)
+        - el término judezmo es criticado por Rachel Amado Bortnick, quien dice que es el nombre de la religión y entonces no debería ser el nombre de la lengua. Ella prefiere ladino porque de esa manera todxs saben de qué habla: un español que no es el normativo, y que es la lengua de los judíos del Imperio Otomano y no del norte de África
+## Génesis del judeoespañol
+Después de ser expulsados de la Península Ibérica en el s. XV, los judíos van **perdiendo contacto con la lengua y cultura españolas entre los ss. XVI y XVII**. Para **mediados del s. XVIII** el judeoespañol ya está **constituido como una variedad independiente**. Se forma un sistema lingüístico divergente. Este implica **mantener los rasgos lingüísticos que el español moderno desechó**, como el mantenimiento de la **oposición entre sibilantes sordas y sonoras**.
+También se desarrollaron  **otras tendencias** que, si bien son **inherentes al sistema hispánico**, son **divergentes** con respecto al patrón del **español normativo**. Estas son:
+- Tendencia a la **cerrazón de vocales medias átonas**: : [e] > [i]; [o] > u
+- Tendencia a **prótesis velar inicial**: güevo, güerto, golor (> güele).
+- **Mantenimiento de formas con -d- intervocálica** como **vido**, vide
+- M**antenimiento e incluso desarrollo**, siguiendo este patrón de **formas con a- protética** (**abaǰar**, alimpiar, arogar 'rogar', asubir 'subir', aromper 'romper', etc.)
+- **Formación de palabras inexistentes en español**, pero formadas **mediante afijos hispanos y productivos en español**: **boracheźa 'borrachera'**, aśnedad 'asnada', loquedad 'locura', atrevición 'atrevimiento', etc. 
+
+
