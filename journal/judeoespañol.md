@@ -189,7 +189,7 @@ El Me'am Lo'ez es un comentario del Tanak (conjunto de libros sagrados canónico
 - Se caracteriza por dos tendencias
   - Innovación por procesos simplificadores y analógicos
     - en la morfosintaxis nominal y pronominal:
-      - se regularizan los paradigmas con la extensión genérica <o> para el masculino versus <a> para el femenino, especialmente en los adjetivos: joven/jovena; pero también en el caso de los pronombres: cual/cuala, tal, tala.
+      - se regularizan los paradigmas con la extensión genérica < o > para el masculino versus < a > para el femenino, especialmente en los adjetivos: joven/jovena; pero también en el caso de los pronombres: cual/cuala, tal, tala.
       - Se difunde la bilabialización de n- en la primera persona del plural
       - Se regularizan los pronombres oblicuos (con todas las preposiciones): con mí, con ti, y después de *que* en construcciones comparativas: *más que ti*.
       - Se regularizan y desambiguan las formas de posesivo *su* (un poseedor) versus *sus* (para varios poseedores). Es decir: *su casa* frente a *sus casa*, en el caso último, la casa de ellxs.

@@ -65,12 +65,13 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
   - Se organiza y recopila en cancioneros, por ejemplo: el **Cancionero de Baena* (1445), el *Cancionero de Stúñiga* (1560), el *Cancionero musical de palacio*, etc.
   - Algunas piezas del cancionero pueden cantarse, pero no todas
   - Se sigue transmitiendo en el siglo  XVI (*Cancionero general*).
+  - Gran parte se escribe en octosílabos
 - **La lírica italianizante** 
   - es introducida en 1526 (o así lo declara Boscán)
   - También se usa la denominación de lírica petrarquista. 
   - Comienza con las obras de Boscán (1487-1542) y Garcilaso de la Vega (1503-1536)
   - El verso más característico es el endecasílabo
-  - Se introducen nuevas formas métricas: el soneto, la octava real, los tercetos encadenados, la lira, etc.
+  - Se introducen nuevas formas métricas: el soneto, la octava real, los tercetos encadenado (La divina comedia), la lira, etc.
   - Nuevos temas y nuevos recursos literarios
   - Imita el modelo de Petrarca (1304-1374) (su *Canzionere*) y la poesía italiana de esa época. Sobre todo a nivel métrico/formal.
   - También imita a poetas contemporáneos italianos como Pietro Bembo o Sannazaro
@@ -91,9 +92,77 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
 - Humanismo: el redescubrimiento e imitación de los poetas clásicos
 - Implicados tanto en las letras como en las armas
 - Comunicación poética con otros poetas: se escriben sonetos, epístolas
-- Tienen un mecenas o protector, generalmente noble
+- Tienen un mecenas o protector, generalmente noble (poemas dedicados a ellos, generalmente no los mejores)
 ### Enfrentamiento de escuelas poéticas en el Barroco:
   - Se enfrentan Quevedo y Góngora, cada uno representante de los dos estilos más importantes, el conceptismo y el culteranismo respectivamente
   - Quevedo le escribe a Góngora (poeta mayor que él por unos veinte años) un a sátira reprochándole la dificultad de sus versos
 
-
+## Clase 3
+### Métrica
+- La métrica es la ciencia que estudia la conformación rítmica en un poema
+- Estudia:
+  - el verso: menor que la estrofa y que el poema. Dentro del verso se organizan las unidades rítmicas menores: acentos, rima, pausas
+    - el **acento** y su importancia para la métrica:
+      - está establecido por la lengua misma.
+      - En español casi todas las palabras llevan acento
+      - el acento es tenido en cuenta para calcular las **sílabas métricas**
+        - son las sílabas que tiene un verso
+        - suelen ajustarse a las sílabas gramaticales pero no necesariamente, pueden ser alteradas por:
+          - la posición de los acentos al final del verso
+          - los fenómenos métricos
+        - Tipos de palabras en español de acuerdo con el acento:
+          - agudas: última sílaba
+          - graves o llanas: anteúltima sílaba
+          - esdrújulas: antepenúltima sílaba
+        - Tipos de versos de acuerdo con el acento final:
+          - agudo u oxítono: acentuado en la última sílaba. Al contar las sílabas de un verso, se le suma una más
+          - grave o paroxítono: acentuado en la penúltima sílaba, queda como está
+          - esdrújulo o proparoxítono: acentuado en la antepenúltima sílaba. Se le resta una sílaba
+        - Sinalefa:
+          - es otro fenómeno que debe ser tenido en cuenta al contar las sílabas de un verso
+          - cuando una palabra termina en vocal y la siguiente comienza en vocal, las dos silabas se unen y se cuentan como una sola sílaba métrica
+      - Según el número de sílabas, los versos pueden ser:
+          - de arte menor: como máximo ocho sílabas métricas
+            - son empleados en la lírica popular (romances, letrillas, cuartetas)
+            - se suelen representar con letras minúsculas (abba)
+            - trisílabo, tetrasílabo, pentasílabo, hexasílabo, heptasílabo (7), octosílabo (8)
+          - de arte mayor: más de ocho sílabas 
+            - empleados en la lírica italianizante (sonetos, silvas, tercetos encadenados, octava rima)
+            - Se representan en letras mayúsculas (ABBA)
+            - endecasílabo (11). dodecasílabo (12)
+      - La rima:
+        - es la identidad acústica, total o parcial, entre los fonemas que se encuentran a partir de la última vocal acentuada de los versos
+        - es un fenómeno fónico, no gráfico
+        - Rima según el grado de identidad acústica que haya entre sus componentes:
+          - rima consonante, total o perfecta: hay una identidad acústica de todos los fonemas (vocales y consonantes) a partir de la última vocal acentuada
+          - rima asonante, parcial o imperfecta: hay una identidad acústica de los fonemas vocálicos que se encuentran a partir de la última vocal acentuada
+        - Rima según su disposición:
+          - Rima abrazada: ABBACDDC
+          - Rima encadenada o cruzada: ABA, BCB, CDC
+      - El encabalgamiento:
+        - es un fenómeno métrico en el que la pausa final del verso no coincide con una pausa sintácriticales un desacuerdo entre la métrica y la sintaxis
+  - la estrofa: es mayor que el verso y menor que el poema. Es un grupo organizado de versos dentro de un poema
+    - cuartetos: cuatro versos de arte mayor ABBA (aparece en los sonetos)
+      - variación: el serventesio (ABAB)
+      - se empieza a usar en el s. XVI con la introducción del soneto
+    - la lira (de cinco versos)
+      - es una combinación de dos endecasílabos (los veross segundo y quinto) y tres heptasílabos, con rima aBabB
+      - Viene de Italia y es introducido por Garcilaso en *La flor de Gnido* (Canción V), de cuyo primer verso ("Si de mi baja lira") toma nombre esta estrofa
+      - Los grandes representantes de la lira en la Edad de Oro son Fray Luis de León y San Juan de la Cruz
+    - La sextina:
+      - Hay varias formas
+      - la "copla de pie quebrado"o "Copla de Jorge Manrique" tiene seis versos donde se intercalan octosílabos y tetrasílabos. 
+      - En Manrique, abcabc
+  - el poema: la organización formal del lenguaje a partir de un ritmo específico. En la poesía clásica ese ritmo es simétrico y regular.
+    - poemas estróficos
+      - El soneto:
+        - catorce versos divididos en dos cuartetos y dos tercetos con rima consonante
+          - cuartetos: ABBA ABBA
+          - tercetos (la rima puede variar): CDC DCD; CDC CDC; CDE CDE, etc.
+        - se origina en Italia en el s. XIII (Corte de Sicilia Federico II)
+        - Dante (1265-1321) y Petrarca (1304-1374) desarrollan el coneto en italiano
+        - En castellano el soneto es desarrollado con Juan Boscán y Garcilaso en el s. XVI
+- Distinción entre formas métricas y géneros poéticos
+  - Las formas métricas tienen una métrica establecida: romance, soneto, décima
+  - - Los géneros poéticos tienen contenidos similares y además pueden compartir una estructura métrica: epístola, égloga, poema épico
+    - 
