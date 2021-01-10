@@ -138,14 +138,14 @@
     - la pérdida de la correlación /sordo/ vs. /sonoro/ en las sibilantes (/s/ vs. /z/)
     - la aparición de /θ/ y /x/
   - **Por esta razón el judeoespañol tiene las siguientes características**:
-    - **mantiene las sibilantes /s/ y /z/** (['roza] 'rosa', [a'sentir] 'oir'
-    - **Mantiene las fricativas /ʃ/ y /ʒ/**: ['kaʃa], ['fiʒo]
-    - **Mantiene las africadas** /ʈʃ/ y /dʒ/: ['ʈʃiko], [dʒu'gar]
+    - **mantiene las sibilantes /s/** (sorda) y **/z/** (sonora) (['roza] 'rosa', [a'sentir] 'oir'
+    - **Mantiene las fricativas /ʃ/** (postalveolar sorda) y **/ʒ/** (postalveolar sonora): caja ['kaʃa], fijo (hijo) ['fiʒo] 
+    - **Mantiene las africadas /ʈʃ/** (postalveolar sorda) y **/dʒ/** (postalveolar sonora): chico ['ʈʃiko], jugar [dʒu'gar]
     - **Es seseante** [sir'gwela] 'ciruela'
-    - **No tiene /x/**
-    - **Mantiene las bilabiales /v/ (con pronunciación labiodental) y /b/:** veber 'beber'.
+    - **No tiene /x/** (fricativa velar sorda)
+    - **Mantiene las bilabiales /v/** (con pronunciación labiodental fricativa) **y /b/** (oclusiva bilabial sonora): veber 'beber'.
     - Es **yeísta**
-    - **Mantiene la /h/ en préstamos del hebreo y del árabe** en palabras como ḥupá 'boda' (del hebreo), alḥad 'domingo', ḥarvar 'pegar' (del árabe).
+    - **Mantiene la /h/** (fricativa glotal sorda) **en préstamos del hebreo y del árabe** en palabras como ḥupá 'boda' (del hebreo), alḥad 'domingo', ḥarvar 'pegar' (del árabe).
     - **Mantiene la /tz/ en préstamos del hebreo y del italiano**, como ocurre en : [ma'tza] ('pan ácimo') y en ['politza], respectivamente
     - **Presencia de una sola vibrante, la simple** /ɾ/ ['kaɾo] [aɾe'ir] 'reir
 - **Características fonéticas:**
@@ -159,7 +159,7 @@
       - Epéntesis de un elemento fricativo en el grupo [swe]: esfuegra / esvuegra / esḥuegra 'suegra‘, esfueño / esvueño / esḥueño 'sueño' 
     - **Labialización frecuente de [nwe-] inicial**: muestro 'nuestro', muevo 'nuevo‘
     - **Fricativización sistemática de semivocal [u̯] en posición implosiva**: civdad, devda, cavśa
-    - Tendencia a la **metátesi**s: prove 'pobre‘, presona 'persona‘; especialmente con el nexo -rd-: tadre 'tarde‘, piédrita 'pérdida', godro 'gordo'
+    - Tendencia a la **metátesis**: prove 'pobre‘, presona 'persona‘; especialmente con el nexo -rd-: tadre 'tarde‘, piédrita 'pérdida', godro 'gordo'
     - **Palatalización de [-s] > [-š]**:
       - En posición implosiva ante [k]: mošca, bušcar, pešcado 
       - En posición final tras [i̯]: seš 'seis‘, en la desinecia verbal de la 2a persona plural (esperáš 'esperáis‘, coméš 'coméis‘)
@@ -169,76 +169,76 @@
 
 ## Clase 3
 ### Grafía y sistema de transcripción del judeoespañol
-- Escritura aljamiada: 
-  - es el uso de los alfabetos semíticos para escribir en lenguas romances. 
+- **Escritura aljamiada**: 
+  - es el uso de los **alfabetos semíticos** para escribir en **lenguas romances**. 
   - Historia: 
-    - fue empleada en la época medieval por los sefardíes, no sólo para mantener la caligrafía de sus textos sagrados sino porque era el alfabeto usado en el sistema de educación judía tradicional
-    - después de la expulsión la escritura aljamiada se mantuvo en Oriente y en el norte de África. En los Países Bajos y en Italia los sefardíes escribían e imprimían sus textos usando el alfabeto latino.
-    - a partir del último tercio del s. XIX, entre las consecuencias de la occidentalización del judeoespañol, deja de usarse el sistema aljamiado de escritura y se adoptan grafías latinas a partir de normas ortográficas conocidas en otras lenguas 
-- Combina diferentes tipos de letras:
-  - letra merubá o cuadrada: de carácter anguloso y con representación de vocales, usada fundamentalmente en la literatura religiosa de los siglos xvii y xviii, tiene la función de resaltar algo en el texto y se emplea especialmente para cabeceras, títulos y en las iniciales de las estrofas de las composiciones que forman acrósticos.
-  - letra rashí: su nombre obedece a las iniciales del autor de un comentario bíblico escrito en ese tipo de letra, publicado en el primer libro impreso en hebreo. Es de diseño curvilíneo, carece de vocalización y de mayúsculas y es en la que está impresa la mayor parte de las obras en lengua sefardí.
-  - solitreo o letra cursiva: es la forma elegida para los textos manuscritos. Se trata de una forma evolucionada de la letra cursiva usada en España durante la Edad Media; se utiliza para el uso diario y en ella nos ha llegado la mayoría de los textos literarios de Marruecos.
-- ¿Cómo transcribir del alefato al alfabeto latino?
-  - Es necesario conocer el alefato y las normas gráficas del judeoespañol levantino para hacer una transliteración
+    - fue empleada en la **época medieval** por los sefardíes, no sólo para **mantener la caligrafía** de sus textos sagrados sino porque era el alfabeto usado en el **sistema de educación judía tradicional**
+    - después de la expulsión la escritura aljamiada **se mantuvo en Oriente y en el norte de África**. En los Países Bajos y en Italia los sefardíes escribían e imprimían sus textos usando el alfabeto latino.
+    - **a partir del último tercio del s. XIX**, entre las consecuencias de la occidentalización del judeoespañol, **deja de usarse el sistema aljamiado** de escritura y se adoptan grafías latinas a partir de normas ortográficas conocidas en otras lenguas 
+- Combina diferentes **tipos de letras**:
+  - **letra merubá o cuadrada**: de **carácter anguloso** y con representación de vocales, usada fundamentalmente en la literatura religiosa de los siglos xvii y xviii, tiene la función de **resaltar** algo en el texto y se emplea especialmente para **cabeceras, títulos y en las iniciales** de las estrofas de las composiciones que forman acrósticos.
+  - **letra rashí**: su nombre obedece a las iniciales del autor de un comentario bíblico escrito en ese tipo de letra, publicado en el primer libro impreso en hebreo. Es de **diseño curvilíneo, carece de vocalización y de mayúsculas** y es en la que está impresa **la mayor parte de las obras en lengua sefardí**.
+  - **solitreo o letra cursiva**: es la forma elegida para los **textos manuscritos**. Se trata de una **forma evolucionada de la letra cursiva usada en España durante la Edad Media**; se utiliza para el **uso diario** y en ella nos ha llegado la mayoría de los textos literarios de Marruecos.
+- ¿Cómo **transcribir** del alefato al alfabeto latino?
+  - Es necesario conocer el **alefato y las normas gráficas del judeoespañol** levantino para hacer una **transliteración**
     - por ejemplo, la letra aleph seguida de un apóstrofe (י+א) debe transcribirse como un hiato, pero si aparece sola en posición inicial puede ser una vocal de apoyo a otra vocal
-  - luego se hace una transcripción normalizada al español en la que se sigue el sistema ortográfico actual
+  - luego se hace una **transcripción normalizada al español** en la que se sigue el **sistema ortográfico actual**
 ### Morfosintaxis del judeoespañol
-- Los fenómenos que se observan en la morfosintaxis del judeoespañol pueden verse como una manifestación de lo que el español (estándar, peninsular) pudo haber sido y no es
-- Debido a la baja presión normativa en torno al judeoespañol, su sistema morfosintáctico se formará a través de:
-  - la simplificación
-  - la reducción
-  - la igualación por analogías
-- Se caracteriza por dos tendencias
-  - Innovación por procesos simplificadores y analógicos
-    - en la morfosintaxis nominal y pronominal:
-      - se regularizan los paradigmas con la extensión genérica < o > para el masculino versus < a > para el femenino, especialmente en los adjetivos: joven/jovena; pero también en el caso de los pronombres: cual/cuala, tal, tala.
-      - Se difunde la bilabialización de n- en la primera persona del plural
-      - Se regularizan los pronombres oblicuos (con todas las preposiciones): con mí, con ti, y después de *que* en construcciones comparativas: *más que ti*.
-      - Se regularizan y desambiguan las formas de posesivo *su* (un poseedor) versus *sus* (para varios poseedores). Es decir: *su casa* frente a *sus casa*, en el caso último, la casa de ellxs.
-        - esto puede deberse a la influencia del francés o el italiano, donde se diferencian las marcas morfológicas de un poseedor o de varios.
-      - se regulariza y desambigua el paradigma del reflexivo mediante la oposición *se* para el singular y *sen* para el plural: *sen mueren*.
-    - en la morfosintaxis verbal:
-      - Formas de la segunda persona del plural (-ais < -ades, -eis < edes, –is < -ides) > -áš, -éš, -iš: vos yeráš ('usted se equivoca'), vos estáš, vos soš, queréš, etc.
-      - Generalización de las desinencias -s -š en todos los tiempos y en todos los modos: tomas – tomáš – tomates – tomateš – tomavas – tomavaš, etc.
-      - En las formas imperativas de segunda persona (como en el español de la Argentina) se elide la –d final: -á, -é, -í: cantá, tené, vení, etc.
-        - per cuando va seguido de pronombre enclítico es frecuente la metátesis: *guadradla*: guardadla.
-      - Ausencia de los diptongos -ie- (-e-), -ue- (-u-) rizotónicos como producto de la regularización del paradigma: penso, pensas, pensa, etc., y mostro, mostra, mostran, durmo, durme, durmen, etc.
-      - Propagación de una –y- antihiática: creyo, creye, trayo, traye.
-      - En el pretérito indefinido hay reducción por analogía a dos paradigmas verbales en vez de tres, en la primera persona del singular y del plural
+- Los fenómenos que se observan en la morfosintaxis del judeoespañol pueden verse como una **manifestación de lo que el español (estándar, peninsular) pudo haber sido y no es**
+- Debido a la **baja presión normativa** en torno al judeoespañol, su sistema morfosintáctico **se formará** a través de:
+  - la **simplificación**
+  - la **reducción**
+  - la **igualación por analogías**
+- Se caracteriza por **dos tendencias**
+  - **Innovación** por procesos **simplificadores y analógicos**
+    - en la morfosintaxis **nominal y pronominal**:
+      - se **regularizan los paradigmas** con la extensión **genérica** < o > para el masculino versus < a > para el femenino, especialmente en los adjetivos: joven/jovena; pero también en el caso de los pronombres: cual/cuala, tal, tala.
+      - Se difunde la **bilabialización de n- en la primera persona del plural**
+      - Se **regularizan los pronombres oblicuos** (con todas las **preposicione**s): con mí, con ti, y después de *que* en **construcciones comparativas**: *más que ti*.
+      - Se **regularizan y desambiguan las formas de posesivo *su* (un poseedor) versus *sus* (para varios poseedores)**. Es decir: *su casa* frente a *sus casa*, en el caso último, la casa de ellxs.
+        - esto puede deberse a la **influencia del francés o el italiano**, donde se diferencian las marcas morfológicas de un poseedor o de varios.
+      - se **regulariza y desambigua el paradigma del reflexivo** mediante la oposición *se* para el singular y *sen* para el plural: *sen mueren*.
+    - en la morfosintaxis **verbal**:
+      - **Formas de la segunda persona del plural** (-ais < -ades, -eis < edes, –is < -ides) > -áš, -éš, -iš: vos yeráš ('usted se equivoca'), vos estáš, vos soš, queréš, etc.
+      - **Generalización de las desinencias -s -š en todos los tiempos y en todos los modos**: tomas – tomáš – tomates – tomateš – tomavas – tomavaš, etc.
+      - En las **formas imperativas de segunda persona (como en el español de la Argentina) se elide la –d final**: -á, -é, -í: cantá, tené, vení, etc.
+        - PERO **cuando va seguido de pronombre enclítico** es frecuente la **metátesis**: *guadradla*: guardadla.
+      - **Ausencia de los diptongos -ie- (-e-), -ue- (-u-) rizotónicos como producto de la regularización del paradigma**: penso, pensas, pensa, etc., y mostro, mostra, mostran, durmo, durme, durmen, etc.
+      - **Propagación de una –y- antihiática**: creyo, creye, trayo, traye.
+      - En el **pretérito indefinido** hay **reducción por analogía a dos paradigmas verbales en vez de tres, en la primera persona del singular y del plural**
         - 1era conjugación (ar): yo hablí, tu hablates, vos hablates, el/lla habló, mosotros hablimos, vosotros hablates, ellos/as hablaron
-      - regularización de las siguientes formas del pretérito imperfecto:
-        - ver: vía, vías, vías
-        - ir: ías, ías, ía
-      - Polimorfismo: 
-        - en el pretérito imperfecto, tendendia a la regularización del paradigma mediante la -b- analógica: creíba, hacíbamos, etc., pero en alternancia con las formas sin -b- analógica: creía, hacíamos.
-        - tendencia a la regularización del paradigma del futuro formado mediante el infinitivo y las desinencias -é, -ás, -á, -emos, éš, -an: verás, deciréš, haćeré, teneremos, que fluctúan al lado de las formas contractas (diréš, haré, tendremos)
-        - Las formas sintéticas del futuro y del condicional también presentan polimorfía: las tradicionales formas con metátesis (salré, terné, vernía) coexisten con nuevas formas hiperregulares (saveremos, veniré, tenería). Además en tiempos más modernos coexisten formas con epéntesis (tendrá, tendría) y otras doblemente analógicas formadas por metátesis (sarlirá, ternería)
-        - En los futuros y condicionales perifrásticos alterna la incidencia directa y la construcción con la preposición a: vo tomar vs. vo a tomar; ía tomar vs. ía a tomar
-        - La existencia de polimorfismo (varias formas para la misma información gramatical) en judeoespañol muestran:
-          - Menor presión normativa
-          - Cambios en marcha
-        - Tendencia general a sustituir el subjuntivo por el indicativo en las subordinadas, con excepción de las finales 
-  - Preservación de algunas construcciones del español preclásico, al no formar parte el judeoespañol de los grandes cambios del sistema lingüístico que ocurrieron en el s. XVI. Es decir, conservadurismo en:
-    - la morfosintaxis nominal y verbal:
-      - se mantiene el género femenino del español preclásico (la honor, la calor, la dolor, etc.)
-      - se mantienen las formas del castellano medieval par la primera persona del singular en el indicativo presente *do* (doy), *estó* (estoy), *so* (soy)
-      - se mantiene la forma vós como forma de respeto en la segunda persona del singular junto con *su merced* (que aparece en textos anteriores al s. XIX)
-  - Preposiciones, conjunciones y adverbios:
-      - régimen preposicional no coincidente con el del español: *creer a*, *pensar a*
-      - en la voz pasiva se introduce al agente con la preposición *de*: *La historia era meldada todas las noches de su nona*
-      - la conjunción adversativa más común es *ma*; en el judeoespañol de Jerusalén está extendida la forma hebrea *amá*.
-      - *Porque* tiene un valor causal y final (para que): "yo demando que enfín la cuestión del enseñamiento y la propaganda de la lingua turca sea presto tomada seriamente en la mano porque la nueva ĝeneración pueda conocer..."
-      - La conjunción explicativa más común es *siendo* ('ya que', 'puesto que')
-      - en las variedades norteñas del judeoespañol existe como calco panbalcánico el elemento *y* con el significado 'también': "Le dećiréš a su profesor de música porque se tope ý él a la boda."
-    - Formación de palabras:
-      - el diminutivo se forma con el sufijo -ico: *hijico*. -ito se emplea solo por cuestiones de eufonía (como en otras variedades de español):
+      - **regularización de las formas 'ver'e 'ir' del pretérito imperfecto**:
+        - **ver**: vía, vías, vías
+        - **ir**: ías, ías, ía
+      - **Polimorfismo**: 
+        - en el **pretérito imperfecto**, tendencia a la **regularización del paradigma mediante la -b- analógica**: creíba, hacíbamos, etc., pero en alternancia con las formas sin -b- analógica: creía, hacíamos.
+        - tendencia a la **regularización del paradigma del futuro formado mediante el infinitivo y las desinencias -é, -ás, -á, -emos, éš, -an**: verás, deciréš, haćeré, teneremos, **que fluctúan al lado de las formas contractas** (diréš, haré, tendremos)
+        - **Las formas sintéticas del futuro y del condicional también presentan polimorfía**: las tradicionales formas con **metátesis** (salré, terné, vernía) coexisten con **nuevas formas hiperregulares** (saveremos, veniré, tenería). Además **en tiempos más modernos coexisten formas con epéntesis** (tendrá, tendría) y **otras doblemente analógicas formadas por metátesis** (sarlirá, ternería)
+        - En los **futuros y condicionales perifrásticos alterna la incidencia directa y la construcción con la preposición a**: vo tomar vs. vo a tomar; ía tomar vs. ía a tomar
+        - La existencia de **polimorfismo** (varias formas para la misma información gramatical) en judeoespañol **muestran**:
+          - **Menor presión normativa**
+          - **Cambios en marcha**
+        - Tendencia general a **sustituir el subjuntivo por el indicativo en las subordinadas, con excepción de las finales**
+  - **Preservación de algunas construcciones del español preclásico**, al no formar parte el judeoespañol de los grandes cambios del sistema lingüístico que ocurrieron en el s. XVI. Es decir, **conservadurismo** en:
+    - la **morfosintaxis nominal y verbal**:
+      - se mantiene el **género femenino del español preclásico** (la honor, la calor, la dolor, etc.)
+      - se mantienen las formas del castellano medieval para la **primera persona del singular en el indicativo presente** *do* (doy), *estó* (estoy), *so* (soy)
+      - se mantiene la **forma vós como forma de respeto en la segunda persona del singular junto con *su merced***(que aparece en textos anteriores al s. XIX)
+  - **Preposiciones, conjunciones y adverbios**:
+      - **régimen preposicional** no coincidente con el del español: *creer a*, *pensar a*
+      - **en la voz pasiva se introduce al agente con la preposición *de***: *La historia era meldada todas las noches de su nona*
+      - **la conjunción adversativa más común es *ma***; en el judeoespañol de Jerusalén está extendida la forma hebrea *amá*.
+      - ***Porque* tiene un valor causal y final (para que)**: "yo demando que enfín la cuestión del enseñamiento y la propaganda de la lingua turca sea presto tomada seriamente en la mano porque la nueva ĝeneración pueda conocer..."
+      - **La conjunción explicativa más común es *siendo*** ('ya que', 'puesto que')
+      - en las variedades norteñas del judeoespañol existe como **calco panbalcánico el elemento *y* con el significado 'también'**: "Le dećiréš a su profesor de música porque se tope ý él a la boda."
+    - **Formación de palabras**:
+      - **el diminutivo se forma con el sufijo -ico**: *hijico*. -ito se emplea solo por cuestiones de eufonía (como en otras variedades de español):
         - cuando la sílaba final tiene una velar, se usa el sufijo -ito, con la dental: *saquito, chinguirtaquito* (*chinguirtac*: 'campana')
-        - Sufijación nominal:
-        - para la formación de los ***nomina agentis*** sobresalen -dor / -dera, que muestran las tendencias regularizadoras del judeoespañol: *malhacedor* y *malhacedera* ('malhechor'),*guiador* y *guiadera*
-        - para la formación de ***nomina actionis*** (resultativos deverbales) es común el sufijo *-miento*: *atamiento*, *escoǵimiento* 'elección'.
-        - El sufijo *-ura* conserva más vitalidad en el judeoespañol que en el español: *dulzura, flacura, godrura* 'grasa', *negrura* 'maldad'.
-        - Sufijación verbal: para formar verbos a partir de bases nominales se usa sobre todo *-ear*, que es muy productivo en la integración de turquismos. En estos casos sustituye la terminación -*mek, mak: kullanmak > culanear* ‘manejar’, *incitmek > inĝidiar 'herir'*
+      - **Sufijación nominal**:
+        - **para la formación de los ***nomina agentis*** sobresalen -dor / -dera**, que muestran las tendencias regularizadoras del judeoespañol: *malhacedor* y *malhacedera* ('malhechor'),*guiador* y *guiadera*
+        - **para la formación de ***nomina actionis*** (resultativos deverbales) es común el sufijo *-miento***: *atamiento*, *escoǵimiento* 'elección'.
+        - **El sufijo *-ura* conserva más vitalidad**en el judeoespañol que en el español: *dulzura, flacura, godrura* 'grasa', *negrura* 'maldad'.
+      -**Sufijación verbal**: **para formar verbos a partir de bases nominales se usa sobre todo *-ear***, que es muy productivo en la integración de turquismos. En estos casos sustituye la terminación -*mek, mak: kullanmak > culanear* ‘manejar’, *incitmek > inĝidiar 'herir'*
 
 
     - 
