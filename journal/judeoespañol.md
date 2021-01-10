@@ -189,6 +189,7 @@
   - la **simplificación**
   - la **reducción**
   - la **igualación por analogías**
+- La baja presión normativa no significa que no haya patrones de uso
 - Se caracteriza por **dos tendencias**
   - **Innovación** por procesos **simplificadores y analógicos**
     - en la morfosintaxis **nominal y pronominal**:
@@ -224,9 +225,10 @@
       - se mantiene el **género femenino del español preclásico** (la honor, la calor, la dolor, etc.)
       - se mantienen las formas del castellano medieval para la **primera persona del singular en el indicativo presente** *do* (doy), *estó* (estoy), *so* (soy)
       - se mantiene la **forma vós como forma de respeto en la segunda persona del singular junto con *su merced***(que aparece en textos anteriores al s. XIX)
+
   - **Preposiciones, conjunciones y adverbios**:
       - **régimen preposicional** no coincidente con el del español: *creer a*, *pensar a*
-      - **en la voz pasiva se introduce al agente con la preposición *de***: *La historia era meldada todas las noches de su nona*
+      - **en la voz pasiva se introduce al agente con la preposición *de*** (como en alemán o francés): *La historia era meldada todas las noches de su nona*
       - **la conjunción adversativa más común es *ma***; en el judeoespañol de Jerusalén está extendida la forma hebrea *amá*.
       - ***Porque* tiene un valor causal y final (para que)**: "yo demando que enfín la cuestión del enseñamiento y la propaganda de la lingua turca sea presto tomada seriamente en la mano porque la nueva ĝeneración pueda conocer..."
       - **La conjunción explicativa más común es *siendo*** ('ya que', 'puesto que')
@@ -239,8 +241,42 @@
         - **para la formación de ***nomina actionis*** (resultativos deverbales) es común el sufijo *-miento***: *atamiento*, *escoǵimiento* 'elección'.
         - **El sufijo *-ura* conserva más vitalidad**en el judeoespañol que en el español: *dulzura, flacura, godrura* 'grasa', *negrura* 'maldad'.
       -**Sufijación verbal**: **para formar verbos a partir de bases nominales se usa sobre todo *-ear***, que es muy productivo en la integración de turquismos. En estos casos sustituye la terminación -*mek, mak: kullanmak > culanear* ‘manejar’, *incitmek > inĝidiar 'herir'*
-
-
-    - 
+## Clase 4
+### Características léxicas y lexicografía del judeoespañol (Dora Mancheva)
+- La **lexicología** se propone estudiar el vocabulario de una lengua y la descripción de su estructura, así como de sus cambios
+- su objeto principal es la palabra como elemento del vocabulario
+- También se ocupa de la realización de diccionarios:
+  - como una forma de aplicar los conocimientos lexicológicos
+  - como una forma de satisfacer necesidades teóricas y prácticas
+- La **sociolingüística** se propone estudiar las lenguas tanto diacrónica como sincrónicamente, siempre en su contexto socual. 
+  - por lo tanto debe fijarse en la variabilidad de una lengua
+- El judeoespañol es una variedad como cualquier otra, es decir, un conjunto de rasgos lingüísticos empleados en un conjunto específico de circunstancias sociales
+- El judeoespañol carece de una única norma pero se pueden observar en él variantes que están en todos los tipos de variaciones:
+  - las diacrónicas, que ocurren a través del tiempo
+  - diatópicas: que ocurren en su extensión geográfica
+  - diastráticas: que ocurren de acuerdo al nivel sociocultural de los hablantes
+  - diafásicas: que ocurren de acuerdo a los diferentes registros lingüísticos
+  - diamésicas: que ocurren de acuerdo con el soporte o medios
+- La lexicología sefardí:
+  - tiene logros como:
+    -  los inventarios de palabras, numerosos estudios puntuales sobre el léxico, etc.
+    -  la transcripción y estudio de varias obras lexicográficas que vienen de diferentes momentos y áreas y que fueron hechas con distintos fines
+    -  El CORHIJE: un futuro tesoro léxico del judeoespañol oriental 
+    -  El DHJE: una futura herramienta imprescindible para la lingüística sefardí
+  - tiene carencias como:
+    - la falta de una base de datos fiable (como el CORDE o el CREA)
+    - falta de un diccionario etimológico (pero en marcha, CORHIJE)
+    - falta de un diccionario histórico (pero en marcha, DHJE)
+- El léxico sefardí oriental
+  - núcleo hispánico y/o romance (aprox. 95%?)
+  - koineización de variedades peninsulares
+  - neología: creaciones que coinciden con alguna variedad peninsular o americana, se le suman creaciones propias
+  - préstamos del hebreo, la lengua de cultura
+  - préstamos de las lenguas balcánicas, sobre todo turco y griego (en menor medida y con uso limitado: búlgaro, serbio, croata, bosnio, rumano, etc.)
+  - préstamos modernos del francés y el italiano
+- Ejemplos de variación diasistémica en el léxico del sefardí oriental
+  - dos paradigmas finitos: días de la semana y las cuatro estaciones del año
+  - un paradigma abierto: la denominación de los colores
+- 
 
 
