@@ -128,43 +128,42 @@
   - En este proceso muchos arabismos se reemplazaron por latinismos, especialmente en el lenguaje técnico de áreas como el teatro, la música, la poesía.
 - Se incorporan **préstamos de las lenguas del entorno**, como el turco, el italiano y el griego.
 - Hay un **empobrecimiento del léxico patrimonial**, y solo se mantienen las **palabras genéricas** (paxaro, pajarico). Posteriormente esto se suple con **préstamos de otras lenguas** (turco, francés, italiano).
-
-El Me'am Lo'ez es un comentario del Tanak (conjunto de libros sagrados canónicos del judaísmo) escrito en ladino. Se escribió en Constantinopla en los años 1730-1777 y es un hito para la configuración del judeoespañol como variedad distinta del castellano medieval, porque en él se explica que las hablas españolas no son entendibles para los judíos sefardíes del Imperio Otomano, necesitan traducirlo.
+- El **Me'am Lo'ez** es un comentario del Tanak (conjunto de libros sagrados canónicos del judaísmo) escrito en ladino. Se escribió en Constantinopla en los años 1730-1777 y es un hito para la **configuración del judeoespañol como variedad distinta del castellano medieval**, porque en él se explica que las hablas españolas no son entendibles para los judíos sefardíes del Imperio Otomano, necesitan traducirlo.
 
 ### El judeoespañol: sistema fonético-fonológico
 
-- Características fonológicas
-  - El judeoespañol no formó parte de la reestructuración del sistema consonántico del castellano que ocurrió entre los ss. XVI-XVII y que dio como resultado:
+- **Características fonológicas:**
+  - El judeoespañol **no formó parte de la reestructuración del sistema consonántico del castellano** que ocurrió entre los ss. XVI-XVII y que dio como resultado:
     - la desfonologización de las labiales sonoras /b/ vs. /v/
     - la pérdida de la correlación /sordo/ vs. /sonoro/ en las sibilantes (/s/ vs. /z/)
     - la aparición de /θ/ y /x/
-  - Por esta razón el judeoespañol tiene las siguientes características:
-    - mantiene las sibilantes /s/ y /z/ (['roza] 'rosa', [a'sentir] 'oir'
-    - Mantiene las fricativas /ʃ/ y /ʒ/: ['kaʃa], ['fiʒo]
-    - Mantiene las africadas /ʈʃ/ y /dʒ/: ['ʈʃiko], [dʒu'gar]
-    - Es seseante [sir'gwela] 'ciruela'
-    - No tiene /x/
-    - Mantiene las bilabiales /v/ (con pronunciación labiodental) y /b/: veber 'beber'.
-    - Es yeísta
-    - Mantiene la /h/ en préstamos del hebreo y del árabe en palabras como ḥupá 'boda' (del hebreo), alḥad 'domingo', ḥarvar 'pegar' (del árabe).
-    - Mantiene la /tz/ en préstamos del hebreo y del italiano, como ocurre en : [ma'tza] ('pan ácimo') y en ['politza], respectivamente
-    - Presencia de una sola vibrante simple /ɾ/ ['kaɾo] [aɾe'ir] 'reir
-- Características fonéticas del judeoespañol:
-    - Tendencia a cerrar las vocales átinas [e]>[i], [o]>[u] (extendida en las áreas periféricas)
-    - Tendencia al cierre de la -a final (de palabra y final absoluto de palabra) átona (extendida en áreas periféricas)
-    - tendencia al hieismo: la semivocal puede ser absorbida por [i] o por [e]: castío 'castillo', aqueos 'aquellos‘, caente (cayente < caliente)
-    - Tendencia a la introducción de -y- antihiática (diya 'día', tráyeme 'tráeme', creyu 'creo')
-    - Refuerzo articulatorio velar del diptongo [we] en distintos contextos: 
+  - **Por esta razón el judeoespañol tiene las siguientes características**:
+    - **mantiene las sibilantes /s/ y /z/** (['roza] 'rosa', [a'sentir] 'oir'
+    - **Mantiene las fricativas /ʃ/ y /ʒ/**: ['kaʃa], ['fiʒo]
+    - **Mantiene las africadas** /ʈʃ/ y /dʒ/: ['ʈʃiko], [dʒu'gar]
+    - **Es seseante** [sir'gwela] 'ciruela'
+    - **No tiene /x/**
+    - **Mantiene las bilabiales /v/ (con pronunciación labiodental) y /b/:** veber 'beber'.
+    - Es **yeísta**
+    - **Mantiene la /h/ en préstamos del hebreo y del árabe** en palabras como ḥupá 'boda' (del hebreo), alḥad 'domingo', ḥarvar 'pegar' (del árabe).
+    - **Mantiene la /tz/ en préstamos del hebreo y del italiano**, como ocurre en : [ma'tza] ('pan ácimo') y en ['politza], respectivamente
+    - **Presencia de una sola vibrante, la simple** /ɾ/ ['kaɾo] [aɾe'ir] 'reir
+- **Características fonéticas:**
+    - **Tendencia a cerrar las vocales átonas** [e]>[i], [o]>[u] (extendida en las áreas periféricas)
+    - **Tendencia al cierre de la -a final** (de palabra y final absoluto de palabra) **átona** (extendida en áreas periféricas)
+    - tendencia al **hieismo**: la semivocal puede ser absorbida por [i] o por [e]: castío 'castillo', aqueos 'aquellos‘, caente (cayente < caliente)
+    - Tendencia a la **introducción de -y- antihiática** (diya 'día', tráyeme 'tráeme', creyu 'creo')
+    - **Refuerzo articulatorio velar del diptongo [we]** en distintos contextos: 
       - Prótesis de g- en posición inicial: güevo, güeso, güesmo, güele (-> goler, golor)
       - Velarización de [vwe] y [bwe] > [gwe]: güestro ‘vuestro‘, güeno 'bueno‘
       - Epéntesis de un elemento fricativo en el grupo [swe]: esfuegra / esvuegra / esḥuegra 'suegra‘, esfueño / esvueño / esḥueño 'sueño' 
-    - Labialización frecuente de [nwe-] inicial: muestro 'nuestro', muevo 'nuevo‘
-    - Fricativización sistemática de semivocal [u̯] en posición implosiva: civdad, devda, cavśa
-    - Tendencia a la metátesis: prove 'pobre‘, presona 'persona‘; especialmente con el nexo -rd-: tadre 'tarde‘, piédrita 'pérdida', godro 'gordo'
-    - Palatalización de [-s] > [-š]:
+    - **Labialización frecuente de [nwe-] inicial**: muestro 'nuestro', muevo 'nuevo‘
+    - **Fricativización sistemática de semivocal [u̯] en posición implosiva**: civdad, devda, cavśa
+    - Tendencia a la **metátesi**s: prove 'pobre‘, presona 'persona‘; especialmente con el nexo -rd-: tadre 'tarde‘, piédrita 'pérdida', godro 'gordo'
+    - **Palatalización de [-s] > [-š]**:
       - En posición implosiva ante [k]: mošca, bušcar, pešcado 
       - En posición final tras [i̯]: seš 'seis‘, en la desinecia verbal de la 2a persona plural (esperáš 'esperáis‘, coméš 'coméis‘)
-    - Diptongo donde el español tiene monoptongo y viceversa:
+    - **Diptongo donde el español tiene monoptongo y viceversa**:
       - diptongación: buendad, pueder, adientro, piedrer, vierbo
       - ausencia de diptongación: escola, acodro, rogo, quero, quen
 
