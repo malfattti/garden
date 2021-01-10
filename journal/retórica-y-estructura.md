@@ -60,8 +60,11 @@ lógico de la frase
       nardo tu tez para mi vista, nardo,
       cardo tu piel para mi tacto, cardo,
       tuera tu voz para mi oído, tuera.
-      - figura con la que el ritmo queda muy marcado
-     - Antítesis:
+      figura con la que el ritmo queda muy marcado
+  
+    - Anadiplosis: 
+      - un verso termina con una palabra y el siguiente comienza con la misma
+    - Antítesis:
         - contraposición de dos ideas opuestas.
     - Paradoja:
       - contradicción interna, donde se anula el significado de la palabra
@@ -71,6 +74,6 @@ lógico de la frase
       - visualización de abstracciones. Por ejemplo, el silencio como un sepulcro, el olvido como una tumba, el desengaño como orbe.
     
     - Imagen
-        - utilización de un componente o elemento mediante el que se representa otro
+        - poner en forma de lenguaje percepciones percibidas no por la razón sino por otros sentidos: oído, vista, etc.
         - RAE: Recreación de la realidad a través de elementos imaginarios fundados en una intuición o visión del artista que debe ser descifrada, como en *las monedas en enjambres furiosos*.
    

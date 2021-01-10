@@ -157,12 +157,13 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
     - poemas estróficos
       - El soneto:
         - catorce versos divididos en dos cuartetos y dos tercetos con rima consonante
-          - cuartetos: ABBA ABBA
+          - cuartetos: ABBA ABBA (o sea, generalmente rima abrazada)
           - tercetos (la rima puede variar): CDC DCD; CDC CDC; CDE CDE, etc.
         - se origina en Italia en el s. XIII (Corte de Sicilia Federico II)
         - Dante (1265-1321) y Petrarca (1304-1374) desarrollan el coneto en italiano
         - En castellano el soneto es desarrollado con Juan Boscán y Garcilaso en el s. XVI
 - Distinción entre formas métricas y géneros poéticos
-  - Las formas métricas tienen una métrica establecida: romance, soneto, décima
-  - - Los géneros poéticos tienen contenidos similares y además pueden compartir una estructura métrica: epístola, égloga, poema épico
+  - Las formas métricas tienen una métrica establecida: romance, soneto, décima; a nivel de contenido no deben coincidir
+  - Los géneros poéticos tienen contenidos similares y además pueden compartir una estructura métrica: epístola (tercetos encadenados), égloga (mundo de pastores idealizado), poema épico (suele estar escrito en octavas reales)
+  - diferencia entre poema épico y poema lírico? en el épico, por ejemplo el Cid: un narrador ajeno cuenta una historia. En el lírico, un yo poético expresa sentimientos en primera persona
     - 

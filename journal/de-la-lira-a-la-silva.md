@@ -31,10 +31,16 @@ Jaime Siles
     - **decadencia del programa renacentista** después de **guerras, bancarrota y calamidad** hace que entre en crisis la fe en la razón y la inteligencia
     - **nostalgia por el orden medieval**, sus ideas y creencias
       - resurgimiento de las formas de vida religiosa
-        - **Concilio de Trento**: **reestructuración de la vida religiosa**, disciplinar la herejía de la Reforma. **El barroco es el arte de la contrarreforma**
+        - **Concilio de Trento**: 
+          - **reestructuración de la vida religiosa**, disciplinar la herejía de la Reforma.
+            - a principios del s. XV surgen movimientos reformistas con la figura de Lutero
+            - Europa se fractura entre la Iglesia Católica y la protestante
+          - Busca radicalizar doctrinas y preceptos en oposición a  lo que hace el protestantismo
+          - **El barroco es el arte de la contrarreforma**
         - **Dios es el centro de la realidad**
       - **trascendencia** por sobre la **inmanencia** renacentista
       - el **neoestoicisimo** articula el **desengaño y desprecio por el mundo**
+        - busca la felicidad a través del control de los deseos
       - las creencias sustituyen a las ideas cuando estas hacen agua
     - por esto **cambian los ***topoi*** del Renacimiento al Barroco**. Conviven los siguientes topoi:
       - desprecio por el mundo (de trasfondo religioso)
@@ -54,7 +60,7 @@ Jaime Siles
           - Poetas que conocen formas líricas como el **endecasílabo** y a la vez no dudan en usar el **romance, la seguidilla, el villancico y la canción** (estas formas se reajustan y reviven). Lo culto y lo popular se combinan, creando una impresión de mundo unido y compacto en el que Dios es el centro.
           - aspiración a la unidad de lo que se había fragmentado en el renacimiento y manierismo: **diseminación y recolección (algo que se dice en el poema se resume al final)**. 
           - Renuncia a la inteligencia y la reemplaza por la confianza en los sentidos. 
-          - la lira renacentista **(aBabB)** (estrofa de cinco versos, tres heptasílabos y dos endecasílabos: 7a 11B, 7a, 7b, 11B) da lugar a la silva barroca (versos endecasílabos y heptasílabos de rima consonante libre. Moderna y una forma de transición al verso libre moderno)
+          - la lira renacentista **(aBabB)** (estrofa de cinco versos, tres heptasílabos y dos endecasílabos: 7a 11B, 7a, 7b, 11B) da lugar a la silva barroca (versos endecasílabos y heptasílabos de rima consonante libre. Moderna y una forma de transición al verso libre moderno. implica una relajación: la misma cantidad de versos pero de forma libre y desordenada. la rima tampoco es constante)
           - toda construcción humana termina en **ruinas** (poética de las ruinas, Ambrosio de Morales, arqueólogo)
           - el aristotelismo nutre tanto las poéticas como las teorías literarias de la época
           - **formas más abiertas** que las del renacimiento y las manieristas (se recupera el romance, por ejemplo)
