@@ -166,4 +166,342 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
   - Las formas métricas tienen una métrica establecida: romance, soneto, décima; a nivel de contenido no deben coincidir
   - Los géneros poéticos tienen contenidos similares y además pueden compartir una estructura métrica: epístola (tercetos encadenados), égloga (mundo de pastores idealizado), poema épico (suele estar escrito en octavas reales)
   - diferencia entre poema épico y poema lírico? en el épico, por ejemplo el Cid: un narrador ajeno cuenta una historia. En el lírico, un yo poético expresa sentimientos en primera persona
-    - 
+
+## Clase 4
+### Romancero
+- Origen y características de los romances:
+  - según Menéndez Pidal, los **"romances épicos"** nacen de la preferencia en ascenso por escuchar, recitar y memorizar, **fragmentos de los cantares de gesta**
+    - esto explicaría su métrica
+  - la métrica se organiza en octosílabos, sin organización estrófica (como ocurre en los cantares de gesta)
+  - rima asontante en verso par
+  - textos narrativos-líricos
+  - versos organizados en hemistiquios (dos mitades, se cuentan como un verso entero y se separan por un espacio en la página y por una pausa en la entonación)
+- Tipos de romances:
+  - Hay aquellos que se basan en leyendas o en otros tipos de textos de ficción, pero es mejor clasificarlos por otros criterios
+  - viejos/nuevos (hay un romancero viejo y uno nuevo)
+    - los nuevos ponen su impronta (poetas cultos s. XVI)
+  - trovadorescos: los poetas de la corte quienes a fines del s. XV imitan el género popular
+  - noticieros: como el del rey de Aragón. Transmiten un episodio o noticia
+  - épicos
+  - fronterizos (moros/cristianos): como el de Amenábar, relatan hechos sucedidos en las regiones geográficas fronterizas entre moros y cristianos
+- Los poetas cultos se apropian de los romances
+  - en glosas a romances (paráfrasis y comentarios poéticos:
+    - los romances se comentan y amplifican. 
+    - La glosa aparece en letra normal y el poema original está en itálicas y entre comillas
+  - en las contrahechuras (versiones a lo divino): 
+    - se reescribe el romance de forma transparente, cambiando las palabras y sentido pero conservando marcas verbales y pautas del texto originario para que se lo pueda identificar.
+      - El lector debe poder identificarlo
+      - "Miraba de Campo Viejo" se reversiona: "Miraba de Sant Roman": es una persona común (se descarta lo épico) describiendo la ciudad de Toledo
+    - algunas se hacen "a lo divino", es decir, cuentan hechos religiosos: “Miraba com grande amor Christo a san Andrés un día..”
+- Transmisión de los romances:
+  - el género vive de variantes:
+    - el romancero tiene muchas versionas, ahí reside su riqueza. 
+    - No importa la pureza o la originalidad en este género
+  - transmisión oral: de generación en generación, recitado o cantado (este mecanismo cambia el texto cada vez)
+  - transmisión escrita:en pliegos sueltos, en cancionero de romances o romanceros
+    - Están al alcance de las personas que no tienen mucho dinero.
+- El primer romance conservado se llama “Gentil dona, gentil dona” y data del 1421. se conservó en los apuntes de un estudiante mallorquí. 
+  - Alusiones a la sexualidad de la mujer.
+  - mezcla de castellano con valenciano
+  
+  
+- Romances "Si s'estava en Campo Viexo" y “Miraba de Campo Viejo”: contexto general
+  - Cuentan las hazañas de Alfonso V de Aragón
+    - España no es una nación como la conocemos sino un conjunto de reinos
+      - Reino de Castilla
+      - Reino de Aragón (mucho más grande de lo que es hoy la región)
+    - Alfonso V se dedica a conquistar Italia: conquista Nápoles (1442, luego de una larga guerra con los franceses y sus aliados que empezó en 1420) y el sur de Italia 
+    - Campoviejo es la localidad situada al norte de Nápoles
+    - estos son romances históricos sobre la conquista
+    - De transmisión oral para difundir las noticias del rey de Aragón
+      - La oralidad genera las variaciones
+    - No hablan de la conquista en sí, sino del antes, para hablar sobre los sufrimientos.
+  
+  - "Si s'estava en Campo Viexo" 
+    - es la versión más antigua, que data de 1448 (?)
+    - se encontró en un protocolo notarial, su hallazgo es relativamente reciente 
+    - tiene algunas expresiones en aragonés como "enantes"
+    - Género lírico narrativo: en las primeras dos líneas. 
+    - Y a continuación viene la parte lírica: el personaje toma la voz y expresa lo que siente. Se queja frente a la ciudad (apóstrofe)
+    - versos octosílabos, los pares con con rima asonante
+    - realismo, tema militar, amenaza final que no está en versiones posteriores
+    - el hermano que perdió es Pedro, que murió cuando sitian Nápoles en 1438
+  - Mirava de Campoviejo
+    - En el s. XVI se imprimen y venden los romances, y así es como esta versión más conocida  llega a nosotrxs
+    - en esta versión la parte narrativa es mucho más larga, en vez de cuatro versos ocupa 22
+    - La mezcla de tiempos verbales se relaciona con la transmisión oral
+    - En esta versión se hace hincapié en la pérdida de personas comunes, no sólo de nobles.
+
+  - Romances "Abenámar, Abenámar, moro de la morería, ¿qué castillos son aquellos?" y "Abenámar, Abenámar, moro de la morería, el día que tú naciste": contexto general
+    - Abenámar es un moro que está acompañando al rey Don Juan
+    - versos octosílabos, los pares con con rima asonante
+    - romance fronterizo
+  - "Abenámar, Abenámar, moro de la morería, ¿qué castillos son aquellos?"
+    - comienza con un diálogo y después una narración
+    - algunas partes reflejan hechos históricos, otros no. 
+      - por ejemplo, se habla de la conquista de granada por parte de don Juan: esto no fue así, pero lo intenta
+    - Típico: hablarle a la ciudad como si fuera una mujer con la que se quiere casar. En las notas dice que es una metáfora de la cultura poética semítica
+    - Arras y dote: las mujeres no podían tener bienes en sí mismas. 
+    - "doña Sancha y doña Elvira": figuras de la nobleza española de siglos anteriores. 
+  - "Abenámar, Abenámar, moro de la morería, el día que tú naciste"
+    - mención de las construcciones hechas por moros
+    - señales del día en que el moro nació van cambiando de acuerdo con las versiones
+  - Romance “Las quejas de doña Urraca”
+  - Fernando I (s. XII) está por morir y debe repartir su herencia: lo hace entre sus tres hijos
+    - el Cid comienza sirviendo al Rey Fernando y luego a sus hijos
+  - el reparto que comenta el poema no es del todo fiel a la historia: García no recibió Vizcaya sino Galicia
+  - romance inconcluso: "estas palabras hablava"
+    - un ciclo de romances sobre Zamora completaría la historia
+  - Urraca se expresa sobre la que considera una injusticia, y lo hace refiriéndose a su sexualidad y a su cuerpo
+    - la lírica popular permite transgredir ciertas normas que la culta no
+    - el primer romance que se conoce, de hecho, habla sobre el deseo sexual de una mujer
+  - de este romance también hay otras versiones
+  - empieza con un diálogo
+
+## Clase 5
+### Lírica cancioneril (siglo XV)
+- Los poetas que escriben lírica cancioneril son aristócratas o funcionarios de cortes reales o de círculos nobiliarios
+- son receptores de ideas (provenzales) del "amor cortés"
+- El amor se plantea como un "juego"poético, un buen cortesano debía amar
+- Temas: 
+  - vasallaje amoroso
+  - idealización de la mujer
+  - secreto amoroso, espera del amante, amor espiritualizado
+- Período, autores, obras:
+  - Primera mitad del s. XV
+    - Corte de Juan II de Castilla 
+    - Marqués de Santillana y Juan de Mena
+    - Cancionero de Baena (c. 1445) 
+    - Poesía alegórico-dantesca
+  - Segunda mitad del s. XV:
+    - Corte de Enrique IV
+    - Corte aragonesa de Alfonso V
+    - Corte de los Reyes católicos
+    - Cancionero de Stúñiga (hacia 1462-1465) 
+    - Cancionero de Herberay des Essarts (hacia 1465)
+    - Cancionero musical de palacio (en el cambio de siglo XV-XV
+  - Florencia Pinar
+    - Es una de las poquísimas mujeres poetas de la época
+    - es una dama de la corte de Isabel la Católica
+    - Usa los "códigos" de la lírica cancioneril, que es mayormente escrita por hombres
+      - es interesante reflexionar sobre la medida en que ella con esos códigos y recursos puede o no expresar su voz femenina
+      - ella habla como si fuera mujer? Hay marcas de género que indiquen que es una poeta?
+      - Poemas:
+      - "Otra canción de la misma señora, a unas perdices que le embiaron bivas"
+        - octosílabos que riman en los versos pares con rima consonante
+        - Paranomasias: prisión, pasión, perdieron, perdices
+        - metáfora de las perdices:
+          - estas aves se caracterizan por cantar con alegría y ella siente dolor pero nadie ve su dolor ni siente lástima por ella
+        - metáfora del amor:
+          - quienes eran más esquivas fueron prendadas
+      - "Glosa de Florencia Pinar"
+        - Mote: género poético que se glosa/comenta
+        - cuanto gano en acercarme amorosamente lo pierdo. Mi dicha al acercarme se desbarata
+    - Jorge Manrique
+      - poeta de las cortes de Enrique VI y después de la corte de los Reyes católicos (Isabel y Fernando)
+        - contexto muy privilegiado
+      - es hijo de nobles y de familia de poetas
+        - Gómez Manrique, su tío, también escribe poesía
+      - se desempeña como militar y como poeta
+      - su obra
+        - consiste en unos cincuenta poemas breves (canciones, invenciones, motes, obras de amores, preguntas y respuestas, obras de burlas)
+      - su gran obra es las *Coplas a la muerte de su padre*
+        - Motivo de las coplas:
+          - en 1476 muere su padre
+            - cuestión filosófica, existencial que vale para los seres humanos de cualquier época
+            - intención de tematizas a la muerte de forma universal
+          - las coplas son una vindicación de la figura de su padre, que había quedado algo deshonrada al tener un enfrentamiento con un grupo de nobles
+            - cuestión más particular del poema
+          - representación a la vez particular y universal de la muerte
+          - contrasta el poder inexorable de la muerte con la belleza efímera de la vida
+        - Estructura:
+          - están compuestas por cuarenta estrofas de doce versos cada una (dobles sextillas)
+          - con alteración de octosílabos y tetrasílabos (copla de "pie quebrado"o "copla manriqueña')
+          - A nivel temático:
+            - se trata en primer lugar la muerte en un sentido abstracto (primeras trece estrofas)
+              - la muerte y el paso del tiempo
+                - el mundo es un mundo traidor
+                - todo lo que tenemos es fugaz
+                - no podemos confiar en la estabilidad de la vida mundana
+                - el tiempo se encarga de deshacer todo lo que tenemos
+              - la muerte y los bienes de fortuna
+                - incluso los reyes, nobles, los que tienen el poder, belleza, etc.,... no pueden conservar lo que tienen
+                - la idea de la fortuna:
+                  - tradición antigua de la representación de la diosa de la fortuna
+                  - va cambiando constantemente al girar
+                  - en este movimiento continuo el que es rey en cualquier momento puede pasar a ser un campesino y viceversa
+                  - todo lo que tenemos puede desaparecer
+                  - idea pagana de la fortuna que se incorpora al mundo cristiano de la Edad Mediasobre todo Boecio desarrolla esta idea
+            - en segundo lugar se trata la muerte histórica: *ubi sunt* (once estrofas siguientes)
+              - habla de personajes históricos nobles del s. XV
+              - todos estas grandes figuras desaparecen cuando llega la muerte
+              - *ubi sunt*: ¿Dónde están o qué fue de quiénes vivieron antes que nosotros?
+                - se olvida a ellxs y a sus obras
+            - en tercer lugar se trata la muerte de Rodrigo Manrique (últimas dieciséis estrofas)
+              - es la parte más personal del texto
+              - retrato moral del padre
+              - escena de la muerte del padre
+              - como esta es una tercera parte del poema, vemos que estas coplas no se enfocan tanto en su pérdida personal sino en la representación universal de la myerte
+          - difusión de esta observation  se imprime en el s. XVI
+          - se hacen glosas y reelaboraciones de forma subsiguiente
+## Clase 6
+### Entre la lírica cancioneril y la lírica italianizante
+- “Carta a la Duquesa de Soma”: contexto
+  - Garcilaso muere en 1536 
+  - Boscán, su amigo, prepara la edición de las obras de ambos: 
+    - Obras de Boscán y algunas de Garcilaso de la Vega repartidas en cuatro libros:
+    -  Libros 2 3 y 4: poesía italianizante
+       -  El cuarto libro de poesía de Garcilaso.
+ - La “carta” es un ‘prólogo’ a estos tres libros. Una suerte de manifiesto poético de la nueva lírica traída de Italia.
+ - Boscán reconoce que hay muchos “reprehensores” (críticos) de la lírica italianizante: la carta argumenta el uso de esta lírica y se defiende frente a estos.
+   - el está escribiendo de una forma muy diferente a como se venía haciendo
+   - los críticos lo acusan de introducir formas no tradicionales
+   - también le critican usar los endecasílabos, porque la rima en los endecasílabos se percibe menos que en los octosílabos
+   - también hablan de que no se entiende si es verso o prosa, porque es un verso más largo
+  - También cuenta cómo se encuentra con estas formas:
+    - Cuenta su encuentro con Navagero en 1526, en Granada: el embajador de Venecia lo insta a que utilice la métrica italiana.
+    - Cuenta cómo Garcilaso se une al proyecto de intentar usar la métrica italiana en castellano (aunque Boscán se sitúa ‘por encima’ de Garcilaso)
+      - lo cierto es que Garcilaso es mucho mejor poeta que Boscán
+      - Boscán sin embargo se coloca como protagonista y presenta su obra como importante en la historia de la poesía española
+      - en el texto "Los presupuesto de la carta a la duquesa de Soma" se pone en duda que Boscán haya tomado la iniciativa en el uso de la lírica italianizante
+        - es muy probable que tanto Boscán como muy probablemente Garcilaso hayan tenido contacto con Navagero desde 1525 cuando ambos se instalan en la corte toledana del Emperador
+    - ¿Cómo se defiende Boscán de estas críticas y argumenta a favor de la adopción de la lírica italianizante?
+      - Usa la idea de *Translatio imperii*, o sea, la idea de que los imperios fueron transmitiéndose la cultura: de los griegos a los latinos, de los latinos a los italianos. Y ahora le toca a España recibir ese legado como el imperio poderoso que es. Debe recibir el verso italiano.
+      - También recurre a la idea de *Translatio studii*: una idea más centrada en la cultura que en el poder. Se mencionan los autores que van pasándose la antorcha: los latinos, dante, Petrarca, Ausias March y ahora él, Boscán
+        - Ausías March: enlace entre Petrarca y la lírica petrarquista del XVI. Boscán trae esta figura para argumentar que en valenciano ya hay alguien que imitó a Petrarca.
+        - a favor del endecasílabo dice que es un verso que tiene origen en los hexámetros latinos (no son endecasílabos pero si un verso más grande que el usual), mientras que el octosílabo es un verso huérfano
+      - argumenta además que las métricas italianas son superiores a las españolas porque son herederas del bagaje clásico grecorromano así como de Petrarca y Boccaccio
+      - argumenta que la lengua es compañera del imperio
+      - si se adoptan los géneros italianos significa que el imperio español puede estar a la altura de la lírica italiana
+     - El ingreso de la lírica petrarquista en España
+      - Baltasar Castiglione es un autor italiano que escribe *El corteggiano*
+        - indica cómo deben comportarse los miembros de la corte: debe tener sobre todo spezzatura (hacer las cosas sin afectación - Boscán intenta transmitir ese valor en su carta, en torno a su escritura)
+        - En una boda se encuentra con Boscán y Garcilaso, y ellos publican su obra en español (1534)
+        - Tanto Castiglione como Navagero se encuentran en la corte española entre los años 1525-1526
+        - el encuentro entre Navagero y Boscán se produce en la boda de Carlos V e Isabel de Portugal (duran varios días). 
+        - Pietro Bembo revive a Petrarca en el s. XVI: el paradigma poético italiano
+     - Polémica poética: cancioneril vs. italianizante
+       - el octosílabo (verso de arte menor)...
+         - usa juegos sonoros de palabras: políptoton, paralelismo, paronomasia, etc.
+         - tema del amor cortés: vasallaje amoroso, juego amoroso
+       - el endecasílabo (y heptasílabo)
+         - usa más conceptos, ideas y "narración" poética
+         - tema del amor intelectual/platónico, "sentimiento amoroso"
+  ### Neoplatonismo
+  - Importante para et=tender la forma de amar como la entiende y la plasma Garcilaso, pero también la poesía de Fray Luis de León (Oda a Salinas), y Aldana (transgresión), Quevedo (el amor constante a través de la muerte)
+  - Platón: 
+    - Origen del amor platónico. Hay dos diálogos que hablan del amor: Fedro y El Banquete
+      - **El Banquete**: Platón y discípulos se juntan a festejar y para entretenerse se ponen a hablar del amor. Platón propone que cada uno comente algo sobre el amor.
+        - Sócrates cuenta algo que le dijo una filósofa llamada Diotima: figura que tiene contacto con los dioses: 
+        - Hay pasos o niveles en el amor. 
+        - De lo más concreto: el amor a un cuerpo bello (contexto homosexual. El amor más puro es el amor entre hombres, el intelectual. El amor con mujeres es para fines reproductivos). --> El amor a todos los cuerpos 
+        - el amor a las almas
+        - el amor a las acciones de los hombre sy las leyes
+        - el amor a las ciencias
+        - Hacia lo más abstracto: amar la idea de lo bello. Visión platónica del mundo donde todo lo que vemos con los sentidos son sombras y reflejos de las ideas. El filósofo quiere acceder al mundo de las ideas. Lo que se debe amar es la idea de la belleza: lo bello en sí mismo, no algo concreto. Se ama lo bello y lo bueno (el parte de ese presupuesto. No cuestiona eso. Lo bello es equivalente a lo bueno y esto es objetivable. No se pone en duda). El amor nos acerca a la trascendencia.
+        - La idea de belleza está cerca de Dios
+    - Ficino (s. XV, se vuelve a leer a Platón), filósofo cristiano:
+      - *De amore*: una especie de imitación de El Banquete, también es un diálogo
+        - cristianiza la idea de amor que deja Platón
+        -  La idea de belleza a la que según Platón debíamos aspirar amar en Ficino es Dios
+        -  El amor nos acerca a Dios
+        -  Dios ha creado el mundo por amor y debemos volver a dios por el amor. 
+        -  El amor carnal/deseo sexual es una cosa y el amor se opone a eso. 
+        -  El amor es un impulso intelectual, liberado de los sentidos (y donde solo pueden intervenir los sentidos nobles: vista y oído), que nos lleva a Dios
+        -  el amor nos lleva hacia lo alto y la trascendencia al igual que en Platón. Pero en Ficino nos lleva a Dios
+        -  Este tipo de amor se ve reflejado en la Égloga de Garcilaso donde los pastores no pretenden la unión carnal con la amada sino que se compara a la amada con Dios
+
+    - Castiglione: explicaicón física del amor que encaja con las explicaciones más intelectuales de Platón y Ficino:
+      - la mirada está vinculada con los espíritus vitales
+      - estos salían por los ojos, captaban lo que la persona veía y volvían a entrar con lo que han visto, de esa manera podemos recordar
+      - el proceso de enamoramiento se lleva a cabo cuando los espíritus vitales salen, copian el rostro del amadx y vuelven a entrar al cuerpo. 
+        - la imagen del amadx entra por los ojos
+        - se sitúa en el corazón: se imprime en la memoria
+        - el enamoradx puede entonces, cuando el amadx no está, recordarlx igual porque lleva su imagen impresa en la memoria
+      - esta explicación fisiológica se relaciona con la filosófica
+      - los poetas no copian estas herramientas de forma literal/completa, sino que las van adaptando. Aldana por ejemplo la termina subvirtiendo completamente
+      - 
+
+
+## Clase 7
+### Garcilaso de la Vega
+- Vida de Garcilaso (1501?-1536)
+  - recibe educación cortesana (música, esgrima, caza, latín, poesía, etc.)
+  - a partir de 1520 pasa a formar parte de la corte de Carlos V (emperador)
+  - hombre de armas y letras
+  - en 1525 se casa con Elena de Zúñiga
+  - en 1526 asiste a los festejos de la boda entre Carlos V e Isabel de Portugal en Sevilla y Granada
+    - conoce a Isabel Freire, su musa, quien dos años más tarde se casa con un noble. 
+      - Se pueden encontrar elementos autobiográficos en la obra de Garcilaso sobre estos sucesos (copla II, a lamento de Salicio en la Égloga I)
+  - En 1529 acompañando a Carlos V viaja a Italia por primera vez, aprende idioma y se empapa de la literatura italiana
+  - en 1531 por oficiar como testigo en una boda no autorizada por el emperador es exiliado a una isla del Danubio
+    - esto está reflejado en su Canción III
+  - al año siguiente es perdonado pero no le es permitido regresar a España, va a Nápoles y sirve al Virrey pedro de Toledo
+  - el período napolitano es el de madurez literaria para él. 
+    - conoce a humanistas y escritores importantes
+    - escribe sus Églogas I y II, sonetos y elegías
+  - muere en batalla en 1536
+- Obras
+  - variedad:
+    - 8 coplas castellanas (octosílabos - lírica cancioneril)
+    - 40 sonetos
+    - 5 canciones (implementa la lira en castellano aBabB)
+    - 2 elegías (tercetos encadenados)
+    - 1 epístola (endecasílabo blanco)
+    - 3 églogas
+    - 3 poemas en latín
+  - no se conservan manuscritos de sus poemas
+  - Juan Boscán prepara la edición de sus obras (en conjunto con las de él) pero muere antes de publicarlas (en 1542). Entonces su viuda se encarga de hacerlo en 1543
+  - a partir de ahí hay muchas ediciones
+  - en 1569 sale una edición de las obras de Garcilaso solamente
+- Cristobal de Castillejo: Represión contra los poetas españoles que escriben verso en italiano, s. XVI
+  - Forma:
+    - estrofas de 10 versos octosílabos divididos en dos quintillas
+    - incluye un soneto en el que describe la confusión que generan Garcilaso y Boscán en su apariencia española pero usando formas italianizantes
+    - deja que Boscán y Garcilaso "se defiendan":
+      - incluye un soneto que atribuye a Boscán con problemas de rima y métrica (que es peor que el anterior que se atribuye a él mismo). El soneto tiene temática propia de Garcilaso (amor y sufrimiento)
+      - incluye una octava rima (forma también importada de Italia, se usaba para poemas épicos en el s. XVI) que atribuye a Garcilaso, con métrica incorrecta
+  - Temas:
+    - asociación entre los pecados literarios (de los poetas que introducen la lírica italianizante) y la actividad herética
+    - compara a los petrarquistas con los anabaptistas
+    - debe leerse en clave humorosa
+    - hace intervenir a los poetas del s. XV, que ya estaban muertos a esta altura, a su favor y en contra de los petrarquistas
+    - los critica por dejar de lado la tradición española a favor de la italiana
+    - repite las críticas a las que alude Boscán en su carta:
+      - la similitud con la prosa
+      - la falta de rimas
+    - argumenta que el castellano es afín a la brevedad
+    - la polémica va más allá de la forma, invita a cambios temáticos también:
+      - el ingreso de los poetas clásicos (Ovidio, por ejemplo) implica la introducción de toda una serie de tópicos literarios nuevos para España, sobre todo de origen latino
+      - por ejemplo: *carpe diem*, *aura amediocritas* (el camino del medio, ser mesurado)
+      - también se abren las puertas a la mitología clásica, que en parte se conocía ya en la Edad Media, pero muchos no.
+      - Todos estos tópicos son un bagaje muy rico para la poesía
+      - cuando los poetas del s. XV reproducen los mitos lo hacen un poco automáticamente porque no tienen acceso a los textos de forma directa
+      - pero ahora se abren otras posibilidades, otros conocimientos de los que tomar ideas para escribir
+    - finalmente, hay una especie de "reconciliación, la polémica no es tan fuerte
+- Sonetos de Garcilaso
+  - Soneto V:
+    - soneto amoroso
+      - los sonetos condensan una idea (epigrama latino), hacia el final se resume, sintetiza o cierra la idea
+    - escrito: impreso, grabado
+    - gesto: metonimia, imagen, cuerpo, toda ella
+    - detrás de este poema está la idea de Castiglione, de cómo entra la imagen del amadx a través de los espíritus vitales que entran y salen por los ojos. la imagen está entonces grabada en su alma
+    - como la amada está dentro de él, su voluntad lo domina para escribir: "vos sola lo escribistes; yo lo leo"
+    - Políptoton: escribí, escribiste
+    - Anadiplosis: se repite un final del verso en el siguiente.
+    - "no cabe en mí": la amada vinculada con Dios, no se puede racionalizar, es como la creencia en Dios
+    - "por habito del alma misma os quiero": se lee tanto en su sentido de vestimenta como de costumbre. 
+    - tercetos: condensación. Pasado, presente y futuro.
+  - Soneto VIII
+    - cuartetos: la amada está presente
+      - aquí también está la explicación fisiológica del amor de Castiglione
+      - los espíritus vitales se producen en todxs, no solo en el enamoradx, y aquí se enfoca en los de la amada
+      - los espíritus vitales de ella entran en el alma de él y se encuentran con los de él
+      - los espíritus vitales, conmovidos, salen de él, aquí la amada está presente
+      - intercambio de espíritus vitales: correspondencia amorosa?
+    - tercetos: la amada ausente
+      - cuando ella no está, como está grabada en su memoria, allí la imaginan
+      - cuando la recuerda sus espíritus vitales se conmueven como cuando ella estaba presente, y tratan de salir pero no pueden porque los de ella no están ahí para "derretir" / facilitar la salida
+   - 
+
+  
