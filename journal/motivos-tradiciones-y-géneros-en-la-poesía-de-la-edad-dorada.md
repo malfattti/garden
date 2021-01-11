@@ -447,7 +447,7 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
     - 40 sonetos
     - 5 canciones (implementa la lira en castellano aBabB)
     - 2 elegías (tercetos encadenados)
-    - 1 epístola (endecasílabo blanco)
+    - 1 epístola (endecasílabo blanco, es decir, sin rima)
     - 3 églogas
     - 3 poemas en latín
   - no se conservan manuscritos de sus poemas
@@ -502,6 +502,104 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
     - tercetos: la amada ausente
       - cuando ella no está, como está grabada en su memoria, allí la imaginan
       - cuando la recuerda sus espíritus vitales se conmueven como cuando ella estaba presente, y tratan de salir pero no pueden porque los de ella no están ahí para "derretir" / facilitar la salida
-   - 
+  - Soneto X
+    - en este soneto se ve la introducción de la mitología griega de la mano de la lírica italianizante
+    - aunque no es un soneto mitológico como tal, el primer verso alude  un verso puesto en la boca de Dido en la Eneida de Virgilio
+      - Eneas y Dido son amantes, pero Eneas la abandona luego de jurarle amor eterno porque tiene la misión de fundar roma
+      - Dido se queda sola y piensa en suicidarse: "estos despojos me ha dejado aquel pérfido, prendas queridas suyas": entre ellos una espada con la que Dido se suicida
+      - prendas: se entienden como objetos que unx amadx ha dejado a su amante como testimonio de su amor, prendas en las que está la impronta del amadx: su perfume, etc.
+      - un pasado dulce / presente amargo y doloroso, en el que el amante se encuentra cerca de la muerte por el sufrimiento por amor
+        - las prendas y la memoria en complot para hacerlo sufrir
+      - el poeta enamorado pide a las prendas y por metonimia a la amada, morir. si me llevaste tanto bien tan rápido, llévame junto al mal que me dejaste.
+      - movimientos melancólicos que van desde el dolor actual a la dulzura pasada: el amor como un recorrido (poesía petrarquista, itinerario en el que el amante va del dolor al placer)
+
+  - Soneto XI:
+    - también tiene componentes mitológicos
+    - primer cuarteto: 
+      - Ninfas: representaciones mitológicas del mundo grecorromano asociadas con la naturaleza
+        - hay ninfas de muchas partes de la naturaleza. 
+        - aquí se refiere a las Náyades, que son las ninfas de agua dulce
+      - columnas de vidrio: metáfora para el agua (como un templo de agua donde ellas viven)
+    - segundo cuarteto: 
+      - describe las posibles actividades de las ninfas dentro del río
+    - primer terceto: 
+      - apelación directa a las ninfas:
+        - les pide que se detengan un momento y que dejen lo que están haciendo para mirarlo, no les llevará mucho tiempo, porque...
+    - segundo terceto:
+      - aquí da las dos opciones de lo que podría pasar cuando lo escuchen     
+        - o bien les dará tanta lástima que no lo van a poder escuchar
+        - o bien el se va a convertir en agua por tanto llorar, se unirá con ellas en el río, en con esa forma podrán consolarlo
+    - sintonía entre la naturaleza y los sentimientos:
+      - mito de Orfeo: canta y con su canto se conmueven hasta las rocas
+      - también, la idea de metamorfosis
+        - Ovidio escribe *La Metamorfosis*, que es un compendio de mitos en clave de metamorfosis, o sea, un cambio de un estado a otro. Este texto va a inspirar a muchos poetas del s. XVI (y a otros tipos de literatura tb). Se traduce e imprime. Acá se ve su influencia en la posible transformación del yo poético.
+    - la pena es amorosa aunque no lo diga explícitamente. Esto se entiende por el petrarquismo, por los otros sonetos de Garcilaso, donde el amor es el gran tema
+    - El cancionero de Petrarca es un itinerario amoroso, partido en dos: cuando Laura está viva y cuando ya ha muerto. Se dice que la obra de Garcilaso es también un intento de cancionero de Petrarca / de itinerario amoroso, aunque no sea explícito. Los sonetos de Garcilaso hablan en su mayoría de amor y también pueden verse como un itinerario de todos los momentos amorosos.
+   - Soneto XIII:
+     - metamorfosis, de una forma mucho más explícita
+      - mito de Dafne y Apolo:
+        - Apolo es el dios de la música y también vinculado con el sol
+        - Dafne es una ninfa
+        - Apolo se enamora de Dafne (Eros se quiere vengar de Apolo y hace que se enamore de Dafne), pero Dafne no le corresponde
+        - Apolo persigue a Dafne, quiere poseerla, pero ella no quiere. Le pide ayuda al padre, quien para ayudarla la convierte en laurel, para que pueda escaparse de Apolo
+        - En la escultura de Bernini se ve la transformación que describe Garcilaso
+        - Garcilaso no tiene que contar el mito, asume que sus lectores ya lo conocen
+      - cuartetos:
+        - describen visualmente la transformación:
+          - los brazos y los cabellos en el primer cuarteto (exageración, los cabellos son más dorados que el oro, comparación e hipérbole)
+          - los miembros y los pies en el segundo cuarteto
+      - tercetos:
+        - describen el sufrimiento de Apolo
+          - es una paradoja: con su llanto por ver a Dafne convertida en laurel, adelanta esa metamorfosis.
+          - Apolo ni se nombra aquí, no es necesario, los lectores conocen el mito
+          - idea del enamorado que busca a la amada y esto hace que ella huya
+    -  Soneto XXIII
+       -  dos tópicos de la tradición grecorromana: *carpe diem* y *collige, virgo, rosas*
+          -  ambos aluden a aprovechar el momento y la juventud
+       - cuartetos:
+         - empiezan con "en tanto que"
+         - primer cuarteto:
+           - oxímoron, ideas opuestas: la rosa y la azucena, lo rojo y lo blanco, los ardiente y lo puro/honesto, la tempestad serena. en una variante aparece el verso "enciende el corazón y lo refrena'
+         - segundo cuarteto:
+           - el cabello como el de Dafne también se parece al oro de tan rubio, imita al oro, comparación
+         - primer terceto: aprovechar la juventus antes de la vejez
+         - segundo terceto: por qué? sentencia final, porque el tiempo cambiará todo, porque este no cambia sus hábitos: el de cambiar todo.
+           - políptoton: mudanza, mudará
+     - Canción III
+       - Comparación de dos dolores: por el exilio y por el amor. 
+       - Cuál es mayor? El mal de amores es más intenso que el del exilio
+         - Mi cuerpo lo puede tener el emperador, pero mi alma la tiene mi amada
+       - La descripción de la naturaleza es muy importante en este soneto
+         - locus amoenus: lugar ameno. tópico en el que se describe la naturaleza y sus elementos más esenciales (agua, prado, flores, pájaros) de una forma armoniosa y civilizada, no agreste
+         - es un lugar agradable, alguien que no estuviera sufriendo (por amor, por el exilio) podría disfrutar y descansar en esta isla
+       - elipsis: no dice "estoy cerca del Danubio", o "hay una isla cerca del Danubio", pero se sobreentiende
+       -  explicación de por qué está ahí / asume su culpa y pide perdón? (fue puesto ahí por oficiar una boda no autorizad por el emperador)
+       -  si muere, habrá quienes crean que ha muerto por pena por el exilio, pero él sabría que es a causa del amor. no lo dice explícitamente, pero esta es su verdadera pena
+       -  el cuerpo está en manos del emperador, pero éste no podrá controlarlo plenamente porque no tiene su alma, solo su cuerpo
+          -  el alma es posesión de la amada
+       -  ni el exilio es tan duro como el amor, ni la muerte es tan dura como el amor
+       -  quien haya sentido la desventura amorosa sabe que es peor que el exilio y que la muerte
+       - igualmente, se queja tanto del exilio como del mal de amores, o hay ambigüedad con respecto a estas dos posibles causas. "me lo han quitado todo"... quién?
+       - Apóstrofe en el que se dirige al Danubio:
+         - río que recorre naciones fuertes
+       - Metaliteratura:
+         - reflexión sobre su propia poesía "mis razones"
+         - el río es el único que puede llevar su poesía a otros lugares
+         - le pide que se las lleve pero también que las olvide o entierre (captatio benevolentiae)
+         - esta idea se refuerza en el envío (última parte de las canciones)
+           - solo tiene ocho versos
+           - se declara el o la destinataria de la canción
+           - aquí Garcilaso se dirige a la canción: aunque vayas a morir en las aguas no te quejes, yo te compuse bien, muchas poesías se me han muerto en la boca
+           - en el final nuevamente es ambiguo respecto de a quién está dirigida la canción y sobre quién tiene la culpa de las canciones que él no ha podido liberar, que ha reprimido
+       - Es importante conocer la vida de Garcilaso porque en su obra hay pasajes bastante autobiográficos. Aunque se puede leer sin saber sobre su obra
+     - Égloga I
+       - Fue escrita durante su estancia en Nápoles, período durante el cual escribe algunas de sus obras más importantes
+         - Contacto con las letras y culturas italianas
+       - La égloga ocurre en la duración de una jornada:  inicia cuando el sol sale y termina cuando se oculta
+       - A novel métrico: mezcla de heptasílabos y endecasílabos. Una mezcla que le gusta mucho a los italianos y Garcilaso introduce su variación a esta mezcla
+
+
+
+
 
   
