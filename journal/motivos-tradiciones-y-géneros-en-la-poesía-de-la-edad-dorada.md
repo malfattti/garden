@@ -173,7 +173,7 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
   - según Menéndez Pidal, los **"romances épicos"** nacen de la preferencia en ascenso por escuchar, recitar y memorizar, **fragmentos de los cantares de gesta**
     - esto explicaría su métrica
   - la métrica se organiza en octosílabos, sin organización estrófica (como ocurre en los cantares de gesta)
-  - rima asontante en verso par
+  - rima asonante en verso par
   - textos narrativos-líricos
   - versos organizados en hemistiquios (dos mitades, se cuentan como un verso entero y se separan por un espacio en la página y por una pausa en la entonación)
 - Tipos de romances:
@@ -423,7 +423,7 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
       - 
 
 
-## Clase 7
+## Clases 7, 8 y 9
 ### Garcilaso de la Vega
 - Vida de Garcilaso (1501?-1536)
   - recibe educación cortesana (música, esgrima, caza, latín, poesía, etc.)
@@ -595,8 +595,91 @@ Como dice Jaime Siles, si bien las corrientes se organizan cronológicamente con
      - Égloga I
        - Fue escrita durante su estancia en Nápoles, período durante el cual escribe algunas de sus obras más importantes
          - Contacto con las letras y culturas italianas
-       - La égloga ocurre en la duración de una jornada:  inicia cuando el sol sale y termina cuando se oculta
-       - A novel métrico: mezcla de heptasílabos y endecasílabos. Una mezcla que le gusta mucho a los italianos y Garcilaso introduce su variación a esta mezcla
+       - Estructura:
+         - parte narrativa: v. 1-56. Anuncia de qué va a hablar y dedicatoria al mecenas (programática, va a cantar las quejas de los pastores, imitando sus quejas, dándole la voz)
+           -  Entorno natural:
+              - figura de Orfeo que conmueve con su música a la naturaleza y que llega a transformarla. Esto se ve desde el comienzo en cómo las ovejas se olvidan de pacer cuando escuchan a los pastores. Y se ve en cómo cada pastor con su historia diferente transforma a la naturaleza de manera distinta. 
+                - Parker propone que en el caso de salicio, como su amada lo ha dejado la relación con la naturaleza se presenta como quebrantada:
+                  - esto se ve en el río que se aparta, pasaje en el que se referencia también el mito de Tántalo
+                  - también se ve en las parejas de la cordera con el lobo y la serpiente con las aves en un nido
+                - Mientras que en el caso de Nemoroso como su amada ha muerto, está en armonía con la naturaleza
+              - locus amoenus
+            - adulación del mecenas, el virrey de Nápoles. Comenta las actividades en las que este se implica y lo adula mucho / se pone debajo
+            - ¿captatio benevolientiae? no de forma estricta, porque la captatio benevolentiae suele dirigirse al público y no al dedicatario
+            - es una parte más bien obligatoria, a pesar de que Garcilaso lo hace muy bien
+         - monólogo amoroso de Salicio: v. 57-224 (12 estrofas)
+           - su amada Galatea lo ha dejado
+           - Galatea se compara con el mármol y la nieve
+           - no es la Galatea de Polifemo y galatea, pero el nombre no es casual, porque la historia de Polifemo y Galatea es narrada en muchas églogas antiguas
+           - intercambio de almas de la concepción neoplatónica, el amor fue correspondido entre estos pastores en un momento
+           - salir sin duelo lágrimas corriendo: paralelismo, lo repite en todas las estrofas. sin dolor o sin compasión, o sin conflictos. le da un ritmo al poema
+           - Salicio es un pastor
+             - lírica pastoril o tradición pastoril: 
+               - siglo V a. C., Grecia: Teócrito vive en la ciudad, idealiza el campo y escribe los *Idilios*: idealización del campo y los personajes que viven allí, pero desde la ciudad. Es una visión falsa pero muy bella de la vida pastoril
+                 - Pero los personajes que aparecen en estas obras no son los reales, sino que son pastores idealizados 
+                 - ellos aman mejor que los ciudadanos corruptos, aman neoplatónicamente
+               - Virgilio: latino. Escribe églogas o bucólicas
+               - Garcilaso tiene presente a estos dos poetas, sobre todo a Virgilio, cuando escribe sus églogas
+               - también tiene en cuenta a Sannazzaro, poeta italiano
+               - las églogas son un tipo de literatura pastoril
+           - doble metáfora en la que se compara a la amada con una hiedra y una parra y al nuevo amante con un muro con un olmo
+           - "el mantuano Títero": es Virgilio, que está detrás de la tradición que sigue Garcilaso. Títero es un pastor de Virgilio, muchos dicen que es una figura autobiográfica al igual que Salicio de Garcilaso.
+           - Salicio dice que no es "tan diforme ni feo", puede que esté aludiendo a Polifemo, cabrero que ama a Galatea, una ninfa
+             - aquí también se referencia el mito de Narciso: que se mira en un estante y se enamora de sí mismo
+         - narrador: v. 225-238
+           - introduce lo que viene y le da cierre a Salicio
+           - Filomena: es el ruiseñor, también canta conmovida por Salicio
+           - le da las palabras a las musas
+           - el narrador mismo se conmueve
+         - monólogo amoroso de Nemoroso: v. 239-407 (12 estrofas)
+           - su amada ha muerto
+           - armonía con la naturaleza: se ve al comienzo
+           - alusión a las parcas: la vida como un hilo que ellas hilan y cortan
+             - metáfora y metonomia (hilo - tela)
+           - metáfora del cuello: la columna
+           - comparación de la noche/ el temor que ella trae con la muerte de la amada y la oscuridad que ella trae 
+             - hasta que llegue la muerte y lo lleve hasta ella de nuevo
+           - comparación del ruiseñor al que el cazador le ha sacado los pollitos con él y su dolor porque la muerte le ha sacado a Elisa. la amada está en el corazón del poeta como si éste fuera un nido
+           - Elisa muere por el parto. esto se deriva de la alusión a Lucina, que es la patrona de los partos
+           - El lamento termina dirigiéndose a su amada. 
+             - Pide que se apresure el tiempo y morir, y reencontrarse en la otra vida con ella
+             - pide que ella se lo lleve consigo
+         - narrador: v. 408-421
+           - cierra la égloga al final del día. 
+         - La égloga ocurre en la duración de una jornada: inicia cuando el sol sale y termina cuando se oculta
+       - Métrica: 
+         - mezcla de heptasílabos y endecasílabos. 
+         - Una mezcla que le gusta mucho a los italianos y Garcilaso introduce su variación a esta mezcla
+         - 33 estrofas o estancias: rima consonante, respondiendo al esquema ABCBACcddEEFeF (14 versos)
+  
+## Clases 9 y 10
+### Fray Luis de León
+- No hubiera existido si Garcilaso no hubiera existido
+- Pero Fray Luis de León es un poeta distinto a Garcilaso
+- Toma la métrica italianizante 
+  -sus odas son liras: mezcla de endecasílabos y heptasílabos
+- Pero su contexto es muy distinto al de Boscán y Garcilaso
+  - Ellos están en la corte
+  - Fray Luis es un Profesor de la Universidad de Salamanca, muy ligada a la cúrea
+  - Fray Luis es sacerdote y profesor
+- El no es un místico como tal, sino que habla del espíritu en términos neoplatónicos
+- "Oda a la vida reposada"
+  - Temas: 
+    - puede inscribirse dentro de la literatura pastoril, pero es diferente porque no hay pastores
+    - pero sí exaltación de la vida en el campo en oposición a la vida en la ciudad
+    - Horacio y la Biblia ya tocan este tema
+    - Fray Luis tiene una casita en el campo "La flecha", referencia a este lugar y a donde él quiere hhuir
+    - la vida reposada es de quienes son sabios
+    - la vida reposada, estrecha, se opone a la vida rápida y más fácil
+    - fatiga que causa la vida universitaria y deseo de huir a un lugar lejos de esa vida, de una vida activa a una contemplativa
+      - desea vivir en sosiego y secreto, aprendiendo lo que cada día voy olvidando más
+    - 
+  - hipérbaton: la sintaxis está trastocada 
+  - metáfora de la vida como un navegar
+  - sangre: el origen, en el s. XVI tener la sangre cristiana y no judía es importante
+- La primera edición impresa de las obras de Fray Luis de León la hace Quevedo en 1631
+
+
 
 
 
