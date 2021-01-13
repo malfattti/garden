@@ -246,6 +246,7 @@
 - La **lexicología** se propone estudiar el vocabulario de una lengua y la descripción de su estructura, así como de sus cambios
 - su objeto principal es la palabra como elemento del vocabulario
 - También se ocupa de la realización de diccionarios:
+  - en ninguna variedad lingüística hay sinonimia absoluta
   - como una forma de aplicar los conocimientos lexicológicos
   - como una forma de satisfacer necesidades teóricas y prácticas
 - La **sociolingüística** se propone estudiar las lenguas tanto diacrónica como sincrónicamente, siempre en su contexto socual. 
@@ -271,12 +272,591 @@
   - núcleo hispánico y/o romance (aprox. 95%?)
   - koineización de variedades peninsulares
   - neología: creaciones que coinciden con alguna variedad peninsular o americana, se le suman creaciones propias
+      - variedades peninsulares que aportaron léxico al judeoespañol se vieron en competencia con otras formas. Procesos de koineización en el que no siempre prevalecieron los rasgos mayoritarios
   - préstamos del hebreo, la lengua de cultura
-  - préstamos de las lenguas balcánicas, sobre todo turco y griego (en menor medida y con uso limitado: búlgaro, serbio, croata, bosnio, rumano, etc.)
+  - préstamos de las lenguas balcánicas, sobre todo turco y griego (en menor medida y con uso limitado: búlgaro, serbio, croata, bosnio, rumano, etc.). Era necesario que hablaran estas lenguas para formar parte de la jerarquía social
+    - variación diatópica dentro del judeoespañol oriental
   - préstamos modernos del francés y el italiano
 - Ejemplos de variación diasistémica en el léxico del sefardí oriental
   - dos paradigmas finitos: días de la semana y las cuatro estaciones del año
   - un paradigma abierto: la denominación de los colores
-- 
+- Fuentes textuales
+  - Pérez, Yishac, Conversación hebreo-español (Sofía: Hamišpat 1924)
+    - el judeoespañol es vehicular para la enseñanza del hebreo
+    - sefardí escrito con caracteres cirílicos
+    - también se ofrece una transcripción en cirílico del texto en hebreo
+    - se publicó en Sofía
+    - es una guía de conversación con frases que tienen que ver con vida cotidiana, la comida, por ejemplo
+    - los días de la semana aparecen de la siguiente manera:
+      - alhad / yom rišón, lunes / yom šení, martes / yom šeliší, miérculis / yom rebií, ĵueves / yom hamiší, viernes / yom šiší, šabat / yom šabat
+      - los nombres de los días en hebreo tienen el musmo patrón que en el español, donde un morfema significa "día de" (yom) (sintagma latino Lunae **dies**: día de la luna)
+      - en sefardí los días de la semana tiene origen romance
+      - solo el domingo "alhad" es diferente, para evitar la connotación religiosa cristiana que tiene "día del señor" lat. cl. DŎMĬNĬCUS > lat.vg. DŎM’NĬCUS
+      - el nombre sábado en español en general viene del hebreo (cfr. sef. šabat y esp. año/semestre sabático)
+    - las estaciones del año: 
+      - la primavera, el enverano, el otoño (esen), el envierno
+      - se unifica el paradigma finito enverano - envierno por analogía. 
+      - "el otoño" se sustituye por esen, 'otoño' en búlgaro (al menos desde 1924)
+  - Cherezlí, Šelomó Israel: Chico diccionario judeo-español – francés (Jerusalén 1896)
+    - este diccionario incluye unas notas sobre las categorías gramaticales en las que se usa un metalenguaje:
+      - en estas notas hay adjetivos cuya marca de femenino es propia del judeoespañol: "letra vocala", así como un "muette", la traducción al francés del español "muda", pero que calca al español en cuanto a la forma: las letras en francés son masculinas y por lo tanto el adjetivo de 'h' debería ser 'muet'
+      - la glosa al español no es una traducción sino una explicación
+      - el verbo meldar es un helenismo adaptado muy tempranamente al sefardí oriental, tanto que se propuso que debía ser un hebreísmo (refutado)
+  - Romano, Samuel: Dictionary of Spoken JudeoSpanish / French / German (Zagreb 1933; ed. facsímil Jerusalén: Misgav Yerushalayim 1995)
+    - Samuel Romano nació a principios de siglo XX en Bosnia y murió muy joven en la II Guerra
+    - el diccionario es la edición facsímil de su tesis doctoral y se basa en estudios de campo y encuestas, por lo que es muy preciso en su retrato del judeoespañol oral
+    - está escrito en caracteres latinos con grafía bosnia
+    - su objetivo es ayudar a los sefardíes a aprender a escribir y hablar el búlgaro
+    - Contiene 3.608 lemas y una guía de conversación para contextualizar
+    - usa la aljamía, transcribe las palabras búlgaras en rashí para indicar la pronunciación
+    - Observaciones:
+      - se observan fórmulas de cortesía y el deferencial vos
+      - presencia de galicismos: madam, madmuaśel, devuado (fr. dévoué ‘entregado, fiel’)
+      - presencia de italianismos:  rengracio, caro, adïo
+      - calcos formales sobre el búlgaro: nochada liviana [i.e. ‘buenas noches’, al despedirse de alguien], cfr. búlg. лека нощ
+      - Se unifica el paradigma: *apreto* aparece sin diptongo
+      - Hay metátesis rd a dr.
+  - Nehama, Joseph: Dictionnaire du judéo-espagnol (Madrid: CSIC 1977)
+    - Recoge el muy importante caudal léxico de Salónica
+    - tiene unas 20.000 palabras entre las que hay onomástica y toponimia
+    - las entradas se traducen al francésignificancese refleja la polisemia de las palabras
+    - incluye frases hechas y ejemplos de uso
+    - refleja la entrada por vía escrita de la palabra marronchino, en la que la ch se lee como la africada palatal, como en español, cuando al proceder del italiano se pronunciaría [k]
+  - Diksionario Amplio Djudeo-espanyol – Ebreo Avner Pérez, Jerusalén, 2007
+    - a pesar de ser moderno, no es fiable porque usa una agrafía ecléctica, la lematización  es arbitraria y los diccionarios y glosarios que recopila no están seleccionados con ningún criterio evidente.
+  - Fichero de Cynthia Crews:
+    - es un fichero manuscrito y reúne abundante material inédito que no está sistematizado
+    - se orienta a la redacción de un diccionario del judeoespañol que comprenda todos los datos léxicos que la autora juntó durante sus años de estudio en el campo
+    - poco a poco se está digitalizando
+  - El CORHIJE: Corpus Representativo de la Historia del Judeoespañol
+    - se propone elaborar un corpus digital experimental del judeoespañol basado en textos diversos (en cuanto a género, datación y lugar de origen)
+    - proyecto de lingüística aplicada
+    - objetivos:
+      - transcribir y acumular un corpus representativo
+      - desarrollar herramientas informáticas para crearlo y usarlo
+      - la base de datos permitirá hacer búsquedas según criterios múltiples
+    - DHJE: Diccionario Histórico del Judeoespañol
+      - en estado embrionario, pretende formar una historia del léxico del judeoespañol
+      - como punto de partida usa las papeletas manuscritas de Cynthia Crews
+      - accesible en línea, interfaz de consulta y entorno de edición
+      - la base de datos permitirá hacer búsquedas según criterios múltiples
+- Campo léxico semántico abierto: la denominación de los colores
+  - inventario de colores primarios y matices y se estudiará la formación de palabras de la misma familia
+  - Ejemplo: blanco y familia:
+    - un adjetivo que está documentado en todas las fuentes lexicográficas sefardíes mencionadas
+      - acepciones: una es "carbón": posible paralelo con el árabe
+      - otra es dinero -tb en español-: por el color blanco de la moneda de plata
+      - matices: se usa el *ito* en sefardí, que no es diminutivo
+    - familia: 
+      - sustantivos varios incluyendo blanqueza
+      - en los de Sarajevo se ven el sufijo diminutivo -ica (Bosnia, Serbia, Croacia, etc.) y la evolución bl>br en dobletes de origen luso
+      - el sufijo *ucho* no es productivo en judeoespañol lo que permite formar *blancucho* 'albino"
+      - verbos:
+        - se forman –al igual que los neologismos en español- con el sufijo –ear, el prefijo en- y el desemantizado sufijo incoativo –cer
+  - Ejemplo: negro y familia:
+    - se trata de un lusismo (se supone por la ausencia de diptongo)
+    - hay un sinónimo, mango, que viene del romaní con el que se autodenominan los gitanos pero en búlgaro se adopta para referirse despectivamente a los gitanos
+    - tiene como en otras lenguas connotaciones negativas
+    - en las entradas se ve como el judeoespañol conserva el género femenino de mar
+  -  Ejemplo: rojo y familia:
+     -  El sefardí conserva la palabra castiza colorado (con sus variantes) para referirse al color rojo, considerado desde tiempos remotos el color por antonomasia.
+     -  se distinguen diferentes grados de rojo: grana, por ejemplo
+     -  vino colorado, calco del francés?
+     -  se usa para denominar a la libra por el color cobrizo
+     -  matices con -*iento, -acho, -ito.*
+     -  Los sustantivos se forjan con los sufijos *-or, -dez(a), -ción* y los verbos con *-ear, -cer* y el prefijo* en*
+     -  Se observa la frase *El Mar Rubio*, que en convivencia con *la mar* refleja el polimorfismo característico del judeoespañol
+  - Ejemplo: amarillo y familia:
+    - La denominación presenta variantes fonéticas.
+    - El matiz está formado con el sufijo -ento; los sustantivos con -or y -ud (o quizás el -ut hebreo); el verbo con -ar.
+    - Como es lógico, por la presencia manifiesta del color amarillo, se desarrollan las acepciones de ‘ictericia’ y de ‘moneda de oro’.
+  - Ejemplo: verde y familia:
+    - se se presenta con dos variantes fonéticas: la castiza con metátesis *rd > d*r y la hispanizada, más moderna, sin metátesis
+    - Los afijos de formación adjetival son -acho (quizás lusismo), -lí (turco, de origen árabe),-ento y en-.
+    - Cabe señalar que el color verde se relaciona con la falta de madurez, lo que explica el neologismo cariñoso vedrećico ‘bobalicón’ (nótese el uso del sufijo diminutivo sefardí con connotación de afecto).
+    - En cuanto a El Verde, para referirse de forma jocosa a los musulmanes, se establece una relación con el color simbólico del islam, el verde. 
+    - Los afijos de formación nominal son -or, -ura, -ez, en-, -miento; de los verbos, -cer.
+- Los retos de la lexicografía sefardí actual:
+  - digitalización y modernización de las fuentes
+  - crear las herramientas que permitan estudiar rigurosamente esta variedad
+- Conclusiones
+  - el léxico sefardí tiene gran parte en común con las demás variedades del español (homegeneidad de la lengua española)
+  - como toda modalidad lingüística debe estudiarse teniendo en cuenta todas las variaciones
+  - la lexicografía es un campo con mucho por desarrollar y presenta muchas oportunidades para los investigadores jóvenes que quieren aportar al conocimiento de las variedades del español
+
+## Clase 5
+### Áreas dialectales del judeoespañol
+- La koiné del judeoespañol:
+  - la base es castellana
+  - también presenta muchos rasgos no castellanos
+  - el desarrollo independiente del judeoespañol de Salónica y de Estambul es fundamental para explicar la variación diatópica
+    - estos dos centros culturales y económicos fueron modelos lingüísticos para las otras comunidades
+  - otras lenguas como el italiano, el alemán, las lenguas eslavas, el francés y el castellano, contribuyeron también a las diferencias entre las variedades
+  - aunque las comunidades sefardíes no estaban en territorios continuos, el judeoespañol constituye un continuum dialectal
+- **Áreas dialectales según criterios fonético-fonológicos**
+  - **Área A**: Macedonia, Grecia (Salónica), Turquía (Estambúl y Esmirna), Egipto:
+    - **metátesis** [rd], 
+    - **no neutralización de las vocales** medias /e/ y /o/ (>[ i] e [u]) 
+    - no neutralización de las vocal central /a/ (> [ɛ], [e])
+    - **2 subáreas**:
+      - **Área a1: Turquía -> caída de F-**
+      - **Área a2: Salónica -> conservación de F-**
+  - **Área B: área periférica europea**: Bosnia, Croacia, Serbia, Bulgaria, Viena: 
+    - **inicio de pérdida de distinción entre /r/ y /ɾ/, /ts/ y /dz/**
+    - **no metátesis** del grupo /rd/,
+    - **pérdida de F-**
+    - **cierre de las vocales** medias átonas /e/ y /o/
+    - <u>Mayor polimorfismo e inestabilidad</u> por falta de centros culturales sefardíes. Desde s. XIX fuerte influencia de las lenguas nacionales y desplazamiento del judeoespañol hacia estas (solo dos décadas más tarde en el área A).
+      - en 1878 se independizan Serbia, Romania y Bulgaria, que instalan las lenguas nacionales
+      - en el mismo año Sarajevo y Croacia pasan a manos de la Casa de Habsburgo y desde entonces comienza a haber una relación con el alemán (tratado de Berlín) que ejerce mucha influencia sobre el judeoespañol
+  - **Área C: periférica extraeuropea**: Israel:
+    - **Enmudecimiento de F-**
+    - **metátesis de [rd]**
+    - **cierre de las vocales [e, o]**
+    - **pérdida de las variantes fricativas de /d/ y /g/**
+    - **presencia de /ts/** por influjo del hebreo moderno y del yídis
+    - **presencia de los sonidos [h,ʔ,ʕ]**  (uvulares y glotales) de las lenguas semíticas (árabe y hebreo).
+    - área mixta, comparte características de a y b.
+- **Resumen de las áreas fonético-fonológicas**:
+  - Área a: Salónica y Estambul, los dos centros culturales
+  - Metátesis y no metafonía. 
+  - 2 subáreas: 
+    - Salónica: conserva f-inicial 
+    - Estambul, no la conserva
+    - Área periférica Balcanes: 
+      - porque no desarrolló centro de cultura y empezaron antes con mov. nacionalistas. 
+      - Metafonía vocálica pero no metátesis.
+      - Área c: Jerusalén. 
+        - Koiné de koiné. 
+        - Comparte rasgos con el área a y b. 
+        - Más influjo de lengua semítica: uvular y glotal
+        - sonido más agudo del sonido ts- (africada sorda)
+
+
+- **Áreas dialectales según léxicos**:
+- En el léxico, las áreas dialectales transcurren entre Salónica y Estambul, que dieron lugar a las dos koinés más importantes y trascendentes en judeoespañol
+- Después del s. XVIII, cada uno de estos centros siguió su propia evolución lingüística sin grandes interferencias entre una norma y otra.
+-  Característica del judeoespañol es su fuerte polimorfismo que se refleja en la variación diatópica (cfr. Mapa ciruela, p. 406; handout, p. 4)
+-  En líneas generales:
+   -  Estambul: más elementos de origen popular que Salónica (alguenga lengua’, muncho ‘mucho’, tamién ‘también’, puerpo, ‘cuerpo’) cfr. mapa mucho
+   -  Salónica: más elementos léxicos de origen no-castellano que el empleado en Estambul (coda, ar. coda, ‘cola’ cat./ar. Mangrana ‘granada’, león. Fegado ‘hígado’, ar./port. medko ‘médico’) Cfr. Mapa p. 406, handout, p. 5
+      -  Influencia de judíos francos (que venían de Italia) que eran millonarios y sus italianismos se pusieron de moda.
+   -  En Sarajevo el portugués está incluso más presente que en Salónica.
+- El rol de las rutas comerciales en la difusión del léxico por el Mediterráneo:
+  - marinos portugueses
+  - comerciantes italianos (sobre todo venecianos)
+- también se toman préstamos de las lenguas locales
+- El polimorfismo léxico también se da en una misma comunidades. No siempre son variantes diastráticas sino que son intercambiables
+- **Área 1:** Turquía y parte oriental de Bulgaria
+  - incluye la mayor parte del léxico de Israel
+    - pero tiene elementos de áreas 2 y 3 también
+    - Israel siempre es koiné de koiné
+  - En Jerusalén hay formas que no existen en las comunidades de los balcanes como ziruela, mursielago y panyuelo (mapa ciruela). 
+  - Hay más formas castellanas
+- **Área 2:** ruta comercial Salónica, Skoplie, Sofia, Vidin, Ruse, Bucar
+  - hay formas no castellanas como koda 'cola', djendjivas 'encías', fegado 'hígado', medko 'médico' que se difundieron desde Salónica. 
+  - Influjo del italiano
+-  **Área 3:** Comunidades situadas en la costa del mar Adriático y en el interior de los Balcanes (Sarajevo, Belgrado) hasta algunas comunidades macedonias
+(Bitola, Castoria). Algunos rasgos
+léxicos están también presentes en
+Salónica. Cfr. mapa ciruela
+   - Mayor presencia de formas iberorronánicas no castellanas (portugués, gallego, catalán, etc.)
+   - área más mixta, tiene influjo un poco de todo
+- Otras lenguas no iberorrománicas de la koiné judeoespañola 
+  - El adstrato alemán en las comunidades del norte de los Balcanes:
+    - se integra por el contacto de los sefardíes con la comunidad de Vieja desde ppios. del s. XIX
+      - así adquieren el fonema ts- y la caída de la e inicial en palabras como 'estación'
+    - en los Balcanes el alemán pasa a ser parte de la cultura de la burguesía urbana a partir de 1878. Educación de los chicos en Viena, así que en Bosnia, Serbia y Croacia el léxico alemán abundaba
+      - Había escuelas protestantes que tenían escuelas para los judíos, para evangelizarlos. Muchos judíos mandaron a sus hijos a estas escuelas.
+
+  - Italiano: 
+    - Los judíos de origen italianos en Salónica eran un 20% de la comunidad judía entre 1550 y 1560, y se asimilaron a los sefardíes y otras minorías
+      - Romaniotas: los judíos que ya estaban de origen italiano, los francos llegan después y tb hablan italiano. El judeoespañol de Salónica parece italiano
+    - el contacto con el italiano se produjo hasta el s. XX y dejó huellas en léxico y entonación
+    - la otra lengua de cultura de los sefardíes.
+  -  El adstrato cultural francés
+       -  desde 1865 entran las escuelas judeofrancesas en el Imperio Otomano, con ellas la cultura y el idioma francés se vuelven signos de prestigio
+          -  se les enseñaba todo en francés. Era para que los sefardíes pudieran ir y aprender una lengua “de verdad”y que tuvieran un capital cultural.
+
+       -  el francés llevó a la reinterpretación fonética de algunas vocales: ((a)zucar > sucre, antigo > antico)
+       -  no ayuda a diferenciar variedades diatópicas porque influye al judeoespañol de manera general desde la tercera parte del s. XIX (ej. azer atansion, fr. faire atention)
+       - el francés reactiva vocablos de origen iberorromanico que se parecen a los franceses como *pruna* o *todos los dos*. 
+    - El adstrato turco:
+       - no fue decisivo en la configuración diatópica del judeoespañol hasta el s. XIX
+       - hay dos niveles:
+         - Turquismos léxicos que son préstamos directos (apartir del s XIX) como ocurre en Turquía y Bulgaria
+         - Turquismos léxicos que son préstamos indirectos (cuando aún existía el Imperio Otomano), a través de otra lengua balcánica local, por ejemplo el serbio (lleno de turquismos, entran sobre todo aquellos del léxico legal por ejemplo)
+- Desdibujamiento de las zonas dialectales tradicionales:
+  - a finales del s. XIX los sefardíes comienzan a integrarse en las sociedades en las que vivían y en consecuencia el judeoespañol quedó relegado al contexto familiar y fue reemplazado en el ámbito social por otra lengua.
+  - entonces cambia su mapa geográfico sobre todo en el aspecto fonológico
+  - los números de hablantes disminuyen
+    - también debido a la emigración de los sefardíes a países occidentales
+  - entre 1941 y 1945 se produce el golpe definitivo al asesinato o deportación de más del 50% de los hablantes del judeoespañol por parte de los nazis
+    - el exterminio borró también el recorrido de la isoglosas
+  - Hoy en día los que hablan judeoespañol ya no representan las variedades originarias del judeoespañol, es un judeoespañol rekoineizado y con influjo del español
+  
+  ## Clase 6
+### La haquetía (haquitía, haketía, jaquetía)
+- Ideologías en torno a la haquetía:
+  - nombre "vulgar'
+  - fue influenciado por el "español moderno" lo que eliminó gran parte de sus rasgos esenciales
+  - es un dialecto
+  - es consdierablemente distinto del que es hablado por los judíos del Oriente 
+  - compuesto de castellano antiguo más o menos bien conservado, árbae, hebreo, etc.
+- Variedad del judeoespañol hablada por los sefardíes que emigraron a Marruecos cuando fueron expulsados de España
+- El glotónimo proviene de la raíz árabe haka ىكح') hablar, 'decir', contar')
+- Influjo del árabe en la fonética (sonidos laríngeos y glotales) y en el léxico: 
+  - ḥamor (ár. ḥamār) 'burro'
+  - ḥa-luf (ár. ḥallūf) 'cerdo' (también en sentido figurado 'gordo')
+  - charmilla (ár . tcharmile 'adobo')
+  - 'assear (ár . ʕass 'vigilar' , 'guardar' , 'cuidar'
+  - wa (ár. wa 'porque , pues')
+  - aiwa (ár. āw 'que tal')
+  - "desjatarado": desanimado (del árabe *jata*: animar), "jammeas" (viene del árabe: *hammam*, pensar sobre), essem (del árabe *sem*, veneno)
+
+- o sea que en vez de limitarse solamente al plano léxico como ocurre con el ladino y las lenguas el entorno, la influencia del árabe en la haquetía se da también en la fonología:
+  - presencia de ḥa, gráficamente <ח <en haquetía (p.ej.: ḥammal 'cargador')
+  - xa, <כ) <p.ej. xatar 'consideración')
+  - y ha, <ה) <p.ej.: huá 'aire'), 'ayn <צ> (p.ej.: 'ažmía (literalmente 'lengua extranjera')
+  - presencia de consonantes geminadas en palabras hispanas del tipo haq. aźźul frente a esp. azul o haq. corazzón frente a esp. corazón, que marca pronunciación enfática.
+- debido a las condiciones políticas, sociales y geográficas, el judezmo y la haquetía evolucionaron de forma diferente, pero el resultado final es el mismo porque ambas variedades se perdieron. En ambos casos el judeoespañol ya no es la lengua vehicular en la comunicación oral y escrita.
+- también las comunidades norafricanas encontraron un lugar en la Red para compartir su lengua y cultura
+- Asentamiento y demografía de los hablantes de la haquetía
+  - s. XII: empiezan las migraciones de los sefardíes al Magreb 
+  - en 1287 un grupo de judíos de Menorca se radica en la zona central del Magreb
+  - finales del s. XIV: la mayoría de los judíos hispanos migra a Argelia debido a los progromos (masacre) de 1391
+  - Cuando expulsan a los judíos de la Península Ibérica en 1492 y 1492 los sefardíes que cruzan el estrecho de Gibraltar se quedan en Marruecos sobre todo
+    - Magreb es la ciudad más cercana con la frontera de españa. Muchos se quedan ahí porque piensan que pronto vana  poder volver a España
+  - hasta 1498 hubo cuatro oleadas migratorias importantes
+  - la comunidad que se formó a raíz de esta migración es mucho más pequeña que la del Imperio Otomano
+  - las dificultades que se presentaron en territorios marroquíes como la falta de estabilidad política y económica hizo que muchos no se quedaran
+  - se asentaron en primer lugar en  Orán, Argel y Fez
+  - ahí la gran mayoría se dirigió a las ciudades costeñas de la región del Norte de Marruecos: Tetuán, conocida como “Yerušaláyim chiquita” ('pequeña Jerusalén', Benarroch 1970, p. 266) Tánger, Ceuta, Alcazarquivir, Larache
+  - muy pocos fueron al interior, como en el caso del Imperio Otomano
+    - en el interior, en Mequinez, había una pequeña comunidad de judíos marroquíes que hablaban bereber y se terminaron asimilando a los sefardíes
+      - los sefardíes representaban el progreso
+    - hacia el centro y sur de Marruecos hay comunidades judías autóctonas que hablan árabe y asimilan a los sefardíes, perdiendo estos su lengua hispana
+  - O sea que en Marruecos hay:
+    - judíos autóctonos arabófonos en el centro y en el sur del país
+    - judíos autóctonos bereberes en la parte norteña interior
+    - judíos sefardíes de habla hispana, asentados sobre todo en las costas de la zona norte. 
+- La situación lingüística hasta 1860
+  - En todo el territorio islámico quienes no eran musulmanes, incluyendo los judíos, tenían la condición de *dhimmi*
+  - con el pago de tributo que se regulaba en un contrato llamado *dhimma*, las minorías no musulmanas garantizaban tener derechos y se les daba un alto grado de autonomía judicial, administrativa y cultural. Esto facilitó la conservación de la propia lengua e identidad étnico-religiosa de estas minorías.
+  - Los judíos marroquíes vivían en juderías que también garantizaban la cohesión grupal
+  - La haquetía era entonces no solo un modo de expresión intracomunitario sino reflejo de la identidad hispano europea de los judíos magrebíes viviendo en medio de una población árabe
+    - permite distinguirse de las demás poblaciones: la árabe y la de los judíos-árabes ya instalados para la llegada de los sefardíes
+  - el empleo de la haquetía dependía del estilo del texto
+    - cuanto más formal y/o religioso el texto:
+      - desaparecen los arabismos
+      - desde el s. XVIII en adelante, además, se presentan rasgos hispanizantes como:
+        -  uso de la velar fricativa sorda /x/ (representada en aljamía mediante <’כ <y <ח), frente a las prepalatales /ʃ/ y /ʒ/ (que tradicionalmente se representan en judeoespañol mediante <’ש <y <’ז ).
+     - o sea que ya en el s. XVIII la haquetía, lengua vernacular vehicular intragrupal, va perdiendo los rasgos propios y se orienta a formas más hispanizantes cuanto más alto sea el grado de formalidad involucrado
+     - esto demuestra que no se perdió totalmente el contacto entre los sefardíes marroquíes y España a partir de 1492, como sí pasó en los Balcanes y Turquía
+   - Hay pocos textos en haquetía, no hay géneros modernos escritos en haquetía sino documentos comunales y epistolares
+   - los estudios sobre haquetía se han basado en la literatura oral de tipo tradicional
+   - el hebreo tenía el estatus de lengua santa como en los Balcanes y Turquía
+   - con los que no pertenecían al *in-group* étnico-religioso, los sefardíes usaban el árabe dialectal
+     - a diferencia de los sefardíes del Oriente, los sefardíes marroquíes eran bilingües y compartían el árabe marroquí con la población árabe
+   - o sea que hasta 1860 la situación comunicativa era:
+     - dentro de la comunidad, la haquetía se usaba para situaciones de cercanía comunicativa, y para la distancia comunicativa pero con formas hispanizadas. El hebreo también se usaba para la distancia comunicativa y tenía un uso social restringido
+       - la gente no sabía hablar hebreo, está en las escrituras, liturgia y los hebraísmos que sirven para las comidas y rituales.
+     - para comunicarse con individuos externos a la comunidad se usaba el árabe dialectal marroquí
+       -  a diferencia de las comunidades turcas, por ejemplo, donde solo algunos representantes de la comunidad hablaban turco. 
+       -  Quizás por eso la haquetía se perdió más: espectro de uso más reducido
+       -  la haketía solo se usa para la cercanía comunicativa, el judeoespañol de Oriente cubre todos los ámbitos
+       -  hombres, mujeres y niños saben hablar el árabe
+ - Situación a partir de 1860:
+   - contexto histórico: 
+     - En el s. XIX tanto España como Francia desearon colonizar el norte de Africa
+     - España ocupó Tetuán en 1859 y declaró la guerra a Marruecos
+     - tras esta guerra (1859-1860) España instaló una administración en Tetuán que durará hasta 1862
+     - en 1912 Francia pasa a poseer la mayor parte de Marruecos con el tratado de Fez
+     - en el mismo año España pasa a poseer la zona norte de Marruecos:
+       - Tetuán, Larache, Alcazarquivir, Arsila, Xauen, Nador y las zonas motañosas del Rif 
+         - España se queda con el oeste del norte de Marruecos, Francia con el noreste
+     - en 1923 Tánger adquiere el estatuto de zona internacional bajo la custodia de los estados europeos
+       - zona de libre paso de los aliados y tráfico
+     - España rompe este tratado en 1940 y se anexa la ciudad hasta 1945
+     - solo en 1956 Marruecos consigue la independencia, con la excepción de Ifni y del Sahara que siguen en manos españolas hasta 1958
+   - situación lingüística: 
+     - como España permaneció en el norte de Marruecos por más de cuarenta años, el español pasa a ser en este período el idioma oficial de la administración y la lengua de prestigio
+       - por esta razón, la haquetía se fue perdiendo por la presencia española y el influjo de la lengua
+         - razones identitarias, ideológicas, sociopolíticas y económcas
+         - la haquetía era vista como un español corrupto e incorrecto, y sus hablantes como personas que no podían entender el español "correcto"
+     - desde 1860 hay olas migratorias de ciudadanos españoles, sobre todo andaluces, fundamentalmente hacia Tánger y en menor medida Tetuán
+     - a su vez los sefardíes migran internamente hacia las ciudades del protectorado español.
+     - 	Tánger se convierte en la ciudad sefardí por antonomasia en Marruecos (a pesar de no estar dentro del protectorado español), Tetuán es la segunda ciudad con mayor población sefardí
+   - Identidad
+     - El protectorado español implicó una serie de cambios políticos para los sefardíes porque ya no eran considerados *dhimmis* (o sea, súbditos extranjeros tolerados por el pago de tributos)
+     - los hablantes de haquetía pasan a estar en una situación de homoglosia en relación a la lengua de los colonizadores
+       - en la situación anterior la haquetía es la "otra" lengua, la alóglota
+     - la base lingüística común entre los hablantes de haquetía y los españoles colonizadores favoreció la comunicación entre los grupos y el acercamiento afectivo e identitario con la memoria de un pasado común
+       - respuesta positiva de un periodista tangerino a los esfuerzos del senador Pulido por fomentar el interés por el judeoespañol en en principio del s. XX
+         - lo hace en español "puro"
+       - esto es muy diferente a lo que ocurre con los judíos del Imperio Otomano, que sienten rechazo por los españoles que los expulsaron y cercanía con los otomanos que los acogieron 
+   - Percepción del español
+       - para los sefardíes marroquíes el español representaba la civilización
+     - con el protectorado español la situación de los sefardíes mejoró mucho, sobre todo para la clase burguesa que se dedicó al comercio e industria en estos años
+     - el progreso material fue acompañado por la pérdida de la haquetía, desplazada por el español normativo. 
+       - A principios del s. XX los sefardíes de las clases burguesas de Tánger y Tetuán hablaban español
+   - Sistema educativo
+     - España instaló en el protectorado un sistema educativo tripartito que consistía en la escuela española, la hispano-árabe y la hispano-hebrea, destinadas cada una a una población determinada, lo que permitía que España definiera su política en relación con la nacionalidad y religión del alumnado
+     - el objetivo era crear una elite proespañola destinada a trabajar ne la administración del protectorado (modelo francés implantado en Argelia)
+     - igualmente, la creación de las escuelas fue lenta y sobre todo destinada a la enseñanza primaria
+     - para la enseñanza superior la mayoría de los sefardíes emigraban
+     - y el español tenía menor influjo frente al enorme del francés, la otra lengua de instrucción entre los hebreos
+     - Las Escuelas de la Alliance Israélite Universelle participaron en el proceso de rehispanización inadvertidamente porque usaban el español como primera lengua de instrucción
+       - dos primeros años en español, luego pasaje al francés
+       - modelo extendido excepto en  Ceuta, Melilla, Arcila y Xauen, donde toda la educación era en español y por maestros españoles
+   - El español y la migración
+     - el español permitía la emigración de los sefardíes marroquíes a otros países con oportunidades económicas
+       - Latinoamérica (en Venexuela y Argentina se encuentran hoy las comunidades más importantes de sefardíes-marroquíes) y España después de la dictadura franquista
+     - otros destinos como Brasil y Canadá (francófona)
+   - Después del protectorado (1956-)
+     - intensas olas migratorias
+       - ya desde el 1948 con la creación del estado de Israel
+         - entre 1954 y 1956 entre 2.000 y 3.000 judíos sefardíes se van de Marruecos a Israel
+     - Nacionalismo marroquí
+         - En 1944 se inicia un movimiento nacionalista marroquí que acaba en la independencia de 1956 y que implica la pérdida del estatus de la ciudad de Tánger como zona internacional. 
+         - Se agudiza el nacionalismo árabe cuando Marruecos se adhiere a la Liga Árabe en 1958
+         - después de la  Guerra de los Seis Días de 1967 surge un movimiento antisemita por el cual a lo largo de los seis años siguientes los sefardíes  despoblan el norte del país
+           - España es el destino de esta ola migratoria (Melilla, Ceuta, Sevilla, Barcelona y Madrid))
+   - Nuevos espacios en Internet
+     - al igual que con el ladino, como los sefardíes marroquíes no están ya localizados en solo lugar, y como tienen un conocimiento dispar de la haquetía, que además no es su lengua de comunicación cotidiana, se han formado nuevas comunidades de hablantes localizadas en las comunidades de Internet
+       - Ejemplo: web “Voces de Ḥaquetía”: difunde historia, literatura, tradición oral, fotos, música, cocina, etc
+     - estos espacios son no solo para hablantes sino para escribientes, al darles un sistema gráfico de escritura a los participantes
+       - por ejemplo “Voces de Ḥaquetía” tiene una propuesta de escritura y una muestra de su pronunciación, hecha por amantes de la Haketía.
+       - intento de convertirla en estos nuevos entornos en una lengua escrita
+  
+  ## Clase 7
+  ### El judeoespañol moderno o neojudeoespañol
+- Hay dos etapas fundamentales en la constituci;on del judeoespañol:
+  - s. XVIII: formación (por koineización)
+  - XIX: re-romanización a través de otras lenguas románicas no hispanas:
+    - el francés
+    - el italiano
+- Re-romanización:
+  - ocurre con la apertura del imperio Otomano hacia Europa
+    - esta apertura se da a partir de las reformas otomanas llamadas *Tanzimat*  en la década de 1830 
+    - se debe a intereses económicos y también al hecho de que el Imperio Otomano era demasaido grande, lo que incomodaba a Europa
+      - dan inicio a un gran intercambio en lo que respecta a la política, la economía y la cultura, entre Oriente y Occidente
+        - se sigue el modelo de estado francés
+        - se centraliza y europeiza el gobierno en lo administrativo
+        - se moderniza y seculariza el aparato estatal
+        - muchas compañías occidentales se afincan en el Imperio otomano
+      - En el ámbito cultural y educativo, las ideas de la ilustración judeoeuropea (huskalá) entran en el mundo sefardí y traen un espíritu de renovación y progreso:
+        - los judíos franceses ven a sus correligionarios del Imperio otomano como "atrasados" y comienzan una campaña filantrópica por "modernizar", "occidentalizar"a estos judíos
+        - la huskalá es la ilustración judía, que se produce un siglo más tarde que la francesa (Voltaire, Rousseau) en Alemania y Francia
+          - es un movimiento que apunta no a la religión sino más bien a la cultura
+        - los judíos europeos implantan escuelas modernas laicas (escuelas franco-judías *Alliance Israélite Universelle*)
+          - red de escuelas laicas con programas educativos franceses, en francés
+          - La cultura francesa pasa a ser el máximo exponente de modernidad occidental
+            - esto es así no solo para los sefardíes sino para todo el imperio turco, en el que el francés se vuelve el idioma de moda y hay muchos préstamos de francés en el turco que vienen de esta época
+          - es la única manera en que conciben llevar la "huskalá" al Imperio otomano
+          - la modernización implica adquirir la cultura occidental francesa y una "lengua de verdad" (versus el judeoespañol que los franceses llaman patois) 
+          - hay un aspecto fuer de colonización cultura, pero esta modernización trajo también aspectos positivos como que por primera vez las mujeres van a poder acceder a la educación
+        - También se instalan escuelas italianas en Salónica, que impartían la enseñanza en italiano (las escuelas dante Alighieri)
+      - Otras escuelas alemanas a fines del s. XIX y principios del XX
+        - sobre todo en Egipto
+    - de esta manera los otomanos entran en contacto con hechos de la modernidad europea: avances técnicos y científicos (máquina de escribir, ventilador, tren, radiófono, tocadiscos), tendencias en moda (guantes y sombreros) y pasatiempos (salir a pasear, modelos de urbanidad del s. XIX)
+    - si bien las escuelas son fundamentales para estos procesos de occidentalización y rerromanización...
+      -  la gran mayoría de la población sefardí en el s. XIX sigue hablando judeoespañol en su vida cotidiana. 
+      - El judeoespañol se emplea aún en las escuelas judías comunitarias
+      - No todos los alumnos pasaban igual cantidad de tiempo en las escuelas que enseñaban en francés
+        - eran muy pocos los que terminaban la secundaria y se iban a estudiar a Viena
+    - al comienzo solo los jóvenes saben francés, luego la prensa funciona como un eficiente vehículo para el ingreso de galicismos
+      - los que empiezan a hacer periódicos son los que son educados en las escuelas occidentales. 
+      - la gente ve palabras de lenguas occidentales en la prensa y las incorpora
+      - Ejemplo: periódico "El Avenir"
+    - el contacto con Europa hace que se introduzcan nuevos géneros textuales (como la prensa, la novela, el teatro, la poesía de autor y la publicidad) y registros modernos que los judíos no conocían hasta entonces
+      - las novelas se publicaban en formato de folletón
+    - traducciones del francés al judeoespañol
+    - estas renovaciones textuales llevan a la modernización del judeoespañol:
+      - los nuevos géneros textuales que se importan hacen que el judeoespañol se elabore en los niveles discursivo, estilístico y léxico
+        - por ejemplo, en el teatro ingresa vocabulario que antes no era necesario porque no existía en la realidad de los hablantes
+        - también hubo préstamos de lujo de lenguas occidentales, simplemente porque sonaba bien o estaba de moda
+    - El francés es la principal fuente para crear nuevas palabras que denominen las nuevas realidades. ocurre mucho más transversalmente.
+    - el italiano (mucho más acotado, tener en cuenta que las escuelas Dante Alighieri solo estaban en Salónica), el alemán (pero sobre todo en Cairo, Sarajevo, las escuelas alemanas nunca se instalaron en Salónica), y el español moderno, además de las posibilidades que ofrecía el propio sistema hispánico, fueron otras fuentes para la innovación y creación
+    - a menudo los neologismos son producto de la amalgama de al menos dos lenguas
+  - se habla de rerromanización porque el influjo del franc;es y del italiano se da también en el nivel sintáctico
+- a tal punto es influyente el franc;es que un lingüísta francés usa el término "judeofrañol" para referirse al judeoespañol moderno
+  ### Clase 8
+ ## Influencia del alemán en el judeoespañol
+ - El judeoespañol del norte de los Balcanes, en especial de las comunidades de Bosnia, Serbia y Croacia, posee un rico componente léxico de origen alemán
+ - el alemán en estas comunidades cumplió un rol similar al del francés en Turquía
+ - la burguesía sefardí sabía alemán y mandaba a sus hijos a estudiar en Viena
+   - Muchos judíos sefardíes se asientan en Viena desde principios del s. XVIII, primero por motivos comerciales, luego culturales, académicos, etc.
+ - El tratado de Belgrado permite la libre circulación de los judíos por territorios donde el alemán tenía importancia: por comercio, por anexión, etc.
+ - Los Habsburgo expanden sus posesiones a través de los siglos, incluyendo el XIX e incluyendo muchos territorios donde había sefardíes como Serbia, Bosnia, etc.
+ - En Viena, los judíos sefardíes de la primera generación tenían dificultades para aprender el alemán
+ - la segunda generación, sus hijxs, tienen que haber sabido hablar el judeoespañol para comunicarse con sus padres, hubo aculturación pero no tanto por la lengua
+ - hubo contacto directo e indirecto del alemán con el judeoespañol:
+   -  de forma directa ocurrió en Romania y en Serbia
+   - de forma indirecta, a través de otras lenguas, como el húngaro, croata, serbio, esloveno, eslovaco, etc., por el papel del alemán como adstratum cultural
+ - hay tres tipos de elementos del alemán en el judeoespañol:
+   - menciones en textos
+   - como resultados de contacto entre hablantes in situ
+   - como resultado de la influencia del alemán en tanto adstratum cultural
+ - Los estudios de los textos de esta zona son deficientes en general:
+   - corpus poco extensos
+   - falta de rigor, muchos investigadores no son lingüistas o no saben los suficiente sobre las lenguas que tratan
+   - muchas veces no se toma en cuenta que se trata de traducciones y se las toma como originales
+ - Algunos rasgos:
+   - uso de /ts/
+   - uso de /h/ aspirada al comienzo en palabras que no son alemanas
+   - sintaxis: 
+     - orden de palabras: Podemos aq[u]í pasar la noche? (Papo 1884: 52) no marcado en alemán:
+     - uso de ansí como "so ein"
+     - uso de preposiciones: 
+       - sovre. En algunos casos en español se usaría "en" en vez de sobre, pero coincide con el alemán
+       - afuera de: con el sentido de "excepto de"-como ocurre en ausser-
+     - morfología:
+       -  banco-notas: 'banknote'
+       -  desacomodamiento
+    - léxico: 
+      - en Papo se mencionan muchas palabras de procedencia alemana para glosar el judeoespaÑol
+      - calcos del alemán como "café blanco"
+      - muchas veces no es posible explicar por qué usaban las palabras del alemán 
+  - Connclusiones... respecto de Viena:
+    - al menos incios de koineización
+    - elemento germánico como diferenciador más relevante respecto de otras variedades
+    - en la escritura: rasgos de tradiciones discursivas germánicas
+
+## Clase 9
+### Ideologías lingüísticas
+- A partir de la tercera mitad del s. XIX, luego de la apertura hacia el Occidente que atraviesa el Imperio Otomano:
+  -  el contacto del judeoespañol con las lenguas occidentales conlleva la incorporación de géneros textuales modernos como la prensa, la novela, el teatro, la publicidad
+  -  esta incorporación implica la elaboración lingüística y discursiva del judeoespañol, necesarias para poder desempeñarse en esos nuevos géneros
+     -  incorporación de palabras y tradiciones ajenas a las sefardíes.
+        -  estas incorporaciones tienen aparejadas connotaciones de moderno, avanzado, correcto, etc.desarrollo de actitudes positivas frente a nuevos modelos
+        -  desarrollo de actitudes negativas frente a sus viejos modelos: arcaicos, antiguos, etc.
+  -  a partir de este momento hay una amplia producción textual de judeoespañol
+  -  pero esto no implica que haya producción de literatura científica en español, porque las ciencias están fuertemente vinculadas con la idea de cultura occidental, y las lenguas de cultura deben reflejar esa, y no otra, cultura
+  -  entonces, por más que haya literatura en judeoespañol, no puede considerarse la lengua como una lengua de cultura
+  -  el contacto con las lenguas occidentales trae también aparejadas las ideologías lingüísticas que sus hablantes tenían sobre el judeoespañol:
+     -  idea de que el español no es una verdadera lengua
+        -  ideología purista (las lenguas no se mezclan)
+        -  ideología de la lengua estándar (Milroy):
+           -  lengua versus dialecto: la lengua es estable, con una norma monolingüe estándar fácil de identificar, no hay variabilidad interna, pura e idealizada, sistema estático
+  - qué es una ideología lingüística?
+    - sistemas de creencias y actitudes respecto de las lenguas, sus hablantes y los procesos comunicativos, los contextos en los que ocurren
+    - permiten articular y sostener interpretaciones, evaluaciones y  posiciones sobre asuntos que atañen a las lenguas y sus hablantes
+    - se producen y reproducen mediante prácticas lingüístico-comunicativas y también metalingüísticas
+    - los grupos sociales nombran y naturalizan una forma de representación de la realidad y la lengua y las presentan como si fueran verdades inapelables. por ejemplo, qué puede llamarse lengua y qué no
+    - LA IDEA DE IDEOLOGÍA IMPLICA IDEAS COMPARTIDAS Y SISTEMATIZADAS QUE SE oponen a las ideas organizadas y sistematizadas de otros grupos
+  - debate metalingüístico en la prensa acerca del estatus del judeoespañol y su valor como lengua o no
+    - se llama "la cuestión de la lingua"
+    - duró unos 50 años
+    - cuando cae el Imperio Otomano se suma la ideología de una nación - una lengua - un estado (el estado turco nace en 1912)
+    - debate en el que se analiza qué es el judeoespañol y qué había que hacer con él
+    - Género de debate: tribuna
+      - El jurnal [La] Época de Salonico: si preservar
+        - es un periódico liberal, intento de separar el mundo secular de lo religioso, la secularización es importante para modernizar
+      - El tiempo de Constantinopla: no preservar
+    - "higiene verbal": prácticas que se ocupan de limpiar la lengua, prescribir y proscribir
+      - quienes se ocupan de este discurso Cameron los llama "mavens": "expertos": los que escriben cartas a la prensa
+    - "discursos epilingüísticos": así se denominan en la sociolingüística francesa a los discursos metalingüísticos sobre el valor de las lenguas
+  - Los debates sobre la "cuestión de la lengua" en la prensa periódica muestran tres posturas:
+    - propuesta 1: reemplazar el judeoespañol por una lengua nacional:
+      - el español
+      - el francés
+      - el italiano
+      - el alemán (en comunidades que pertenecían al Imperio  Austro-Húngaro: Yugoslavia, Rumanía – Bulgaria
+    - propuesta 2: reemplazar el judeoespañol por la lengua del país de acogida:
+      - turco
+      - griego
+      - búlgaro
+      - esta propuesta se hace más fuerte cuando se disuelve el Imperio otomano y se crean los estados nación
+    - propuesta 3: adopción de una lengua judía:
+      - el judeoespañol, con elaboración lingüística (identidad del sefardismo otomano)
+      - adopción del hebreo: (identidad judía)
+## Clase 10
+### La inmigración sefardí a EE. UU. 
+- ocurre en el contexto de la Sefarad 3, una vez que el Imperio Otomano cae
+- aspectos demográficos, históricos y socioculturales
+  - ocurre entre 1899 y 1924
+    - En EEUU se asientan entre 50.000 y 75.000 judíos sefardíes
+      - en NY entre 25.000 y 35.000
+      - las principales ciudades son: NY, Seattle y LA
+      - también en SF, Atlanta, Rochester, Portland, Chicago, etc.
+    - son los judíos que vienen de Salónica, Estambul, Esmirna, etc.
+    - Emigran por:
+      - las reformas del Imperio otomano
+      - las guerras
+      - el servicio militar
+      - los nacionalismos crecientes
+      - antisemitismo
+      - catástrofes naturales
+      - pobreza y hambrunas, etc
+    - Situación en EEUU
+      - ya hay comunidades judías existentes:
+        - los sefardíes que migraron en el s. XVII, ya asimilados (desde Holanda - sefardíes tronco occidental europeo), muy acomodados, solo hablan inglés
+        - los askenazíes: una comunidad muy grande y organizada pero que no necesariamente reconoce a los sefardíes como parte de los judíos
+        - o sea que encuentran judíos, pero son judíos con los que no tienen mucho que ver
+      - PERO sí entran en contacto y se relacionan con las comunidades hispanas de NY y LA: portorriqueños y mexicanos
+        - muchas personas de origen hispánico que no saben hablar inglés piden ayuda a los sefardíes con sus compras, por ejemplo
+        - viven en los mismos barrios, mismo estatus socioeconómico (bajos ingresos)
+          - en NY se asientan primero en Lower east Side (Manhattan)
+          - después, e920: harlem, Bronx, Brooklyn, Queens, Long Island, etc
+-  La función de la prensa judeoespañola en EEUU:
+   -  entre 1910 y 1948 hay 19 periódicos y revistas judeoespañolas publicadas en EEUU, la mayoría en NY
+         -  sirven para mantener comunidad unida e informada pero tb para ayudar a la comunidad con los problemas de integración en Estados Unidos (ser parte del American way of life):
+            -  Consejos para mejorar económicamente: consejos legales, clases de inglés,
+            -  tb novelas, amenizar y entretener 
+            -  Consejos para poder sacar la ciudadanía americana: cómo asimilarse, aprender inglés
+               -  Irónicamente todo está en judeoespaÑol y en caracteres rashíes
+            - Consejos para establecer vínculos con los askenazíes (por ejemplo para aprender yiddish)
+              - Esto convive con un miedo de ser absorbidos culturalmente por los askenazíes, porque los sefardíes son una minoría dentro de una minoría en los EEUU
+            - Era tb para informar sobre lo que sucedía en otras partes, pero de forma secundaria.
+            - Peródico La América (1919-1925):
+              - Booklet para aprender a hablar inglés e yiddish
+            - La vara (1922-1948)
+              - Nace como periódico humorístico y es una copia de un periódico de Salónica
+  - Evolución generacional de la lengua:
+    - Primera generación: emplea el JE como lengua oral y escrita, comunicación inter y extracomunitaria
+      - estos judíos quizás también saben otras lenguas: francés, turco, etc. 
+      - No manejan el inglés. 
+      - Contacto con la comunidad latina
+    - segunda generación: conocimientos más o menos activos, pero sobre todo pasivos / conocimientos activos del inglés
+    - Tercera generación: conocimientos muy escasos o nulos. La mayor parte de la prensa está en inglés y solo hay una página dedicada al judeoespañol
+  - Segunda mitad del s. XX
+    - En los 70 y 80 se hacen estudios sobre las comunidades sefardíes en EEUU y los resultados son deseperanzadores. Tracy Harris pronostica la desaparición del judeoespañol debido a:
+      - asimilación a la comunidad askenazi por matrimonios mixtos
+      - desaparece el sentido de comunidad, se mudan a las afueras
+      - no hay nuevas olas migratorias
+      - crecen las actitudes negativas en torno a la lengua. 
+        - el español o el inglés son preferibles
+      - los niños van a escuelas norteamericanas y no judías
+    - como consecuencia de estos factores:
+    - se reducen los ámbitos comunicativos
+    - no se transmite a futuras generaciones
+    - desaparece
+    -  aún existe sin embargo un sentimiento de identidad cultural
+ - Revival en el s. XXI?
+   - Quizás… no tanto de la lengua sino de las asociaciones culturales
+   - la pérdida de la lengua no implica la pérdida de la identidad sefardí
+ - El judeoespañol en contacto con el inglés y el español en Estados Unidos
+    - en Sefarad 3 se añaden a las lenguas que han interactuado con el judeoespañol el inglés y el español estándar
+      - las publicidades en su afán por captar un amplio público usan turquismos, anglicismos, galicismos, registro "sexy"
+    -  El inglés
+       - El influjo del inglés se da en los campos léxicos relacionados con:
+       - los nuevos hábitos de consumo (por ejemplo, los alimentos o los entretenimientos)
+       - el sistema político y administrativo
+       - el sistema de cuantificación y orientación espacial
+       - otras realidades locales
+        - se dan fenómenos de contacto como préstamos (más o menos adaptados), calcos, extensiones semánticas, etc.)
+      - El español:
+        - Cambios fonético-fonológicos:
+          -  [ x ] en lugar de [ʒ], [ʃ] o [ʤ]
+          - desaparece la oposición entre [b] y [v]
+          - se ensordece la [z]
+          - se desbilabializan los pronombres de primera persona
+          - se tiende a eliminar la metátesis
+        - Cambios léxicos: 
+          - preferencia por variantes más cercanas al español como *leer* en vez de *meldar* o *comprar* en vez de *mercar*, *domingo* en vez de *alhad* y *sábado* en vez de [šabat]
+
+
+
 
 
