@@ -121,8 +121,65 @@ Y en la civilización? La ficción se opine al uso político del lenguaje.
       - Una excursión a los indios ranqueles
         - Lucio V. Mansilla escribe esta novela mientras espera los resultados del juicio por el fusilamiento de un desertor, separado en este momento del servicio activo del ejército
       - las novelas de Eugenio Cambaceres
-        - Cambaceres renuncia a su futuro político para dedicarse a la literatura
-
+        - Cambaceres renuncia a su futuro político para dedicarse a la literatura (la novela le debe todo a esa renuncia)
+      - los escritores argentinos viven una doble realidad: vida pública y revés secreto: no pueden ser escritores
+      - contraposición / asimetría entre lo que ocurre en la literatura argentina y la europea:
+        - en 1852 Flaubert expresa en una carta su deseo de escribir un libro sobre nada
+          - expresión de la mayor independencia de la literatura (autonomía absoluta y forma pura - manifiesto de la literatura contemporánea)
+           - el carácter improductivo de la literatura se opone a la razón burguesa (utilidad burguesa)
+             - en su momento de máxima autonomía el arte rechaza más profundamente a la sociedad
+        - en el mismo momento Sarmiento escribe *Campaña en el Ejército Grande*
+          - trata de convencer a Urquiza del poder social de la palabra escrita
+          - el libro es "una campaña " sobre la función y utilidad de la escritura
+        - la asimetría entre Sarmiento y Flaubert sintetiza los problemas que definen a la literatura argentina desde su origen:
+          - no-sincronía y desajuste respecto de la cultura contemporánea
+            -  lugar lateral y desierto de la literatura argentina
+               -  ajena a herencia colonial
+               -  ajena a tradiciones prehispánicas
+               -  europeizada desde los márgenes
+            - se manifiesta como escición y doble temporalidad
+            - todo parece contemporáneo y a la vez inactual
+            - tensión entre anacronismo y utopía
+          - en el origen de la literatura nacional la no-sincronía es visible mayormente en los problemas de la autonomía y la función de la literatura
+            - en Europa ya está separado de otras prácticas sociales el ámbito de la literatura (con sus categorías y prácticas)
+            - en Argentina esto está presente en la coincidencia de los escritores y su voluntad de fundar una literatura nacional
+            - En Argentina hay una doble historia del lugar de la literatura:
+              - por un lado la literatura argentina responde a la lógica general y define su función en relación con otras prácticas. En el s. XIX la otra práctica es la política (relación entre el camino hacia la autonomía de la literatura y la constitución del Estado)
+                - la lit. nacional como fuerza autonomizadora: disocia el poder político de otro que lo transciende, la inteligencia, ahí radica su función específica
+                - la lit. nacional como una lit. emancipada de las literaturas extranjeras. Busca hacer en su campo una revolución análoga a la que se llevó adelante en el campo económico y político contra España. Pero en alianza con lit. extranjera (francesa como mundial)
+              - ser un escritor es tener la mirada estrábica (un ojo en lo universal y otro en lo local) y a-sincrónica (hacia el pasado y hacia lo que vendrá)
+        - En Sarmiento el lugar indeciso determina su uso desplazado de la ficción
+          - la ficción y el uso político del lenguaje son antagónicos
+          - la eficacia de la palabra tiene que ver con la verdad
+          - la ficción tiene que ver con lo gratuito y con el derroche de sentido
+            - los novelistas son criticados por pervertir a la sociedad
+            - *El Matadero* permanece inédito por más de treinta años por ser un texto de ficción
+        - literatura argentina marcada por el doble registro entre lo extranjero, la lengua literaria, la cita falsa, la traducción, etc., y por otro lado la violencia, lo popular
+        - ficción argentina: intento de representar el mundo del otro. para narrar la propia clase se usa la autobiografía
+        - la literatura ficcionaliza al bárbaro
+          - el otro debe ser conocido para ser civilizado
+          - la ficción debe poder representar los intereses ocultods del adversario
+          - la barbarie se construye como el adversario ideal
+          -  en la representación del bárbaro se leen las características de la realidad que lo determina
+       - el *Facundo* describe la oposición entre civilización y barbarie peor también la construye
+         - el texto une la diferencia 
+         - referencias culturales, traducciones, epígrafes, marcas de la lectura extranjera que sostienen la palabra civilización VERSUS las fuentes orales, los testimonios y los relatos, los rastros de la experiencia vivida que reproducen y hacen hablar al mundo de la barbarie
+         - el escritor está entre las dos lenguas
+       - establece una relación imaginaria entre dos universos antagónicos. 
+         - Conjunción: *y* del título
+         - la política tiende a que esa *y* sea sustituida por un *o*
+         - la ficción implica la conjunción, poder narrar desde la frontera
+       - Lukács define la novela como la forma de un mundo escindido: la perfilación de otra realidad más allá de la lógica y la razón fuera de la existencia normalizada
+       - en Sarmiento esta escisión aparece politizada
+       - el Facundo no es leído como una novela sino como un uso político: una máquina de novela
+       - El Facundo es germen del estado y germen de la novela argentina
+       - esta forma es la invención de un género y consiste en que la novela no es autónoma sino que está controlada por la palabra política
+       - la dimensión ficcional actúa como instrumento de la verdad
+       - propone un tipo de verdad diferente a la verdad que practica
+       - "la ficción busca producir una experiencia de la verdad."
+       - mezcla de géneros y el efecto de verdad. incertidumbre de los géneros en la literatura argentina del s. XIX y Sarmiento juega con eso
+       - el uso del discurso directo por parte de Sarmiento es una forma sutil de ficcionalizar
+       - 
 La ciudad ausente
 la ciudad ausente: el relato es diferido
 la idea de ciudad como entramado de relatos
@@ -141,7 +198,7 @@ el grabador
     - novela como máquina de relatos
     - historia versus relato está en los relatos tablespoon
     - la cuestión de poder y literatura
-    - 
+    - la narración como tema
   - 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
