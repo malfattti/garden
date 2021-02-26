@@ -4,7 +4,7 @@ Starke Verben:
 Im Althochdeutschen gab es sieben Klassen von den starken Verben. Im heutigen Deutsch kann man viele übriggebliebene Elemente von diesen sieben Klassen noch erkennen, und das kann einem helfen, die Vergangenheitsformen der starken Verben auswendig zu lernen. Unten sehen Sie eine Tabelle der sieben Klassen -- wie Sie sehen ist besonders Klasse 7 ganz divers, die anderen Klassen aber leicht zu verstehen.
 
 
-
+```
 1
 ei          ie          ie
 bleiben     blieb       geblieben
@@ -12,7 +12,7 @@ entscheiden entschied   entschieden
 schreiben   schrieb     geschrieben
 steigen     stieg       gestiegen
 treiben     trieb       getrieben
- 
+```
  
  
  
