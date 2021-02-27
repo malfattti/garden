@@ -1,0 +1,13 @@
+# El Concepto Del Indio Y La Cuestión Racial En El Perú En Los Siete Ensayos De José Carlos Mariátegui
+- de [[Américo Ferrari]], poeta y crítico peruano que al parecer enseña en Ginebra.
+- de 1984
+- El término indio denotaba la nación o gente que constituía el Nuevo Mundo
+- pero pronto se carga de matices de juicios de valor negativos o positivos
+  - en principio no está ligada a la raza. Indio no se opone a blanco sino a español, y ni siquiera el concepto de nación era muy rígido en aquel entonces (España era un conjunto de naciones)
+- cuando América fue nombrada como tal, los indios no pasaron a denominarse americanos, los americanos eran los que habían nacido allí a partir de la colonización y de los colonizadores, no antes
+- entonces el significado de indio adquiere un significado racial racista
+- el racismo no tiene criterios definidos sino una inextricable maraña de representaciones de las comunidades
+- una etapa del proceso culmina en el movimiento indigenista
+- el movimiento indigenista es la continuación de otros movimientos de defensa al indio que estuvieron activos durante los ss. XVII-XIX
+- el movimiento indigenista de 1920's retoma esa tradición y la fortalece en la literatura
+- la noción de raza es muy importante en este movimiento, lo que termina generando categorías identitarias rígidas
