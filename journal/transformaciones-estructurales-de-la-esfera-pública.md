@@ -1,2 +1,20 @@
 # Transformaciones Estructurales De La Esfera Pública
 
+- de [[John Keane]]
+- término popular en el ámbito de los estudios sobre medios de comunicación y la política que ha atravesado tres fases históricas:
+  - Época moderna: lucha contra los monarcas europeos, a favor de instituciones democráticas defendidas por los republicanos: libertad de prensa y de expresión ciudadana, reformas políticas, constitución, etc.
+  - Economía capitalista moderna: la esfera pública se usa para la lucha contra el monopolio comercial. Las economías que se estructuran en los medios de consumo fomentan el egoísmo y desinterés por el bien público. Los ciudadanos, atados a sus trabajos no pueden involucrarse en la vida pública. Los medios de comunicación manipulan estas circunstancias a su favor promoviendo la ignorancia y el engaño.
+    - Contra la manipulación por parte de la prensa capitalista. Hannah Arendt lamenta la pérdida de la vida pública en tanto capacidad de las personas de definir conjuntamente su vida en común (1958). Este deseo es desplazado por el consumismo. 
+    - Habermas acuerda con Arendt y dice que el público lector que debatía críticamente fue sustituido por la esfera pública burguesa, masa pública de consumidores de cultura.
+  - En la tercera etapa los dos problemas se enfatizan a la vez
+    - la radiodifusión de servicio público tiene una afinidad electiva con la vida pública y es la mayor garantía de su supervivencia
+    - Escuela de Westminster: la esfera pública como espacio para una política racional y universalista y ajena a la economía y al estado. La radiodifusión de servicio público tiene que balancear el poder estatal y corporativo y esto es posible porque no estaría limitado por la ambición de poder político o económico. Igualdad de acceso para todos los ciudadanos. Se le oponen los medios de comunicación mercantilistas que reducen la libertad de expresión, generan monopolios de los medios de comunicación y desigualdad entre los actores económicos y sociales
+  - Ocaso de la tercera etapa
+    - a pesar de sus logros, no puede afirmarse sin más que los medios públicos sean un baluarte de la esfera pública
+    - dificultades del modelo propuesto por la Escuela de Westminster:
+      - crisis de identidad de los medios públicos en cuanto a su grado de vitalidad y representatividad
+      - esto refleja el cuestionamiento que de forma general se le está haciendo a la legitimidad y eficacia de los procedimientos propios de la democracia liberal
+      - causas de la crisis:
+        - estrechez financiera: caída de los ingresos que vienen de los derechos de licencia. Los radiodifusores de servicio público se quedaron atrás en la revolución tecnológica, que fue aprovechada por los medios privados. Necesidad de autocomercialización y privatización parcial.
+        - problemas de legitimidad: tanto audiencia como emisores sienten que los medios públicos no son representativos de su público real, solamente de uno ficticio que simula opiniones y gustos de algunos miembros del público. El público percibe que el tratamiento de ciertos temas es muy tímido, lo que se debe a presiones del gobierno, legales y la necesidad de ofrecer una programación equilibrada.
+        - cambios tecnológicos: no solo implican que la radiodifusión debe competir con empresas de propiedad privada sino que ha hecho surgir la metáfora espacial que implica que estos servicios de radiodifusión deben funcionar como un servicio nacional cohesivo. Pero esta metáfora ha empezado a endurecerse y a convertirse en dogma porque ha dejado de coincidir con las tendencias a largo plazo de los medios de comunicación en las democracias. Los espacios de comunicación que están surgiendo no están ligados a un territorio específico, lo que desborda y fragmenta una esfera pública antes considerada como integrada y contenida en un Estado-Nación. Hoy en día, no hay una tendencia de esta esfera pública fragmentaria (relación espacial entre dos o más personas, vinculadas por un medio de comunicación, disputas no violentas) a tener un alcance más amplio
