@@ -1,0 +1,57 @@
+# Rhetorical Analysis
+- by [[Claudia Posch]] in [[The Routledge Handbook of Language and Politics]]
+- Definition: ways of finding and interpreting persuasive strategies in language
+- language of politics is the result of rhetorical creativity and the object of rhetorical analysis
+- History:
+  - Has been important since ancient Greece
+    - For Aristotle, rhetoric was an essential part of politics (ethical discipline)
+    - was practiced in political settings and to persuade citizens of political matters
+    - thus rhetoric and politics have always been closely bounded
+  - over time rhetoric gained a negative connotation (empty words)
+  - in the twentieth century: increasingly scientific occupation, new research traditiosna dn approaches
+- Analysis theoretical perspectives (Kienpointner)
+  -  TRADITIONAL OR CLASSICAL
+    - pre-modern concepts, esp. Aristotelian notions
+      - Aristotle: 
+        - first systematic theory to explore the way persuasion works by analyzing its parts:
+        - three means to persuade an audience: ethos (character of the speaker), pathos (emotions of the audience) and logos (arguments in speech). These categories are still used.
+        - three speech genres which help making sense of communicative events in context: 
+          - forensic: judicial. Justness or unjustness of past actions, is a past event justifiable from a present perspective?
+          - political: deliberative. Are future political actions advantageous for the estate or not?
+          - epideictic (demonstrative): should a person's present action be praised or chastised?
+        - framework to analyse communicative acts: tasks of a speaker and stages of speech:
+          - inventio: finding arguments/invention. 
+            - arguments can be found in topoi. 
+            - 28 common arguments
+          - dispositio: structuring/arranging
+            - introduction, presentation of facts, argumentation and epilogue
+          - elocutio: formulation and style
+            - virtues of style of linguistic expression: grammatical correctness, clarity, adequacy, brevity, embellishment
+          - memoria: memory
+            - practice of communication, thinking of the form of presentation and remembering the ideas for presentation
+          - actio: delivery
+            - performance of a rhethor
+      - Until 20th cent, little changed and rhetoric went out of fashion, reduced to a theory of style
+      - Linguistic turn: interest in rhetoric as an important element of public discourse increased again
+  - New rhetoric
+    - Rhetoric today: 
+      - responsible for displaying public reason and justifying contingent claims in the public formula
+      - constitutes a public by understanding and negotiating common bonds, interests, experiences, etc.
+    - strongly influenced by [[Chaïm Perelman]] and [[Lucie Olbrechts-Tyteca]]
+      - they reincorporated rhetoric as a tool into academic discussion
+      - their view on rhetoric: 
+        - theory of plausible argumentation (as opposed to strictly mathematical or logical approaches)
+        - a framework to understanding how beliefs and behaviours are shaped by communicative practices and specific communicative events
+      - they presented a typology of argumentative schemes
+    - other theorists:
+      - Stephen Toulmin:
+        - Toulmin schema: essential components of argumentation
+        - influenced the informal logic research programme
+          - looks at argumentation in everyday language
+      - Pragma-dialectics:
+        - aims to create a link between formal dialectics and rhetoric
+        - pragmatic: influenced by Grice's speech act theory, logic of conversation and discourse analysis
+    - Both models are often integrated with other analytical frameworks (philosophy, social sciences, linguistics: critical discourse studies, discourse historical approach, politolinguistics)
+    - Linguistic rhetorical analysis:
+      - Meynet states that rhetorical analysis belongs to linguistics because of its object, methods and procedures.
+      - politolinguistics: relies on concepts from the political science, rhetorical and discourse-analytical categories
