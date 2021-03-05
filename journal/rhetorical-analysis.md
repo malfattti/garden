@@ -55,3 +55,8 @@
     - Linguistic rhetorical analysis:
       - Meynet states that rhetorical analysis belongs to linguistics because of its object, methods and procedures.
       - politolinguistics: relies on concepts from the political science, rhetorical and discourse-analytical categories
+      - Rhetorical analysis is important to analyse political discourse because rhetoric in politics is characterized by persuasiveness (as democracy relies on agreements for decision-making processes)
+    - Discursive approaches to rhetorical analysis:
+      - researcherss of rhetorical criticism or rhetorical theory are not very commonn
+      - Discourse-centered approaches: combination of traditional modes of rhetorical criticism with tools of linguistics analysis
+        - Discourse-Historical Approach (DHA): stresses the importance of history in the analysis of political discourse. Texts are never isolated. Relationship between power and language. Focus on right wing and populist rhetoric.
