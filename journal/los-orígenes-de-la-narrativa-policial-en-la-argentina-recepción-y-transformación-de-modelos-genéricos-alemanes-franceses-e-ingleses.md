@@ -1,0 +1,44 @@
+# Los orígenes de la narrativa policial en la Argentina: recepción y transformación de modelos genéricos alemanes, franceses e ingleses
+
+- de [[Román Setton]]
+- introducción:
+  - Suele considerarse como punto de partida al policial en Argentina la década de 1940: Borges, Bioy Casares, Peyrou, etc., que modelan sus relatos a partir de la tradición inglesa
+    - esta es una operación programática del grupo Sur, construcción de una historia oficial
+    - además en su compilación *Diez cuentos policiales argentinos* (1953), Walsh refuerza esta lectura diciendo que Borges y Bioy Casares (bajo el seudónimo de Honorio Bustos Domecq) con *Seis problemas para Isidro Parodi* (1942) son los primeros en publicar un libro de cuentos policiales en castellano. En su compilado incluye también a Borges, Jerónimo Rey (seudónimo de Leonardo Castellani) y Manuel Peyrou
+    - el investigador estadounidense yates continúa con la tesis de walsh pero incluye algunos trabajos anteriores (Diego Keltiber, 1940; un relato de Anderson Imbert de 1930; otros antecedentes como el *Facundo* de Sarmiento), pero los considera meros antecedentes marginales
+    - tanto Walsh como Yates asumen que el género policial ha sido concebido perfectamente y acabadamente en el seno del grupo Sur
+    - Esta tesis continúa de la mano de Rivera y Lafforgue en *Asesinos de papel*, libro en el que figuran otros antecesores como Horacio Quiroga (1903) o Eustaquio Pellicer (1918) y muchos otros textos anteriores a 1940 y señalan qeue el relato policial argentino es herededo de modelos anglo-americanos
+    - Muchos otros estudios y antologías refuerzan esta tesis. 
+    - Lafforgue en una segunda edición de *Asesinos de papel* propone la década de 1930 como comienzo    - 
+  - sin embargo la historia del policial argentino se remonta a 1877 / 1912 y tiene otras influencias (alemana, francesa, otros anglosajones)
+    -  La primera novela policial argentina es La huella del crimen (1877), de Raúl Waleis (anagrama de Luis V. Varela)
+    - en 1912 se publica el primer volumen de relatos del género por William Wilson (seudónimo de Vicente Rossi)
+    - contexto: República Conservadora, cultura científica (el prestigio de la ciencia le da legitimidad a sus argumentaciones), idea de creciente criminalidad urbana. a nivel internacional, comienzo de la llamada Golden Age de la literatura policial, modelo más restrictivo
+    - temas comunes: representación del detective y la ley, construcción de la figura del criminal, paradigmas de conocimiento y comportamiento, civilización-barbarie, estado
+ - esta propuesta puede resultar escandalosa pero con la publicación de la antología de Walsh sirgen críticas a su tesis, como un artículo de autor anónimo en *La nación*, o Luis Soler Cañas bajo el seudónimo de Miguel Ferrán indica a Paul Groussac como el autor del primer relato policial argentino y a Vicente rossi (como william Wilson) como el autor del primer volumen de relatos policiales.
+      - luego gracias a Bajarlía y Fèvre (quien publicó el cuento de Groussac) esta tesis se refuerza
+      - también Eduardo Ladislao Holmberg pone de relieve el elemento policial en narraciones fantásticas en un compilado de 1957
+      - muchos trabajos posteriores se ocupan de esos autores anteriores al grupo sur: Raúl Waleis, Luis V. Varela y sus influencias 
+        - por ejemplo, Barcia señala el relato policial francés en el caso del último y su tratamiento de la figura del detective. Barcia señala que Varela es el iniciador conciente de la narrativa policial en 1877 por las características de su proyecto (trilogía, modelo de relato policial, creación del primer detective de autor argentino, sus propósitos declarados en su "Carta al editor", etc.)
+        - para Néstor Ponce, quien también difunde los trabajos de Waleis y Varela, estos son criticables por difundir con su literatura el modelo hegemónico del Estado (en oposición a la gauchesca), el propósito de la generación de 1880: educar y corregir a la vez que deleitar
+        - Los autores de este libro en cambio leen la obra de Waleis como un intento de promover cambios jurídicos, políticos y sociales y rastrean las influencias de trabajos anteriores y a su vez la influencia del propio Waleis en trabajos posteriores.
+          - la representación del criminal por parte de Waleis es diferente de la difundida por teorías naturalistas
+      - En cuanto a Groussac:
+        -  lxs autorxes proponen la tradición del policial francés y la de la novela de enigma inglesa como influyentes en el trabajo de Groussac, que se evidencia en sus detectives
+        -  también una configuración del espacio urbano que desplaza la antítesis civilización barbarie
+        -  alejamiento de las discusiones jurídicas contemporáneas
+        -  forma breve del policial como una forma de entablar un debate literario con las diferentes tradiciones
+        -  acercamiento del policial a la alta cultura al publicarlo en un medio estatal 
+       - Holmberg es el autor que mayor atención ha recibido por su narrativa policial:
+         - se ha estudiado la influencia del policial inglés, conformación de identidades genéricas y exclusión del Otro y la significación de teorías científicas contemporáneas
+         - se ha dejado de lado en su estudio otras influencias  (francés, alemán) y su lugar en la tradición argentina. Lxs autorxs han intentado abordar estos temas, las contradicciones dentro de la narrativa, el tratamiento de la oposición civilización-barbarie y la relación de esta con la figura del criminal y el espacio urbano.
+       - Quiroga también ha sido abordado en su faceta de escritor de género policial.   
+         - temas: lo urbano y la teoría literaria de Poe. 
+         - Quiroga no sigue la temática del policial pero sí sus estrategias narrativas alteradas.
+         - interpretación, verdades en pugna
+       - Otros autores de los que no muchos críticos se han ocupado: Carlos Monsalve, Carlos Olivera, Vicente Rossi, la firma FAZ
+   - Lxs autorxs afirman en base a esta evidencia que no existe un estudio sistemático hasta ahora que investigue el inicio del policial en Argetnina, debido al afianzado consenso de que este género comienza con Borges y Sur
+     - este consenso conlleva prejuicios: la exaltación de la influencia anglosajona: relato de enigma, novela-problema, serie negra. los textos anteriores a la consolidación de estos  modelos se desprecian
+     - también se relaciona con la dificultad para acceder a estas obras
+     - la falta de interés es evidenciada por la falta de información sobre cuestiones básicas y la carencia de reediciones
+   - 

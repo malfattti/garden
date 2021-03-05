@@ -13,7 +13,7 @@
     - las nociones de origen y destino pasan a ser más laxas
 - Vertovec no dice que la superdiversidad sea nueva, pero que antes era tratada como excepcional mientras que ahora parece ser la norma
   - la superdiversidad cuestiona la idea del estado-nación como categoría valida de referencia para anticipar el repertorio de conocimientos y experiencias previas de las personas
-    - el estado-nación es una categoría originada por la ideología del el colonialismo y el nacionalismo
+    - el estado-nación es una categoría originada por la ideología del colonialismo y el nacionalismo
   - es necesario descolonizar nuestros conocimientos y las disciplinas que los han originado en su contribución a la conceptualización de las comunidades nacionales como homogéneas y a justificar la colonización
   - diferente concepción del sujeto
 - superdiversidad y lingüística
@@ -22,8 +22,8 @@
   - sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
   - las prácticas comunicativas son el punto de partida desde el que identificar modelos sociales y culturales emergentes
     - otras disciplinas parten de modelos prestablecidos
-  - la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticaas comunicativas por parte de la sociolingüística:
-    - las lenguas pasan de ser sistemas orgánicos y abstractos a a constructos ideológicos impulsados por intereses
+  - la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticas comunicativas por parte de la sociolingüística:
+    - las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
     - se pasa de un foco en las competencias lingüísticas (establecidas en torno a un hablante ideal) dentro de un grupo homogéneo y estático a la consideración de las trayectorias individuales en relación con los diferentes contextos en que desarrollan sus prácticas comunicativas emergidas de dichas trayectorias
       - este punto de vista da lugar a la complejidad y dinamismo
     - Hong Kong: 
@@ -44,7 +44,7 @@
         - eurocentrismo (extrapola experiencia europea al resto del mundo)
         - giro hacia el big data (interesante para los gobiernos y las corporaciones)
         - su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
-      - 
+  
 
 
 - 
