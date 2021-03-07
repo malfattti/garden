@@ -1,0 +1,2 @@
+# Rhetoric of political speeches
+

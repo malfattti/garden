@@ -56,7 +56,63 @@
       - Meynet states that rhetorical analysis belongs to linguistics because of its object, methods and procedures.
       - politolinguistics: relies on concepts from the political science, rhetorical and discourse-analytical categories
       - Rhetorical analysis is important to analyse political discourse because rhetoric in politics is characterized by persuasiveness (as democracy relies on agreements for decision-making processes)
-    - Discursive approaches to rhetorical analysis:
+  - Discursive approaches to rhetorical analysis:
       - researcherss of rhetorical criticism or rhetorical theory are not very commonn
       - Discourse-centered approaches: combination of traditional modes of rhetorical criticism with tools of linguistics analysis
         - Discourse-Historical Approach (DHA): stresses the importance of history in the analysis of political discourse. Texts are never isolated. Relationship between power and language. Focus on right wing and populist rhetoric.
+  - Analysing rhetorical devices
+    - public discourse is primarily argumentative
+    - thus rhetorical analysis focuses on argumentation analysis based on argumentation schemes and typologies, which have been recently renewed and questioned.
+    - 2 main areas:
+      - Logical structure analysis of argumentation
+        - structures of argumentation are omnipresent in everyday language and more so in everyday political arguments
+        - argumentation schemes are useful to analyze the logical structure in arguments/invention.
+        - Structures:
+          - most basic: major premise A then conclusion B
+          - but in complex discourse structures are much less transparent: for example, Walton and Hansen's structure, argument from fairness
+        - schemes are not enough to assess an argument profoundly, to do this critical questions about it must be asked
+          - a strict distinction between fallacies and non-fallacies in analyzing arguments is not as useful in everyday language as it is in logic
+          - different evaluation of fallacies that include linguistic and communicative aspects
+          - also, is emotive language acceptable? and when
+          - what we name is just as important as what we do not, so the focus cannot be only on the structure of arguments
+      - Semantics of arguments. topics
+        - extra logical vocabulary must be considered in argumentation analysis
+        - argumentative topoi: the actual meaning of the words in the context of argumentation
+          - topoi: conclusion rules that connect the argument/s with the conclusion or claim. always connected to the context of an argumentation and they proliferate if the range of rhetorical situations is wider. example: the topos of danger and threat (if something is is dangerous, one should do something against it
+    - Fallacious arguments: 
+      - fallacies are deficient arguments (traditional rhetorics)
+      - today, fallacies are defined as the violation of rules in argumentation
+      - thus in order to distinguish them a normative model is needed
+      - Pragma-dialectics provides such rules
+      - Critical questions are asked to determine at which point fallacious arguments become unacceptable
+      - strategic manouvering are things arguers do to achieve their rhetorical and dialectic goals
+    - Figures of speech 
+      - important  instrument in political rhetoric and a main  branch of rhetoric since antiquity
+      - small rhetorical units, stylistic means
+      - focus today is on the mechanisms and structures and are rather viewed as semiotic categories
+      - 5 traditional categories:
+        - simile
+        - metaphor
+        - hyperbole
+        - personification
+        - synecdoche
+      - they can operate in different levels of speech:
+        - phonetics/phonology (alliteration, assonance, consonance or onomatopoeia)
+        - morphology (anaphora, anadiplosis, archaism, epiphora)
+        - syntax (ellipsis, parallelism, chiasmus, asyndeton, polysyndeton)
+        - semantics (euphemisms, metaphors, metonymies, personifications)
+      - can also be categorized according to how they operate:
+        - repetition
+        - subtraction
+        - permutation
+        - substitution
+    - metaphors:
+      - traditionally viewed as subsets of FSP
+      - however metaphors are no longer viewed as artificial ornaments in speech, but as instruments that organize the way we think and that are deeply entrenched in the human mind
+      - they operate between congnition and emotion and thus provide an important strategy in political speeches
+      - conceptual metaphors, which we use to structure our thinking:
+        - war metaphors to convey politics
+        - sickness or natural catastrophe metaphors to talk about crisis
+    - Prospects:
+      - computerised methods
+      - analysis of large corpora of texts
