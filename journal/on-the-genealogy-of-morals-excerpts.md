@@ -1,0 +1,90 @@
+# On the Genealogy of Morality. Excerpts
+- by [[Friedrich Nietzsche]]
+- Preface:
+  - 1: 
+    - We are unknown to ourselves
+    - Humans are concerned with knowledge, how about experience?
+    - we remain strange to ourselves out of necessity, we are not knowers when it comes to ourselves
+  - 2:
+    - This polemic is about the descent of our moral prejudices
+    - the same polemic occupied Nietzsche in *Human, All Too Human*
+    - because these ideas have not faded but grown, Nietzsche is sure that they are stemming from a fundamental will to knowledge which excedes him. This is correct, because philosophers must not stand out individually in their quest for knowledge
+  - 3: 
+    - origin of terms good and evil, a curiosity that stems from skepticism
+    - first hypothesis: the origin is God
+    - but later the author ceased to search the origin of evil beyond the world
+    - he then focused on the value judgments good and evil, and how was it that man came up with them, and what do they mean for humanity
+  - 4:
+    - genealogy of hypotheses: The Origin of the Moral Sensations by Dr. Paul Rée, "refuted" by Nietzsche in *Human...*
+- 5: 
+    - Value of morality: necessary confrontation with Schopenhauer
+        - values of unegoistic, compassion, self-denial, self-sacrifice held by Schopenhauer, mistrusted by Nietzsche
+        - here Nietzsche sees the danger to mankind
+        - a predilection for compassion in philosophers is something new, belonging to modern philosophers, until now, philosophers have deemed compassion worthless
+    - 6: 
+      - because of this modern emergence, a critique of moral values is also needed, the value of those values must be examined
+      - how did these values grow, develop and change? the value of these values has been taken for grantes
+      - Nietzsche wonders if placing the higher value on good has hindered humanity in some way we are unaware of
+    - 7:
+      - focus on a history of morality
+      - the problem of morality must be first taken seriously so that it can eventually be taken humorously
+  - first essay:
+    - I
+      - 6. 
+        - the highest caste is the clerical caste: psychological and political superiority are taken as equal
+        - pure and impure are taken too seriously
+        - Nietzsche considers this dominancy unhealthy: customs 
+      - 7. 
+        - the priestly method split off from the chilvaric-aristocratic method and develop further into its opposite
+        - priests are the most evil enemies: powerlessness
+        - the Jews have been the ones to harm the noble, mighty, rulers, the most
+        - the slaves' revolt in morality begins with the Jews, and it was victorious
+      - 8. 
+        - from this revenge, a love grew out: Jesus, perfect and dangerous bait
+      - 9. 
+        - with this, the morality of the common people has triumphed
+        - role of Church?
+      - 10. 
+        - slaves' revolt in morality originates when ressentiment turns creative and gives birth to values
+        - noble morality grows out of affirmation of itself, but slave morality is the negation of everything that is outside. This means no creativity. 
+        - Change of focus from inside to outside is a feature of ressentiment. Ressentiment is a reaction to the outside
+        - so does the man of ressentiment conceive the evil enemy, as a figure of which he is the counterpart
+    - II
+      - 11
+        - instead, a noble man conceives the idea of good by himself, and only then creates a notion of bad
+        - the bad conceived by the noble and the evil conceived by the man of ressentiment are very different from each other
+        - evil according to ressentiment is the good person from the nobility, re-interpreted through the filter of ressentiment
+    - 12
+          - the destinty of Europe seems in danger because we have lost fear of man, and with it our love and respect for him
+          - It seems that things will continue to declin
+    - 16
+        - the battle between good and bad and good and evil has been going on for thousands of years, and there are places in which this battle is still going
+        - Rome versus Judea: Rome, strong and noble, Judea, ressentiment and popular morality
+          - of these models, Rome has been defeated
+          - Judea: Church - Reformation - Restoration of the Church - French revolution and its annihilation of the last political nobility in Europe
+      - 17
+        - need for an exchange between philosophy, phisiology and medicine
+        -  values must be reassessed, starting from a physiological standpoint. The rank order of values must be decided taking these other standpoints into account.
+- second essay
+      - 9
+        -   community and its members have a relationship akin to that between the creditor and the debtor
+            -   if you do not comply with the obligations that living in a community entails, you will be in debt and will be made to make up for it.
+            -   the law breaker is deprived of the benefits of living in a community and also reminded of how important the benefits are
+            -   punishment in this sense is a copy of the behavior towards a hated defeated enemy
+      - 10
+        - when a community grows in power the actions of a wrongdoer are no longer so destabilizing wo there is no need to punish them harshly, instead, they are shielded
+        - a compromise is sought: mercy
+      - 11
+        - recent attempts to seek the origin of justice in ressentiment (anarchists / anti-Semites)
+        - attempts to sanctify revenge with justice / legitimization of emotional reactions through revenge
+        - Nietzsche criticizes that other emotions that he calls "active"(such as lust for mastery or greed) are not considered so generously by these points of view
+        - in his view, justice represents not ressentiment, a reaction, but the battle against that kind of sentiment 
+        -  however, the setting up of a legal system starts the values of "just" and "unjust", which are not found "as such" in life, since life functions in a destructive and violent manner
+        -  states of legality are exceptional states that seek to restrict the true will to life
+       - 12
+         - origin and purpose of punishment
+           - these matters should  be considered separately
+           - punishment has not been evolved for punishing
+           - the development of something is not a progress towards a goal, instead a succession of processes of subjugation exacted on the thing
+           - progress can be measured according to how much had to be sacrificed for it
+           - the essence of life, its will to power, is often overlooked<!--  -->
