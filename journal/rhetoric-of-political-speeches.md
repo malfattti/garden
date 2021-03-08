@@ -1,2 +1,110 @@
 # Rhetoric of political speeches
 
+- de Martin Reisigl
+- characterization of political speeches from the point of view of rhetoric and of politolinguistic:
+  - speech: structured chain of coherent speech acts deployed in a special occasion, with a specific objective, by a single person and addressed to a relatively specific audience
+  - speeches differ in length, occasion topic, function, speaker, addressees, form of presentation and degree of preparedness, etc.
+  - usually prepared beforehand (formality)
+  - classical rhetoric:
+    - speeches are analysed within the framework of rhetoric genre theory (according to function, occasion and place of delivery)
+      - judicial
+      - deliberative
+      - epideictic
+    - this division is abstract and ideal, in reality not as strict as in theory
+    - political speeches are associated first with the deliberative (differing opinions about political decisions) and then the epideictic (verbalization of political values and political consent in the public sphere) genre
+    - since these categories were created politics have become more complex and so have their speeches
+    - thus a a transdisciplinary politolinguistic approach is necessary to account for such complexity
+      - politoliguistic relies on concepts from social science and rhetorical and discourse analytical categories. 
+        - Three dimensions of the political:
+          - polity: 
+            - political frame for political actors, the normative, legal and instituttional manifestations which help establish the political order. 
+            - Political speeches of this aspect: 
+              - commemorative, memorial speeches for example. 
+              - express common value of in-group
+              - epideictic genre
+              - laudatory purpose
+            - Policy: 
+              - content-related dimension of political action
+              - formulation of political tasks, aims and programmes
+              - what policy aimed at whom for what purpose, shaping the social by political means
+              - Political speeches of this aspect: 
+                - inaugural speeches, resignation speeches, appointment speeches
+            - Politics:
+              - concerns political processes: how and with whose help are politics performed?
+              - its main purpose is to assert oneself against political opponents to make a specific policy possible
+              - Political speeches of this aspect: 
+                - election speech
+        - when introducing the field of political action, another categorization of political speeches becomes possible. They are: 
+          - the lawmaking procedure;
+          - the formation of public attitudes, opinions and will;
+          - the party-internal formation of attitudes, opinions and will;
+          - the interparty formation of attitudes, opinions and will;
+          - the organisation of international and (especially) interstate relations;
+          - political advertising;
+          - the political executive and administration; and
+          - the various forms of political control
+        - discourses can spread from one field to other/s
+- types and functions of political speeches
+  - political speeches can be categorized according to ten heuristic criteria:
+    - who? Example: presidential speech
+    - on what occasion? for example: inaugural address
+    - where? speech in parliament
+    - when? jubilee speech
+    - to whom? address to the nation
+    - via what? tv speech
+    - in what form? read out speech
+    - about what? victory speech
+    - belonging to which rhetorical genre? deliberative speech or epideictic speech
+  - political speeches are actions in the speech act theoretical sense, but also because they accomplish two political purposes: inclusion and exclusion
+    - debate, inaugural and election speeches are mostly dissent oriented
+    - tv address and commemorative speeches are mostly consent oriented
+- rhetorical macro-structure and functional main sections
+  - three macro-structural units composed by sequences of speech acts:
+    - introduction
+    - main part:
+      - narration
+      - argumentation
+    - conclusion
+  - political speeches are more freely organized than other speeches. for example, the narration and argumentation sections are usually nor separated. This is because political speech nowadays have new demands. For example, argumentation plays a much more important role in democracy, while in contexts of less political freedom speeches contain much more dramatisation or fallacious suggestions.
+- The “interaction structure” of political speeches as linguistic action patterns
+  - at first sight political speeches seem to be monological linguistic events but they do have a clear interacion structure even when they are not endowed with turn taking
+  - normally the listener position is made apparent when the speech articulates the agreement of the listener with something the speaker said: applause, cheers. disagreement: if possible, avoided, if not, removal of the disrupter
+  - pattern positions that permit applause are partly obligatory (acclamation relevance places), especially before the beginning, when the speaker is introduced and also in the end. 
+  - positions that allow for intermediary acclamatory reactions are facultative, but a lot of times systematically elicited by intonation, rhetorical figures, etc
+  - the reactions of the audience can influence the media coverage
+- main constitutive conditions of political oratory, past and present
+  - dimensions:
+    - time: before it was focused on momentariness in either present or future, now processual, reference to present, past and future
+    - linguistic context: before, it was simple, now complex
+    - speaker/author: before, the speaker and the author were the same, now team of writers
+    - addressee: before, homogeneity, now there are different audiences: primary, secondary, tertiary
+    - medium: before: direct contact, co-presence / now: co presence and spatio-temporal dissociation
+    - type of speech: before, either deliberative or epideictic, now: variety of gernes
+    - aims/functions: before, two basic aims, now, many
+  - media and the reception of a speech 
+    - speakers must address different audiences: principle of calculated ambivalence in which conflicting theses are included in the speech
+    - later transmissions only reproduce the speech partially
+    - the selection of passages and the interpretations that journalists make of them play a huge role in the way speeches are received by the public
+  - authorship and labor division in speech production
+    - before: production of speech divided into five stages (Aristotle's inventio, dispositio, etc.)
+    - now: three production stages
+      - the orator makes a proposal and gives rough instructions to the team
+      - first draft, correction and comments by speaker and advisor
+      - rewriting of text based on these, sometimes many revisions are required
+      - memory and delivery are responsibility of the politicians
+- Possible tasks for applied linguistics
+  - speech criticism: evaluates and judges speeches re. their persuasive structure, aesthetic criteria, performance and political, social and ethical dimension
+  - can relate to;
+    - object of critique:
+      - speech theories
+      - speech practices
+    - norms and values followed or infringed by the speech:
+      - criticism relating to language internal norms and values
+      - criticism relating to language external norms and values
+    - functions and aims of the speech:
+      - positive criteria: example, sincerity
+      - negative criteria: (more important in the 20th cent) example, demagogy
+    - three tasks:
+      - more empirical work to counteract the rather abstract theoretical work so far
+      - analysis with a purpose to detect and expose a politician's oratory when it infringes ethical/democratic principles
+      - change and improve the culture of political speech
