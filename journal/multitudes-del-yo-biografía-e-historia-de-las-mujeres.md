@@ -1,0 +1,23 @@
+# Multitudes del yo: biografía e historia de las mujeres
+
+- de Mónica Bolufer, 2014
+- resumen
+  - Identificar las aportaciones que hizo la historia de las mujeres y del género al enfoque biográfico en el contexto de los debates teóricos y metodológicos importantes en la historia: 
+    - biografía como práctica social, situada ideológicamente
+    - reconocimiento de la relación entre biografía y autobiografía
+    - historicidad y compleja relación entre lo público y lo privado
+    - concepto del yo complejo y móvil, inscrito en redes de relaciones
+- Introducción
+  - Ya en a Room of One's Own Virginia Woolf plantea el silencio en la historia alrededor de las experiencias y contribuciones de las mujeres
+    - si Shakespeare hubiera tenido una hermana, no podría haber desarrollado su potencial como él
+    - pero por más que lo hubiera hecho, probablemente poco sabríamos de ella
+  - Woolf y su círculo produjeron un quiebre respecto de la noción decimonónica de biografía
+    - Lytton Strachey: Victorianos inminentes
+    - trabajos de Woolf
+  - La historia de las mujeres reconoció la necesidad de dar a conocer las vidas y experiencias femeninas
+    - entre otros recursos usa el enfoque biográfico
+    - complejas relaciones entre la biografía y la historia
+    - en el caso de la historia de las mujeres el vínculo ha sido a la vez que productivo, sumamente complejo
+      - tanto en cuanto al pasado de la disciplina
+      - como al reciente giro biográfico de la misma
+    - aportaciones de la historiografía feminista al debate sobre la biografía y cuestiones metodológicas y teóricas suscitadas por esta para la historia 
