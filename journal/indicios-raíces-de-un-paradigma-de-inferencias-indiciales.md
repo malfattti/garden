@@ -1,0 +1,74 @@
+# Indicios. Raíces de un paradigma de inferencias indiciales
+- de Carlo Ginzburg, de 1999
+- a fines de s. XIX surge en las ciencias humanas un modelo o paradigma epistemológico 
+- ha sido ampliamente empleado en la práctica pero no se ha teorizado demasiado sobre él
+- su análisis puede ser útil para entender la contraposición entre racionalismo e irracionalismo
+- I:
+  - 1: 
+     - entre 1874 y 1876 se publican unos artículos sobre pintura italiana en un periódico sobre artes visuales
+     - proponían un nuevo método de atribución de cuadros antiguos que desató polémicas
+     - su autor era Iván Lermolieff, un estudioso ruso desconocido, y estaban traducidos al alemán por un traductor tampoco conocido, Johannes Schwarze
+     - en realidad, lo había escrito el italiano Giovanni Morelli bajo los seudónimos antes mencionados, el primero un anagrama, el segundo un calco de su nombre
+     - el método ha perdurado bajo el nombre de método morelliano
+     - este método implica que para distinguir los originales de las copias no debe prestarse atención a los detalles más sobresalientes de un pintor o corriente, sino en los más superfluos. estos rasgos se hallaban presentes en los originales y no en las copias.
+     - el método a pesar de que trajo excelentes resultados fue desdeñado y cayó en desuso, probablemente por la arrogancia de su propulsor al formularlo
+     - Wind fue quien contribuyó a la renovación del interés por el método de Morelli, señalando que era un buen ejemplo de la actitud moderna hacia el arte, que se enfoca en los detalles y no en el conjunto de la obra
+     - Ginzburg propone que las implicaciones del método de Morelli iban mucho más allá
+   - 2:
+     - Wind dice que los libros de Morelli tienen mucho en común con una investigación policial, porque están llenos de imágenes minuciosas que delatan la autoría de un artista determinado como si se tratara de sus huellas digitales
+     - Castelnuovo compara el método de Morelli con el de Sherlock Holmes: el detective descubre al autor del delito pot medio de indicios invisibles para la mayoría
+       - En el cuento "La aventura de la caja de cartón de 1892, Holmes resuelve el caso a través de las características de unas orejas
+   - 3
+       - Wind señala la relación entre la psicología moderna y la teoría de Morelli en que la psicología destaca la importancia de los gestos inconscientes (Freud) que son mucho más reveladores que cualquier actitud formal 
+       - Freud también escribió sobre Morelli y señaló la similitud de su método con el del psicoanálisis médico en tanto que ambos se enfocan en elementos usualmente inadvertidos
+       - Freud publica este texto de manera anónima y solo reconoce su paternidad cuando lo incluye en sus obras completas
+       - Freud declara así de forma algo reticente la influencia que Morelli ejerce en él, al que además lee en el período preanalítico de Freud
+    - 4
+       - Ginzburg considera importante precisar los dos momentos en que Freud lee a Morelli
+         - "Mucho antes de que pudiera yo haber oído hablar de psicoanálisis vine a enterarme de que un experto en arte, el ruso Iván Lermolieff...": la primera afirmación es datable solo conjeturalmente, como temprano 1895 y como tarde 1883
+         - "más tarde, fue muy interesante para mí enterarme de que tras el seudónimo ruso se escondía un médico italiano apellidado Morelli...": este segundo momento puede precisarse más: probablemente 1898 (aunque la verdadera autoría de los ensayos era conocida desde 1883)
+       - identificación de la individualidad artística con los elementos inconscientes
+    - 5
+       - Paralelismos entre los métodos de Morelli, Holmes y Freud
+       - rasgos pictóricos - indicios - síntomas
+       - cómo se explica esta triple analogía?
+         - Freud era médico, Morelli tenía un diploma en medicina y Conan Doyle había ejercido la medicina antes de dedicarse a la escritura
+           - en los tres casos se puede argumentar la influencia del modelo de la sintomatología médica
+         - pero esto no es todo, hay una hipótesis más abarcativa que tiene que ver con el paradigma de indicios que desde la década de 1870-1880 empezó a afirmarse en las ciencias humanas tomando de base la sintomatología pero con raíces muy anteriores
+ - II.
+   - 1.   
+     - Los antiguos cazadores se guiaban por huellas para localizar a su presa, información que fueron pasando a través de las generaciones (pinturas rupestres, leyendas)
+       - Estos saberes se caracterizan por permitir que quien los porte pueda basarse en esos datos experimentales para remontarse a una realidad compleja que no han experimentado de forma directa
+       - tales datos son dispuestos de manera tal que pueden dar lugar a una secuencia narrativa: alguien pasó por ahí
+       - quizás, conjetura Ginzburg, así surgieron las primeras narraciones, de la interpretación de rastros
+       - de hecho el lenguaje del desciframiento usa mucho la metonimia: la parte por el todo
+       - analogía entre adivinación y desciframiento: ambos mediante indicios, pero uno se refiere al futuro y otro al pasado
+         - las operaciones intelectuales formuladas en estas actividades son formalmente idénticas pero en el contexto social opuestas
+         - proceso de mayor abstracción: de las huellas al pictograma a la escritura fonética
+     - Volviendo a la sintomatología, hallamos a esta entonces en conjunto con otras disciplinas: todas estas unidas por el análisis de casos individuales reconstruibles por medio de rastros.
+     - Paradigma indicial dirigido según distintas formas del saber a un tiempo determinado:
+       - adivinación: futuro
+       - medicina: pasado, presente y futuro
+       - jurisprudencia: pasado
+     - detrás de todas estas disciplinas está el gesto del cazador buscando a su presa mediante una huella, o sea según Ginzburg el gesto más antiguo de la historia intelectual humana
+   - 2.
+     - Cambio de paradigma de la sociedad mesopotámica a la griega
+       - gran rol de la medicina hipocrática, basada en los síntomas
+       - Alcmeón, médico pitagórico, establece la contraposición entre el conocimiento divino, inmediato, y el humano, conjetural
+   - 3. 
+     - Sin embargo la inseguridad de la medicina existe desde la medicina hipocrática
+     - paradigma científico basado en la física galileana: sus términos no coinciden con el de las disciplinas indiciales porque estas disciplinas no se basan en lo cuantitativo sino en lo cualitativo y en casos individuales, por lo que conllevan inevitablemente un componente aleatorio
+     - entre las disciplinas indiciales, Ginzburg destaca una, la filología y en concreto la crítica textual, que constituye un caso atípico
+     - fue reducciendo sus componentes para poder establecer su objetivo
+     - este proceso fue influenciado por la invención de la escritura y de la imprenta
+     - la crítica textual nace después de la invención de la escritura y se consolida tras la invención de la imprenta
+     - se eliminaron los rasgos materiales del texto: primero los vinculados a la oralidad y después los que tenían que ver con el aspecto material de la escritura
+     - así es que el texto no se identifica con su base de sustentación
+     - por qué? no tiene que ver con la mecanicidad, porque en China no se abandonó la caligrafía como arte con el advenimiento de la imprenta
+     - esta concepción abstracta de texto explica como a pesar de ser ampliamente adivinatoria la crítica textual aspira a la rigurosidad científica, evitando lo cualitativo al considerar solo los aspectos reproducibles a pesar de seguir considerando solo casos individuales
+   - 8. 
+     - mientras que la medicina como forma de conocimiento indicial siguió gozando de prestigio, las otras formas de conocimiento indicial no eran tan valoradas (populares, no formalizadas, no abstractas)
+     - En el s. XVIII la burguesía se apropia del saber popular y lo codificaL la Enciclopedia
+       - esto implica que cada vez más los saberes y experiencias antiguas están mediatizados por los libros
+       - la novela permite a la burguesía el acceso a la experiencia en general
+       - gracias a la escritura de ficción el paradigma indicial goza de un renovado éxito en este período
