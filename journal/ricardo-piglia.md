@@ -34,7 +34,7 @@
     - Misterio en el mundo de la riqueza: quien tiene dinero esconde un crimen, el enriquecimiento es siempre ilegal.
     - el poder del dinero, de tenerlo todo y hacer todo, es como el poder de la ficción.
 
-## Una trama de relatos
+### Una trama de relatos
 - La sociedad es una trama de relatos:
   - Lo personal/privado de la narración.
   - La voz pública.
@@ -64,7 +64,7 @@ delirios de Alberdi. Sus testamentos son como los sueños muertos de la patria".
 "La línea Mayo-Caseros tiene más
 que ver con un hipotético recorrido de subte que con la historia argentina"
 
-## Los relatos sociales
+### Los relatos sociales
 
 - Intelectuales y poder:
   - dialogar con el Estado como intelectual es la versión cultural de "vivir en democracia"
@@ -92,7 +92,7 @@ que ver con un hipotético recorrido de subte que con la historia argentina"
     - -estas fueron en realidad las zonas en que estaba dividido el país o la ciudad para el accionar de los grupos "de detención"
     - todo se vuelve explícito: amenaza dispersa e insinuada por la ciudad.
     - estos carteles siguen hoy en Buenos Aires?
-## Ficción y política en la literatura argentina
+### Ficción y política en la literatura argentina
 La novela es tardía en la literatura argentina porque la llanura no se presta a novelas, los locales solamente pueden cantar sus penas. Los ingleses son los únicos que escriben en la pampa.
 Los indios? Sociedades sin Estado. En sus sociedades, el poder político siempre está en duda (como ocurre en todo ejercicio de la política. El que tiene poder debe ser un buen narrador. Alivia penurias y construye esperanzas. El uso de la palabra es un deber más que un privilegio. Así se mantiene la autoridad a salvo de la violencia coercitiva. Incluso muchas veces la tribu no escucha al jefe. Y un día lo abandonan y van a escuchar a otro. Mansilla dice que en el desierto los narradores son los que mandan, ellos son los que pueden poner en el lenguaje la pasión de lo que se viene.
 Y en la civilización? La ficción se opine al uso político del lenguaje.
@@ -180,7 +180,7 @@ Y en la civilización? La ficción se opine al uso político del lenguaje.
        - mezcla de géneros y el efecto de verdad. incertidumbre de los géneros en la literatura argentina del s. XIX y Sarmiento juega con eso
        - el uso del discurso directo por parte de Sarmiento es una forma sutil de ficcionalizar
        - 
-La ciudad ausente
+## La ciudad ausente
 la ciudad ausente: el relato es diferido
 la idea de ciudad como entramado de relatos
 
@@ -199,7 +199,74 @@ el grabador
     - historia versus relato está en los relatos tablespoon
     - la cuestión de poder y literatura
     - la narración como tema
-  - 
+
+## La forma inicial. Conversaciones en Princeton
+### La ficción paranoica
+- Conversación con Jeffrey Lawrence y Camilo Hernández
+- Entrevistadores: El género policial en América Latina y en Estados Unidos. Transformaciones sociales, políticas y artísticas aparejadas a la modernidad. Poe: transformación en los modos de narrar, prefigura a Conrad, James y Fitzgerald
+    - Piglia: El relato policial surge en 1841 con "Los crímenes de la calle Morgue"
+    - transformación en los modos de narrar, que se manifiesta de forma menor en la experimentación que se da entre el s. XIX y el XX (Joyce, Proust, Kafka)
+    - Se trata de la figura del narrador omnisciente y los modos de narrar
+    - Surge un narrador que no conoce por completo la historia que va a narrar
+    - En Poe, el narrador narra en primera persona una historia que no le pertenece pero que intenta entender
+      - narrador anónimo que se alía con Dupin
+      - desdoblamiento del narrador: el que narra y el que investiga
+    - Esta historia aparece muchas veces concentrada en un sujeto o en una situación (crimen, enigma) específicas
+    - James teoriza esta cuestión a fines del s. XIX cuando elabora la idea de un narrador que está en el mismo plano que los personajes y sabe tanto o menos que ellos sobre la historia (The House of Fiction: ver una escena y tejer especulaciones o investigar qué pasa allí)
+  - Entrevistadores: posicionamiento sobre el debate de los 30 acerca del origen del género policial/novela moderna: Benjamin (condiciones histórico-sociales-estéticas: determinaciones contextuales) / Borges (nuevos hábitos mentales: origen literario):
+  - Piglia: la diferencia es clásica: 
+      - Borges: 
+        - autonomía de las formas literarias (renovaciones, estereotipos, parodias, nuevas transformaciones)
+        - relación con el formalismo ruso
+        - valoración de ciertos elementos que son preponderantes en el policial: la brevedad, la narración como solucionadora de problemas (ficción especulativa/conceptual)
+      - por el otro, los géneros literarios ligados a situaciones sociales (temas como por ejemplo la inseguridad, la amenaza, que se discuten en la literatura como se discuten en la sociedad)
+    - El interés por el género policial está también relacionado con su marginalidad
+  - Entrevistadores: relación entre el policial y la novela gótica: el fantasma se reemplaza por el cadáver (de menor a mayor materialidad) / relación entre el gótico y el discurso científico o del estado, discurso oficial  
+  - Piglia: 
+    - el gótico y el policial: hay un mundo más tenebroso que el cotidiano, en el gótico hay un desplazamiento físico pero en el policial no
+  - Proceso paralelo con el psicoanálisis: psicoanalista como detective 
+    - Literatura y psicoanálisis: 
+      - Leslie Fiedler en *The Love and Death in the American Novel* afirma que el gótico surge entre el fin de la religión y el nacimiento del psicoanálisis. Queda suelto todo el mundo que la religión controlaba (los demonios, las brujas) y antes de que Freud lo conceptualice en el inconciente. 
+      - Freud nos dice que "el gótico lo tenemos todos"
+      - El policial también surge en este momento intermedio antes de la llegada del psicoanálisis
+      - El psicoanálisis es también cultura de masas y literatura popular , y la sociedad de masas como amenaza es vista como una versión multitudinaria de lo pulsional
+      - Tanto el psicoanálisis como la literatura están lidiando con estas cuestiones
+    - Tradición argentina y anglosajona: Borges relaciona *Las mil y una noches* con Chesterton, algo impensado para un agloparlante. la tradición angloamericana es leída por Borges de una forma muy particular 
+      - Borges: 
+        - Borges está conectado con la tradición popular a pesar de ser un intelectual: 
+          - escritores populares anglófonos cuando él era joven, cine de Hollywood. Su interés por el género detectivesco tiene que ver con eso. Borges es un buen lector de vanguardia (se opone a la convención, al canon), si bien no sea considerado un escritor de vanguardia
+        - Borges en "El escritor argentino y la tradición" dice que porque no estamos en la tradición central podemos usar cualquier tradición
+        - Buenos Aires le permite estar a Borges totalmente al día con la literatura mundial
+        - Aprende de Poe a hacer su obra y a la vez una poética a través de la cual leerla: lucha por una manera de hacer literatura que le parece pertinente
+    - Walsh:
+      - precursor de la non-fiction novel, pero también fuertemente comprometido políticamente
+      - requiere una lectura más compleja que la que se le ha dado a partir de su involucramiento político y su asesinato en manos de los militares
+      - es escritor muy integrado en la cultura de masas por sus trabajos (editoriales  de revistas y libros para kioscos, traducción de policiales, corrector de pruebas, producción cultural antes que crítica) y lee desde ese lugar
+      - está muy influenciado por Borges: prosa precisa, concisa, exacta, con fraseo ligado al ritmo, tono y sintaxis de la oralidad
+      - se interesa por el género policial desde 1950 a 1961: relatos de enigma clásicos
+      - 1957: Operación masacre: en el prólogo a la segunda edición cuenta su "mito de origen", como rompe con ser borgeano y lo asalta la historia, y por eso escribe lo que escribe
+        - libro de investigación que prueba la distorsión de los hechos por parte del estado y hace ver que la ley marcial se aplica luego de los acontecimientos (radio nacional facilita el horario)
+        - creencia en la justicia, pruebas
+        - conoce el mundo obrero y muestra su sensibilidad para retratarlo
+        - su fascinación viene primero con la voz popular y no tanto con la política
+        - usa formas de la novela para escribir un libro de no ficción antes que Capote, pero a diferencia de Capote y otros escritores que escriben no-ficción, sus libros de no-ficción no se entienden sin política
+        - Operación masacre acompaña varios procesos políticos, la marca de un libro bueno
+        - en esta lectura se pierde el posicionamiento inicial de Walsh en un margen que funciona dentro del establishment mismo
+    - The long goodbye y el género policial negro:
+    - En esta novela hay una serie de cambios estructurales:
+      - Chandler apunta a un límite y es aquel en el que el detective se implica en la historia
+      - Ironía romántica en la proposalEl enigma ya no es tan importante
+      - Escritores involucrados en el partido comunista que plantean en su literatura que los crímenes ocurren porque la sociedad está corrupta (ricos, poder, manipulación)
+      - influencia de Hemingway con The Killers y del contexto: Gran Depresión , cultura de masas, pulp fiction, revistas
+      - restricciones de las condiciones de producción, diferentes a las de la tradición clásica (libros de bolsillo, números de página)
+    - La novela policial negra como desvío del género policial y la literatura contemporánea usando el policial en otros géneros (Saer, Bolaño, Calvino, G. Márquez, Pynchon + Nabokov, Gombrowicz, Gadda):
+      - mayor autonomía, escape de sus propias leyes
+      - tres relaciones básicas: detective, asesino y víctima, pero a veces de modo fantasmático, a veces sin uno de ellos.
+      - En el pasaje de policial inglés clásico a Hammett: el foco se desplaza del detective al criminal
+      - ficción paranoica: el origen, evolución y estado del género. Relato que trabaja con la amenaza , exceso de interpretación, todo debe tener una causa.
+    - El género modifica el modo de lectura: para Borges Poe engendra un nuevo lector que siempre está sospechando : lector paranoico o delirante. Ahora este lector es común (Derrida, de Man: lo policial, popular y de masas, se interna tb en lectorxs sofisticadxs)
+      - 
+      - 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [La ciudad ausente]: la-ciudad-ausente "La ciudad ausente"

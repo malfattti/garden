@@ -58,7 +58,7 @@
    - 3. 
      - Sin embargo la inseguridad de la medicina existe desde la medicina hipocrática
      - paradigma científico basado en la física galileana: sus términos no coinciden con el de las disciplinas indiciales porque estas disciplinas no se basan en lo cuantitativo sino en lo cualitativo y en casos individuales, por lo que conllevan inevitablemente un componente aleatorio
-     - entre las disciplinas indiciales, Ginzburg destaca una, la filología y en concreto la crítica textual, que constituye un caso atípico
+     - entre las disciplinas indiciales, Ginzburg destaca una, la filología y en concreto la crítica textual, que constituye un caso atípicoáß
      - fue reducciendo sus componentes para poder establecer su objetivo
      - este proceso fue influenciado por la invención de la escritura y de la imprenta
      - la crítica textual nace después de la invención de la escritura y se consolida tras la invención de la imprenta
