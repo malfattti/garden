@@ -97,6 +97,31 @@ La novela es tardía en la literatura argentina porque la llanura no se presta a
 Los indios? Sociedades sin Estado. En sus sociedades, el poder político siempre está en duda (como ocurre en todo ejercicio de la política. El que tiene poder debe ser un buen narrador. Alivia penurias y construye esperanzas. El uso de la palabra es un deber más que un privilegio. Así se mantiene la autoridad a salvo de la violencia coercitiva. Incluso muchas veces la tribu no escucha al jefe. Y un día lo abandonan y van a escuchar a otro. Mansilla dice que en el desierto los narradores son los que mandan, ellos son los que pueden poner en el lenguaje la pasión de lo que se viene.
 Y en la civilización? La ficción se opine al uso político del lenguaje.
 
+### Sobre el género policial
+- Los relatos de la serie negra deben leerse teniendo en cuenta la tradición de la literatura norteamericana, antes que la del relato policial clásico
+- Relatos fundamentales: Poe, Los crímenes de la calle Morgue + Hemingway, Los asesinos:
+  - en Hemingway no se explica ni intenta descifrar el crimen > policial duro
+  - en Poe y las deducciones del caballero Dupin > novela de enigma
+- Durante años los escritores de la serie negra fueron leídos con la novela de enigma, sus pautas y criterios, en mente
+  - pero con este criterio sus textos son malos relatos policiales, una degradación del género
+- La novela policial inglesa fue difundida eficazmente por Borges, que buscaba crear una recepción adecuada para sus textos
+  - tipo de relato y manejo de la intriga eran centrales
+- El policial clásico se centra en el fetiche de la inteligencia pura:
+  - lógica y racionalismo defienden la ley descifrando enigmas
+- El policial negro no es legible con esta óptica porque el trabajo del detective no se basa en la quietud y el análisis, sino en la experiencia
+- en el medio de ambas lógicas está la del periodismo: según Auden , el policial compensa las deficiencias del género no ficcional (la noticia policial), cuyo conocimiento de la realidad se funda en la narración pura de los hechos
+- Poe está en ambos lados, en el medio entre la pura deducción -ficción- y los hechos , la no ficción: 
+  - la forma analítica lo separa de los hechos
+  - la narración reconstruye y deduce, construye la trama sobre las huellas vacías de lo real (la pura ficción)
+  - pero tb da paso a la no-ficción  (noticias periodísticas como base de la trama)
+- El relato norteamericano se mueve entre el periodismo y la novela de enigma
+- el investigador privado propio de este modelo nace de la realidad : en los años veinte, en las grandes ciudades industriales, es contratado por los empresarios para vigilar a los agitadores sociales: es hombre de confianza de la policía
+- simultáneamente, modo de manejar la realidad puede llamarse "materialista": 
+  - el detective es un trabajador asalariado, mientras que en la novela de enigma es un aficionado que lo hace desinteresadamente
+  - el crimen está siempre sostenido por el dinero, mientras que en la novela de enigma es más difusa la relación entre crimen y dinero: la gratuidad del móvil fortalece la complejidad del enigma
+- Las novelas de la serie  negra proponen un enigma y no lo resuelven: en de las relaciones capitalistas: el dinero sostiene la ley y es la única razón de esos relatos, donde todo se paga. relatos capitalistas.
+- relatos ambiguos
+- lectura brechtiana: qué tiene de diferente fundar un banco y robarlo?
 ## Sarmiento escritor
 ### Paradoja central en la obra de Sarmiento
 - dificultad de ser un escritor en la Argentina en el s. XIX
@@ -158,7 +183,7 @@ Y en la civilización? La ficción se opine al uso político del lenguaje.
         - ficción argentina: intento de representar el mundo del otro. para narrar la propia clase se usa la autobiografía
         - la literatura ficcionaliza al bárbaro
           - el otro debe ser conocido para ser civilizado
-          - la ficción debe poder representar los intereses ocultods del adversario
+          - la ficción debe poder representar los intereses ocultos del adversario
           - la barbarie se construye como el adversario ideal
           -  en la representación del bárbaro se leen las características de la realidad que lo determina
        - el *Facundo* describe la oposición entre civilización y barbarie peor también la construye
