@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-07.md",
+            "file": "Rodolfo Walsh.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-07.md",
+                "file": "Rodolfo Walsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
   },
   "active": "0ec8cafbbff5fa8b",
   "lastOpenFiles": [
+    "Rodolfo Walsh.md",
+    "journal/2021-03-05.md",
     "2021-05-07.md",
     "journal/2020-12-06.md",
     "gloria-anzaldúa.md",
@@ -103,8 +105,6 @@
     "Roberto Arlt.md",
     "judeoespañol.md",
     "journal/2020-12-28.md",
-    "journal/2020-12-05.md",
-    "journal/2020-11-28.md",
-    "gayatri-spivak.md"
+    "journal/2020-12-05.md"
   ]
 }
