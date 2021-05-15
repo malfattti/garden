@@ -2,4 +2,4 @@
 - Nietzsche's procclamation of the death of God (1882) summarizes the cultural change, questioning of morality and secuality of his century
 - Decadent literature was the field which, brought about by this questioning and the tools used to try out answers, used sexuality as a means to explore social and political questions plus the eternal question: what is love?
 - Age of reason: free love and free thinking went together
-- The Enlightenment, with its gradual tearing apart of traditional religious authority, engendere
+- The Enlightenment, with its gradual tearing apart of traditional religious authority, engendered questioning re. whoshould replace this traditional authority and where should values come from and who is authorized to 
