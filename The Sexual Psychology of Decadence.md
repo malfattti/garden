@@ -1,3 +1,3 @@
 - artículo de [[Melanie Hawthorne]]
 - Nietzsche's procclamation of the death of God (1882) summarizes the cultural change, questioning of morality and secuality of his century
-- Decadent literature was the 
+- Decadent literature was the field which, brought about by this questioning and the tools used to try out answers, used sexuality as a 
