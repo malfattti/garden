@@ -1,2 +1,3 @@
 - artículo de [[Melanie Hawthorne]]
-- Nietzsche's procclamation of the death of God summarizes the cultural
+- Nietzsche's procclamation of the death of God (1882) summarizes the cultural change, questioning of morality and secuality of his century
+- Decadent literature was the 
