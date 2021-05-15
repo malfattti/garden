@@ -5,4 +5,5 @@
 - The Enlightenment, with its gradual tearing apart of traditional religious authority, engendered questioning re. whoshould replace this traditional authority and where should values come from and who is authorized to formulate them.
 	- answerd came froms science, art (art fo art's sake), and the vestiges of religions
 	- In terms of sexuality, the authority of the priest gave way to the authority of the police, science and doctors (Foucault)
-	-
+	- SCIENCE:
+		- opppppppp-	qqqqqqqqqqqqqqqqqqqqqqqA|
