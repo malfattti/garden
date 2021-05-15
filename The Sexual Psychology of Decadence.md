@@ -7,4 +7,5 @@
 	- In terms of sexuality, the authority of the priest gave way to the authority of the police, science and doctors (Foucault)
 	- SCIENCE:
 		- Origin of the dominant paradigms that condition the transformations of the social order during the nineteenth cent
-		- application of reason to human problems
+		- application of reason to human problem= better social outcomes
+		- study of 
