@@ -20,5 +20,7 @@
 			- Lesbianism was often tolerated as a repertoire of sexual behaviors that included men
 			- lesbianism was never crminalized in Britan, male homosexuality was penalized and carried strong penalties after 1885 
 			- Gay men fled to France or Italy to have more freedoms (decadent trope)
-		- Sexology
+		- Sexology, the systematic study of sex was invented
+			- Sexual behaviors were analyzed
+			- Sexual deviance was presented as pathology, but 
 			
