@@ -16,5 +16,7 @@
 		- For the decadents the creation of this label (1869, Germany) provided a new type that challenged middle-brow culture. Examples: Oscar Wilde's Dorian Gray, Jean Lorrain
 		- The treatment of male and female homosexuality diverged. 
 			- Germany: homosexuality was penalized
-			- France: neither male nor female homosexuality were criminalized, though other prohibitions were invoked to limit activities such
+			- France: neither male nor female homosexuality were criminalized, though other prohibitions were invoked to limit activities such as cruising and cottaging
+			- Lesbianism was often tolerated as a repertoire of sexual behaviors that included men
+			-  
 			
