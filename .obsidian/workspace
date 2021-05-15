@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "211484c19670f958",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The King in Yellow.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "The King in Yellow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ec8cafbbff5fa8b",
+  "active": "211484c19670f958",
   "lastOpenFiles": [
+    "The King in Yellow.md",
+    "El insomnio de Bolívar.md",
     "2021-05-15.md",
     "2021-05-17.md",
     "Untitled.md",
-    "The King in Yellow.md",
     "dudas rápidas.md",
     "dudas.md",
     "Diana Drake.md",
     "ddddd.md",
-    "classical dark academia.md",
-    "Rodolfo Walsh.md"
+    "classical dark academia.md"
   ]
 }
