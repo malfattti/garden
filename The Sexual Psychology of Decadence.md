@@ -24,5 +24,5 @@
 			- Sexual behaviors were analyzed
 			- Sexual 'deviance' was presented as pathology, but as one to be treated with empathy
 			- Sexual inversion: sympathetic theory, "mistake of nature"
-			- German sexologists advocated for homosexual rights and transgender issues (first )
+			- German sexologists advocated for homosexual rights and transgender issues (first sex reassignment surgery, 1930), target for the nazism
 			
