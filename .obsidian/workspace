@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-15.md",
+            "file": "2021-05-17.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "0ec8cafbbff5fa8b",
   "lastOpenFiles": [
+    "2021-05-17.md",
     "2021-05-15.md",
     "Untitled.md",
     "The King in Yellow.md",
@@ -104,7 +105,6 @@
     "Diana Drake.md",
     "ddddd.md",
     "classical dark academia.md",
-    "Rodolfo Walsh.md",
-    "journal/2021-03-05.md"
+    "Rodolfo Walsh.md"
   ]
 }
