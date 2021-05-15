@@ -22,5 +22,6 @@
 			- Gay men fled to France or Italy to have more freedoms (decadent trope)
 		- Sexology, the systematic study of sex was invented
 			- Sexual behaviors were analyzed
-			- Sexual deviance was presented as pathology, but 
+			- Sexual deviance was presented as pathology, but as one to be treated with empathy
+			- S
 			
