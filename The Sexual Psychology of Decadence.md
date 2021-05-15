@@ -9,5 +9,6 @@
 		- Origin of the dominant paradigms that condition the transformations of the social order during the nineteenth cent
 		- application of reason to human problem= better social outcomes
 		- Lombroso's study of "physical traitsthat determine criminal actions"
-		- prostitution is included in Lombroso's definition of criminal
-		- thus prostitution is deemed an inborn tendency, not a social product, which allows the treatment of prostitutes as criminal class
+			- prostitution is included in Lombroso's definition of criminal
+			- thus prostitution is deemed an inborn tendency, not a social product, which allows the treatment of prostitutes as criminal class
+			- 
