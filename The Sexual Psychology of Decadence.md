@@ -10,4 +10,4 @@
 		- application of reason to human problem= better social outcomes
 		- Lombroso's study of "physical traitsthat determine criminal actions"
 		- prostitution is included in Lombroso's definition of criminal
-		- thus prostitution is deemed an inborn tendency, not a social product, wh
+		- thus prostitution is deemed an inborn tendency, not a social product, which allows the treatment of prostitutes as criminal class
