@@ -6,4 +6,4 @@
 	- answerd came froms science, art (art fo art's sake), and the vestiges of religions
 	- In terms of sexuality, the authority of the priest gave way to the authority of the police, science and doctors (Foucault)
 	- SCIENCE:
-		- opppppppp-	qqqqqqqqqqqqqqqqqqqqqqqA|
+		- Origin of the dominant paradigms that 
