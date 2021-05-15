@@ -11,5 +11,6 @@
 		- Lombroso's study of "physical traitsthat determine criminal actions"
 			- prostitution is included in Lombroso's definition of criminal
 			- thus prostitution is deemed an inborn tendency, not a social product, which allows the treatment of prostitutes as criminal class
--Homosexuality was discussed and problematized by a number of doctors:
+		- Homosexuality was discussed and problematized by a number of doctors:
+			- Tardieu: attemted to diagnose homosexuals by forensic means through a number of humiliating 
 			
