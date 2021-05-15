@@ -24,4 +24,5 @@
 			- Sexual behaviors were analyzed
 			- Sexual 'deviance' was presented as pathology, but as one to be treated with empathy
 			- Sexual inversion: sympathetic theory, "mistake of nature"
+			- German sexologists 
 			
