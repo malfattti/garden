@@ -13,5 +13,6 @@
 			- thus prostitution is deemed an inborn tendency, not a social product, which allows the treatment of prostitutes as criminal class
 		- Homosexuality was discussed and problematized by a number of doctors:
 			- Tardieu: attempted to diagnose homosexuals by forensic means through a number of humiliating and later discredited number of tests and signs, (such as inability to urinate in a straight line)
-		- For the decadents the creation of this label (1869, Germany) provided a new type that challenged middle-brow culture. Examples: Oscar Wilde's Dorian Gray,
+		- For the decadents the creation of this label (1869, Germany) provided a new type that challenged middle-brow culture. Examples: Oscar Wilde's Dorian Gray, Jean Lorrain
+		- 
 			
