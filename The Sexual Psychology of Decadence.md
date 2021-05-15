@@ -1,1 +1,2 @@
-- artículo de 
+- artículo de [[Melanie Hawthorne]]
+- Nietzsche's procclamation of the death of God summarizes the cultural
