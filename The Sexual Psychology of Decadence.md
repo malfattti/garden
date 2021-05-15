@@ -26,6 +26,6 @@
 			- Sexual inversion: sympathetic theory, "mistake of nature"
 			- German sexologists advocated for homosexual rights and transgender issues (first sex reassignment surgery, 1930), target for the nazism
 	- Psychoanalisis: sexual expression as a form of psychology, uncoscous. Freud still distinguished between pathological and normal behaviours, but since the former were so frequent, it lead to a de-stigmatization
-	- focus on 
+	- focus on medican studies of the mind led to the decadent movement's interest for mental states, the unconscious and mental landscapes
 	- Freud was a man of his time, one could not say that he influenced decadentism so much (as he did later modernism) because he was so embedded in his context, one could argue he was a decadent figure himself
 			
