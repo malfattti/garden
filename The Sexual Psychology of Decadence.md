@@ -8,4 +8,5 @@
 	- SCIENCE:
 		- Origin of the dominant paradigms that condition the transformations of the social order during the nineteenth cent
 		- application of reason to human problem= better social outcomes
-		- study of 
+		- study of "physical traitsthat determine criminal actions"
+		- prostitution is among 
