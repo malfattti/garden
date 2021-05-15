@@ -19,4 +19,5 @@
 			- France: neither male nor female homosexuality were criminalized, though other prohibitions were invoked to limit activities such as cruising and cottaging
 			- Lesbianism was often tolerated as a repertoire of sexual behaviors that included men
 			- lesbianism was never crminalized in Britan, male homosexuality was penalized and carried strong penalties after 1885 
+			- Gay men fled to France or Italy to have more freedoms (topic)
 			
