@@ -60,4 +60,5 @@
 				- Muchas también explican sus poemas y textos públicos.
 
 		- **Tipo de cartas**:
+		- Memoria, voz del yo que observa (subjetividad-objetividad)
 
