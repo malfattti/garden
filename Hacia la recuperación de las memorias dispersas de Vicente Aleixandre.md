@@ -67,6 +67,8 @@
 			- Más externas que internas, más distancia entre la voz y el mensaje, de emisor a destinatario (más que de emisor a emisor), más narrativas e informativas que lírico-descriptivas
 			- El tipo de prosa (más prosaica o más literaria) y el nivel de lengua (más o menos oral): dependen del destinatario
 			- Mayor intimidad es para Alonso
-			- L
+			- Las cartas con Alonso en su mayor nivel de frecuencia se acercan mucho al diario íntimo (o cuando el mismo hecho es contado a varixs)
+		- **Temas**:
+			- 
 	
 
