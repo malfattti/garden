@@ -60,8 +60,9 @@
 				- Muchas también explican sus poemas y textos públicos.
 
 		- **Tipo de cartas**:
-		- Memoria, voz del yo que observa (subjetividad-objetividad)
-		- Más memoria y autobiografía que confesión
-		- Sabía Aleixandre que sus cartas serían publicadas? Probablemente sí.
-		- 
+			- Memoria, voz del yo que observa (subjetividad-objetividad)
+			- Más memoria y autobiografía que confesión
+			- Sospechaba Aleixandre que sus cartas serían publicadas? Probablemente sí
+		- Tipo de prosa y nivel
+	
 
