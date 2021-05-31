@@ -13,3 +13,5 @@
 citado por Pablo Rojas (reedición de Aleixandre-Niveiro)
 
 - Zardoya, Concha, “Un epistolario de Vicente Aleixandre”, _Cuadernos Hispanoamericanos_, 442, abril de **1987**, 111-119 \[Reseña del epistolario a José Luis Cano, posiblemente el primero, 1986\]
+- Duque Amusco "Fidelidad humana: epistolario de Vicente Aleixandre”, Ínsula. 482, 1987: 8
+- Cronología y detalle cartas Comincioli
