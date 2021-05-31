@@ -44,5 +44,5 @@
 		- tratamiento: uso de usted solo al comienzo, luego tú. Pero no es una conversación íntima o confesional (que sí hay con Alonso). Politesse.
 		- nivel de lengua: politesse, algunas cartas con mayor aspecto emocional que otras.
 	- **Cartas y autorretrato**:
-		- Las cartas de Aleixandre 
+		- Las cartas de Aleixandre son muchas, pero solo conocemos una proporción muy 
 
