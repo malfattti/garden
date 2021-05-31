@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Sexual Psychology of Decadence.md",
+            "file": "2021-05-25.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sexual Psychology of Decadence.md",
+                "file": "2021-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "dacee3e4911f09f4",
   "lastOpenFiles": [
+    "2021-05-25.md",
     "The Sexual Psychology of Decadence.md",
     "2021-05-15.md",
     "journal/2021-03-05.md",
@@ -115,7 +116,6 @@
     "journal/2021-03-23.md",
     "journal/2021-03-26.md",
     "The King in Yellow.md",
-    "El insomnio de Bolívar.md",
-    "2021-05-17.md"
+    "El insomnio de Bolívar.md"
   ]
 }
