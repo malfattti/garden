@@ -77,6 +77,8 @@
 			- Gran conversador y corresponsal
 			- atento al otro: siempre amable
 			- espíritu romántico y soñador, escéptico, voluntad de hierro
-			- Ordenado y obsesivo con algunas cuestiones, 
+			- Ordenado y obsesivo con algunas cuestiones, desordenado con otras (especialmente su archivo que es por eso tan escueto)
+			- Mediador entre amigxs: servicial, diligente, predispuesto, generoso
+			- 
 	
 
