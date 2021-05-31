@@ -41,6 +41,6 @@
 				- agradecimientos
 	- la correspondencia confirma y define más el retrato trazado por Aleixandre públicamente. 
 	- tipo de amistad según rasgos formales:
-		- tratamiento: uso de usted solo al comienzo, luego t
-		- nivel de lengua
+		- tratamiento: uso de usted solo al comienzo, luego tú. Pero no es una conversación íntima o confesional (que sí hay con Alonso). Politesse.
+		- nivel de lengua: 
 
