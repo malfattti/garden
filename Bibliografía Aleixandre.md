@@ -1,9 +1,9 @@
           
-- [[Díaz de Castro]], Francisco J. “[[La autobiografía del 27: Los epistolarios]]”, _Monteagudo_, 3ª época, 3, **1998**, 13-36.
+- [[Díaz de Castro, Francisco J.]] “[[La autobiografía del 27: Los epistolarios]]”, _Monteagudo_, 3ª época, 3, **1998**, 13-36.
 
-- Emiliozzi, Irma. “[[Introducción: hacia la recuperación de las memorias dispersas de Vicente Aleixandre]]” en _Correspondencia a la Generación del 27 (1928-1984)_, ed. Irma Emiliozzi, Madrid, Castalia, **2001**. 9-37.
+- [[Emiliozzi, Irma]]. “[[Introducción: hacia la recuperación de las memorias dispersas de Vicente Aleixandre]]” en _Correspondencia a la Generación del 27 (1928-1984)_, ed. Irma Emiliozzi, Madrid, Castalia, **2001**. 9-37.
 
-- Morelli, Gabriele, “Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-**Macri**”, _Monteagudo_, 3ª época, 3, **1998**, 73-84.
+- Morelli, Gabriele, “[[Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-**Macri**]]”, _Monteagudo_, 3ª época, 3, **1998**, 73-84.
 
 - Rojas, Pablo, “Epistolario Talaverano: Cartas de Vicente Aleixandre al ceramista Emilio Niveiro”, _Alcalibe. Revista Centro Asociado a la Uned “Ciudad de la Cerámica_, 5, **2005**, 297-341.
 	- SOLO INTERESA EN ESTE CASO LA POSIBLE MENCIÓN A DOS TIPOS DE CARTAS Julio Neira 2002, 387 dos tipos:
