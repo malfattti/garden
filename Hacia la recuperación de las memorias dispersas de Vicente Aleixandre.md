@@ -79,6 +79,8 @@
 			- espíritu romántico y soñador, escéptico, voluntad de hierro
 			- Ordenado y obsesivo con algunas cuestiones, desordenado con otras (especialmente su archivo que es por eso tan escueto)
 			- Mediador entre amigxs: servicial, diligente, predispuesto, generoso
-			- 
+			- puntual, cortés y fiel
+			- Aleixandre colaboró con su vida, obra y sus cartas, en la existencia de la red de poetas-amigos de la generación del 27
+- **Cartas, poemas y "enc
 	
 
