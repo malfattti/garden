@@ -63,6 +63,7 @@
 			- Memoria, voz del yo que observa (subjetividad-objetividad)
 			- Más memoria y autobiografía que confesión
 			- Sospechaba Aleixandre que sus cartas serían publicadas? Probablemente sí
-		- Tipo de prosa y nivel
+		- **Tipo de prosa y nivel de lengua**:
+			- Más externas que internas, más distancia entre la voz y el mensaje, de emisor a dest
 	
 
