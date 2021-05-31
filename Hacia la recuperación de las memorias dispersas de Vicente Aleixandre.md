@@ -81,6 +81,7 @@
 			- Mediador entre amigxs: servicial, diligente, predispuesto, generoso
 			- puntual, cortés y fiel
 			- Aleixandre colaboró con su vida, obra y sus cartas, en la existencia de la red de poetas-amigos de la generación del 27
-- **Cartas, poemas y "enc
+- **Cartas, poemas y "encuentros": hacia la recuperación de las memorias de Vicente Aleixandre
+- 
 	
 
