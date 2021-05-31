@@ -41,6 +41,6 @@
 				- agradecimientos
 	- la correspondencia confirma y define más el retrato trazado por Aleixandre públicamente. 
 	- tipo de amistad según rasgos formales:
-		- tratamiento
+		- tratamiento: uso de usted solo al comienzo, luego t
 		- nivel de lengua
 
