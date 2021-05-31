@@ -48,5 +48,7 @@
 		- Permiten completar la literatura de homenaje de Aleixandre : retratos de sus amigxs donde tb se perfila el suyo propio 
 		- Poco a poco vamos conociendo ese perfil: polifacético, observador, atento, que se adapta al destinatario, y muy inteligente
 		- **El emisor "o" el destinatario**:
-			- 
+			- Salinas distingue tres tipos de cartas:
+				- privada, dirigida a si mismo
+				- 
 
