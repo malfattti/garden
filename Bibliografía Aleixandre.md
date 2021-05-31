@@ -1,5 +1,4 @@
-           
-
+          
 - Díaz de Castro, Francisco J. “La autobiografía del 27: Los epistolarios”, _Monteagudo_, 3ª época, 3, **1998**, 13-36.
 
 - Emiliozzi, Irma. “Introducción: hacia la recuperación de las memorias dispersas de Vicente Aleixandre” en _Correspondencia a la Generación del 27 (1928-1984)_, ed. Irma Emiliozzi, Madrid, Castalia, **2001**. 9-37.
