@@ -1,0 +1,46 @@
+- Referencia completa: Emiliozzi, Irma. “Introducción: hacia la recuperación de las memorias dispersas de Vicente Aleixandre” en _Correspondencia a la Generación del 27 (1928-1984)_, ed. Irma Emiliozzi, Madrid, Castalia, **2001**. 9-37.
+- **Aleixandre, prolífico corresponsal:**
+	- a quién escribe? a diversos destinatarios: familia, amigxs, poetas
+	- cómo? privada y públicamente
+	- con qué resultado? sus cartas ayudan y estimulan a sus amigxs y aspirantes a poetas más jóvenes
+	- para qué? para comunicarse, como complemento de actividades diarias, como costumbre, por placer o deleite de comunicarse epistolarmente con alguien
+	- Aleixandre era tb lector de epistolarios (autoconciente del género)
+- **Cartas, vida y poesía. Retratos de los poetas amigos:**
+	- Delimitación de este epistolario:
+		- Eje ordenador: generación del 27 (no todos) + poetas catalanes: grupo de amigxs más que generación
+	- Características de los corpus:
+		- Gerardo Diego: arco de más de cincuenta años. Casi 60 cartas y tarjetas + notas (1928-1979)
+		- Jorge Guillén: maestro, predisposición especial. 52 cartas (1928-1973)
+		- García Lorca: una carta, pero muy importante, reseña de *Romancero gitano*
+		- Dámaso Alonso: 25 cartas + 13 tarjetas + notas. Íntima relación, poco conservado en relación con esa profundidad.
+		- Manuel Altolaguirre: 9 cartas (1947-1969)
+		- Emilio Prados: 13 cartas (1947-1960).
+		- Pedro Salinas: 4 cartas + nota (1948-1951)
+		- Familia Riba-Arderiu: 15 cartas + 5 tarjetas (11948-1969)
+	- Frecuencia y baches: muchas veces las variaciones se deben a otro tipo de contacto con lxs amigxs
+	- Las cartas rozan los temas biográficos personales y tb en cuanto a las obras de cada uno y noticias del mundo literario
+	- Nos acercan al retrato de cada destinatario. Temas y registros dependen de cada destinatariX. Ejemplos.
+- **Cartas y retratos de Aleixandre**
+	- La correspondencia "confirma y completa" los homenajes literarios que Aleixandre dedicó a sus amigos del 27
+	- La autora elige el orden cronológico, pero ordenarlas por amigo tb nos ayudaría a ver esta correspondencia (carácter retratístico de la correspondencia)
+	- carácte sociable de la escritura de Aleixandre
+
+- **Cartas y literatura de homenaje. Un ejemplo: Gerardo Diego:**
+	- Repaso por los homenajes públicos de Aleixandre a Diego y viceversa
+	- Análisis de las cartas en relación con estos homenajes. 
+	- 3 grupos:
+		- cartas de 1928: Revista Carmen, polémica y contribución de Aleixandre al Homenaje a Fray Luis de León publicado en dicha revista
+			- En cuando a la polémica, Aleixandre adhiere a Diego y comenta la división con otros grupos poéticos y la posición frente a Juan Ramón Jiménez
+		- cartas de 1931-1934: Antologías de Diego, comentarios de libros y peripecias biográficas
+			- adhesión de Aleixandre, intervención ante poetas reticentes (Prados)
+			- uso de datos de Diego
+		- cartas de 1940 en adelante o cartas ocasionales:
+			- 29 postales: pequeñas notas, selección de coleccionista, referencias religiosas 
+			- cartas: ya no hay eje organizador, más aisladamente:
+				- comentario de la poesía de su amigo
+				- agradecimientos
+	- la correspondencia confirma y define más el retrato trazado por Aleixandre públicamente. 
+	- tipo de amistad según rasgos formales:
+		- tratamiento
+		- nivel de lengua
+
