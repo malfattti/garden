@@ -55,4 +55,5 @@
 
 			- Las cartas de Aleixandre nacieron privadas y hoy son públicas
 			- Aleixandre conversa con los demás, no consigo mismo. Sus cartas no tienen un gran grado de "literariedad"
+			- en el caso de Alonso y Prados, intimidad y confesión: verdadera
 
