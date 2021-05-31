@@ -62,4 +62,6 @@
 		- **Tipo de cartas**:
 		- Memoria, voz del yo que observa (subjetividad-objetividad)
 		- Más memoria y autobiografía que confesión
+		- Sabía Aleixandre que sus cartas serían publicadas? Probablemente sí.
+		- 
 
