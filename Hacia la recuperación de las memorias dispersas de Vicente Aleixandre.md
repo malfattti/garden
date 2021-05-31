@@ -75,5 +75,8 @@
 			- Lxs amigxs y la familia
 		- **Autorretrato**:
 			- Gran conversador y corresponsal
+			- atento al otro: siempre amable
+			- espíritu romántico y soñador, escéptico, voluntad de hierro
+			- Ordenado y obsesivo con algunas cuestiones, 
 	
 
