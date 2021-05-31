@@ -54,4 +54,5 @@
 				- con lectores múltiples
 
 			- Las cartas de Aleixandre nacieron privadas y hoy son públicas
+			- Aleixandre conversa con los demás, no consigo mismo. Sus cartas no tienen un gran grado de "literariedad"
 
