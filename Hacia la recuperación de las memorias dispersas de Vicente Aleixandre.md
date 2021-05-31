@@ -69,6 +69,8 @@
 			- Mayor intimidad es para Alonso
 			- Las cartas con Alonso en su mayor nivel de frecuencia se acercan mucho al diario íntimo (o cuando el mismo hecho es contado a varixs)
 		- **Temas**:
+			- libros y lecturas, quehacer poético
+			- ensayo: tema poético, la poesía como forma de vida
 			- 
 	
 
