@@ -61,4 +61,5 @@
 
 		- **Tipo de cartas**:
 		- Memoria, voz del yo que observa (subjetividad-objetividad)
+		- Más memoria y autobiografía que confesión
 
