@@ -55,6 +55,7 @@
 
 			- Las cartas de Aleixandre nacieron privadas y hoy son públicas
 			- Aleixandre conversa con los demás, no consigo mismo. Sus cartas no tienen un gran grado de "literariedad"
-			- en el caso de Alonso y Prados, intimidad y confesión: verdaderas páginas literarias, alto lirismo. Por ejemplo, con la noticia de la muerte de su madre.
-			- 
+			- en el caso de Alonso y Prados, intimidad y confesión: verdaderas páginas literarias, alto lirismo. Por ejemplo, con la noticia de la muerte de su madre
+				- A Alonso también le escribe una carta que convertirá en un artículo sobre su poética, para sus *Obras completas*
+				- 
 
