@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Bibliografía Aleixandre.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -93,7 +93,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
