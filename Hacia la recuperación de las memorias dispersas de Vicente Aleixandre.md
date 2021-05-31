@@ -71,6 +71,9 @@
 		- **Temas**:
 			- libros y lecturas, quehacer poético
 			- ensayo: tema poético, la poesía como forma de vida
-			- 
+			- Ambiente vital: Miraflores / Madrid
+			- Lxs amigxs y la familia
+		- **Autorretrato**:
+			- Gran conversador y corresponsal
 	
 
