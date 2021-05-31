@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-25.md",
+            "file": "Bibliografía Aleixandre.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-25.md",
+                "file": "Bibliografía Aleixandre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "dacee3e4911f09f4",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "2021-05-31.md",
     "2021-05-25.md",
     "The Sexual Psychology of Decadence.md",
     "2021-05-15.md",
@@ -114,8 +116,6 @@
     "journal/2021-03-03.md",
     "journal/2021-03-10.md",
     "journal/2021-03-23.md",
-    "journal/2021-03-26.md",
-    "The King in Yellow.md",
-    "El insomnio de Bolívar.md"
+    "journal/2021-03-26.md"
   ]
 }
