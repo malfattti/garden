@@ -50,5 +50,8 @@
 		- **El emisor "o" el destinatario**:
 			- Salinas distingue tres tipos de cartas:
 				- privada, dirigida a si mismo
-				- 
+				- pura, de a dos, vislumbra al destinatario
+				- con lectores múltiples
+
+			- Las cartas de Aleixandre nacieron privadas y hoy son públicas
 
