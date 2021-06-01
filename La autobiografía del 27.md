@@ -109,4 +109,8 @@
 				- base para la tesis de Sánchez Banús (exiliado español en parís, dirigente socialista y estudiante de literatura española)
 				- transcripción escrupulosa y rica anotación
 				- diálogo de honda calidad intelectual: lo personal, lo literario, consideraciones intelectuales, sociales, políticas, exilio, injusticia, filosofía, canon del 27
+			- Con Camilo José Cela (Carreira 1996)
+				- 1957-1962: 56 cartas
+				- apoyo a Cela a esc
+				- 
 				
