@@ -132,4 +132,6 @@
 				- edición sin debida transcripción, anotación, referencias, contexto
 		- varios poetas del 27 a José Domenchina
 			- tesis del poeta silenciado, intento de reivindicación
+			- se reproduce fragmento de carta de Aleixandre comentando la muerte de Domenchina a Guillén
+		
 				
