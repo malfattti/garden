@@ -141,4 +141,6 @@
 				- mayor interés que las otras cartas de esta colección, pero igual interés limitado
 			- José María Hinojosa (1997)
 				- 173 cartas y postales
+				- datos valiosos, de carácter sentimental, intelectual, político
+				- lecturas
 				
