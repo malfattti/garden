@@ -153,6 +153,9 @@
 					- notas al pie
 					- revista Cruz y Falla: reflexiones sobre música, lit. religión, política, etc.
 		- Cristóbal Hall
-			- cartas a Guillén, (1925-36) + semba
+			- 29 cartas a Guillén, (1925-36) + semblanza de Hall
+			- 46 a Juan Guerrero (1927-1949)
+		- Juan Ruiz Peña a 
+		
 
 				
