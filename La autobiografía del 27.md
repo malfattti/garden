@@ -130,7 +130,7 @@
 				- 1925-1950: 30 cartas
 				- amistad, proyectos editoriales, poetas, libros
 				- edición sin debida transcripción, anotación, referencias, contexto
-		- varios poetas del 27 a José Domenchina
+		- varios poetas del 27 a José Domenchina (1997)
 			- tesis del poeta silenciado, intento de reivindicación
 			- se reproduce fragmento de carta de Aleixandre comentando la muerte de Domenchina a Guillén
 			- En esta colección se incluyen trece cartas de Aleixandre entre 1948-1958:
