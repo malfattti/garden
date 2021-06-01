@@ -106,7 +106,7 @@
 				- estudio crítico con gran riqueza informativa
 			- con Sanchis Banús (díaz de Guereñu, 1995)
 				- el más importante de Prados
-				- base para la tesis de Sánchez Banús (exiliado español en parís, dirigente socialista )
+				- base para la tesis de Sánchez Banús (exiliado español en parís, dirigente socialista y estudiante de literatura española)
 				- transcripción escrupulosa y rica anotación
-				- diálogo de honda calidad intelectual
+				- diálogo de honda calidad intelectual: lo personal, lo literario, consideraion
 				
