@@ -147,6 +147,9 @@
 				- con Miguel de Unamuno (1993)
 					- contextualización
 					- agrupación por tema, reproducción fragmentaria
-				- con Ma
-			
+				- con Manuel de Falla (1995)
+					- criterios editoriales más tradicionales
+					- completo
+					- notas al pie
+
 				
