@@ -100,3 +100,4 @@
 		- *Emilio Prados*:
 			- las includias en el *Epistolario inédito del 27* de José Luis Cano, tb publicadas más tarde aparte (+3, *Cartas desde el exilio*):
 				- cambio de fechas, notas + prólogo sobre su amistad
+				- 
