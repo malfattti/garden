@@ -133,6 +133,7 @@
 		- varios poetas del 27 a José Domenchina
 			- tesis del poeta silenciado, intento de reivindicación
 			- se reproduce fragmento de carta de Aleixandre comentando la muerte de Domenchina a Guillén
-			- En esta colección se incluyen trece cartas de Aleixandre
-			- 1948-1958
+			- En esta colección se incluyen trece cartas de Aleixandre entre 1948-1958:
+				- opiniones sobre los poemas de Domenchina
+				- lo ayuda con una antología que quiere hacer  (como lo ayuda a Comincioli con los textos de Machado)
 				
