@@ -129,5 +129,6 @@
 			- a Gerardo Diego
 				- 1925-1950: 30 cartas
 				- amistad, proyectos editoriales, poetas, libros
-				- edición sin debida transcripción, anotación, referencias, contexto, 
+				- edición sin debida transcripción, anotación, referencias, contexto
+		- varios poetas del 27 a José Domenchina
 				
