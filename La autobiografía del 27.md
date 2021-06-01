@@ -113,5 +113,8 @@
 				- 1957-1962: 56 cartas
 				- apoyo de Cela a escritores exiliados
 				- comentario sobre la antología de Gerardo Diego y la negativa de Prados a participar --> complemento muy interesante para el estudio de la historia de esta antología
-			- Con García Lorca ()
+			- Con García Lorca (Hernández 1997):
+				- 26 documentos 1920-1934
+				- No se pueden localizar las cartas de Lorca
+				- presentación dond
 				
