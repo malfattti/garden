@@ -128,5 +128,6 @@
 				- no tan interesantes
 			- a Gerardo Diego
 				- 1925-1950: 30 cartas
-				- 
+				- amistad, proyectos editoriales, poetas, libros
+				- edición sin debida transcripción, anotación, referencias, contexto, 
 				
