@@ -151,6 +151,7 @@
 					- criterios editoriales más tradicionales
 					- completo (Falla guardaba todo y copiaba sus cartas)
 					- notas al pie
-					- revista C
+					- revista Cruz y Falla: reflexiones sobre música, lit. religión, política, etc
+					- 
 
 				
