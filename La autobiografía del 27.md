@@ -98,6 +98,6 @@
 			- relación con *Ínsula*
 			- comentarios personales sobre libros o autorxs, términos como el de generación del 27
 		- *Emilio Prados*:
-			- las includias en el *Epistolario inédito del 27* de José Luis Cano, tb publicadas más tarde aparte (+3, *Cartas desde el exilio* 1946-19):
+			- las includias en el *Epistolario inédito del 27* de José Luis Cano, tb publicadas más tarde aparte (+3, *Cartas desde el exilio* 1946-1962):
 				- cambio de fechas, notas + prólogo sobre su amistad
 				
