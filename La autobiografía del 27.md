@@ -122,4 +122,6 @@
 				- reproduce las cartas cruzadas en torno a la antología desde 1934 a 1971 entre los protagonistas de la colección
 				- 63 cartas entre Diego y editoriales y 38 cartas entre Diego y los miembros de la generación
 				- información importante sobre edición de poemas
+		- *Manuel Altolaguirre*
+			- 
 				
