@@ -124,4 +124,6 @@
 				- información importante sobre edición de poemas
 		- *Manuel Altolaguirre*
 			- *Diez cartas a Concha Méndez*: 
+				- 1935
+				- no tan interesantes
 				
