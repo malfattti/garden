@@ -104,5 +104,7 @@
 			- *Una carta fundacional de "Litoral"* (Cuevas 1990)
 				- importante para conocer el trasfondo de la revista
 				- estudio crítico con gran riqueza informativa
-			- con Sanchis Banús
+			- con Sanchis Banús (díaz de Guereñu, 1995)
+				- el más importante de Prados
+				- base para la tesis de Sánchez Banús
 				
