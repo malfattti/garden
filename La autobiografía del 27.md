@@ -123,5 +123,5 @@
 				- 63 cartas entre Diego y editoriales y 38 cartas entre Diego y los miembros de la generación
 				- información importante sobre edición de poemas
 		- *Manuel Altolaguirre*
-			- *Diez cartas a Concha Méndez*
+			- *Diez cartas a Concha Méndez*: 
 				
