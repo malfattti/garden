@@ -144,7 +144,9 @@
 				- datos valiosos, de carácter sentimental, intelectual, político
 				- lecturas
 			- José Bergamín
-				- con Miguel de unamuno (1993)
-				- 
+				- con Miguel de Unamuno (1993)
+					- contextualización
+					- agrupación por tema, reproducción fragmentaria
+				- con Ma
 			
 				
