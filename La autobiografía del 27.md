@@ -131,4 +131,5 @@
 				- amistad, proyectos editoriales, poetas, libros
 				- edición sin debida transcripción, anotación, referencias, contexto
 		- varios poetas del 27 a José Domenchina
+			- tesis del poeta silenciado, intento de reivindicación
 				
