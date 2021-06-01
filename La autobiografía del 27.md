@@ -112,5 +112,5 @@
 			- Con Camilo José Cela (Carreira 1996)
 				- 1957-1962: 56 cartas
 				- apoyo de Cela a escritores exiliados
-				- 
+				- comentario sobre la antología de Gerardo Diego y la negativa de Prados a participar
 				
