@@ -118,5 +118,6 @@
 				- No se pueden localizar las cartas de Lorca
 				- presentación donde se explica la relación entre los poetas que este epistolario revela amorosa
 		- *Conjunto de la generación*:
-			- Ga
+			- Gabrielle Morelli (1997) sobre la historia de la antología de Gerardo Diego
+				- reproduce las cartas cruzadas en torno a la antología desde 1934 
 				
