@@ -138,5 +138,7 @@
 				- **lo ayuda con una antología que quiere hacer  (como lo ayuda a Comincioli con los textos de Machado)**
 				- elogia obras de Domenchina
 				- comenta brevemente artículo de Juan Ramón Jiménez
-				- mayor interés que las otras cartas de esta colección, pero igual interés 
+				- mayor interés que las otras cartas de esta colección, pero igual interés limitado
+			- José María Hinojosa ()
+				- 173 cartas y postales
 				
