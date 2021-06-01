@@ -153,5 +153,6 @@
 					- notas al pie
 					- revista Cruz y Falla: reflexiones sobre música, lit. religión, política, etc.
 		- Cristóbal Hall
+			- cartas a Guillén, (1925-36) + semba
 
 				
