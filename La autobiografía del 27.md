@@ -139,6 +139,6 @@
 				- elogia obras de Domenchina
 				- comenta brevemente artículo de Juan Ramón Jiménez
 				- mayor interés que las otras cartas de esta colección, pero igual interés limitado
-			- José María Hinojosa ()
+			- José María Hinojosa (1997)
 				- 173 cartas y postales
 				
