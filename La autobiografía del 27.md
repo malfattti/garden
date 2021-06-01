@@ -155,7 +155,8 @@
 		- Cristóbal Hall
 			- 29 cartas a Guillén, (1925-36) + semblanza de Hall
 			- 46 a Juan Guerrero (1927-1949)
-		- Juan Ruiz Peña a 
+		- Juan Ruiz Peña a Jorge Guillén (64 cartas de Ruiz Peña)
+		- Cartas de miembros de la generación del 27 a Rosa Chacel
 		
 
 				
