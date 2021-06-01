@@ -116,5 +116,7 @@
 			- Con García Lorca (Hernández 1997):
 				- 26 documentos 1920-1934
 				- No se pueden localizar las cartas de Lorca
-				- presentación dond
+				- presentación donde se explica la relación entre los poetas que este epistolario revela amorosa
+		- *Conjunto de la generación*:
+			- Ga
 				
