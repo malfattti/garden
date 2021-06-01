@@ -126,4 +126,7 @@
 			- *Diez cartas a Concha Méndez*: 
 				- 1935
 				- no tan interesantes
+			- a Gerardo Diego
+				- 1925-1950: 30 cartas
+				- 
 				
