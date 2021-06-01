@@ -149,7 +149,7 @@
 					- agrupación por tema, reproducción fragmentaria
 				- con Manuel de Falla (1995)
 					- criterios editoriales más tradicionales
-					- completo
+					- completo (Falla guardaba todo y copiaba sus cartas)
 					- notas al pie
 
 				
