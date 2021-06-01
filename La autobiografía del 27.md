@@ -119,5 +119,7 @@
 				- presentación donde se explica la relación entre los poetas que este epistolario revela amorosa
 		- *Conjunto de la generación*:
 			- Gabrielle Morelli (1997) sobre la historia de la antología de Gerardo Diego
-				- reproduce las cartas cruzadas en torno a la antología desde 1934 
+				- reproduce las cartas cruzadas en torno a la antología desde 1934 a 1971 entre los protagonistas de la colección
+				- 63 cartas entre Diego y editoriales y 38 cartas entre Diego y los miembros de la generación
+				- información importante sobre edición de poemas
 				
