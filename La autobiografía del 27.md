@@ -143,4 +143,8 @@
 				- 173 cartas y postales
 				- datos valiosos, de carácter sentimental, intelectual, político
 				- lecturas
+			- José Bergamín
+				- con Miguel de unamuno (1993)
+				- 
+			
 				
