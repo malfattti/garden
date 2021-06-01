@@ -111,6 +111,6 @@
 				- diálogo de honda calidad intelectual: lo personal, lo literario, consideraciones intelectuales, sociales, políticas, exilio, injusticia, filosofía, canon del 27
 			- Con Camilo José Cela (Carreira 1996)
 				- 1957-1962: 56 cartas
-				- apoyo a Cela a esc
+				- apoyo de Cela a escritores exiliados
 				- 
 				
