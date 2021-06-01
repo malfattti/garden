@@ -1,0 +1,102 @@
+- Referencia completa: Díaz de Castro, Francisco J. “La autobiografía del 27: Los epistolarios”, _Monteagudo_, 3ª época, 3, **1998**, 13-36.
+- Este artículo examina una treintena de epistolarios de lxs escritorxs de la Generación del 27 que se publicaron en los años anteriores a este artículo, con el motivo de centenarios de escritorxs y conmemoraciones en torno a este grupo. Estos epistolarios aportan al conocimiento de las relaciones, biografías e historia del grupo.
+- Epistolarios --> autobiografía colectiva
+- Generación o **grupo**
+- Calidad literaria de estos epistolarios
+- Qué permite/ no permite un epistolario?
+	- no siempre añaden algo esencial al conocimiento de la obra, pero:
+	- conocer: 
+		- lecturas y estímulos comunes
+			- proyectos de trabajo
+			- claves para interpretar textos
+			- crítica privada de textos personales o ajenos
+			- relaciones con terceros
+			- acontecimientos particulares
+		- ... mayor comprensión de lo escrito
+		- Un epistolario bien editado supone un adelanto en el estudio de un autor
+			- el trabajo de publicación supone una selección y edición que pueden ser más o menos criteriosas
+- Peligro: pérdida de la correspondencia si no se actúa con diligencia
+- Algunos epistolarios recientes que constituyen un aporte importante:
+	- *Cartas de amor a Margarita* de Salinas: 
+		- 1912-1915: selección de 104 cartas
+		- No se indican criterios editoriales
+		- amoroso + viajes, relaciones, proyectos, lecturas, propia producción y reflexiones sobre poesía
+	- *Salinas-Guillén*
+		- 1923-1951: selección de 225 cartas casi totalmente inéditas
+		-  criterios de recorte: relación con obras propias y ajenas/apreciaciones literarias/vida intelectual. 
+		-  Ejemplar edición: prólogo excelente sobre el género epistolar (historia+retórica) + notas contextualizadoras: 
+			-  historia íntima de la generación del 27
+	- *Salinas: cartas de viaje*
+		- múltiples corresponsales
+		- 1912-1951: 186 cartas
+		- notas + índice 
+		- perfil humano de Salinas: curiosidad, observación, panorama cosmopolita y moderno
+	- *Salinas, Guillén y Diego*:
+		- 1920 en adelante: 163 cartas
+		- notas + índice
+		- relaciones, ideas, proyectos comunes, amistad a través de años y circunstancias diferentes (guerra, opiniones divergentes), bromas, apreciaciones sobre la generación y las antologías de Diego
+	- *Gerardo Diego y de Cossio*
+		- 156 cartas inéditas
+		- prólogo + respeto por originales
+		- temprana valía intelectual de de Cossio e influencia en Diego (lit. áurea)
+		- importancia de recuperación de autores ss. XVI-XVII diferentes a Góngora
+		- discrepancias en torno al ultraísmo y vanguardia
+	- *Gerardo Diego y Ortega y Gasset*:
+		- 1921-1932: muy breve correspondencia
+		- Diego pide opinión y ayuda a Ortega
+	- *Gerardo Diego y Manuel de Falla*:
+		- desde 1950: 65 cartas
+		- notas, breve introducción, falta de análisis del conjunto, sin índice onomástico
+		- opiniones musicales y políticas
+	- *Juan Larrea a Gerardo Diego*:
+		- 1915-1948: 214 cartas
+		- notas, detalles biobibliográficos
+		- poemas inéditos y versiones francesas de poemas
+		- comentarios de la obra del otro
+		- Larrea:**juicios sobre Aleixandre y sobre Diego** --> asimétrica generación y relaciones entre miembros
+	- ***Cartas de Aleixandre***
+		- poca atención y cuidado editorial
+		- Tesis doctoral de Emiliozzi sobre el epistolario de Aleixandre a los poetas del 27
+				- 209 cartas
+		- Antecedentes:
+			- *José Luis Cano* (1986, 1992): 
+				- cartas dirigidas a él desde Miraflores (1929-1976) + viajes
+				- temporadas de separació entre los amigos: conversación ininterrumpida a lo largo de los años
+					- 1ero: intimidad, enfermedad, soledad
+					- 2do: vistas de Eva Seifert y amigos, otros temas
+				- Cartas seleccionadas que dan a conocer aspectos de la vida privada + comentarios sobre sus libros
+				- sin anotaciones pero sí un prólogo muy personal
+				- **la punta del iceberg** en una correspondencia que va a tardar mucho en considerarse satisfactoria
+			- *Amelia de Paz* (1997)
+			- *Charry Lara* (1998)
+	- *Lorca*:
+		- Epistolario completo (1997):
+			- 1910/11-1936: 531 documentos 
+			- autobiografía lorquiana
+			- medio siglo de actividad investigadora (**muchos antecedentes que permiten construir esta obra**)
+			- edición modélica:
+				- cotejo de originales y fotocopias, nuevas lecturas a una caligrafía difícil
+				- cronología completa (falta de fechas por parte de Lorca)
+				- puntuación actualizada
+				- anotaciones reunidas de anteriores ediciones en cada carta + datos biográficos, literarios, políticos, culturales etc.
+				- fragmentos de cartas de destinatarios
+				- identificación de poemas aludidos
+				- índices
+				- **epistolario modélico**: gracias a la enorme bibliografía lorquiana y de la época
+				- intimidad del poeta y versatilidad en su comunicación con diferentes destinatarios
+		- *Luis Cernuda*:
+			- diferentes revistas y publicaciones + 
+			- las includias en el *Epistolario inédito del 27* de José Luis Cano
+				- casi sin información complementaria
+				- 1945-58: 69 cartas
+				- inquietud por publicar
+				- juicios sobre escritorxs
+				- instrucciones a Cano sobre papeles suyos
+		- *Jorge Guillén*:
+			- las includias en el *Epistolario inédito del 27* de José Luis Cano:
+			- 1949-1983: 65 cartas
+			- relación con *Ínsula*
+			- comentarios personales sobre libros o autorxs, términos como el de generación del 27
+		- *Emilio Prados*:
+			- las includias en el *Epistolario inédito del 27* de José Luis Cano, tb publicadas más tarde (con algunas exclusiones):
+				- 

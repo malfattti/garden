@@ -82,6 +82,12 @@
 			- puntual, cortés y fiel
 			- Aleixandre colaboró con su vida, obra y sus cartas, en la existencia de la red de poetas-amigos de la generación del 27
 - **Cartas, poemas y "encuentros": hacia la recuperación de las memorias de Vicente Aleixandre
-- 
+- Las cartas de Aleixandre enriquecen sus textos públicos en honor a sus amigxs
+- crónica de Madrir y de su tiempo, historia e intrahistoria de vida cultural española y de poesía española contemporánea
+- datos desconocidos personales/grupales
+	- Personal: sus primeras experiencias como conferenciante en la Facultad de Filosofía y letras
+	- Grupal: encuentro con García Lorca, Gerardo Diego, Dámaso Alonso en 1921 (anterior a la configuración del grupo como generación)
+- Cartas como laboratorio del escritor, fuente de escritor públicos: valioso material para el investigador
+- deseo> este trabajo: punto de partida de la exégesis de su abundante correspondencia
 	
 
