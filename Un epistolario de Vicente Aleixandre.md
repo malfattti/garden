@@ -19,3 +19,4 @@
 - Sobre su destinatario: José Luis Cano
 	- confidente de máxima confianza
 	- se dirige a él sin retórica específicamente epistolar "sin artificialidad literaria"
+	- cartas mayormente escritas en Miraflores
