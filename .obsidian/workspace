@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "211484c19670f958",
+        "id": "2c1ea901ea508927",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliografía Aleixandre.md",
+            "file": "Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliografía Aleixandre.md",
+                "file": "Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "211484c19670f958",
+  "active": "2c1ea901ea508927",
   "lastOpenFiles": [
+    "Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
+    "]. “Introducción [[Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
     "Bibliografía Aleixandre.md",
     "2021-05-15.md",
     "La autobiografía del 27.md",
-    "Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
     "Diana Drake.md",
     "Untitled 1.md",
     "2021-05-31.md",
     "2021-05-25.md",
-    "The Sexual Psychology of Decadence.md",
-    "journal/2021-03-05.md"
+    "The Sexual Psychology of Decadence.md"
   ]
 }
