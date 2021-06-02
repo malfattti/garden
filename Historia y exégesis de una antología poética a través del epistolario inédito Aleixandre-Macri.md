@@ -1,5 +1,7 @@
 - Referencia completa: Morelli, Gabriele, “Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-**Macri**”, _Monteagudo_, 3ª época, 3, **1998**, 73-84.
 - Este artículo da a conocer el epistolario inédito de Vicente Aleixandre al hispanista italiano Oreste Macrí con motivo de la publicación de dos antologías que incluyeron la poesía de Aleixandre traducida al italiano.
+- este puede ser nuestro artículo modelo para nuestras c
 - 1951-1976, sobre *Poesía spagnola del Novecento* (1952) y *Poesie* (1961)
 - consejos y elogios a Macrí por su labor como difusor de la poesía española en Italia y por la atención que le da a la obra de Aleixandre
-- primero se concreta la *Poesía spagnola del Novecento* y lue
+- primero se concreta la *Poesía spagnola del Novecento* y luego Aleixandre le pide que haga una recopilación de su poesía, la *Poesie* (1961)
+- atención a las cartas de inicio y cierre
