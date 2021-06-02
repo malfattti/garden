@@ -25,3 +25,4 @@
 	- confidente de máxima confianza
 	- se dirige a él sin retórica específicamente epistolar "sin artificialidad literaria"
 	- cartas mayormente escritas en Miraflores
+- Estas cartas tienen un carácter mucho más íntimo y personal que las que dirige a Comcinioli o Macrí
