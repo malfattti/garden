@@ -4,7 +4,9 @@
 - La autora dice que este es un primer paso en el conocimiento público del abundante epistolario aleixandrino
 - Abarca de 1939 a 1976, años muy importantes para obras capitales de Aleixandre
 - Temas:
-	- estado de cuerpo y alma del poeta
+	- estado del cuerpo y alma del poeta
 	- desarrollo de su obra
 	- mundo íntimo, sentimental y amoroso
-	- cosmov
+	- cosmovisión
+	- relación con otrxs poetas y amigxs
+	- opiniones sobre la política, la sociedad, 
