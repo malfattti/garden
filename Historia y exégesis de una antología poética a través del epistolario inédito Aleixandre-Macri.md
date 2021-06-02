@@ -1,0 +1,2 @@
+- Referencia completa: Morelli, Gabriele, “Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-**Macri**”, _Monteagudo_, 3ª época, 3, **1998**, 73-84.
+- 
