@@ -5,4 +5,4 @@
 - consejos y elogios a Macrí por su labor como difusor de la poesía española en Italia y por la atención que le da a la obra de Aleixandre
 - primero se concreta la *Poesía spagnola del Novecento* y luego Aleixandre le pide que haga una recopilación de su poesía, la *Poesie* (1961)
 - atención a las cartas de inicio y cierre
-- Aleixandre se muestra muy seductor y elogioso de Macrí, de hecho tiene que pedirle que 
+- Aleixandre se muestra muy seductor y elogioso de Macrí, de hecho tiene que pedirle que le confirme si efectivamente quiere traducir la antología de su poesía (1953). Mientras que con Comincioli su actitud es mucho más relajada. Raznes? Aq
