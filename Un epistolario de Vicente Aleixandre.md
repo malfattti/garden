@@ -13,4 +13,4 @@
 	- opiniones sobre la política, la sociedad, la condición humana
 	- crítica literaria
 - Valor poético de las cartas
-- Documentan, confirman y completan la obra del poeta
+-
