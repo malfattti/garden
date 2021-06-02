@@ -2,4 +2,9 @@
 - Este artículo reseña el epistolario del poeta dirigido a José Luis Cano, su fiel amigo, y publicado por éste en 1986. Sería el priemr epistolario de Aleixandre que sale a la luz
 - Vicente Aleixandre fue participante de una fecunda y extensa correspondencia que forma parte de su obra total y cuya publicación es legítima y necesaria
 - La autora dice que este es un primer paso en el conocimiento público del abundante epistolario aleixandrino
--Abarca de 1939 a 
+- Abarca de 1939 a 1976, años muy importantes para obras capitales de Aleixandre
+- Temas:
+	- estado de cuerpo y alma del poeta
+	- desarrollo de su obra
+	- mundo íntimo, sentimental y amoroso
+	- cosmov
