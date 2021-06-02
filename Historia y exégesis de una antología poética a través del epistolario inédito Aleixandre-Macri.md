@@ -10,3 +10,4 @@
 - Para la primera antología da consejos y sugiere nombres. Tb anima a sus amigos a participar
 - se tratan de usted, pero la relación se insentifica. Se tutean después de su encuentro en Miraflores
 - Aleixandre envía hojas con correcciones e interpretaciones de los versos traducidos por Macrí. Similar a las que encontramos en la correspondencia con Comincioli
+- La publciacióin de 
