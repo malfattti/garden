@@ -4,8 +4,8 @@
 	- la autora postula que las cartas son inseparables de la obra total de Aleixandre
 	-  Documentan, confirman y completan la obra del poeta
 	-  fuente de información autobiográfica e histórica
-- La autora dice que este es un primer paso en el conoci
-- acmiento público del abundante epistolario aleixandrino
+	-  conocimiento del hombre y del escritor, de sus fuentes de inspiración, del impacto de su experiencia vital en su obra y de sus 
+- La autora dice que este es un primer paso en el conocimiento público del abundante epistolario aleixandrino
 - Abarca de 1939 a 1976 (126 cartas), años muy importantes para obras capitales de Aleixandre
 - Temas:
 	- estado del cuerpo y alma del poeta
