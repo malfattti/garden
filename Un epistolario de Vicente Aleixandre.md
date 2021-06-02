@@ -17,7 +17,8 @@
 	- cosmovisión
 	- relación con otrxs poetas y amigxs
 	- opiniones sobre la política, la sociedad, la condición humana
-		- - la vida y la juventud
+		- la vida y la juventud
+		- la muerte de los amigos
 	- crítica literaria
 - Valor poético de las cartas
 - Sobre su destinatario: José Luis Cano
