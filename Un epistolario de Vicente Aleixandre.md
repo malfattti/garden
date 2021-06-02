@@ -1,1 +1,2 @@
-- Referencia completa: 
+- Referencia completa: Zardoya, Concha, “Un epistolario de Vicente Aleixandre”, _Cuadernos Hispanoamericanos_, 442, abril de **1987**, 111-119 \[Reseña del epistolario a José Luis Cano, posiblemente el primero, 1986\]
+- Vicente Aleixandre fue corresponsal de una fecunda y extensa
