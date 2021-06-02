@@ -123,7 +123,7 @@
 		- *Conjunto de la generación*:
 			- Gabrielle Morelli (1997) sobre la historia de la antología de Gerardo Diego
 				- reproduce las cartas cruzadas en torno a la antología desde 1934 a 1971 entre los protagonistas de la colección
-				- 63 cartas entre Diego y editoriales y 38 cartas entre Diego y los miembros de la generación
+				- 63 cartas entre Diego y editoriales y 38 cartas entre Diego y los miembros de la generación (incl. Aleixandre)
 				- información importante sobre edición de poemas
 		- *Manuel Altolaguirre*
 			- *Diez cartas a Concha Méndez*: 
