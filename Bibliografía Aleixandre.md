@@ -5,11 +5,11 @@
 
 - [[Morelli, Gabriele]], “[[Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-Macri]]”, _Monteagudo_, 3ª época, 3, **1998**, 73-84. [ x ]
 
-- [[Rojas, Pablo]], “[[Epistolario Talaverano: Cartas de Vicente Aleixandre al ceramista Emilio Niveiro]]”, _Alcalibe. Revista Centro Asociado a la Uned “Ciudad de la Cerámica_, 5, **2005**, 297-341.
+- [[Rojas, Pablo]], “[[Epistolario Talaverano: Cartas de Vicente Aleixandre al ceramista Emilio Niveiro]]”, _Alcalibe. Revista Centro Asociado a la Uned “Ciudad de la Cerámica_, 5, **2005**, 297-341. [ x ]
 	- SOLO INTERESA EN ESTE CASO LA POSIBLE MENCIÓN A DOS TIPOS DE CARTAS Julio Neira 2002, 387 dos tipos:
 		- carta como recuerdo o testimonio personal < escaso aparato crítico
 		- carta como documento, procediendo a su análisis desde una perspectiva filológica e historiográfica y que se ven acompañados de una precisa anotación que permite al lector contextualizar mejor los datos contenidos en las cartas.
-		- citado por Pablo Rojas (reedición de Aleixandre-Niveiro) [ x ]
+		- citado por Pablo Rojas (reedición de Aleixandre-Niveiro) 
 
 - [[Zardoya, Concha]], “[[Un epistolario de Vicente Aleixandre]]”, _Cuadernos Hispanoamericanos_, 442, abril de **1987**, 111-119 \[Reseña del epistolario a José Luis Cano, posiblemente el primero, 1986\] [  ]
 - [[Duque Amusco]] "[[Fidelidad humana: epistolario de Vicente Aleixandre]]”, Ínsula. 482, 1987: 8 [  ]
