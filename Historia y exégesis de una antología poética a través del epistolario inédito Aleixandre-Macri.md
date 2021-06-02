@@ -9,3 +9,4 @@
 	- esto tb se ve en las cartas sobre la antología de poesía española (la primera). Quiere que se le dedique un espacio similar al del resto de los poetas, le parece importante este ingreso suyo al mercado italiano. quiere que su obra esté bien representada
 - Para la primera antología da consejos y sugiere nombres. Tb anima a sus amigos a participar
 - se tratan de usted, pero la relación se insentifica. Se tutean después de su encuentro en Miraflores
+- Aleixandre envía hojas con correcciones e interpretaciones de los verso
