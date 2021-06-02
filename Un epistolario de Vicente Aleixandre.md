@@ -9,4 +9,6 @@
 	- mundo íntimo, sentimental y amoroso
 	- cosmovisión
 	- relación con otrxs poetas y amigxs
-	- opiniones sobre la política, la sociedad, 
+	- opiniones sobre la política, la sociedad, la condición humana
+	- crítica literaria
+- Valor poético de las cartas
