@@ -1,6 +1,7 @@
 - Referencia completa: Zardoya, Concha, “Un epistolario de Vicente Aleixandre”, _Cuadernos Hispanoamericanos_, 442, abril de **1987**, 111-119 \[Reseña del epistolario a José Luis Cano, posiblemente el primero, 1986\]
 - Este artículo reseña el epistolario del poeta dirigido a José Luis Cano, su fiel amigo, y publicado por éste en 1986. Sería el priemr epistolario de Aleixandre que sale a la luz
 - Vicente Aleixandre fue participante de una fecunda y extensa correspondencia que forma parte de su obra total y cuya publicación es legítima y necesaria
+	- la autora postula que las cartas son inseparables de la obra total de Aleixandre
 - La autora dice que este es un primer paso en el conocimiento público del abundante epistolario aleixandrino
 - Abarca de 1939 a 1976 (126 cartas), años muy importantes para obras capitales de Aleixandre
 - Temas:
@@ -12,4 +13,4 @@
 	- opiniones sobre la política, la sociedad, la condición humana
 	- crítica literaria
 - Valor poético de las cartas
-- Document
+- Documentan, confirman y completan la obra del poeta
