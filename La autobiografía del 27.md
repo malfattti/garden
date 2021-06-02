@@ -18,43 +18,45 @@
 - Peligro: pérdida de la correspondencia si no se actúa con diligencia
 - Algunos epistolarios recientes que constituyen un aporte importante:
 	- Pedro Salinas
-	- *Cartas de amor a Margarita* de Salinas: 
-		- 1912-1915: selección de 104 cartas
-		- No se indican criterios editoriales
-		- amoroso + viajes, relaciones, proyectos, lecturas, propia producción y reflexiones sobre poesía
-	- *Salinas-Guillén*
-		- 1923-1951: selección de 225 cartas casi totalmente inéditas
-		-  criterios de recorte: relación con obras propias y ajenas/apreciaciones literarias/vida intelectual. 
-		-  Ejemplar edición: prólogo excelente sobre el género epistolar (historia+retórica) + notas contextualizadoras: 
-			-  historia íntima de la generación del 27
-	- *Salinas: cartas de viaje*
-		- múltiples corresponsales
-		- 1912-1951: 186 cartas
-		- notas + índice 
-		- perfil humano de Salinas: curiosidad, observación, panorama cosmopolita y moderno
-	- *Salinas, Guillén y Diego*:
-		- 1920 en adelante: 163 cartas
-		- notas + índice
-		- relaciones, ideas, proyectos comunes, amistad a través de años y circunstancias diferentes (guerra, opiniones divergentes), bromas, apreciaciones sobre la generación y las antologías de Diego
-	- *Gerardo Diego y de Cossio*
-		- 156 cartas inéditas
-		- prólogo + respeto por originales
-		- temprana valía intelectual de de Cossio e influencia en Diego (lit. áurea)
-		- importancia de recuperación de autores ss. XVI-XVII diferentes a Góngora
-		- discrepancias en torno al ultraísmo y vanguardia
-	- *Gerardo Diego y Ortega y Gasset*:
-		- 1921-1932: muy breve correspondencia
-		- Diego pide opinión y ayuda a Ortega
-	- *Gerardo Diego y Manuel de Falla*:
-		- desde 1950: 65 cartas
-		- notas, breve introducción, falta de análisis del conjunto, sin índice onomástico
-		- opiniones musicales y políticas
-	- *Juan Larrea a Gerardo Diego*:
-		- 1915-1948: 214 cartas
-		- notas, detalles biobibliográficos
-		- poemas inéditos y versiones francesas de poemas
-		- comentarios de la obra del otro
-		- Larrea:**juicios sobre Aleixandre y sobre Diego** --> asimétrica generación y relaciones entre miembros
+		- *Cartas de amor a Margarita* de Salinas: 
+			- 1912-1915: selección de 104 cartas
+			- No se indican criterios editoriales
+			- amoroso + viajes, relaciones, proyectos, lecturas, propia producción y reflexiones sobre poesía
+		- *Salinas-Guillén*
+			- 1923-1951: selección de 225 cartas casi totalmente inéditas
+			-  criterios de recorte: relación con obras propias y ajenas/apreciaciones literarias/vida intelectual. 
+			-  Ejemplar edición: prólogo excelente sobre el género epistolar (historia+retórica) + notas contextualizadoras: 
+				-  historia íntima de la generación del 27
+		- *Salinas: cartas de viaje*
+			- múltiples corresponsales
+			- 1912-1951: 186 cartas
+			- notas + índice 
+			- perfil humano de Salinas: curiosidad, observación, panorama cosmopolita y moderno
+		- *Salinas, Guillén y Diego*:
+			- 1920 en adelante: 163 cartas
+			- notas + índice
+			- relaciones, ideas, proyectos comunes, amistad a través de años y circunstancias diferentes (guerra, opiniones divergentes), bromas, apreciaciones sobre la generación y las antologías de Diego
+	- Gerardo Diego
+		- *Gerardo Diego y de Cossio*
+			- 156 cartas inéditas
+			- prólogo + respeto por originales
+			- temprana valía intelectual de de Cossio e influencia en Diego (lit. áurea)
+			- importancia de recuperación de autores ss. XVI-XVII diferentes a Góngora
+			- discrepancias en torno al ultraísmo y vanguardia
+		- *Gerardo Diego y Ortega y Gasset*:
+			- 1921-1932: muy breve correspondencia
+			- Diego pide opinión y ayuda a Ortega
+		- *Gerardo Diego y Manuel de Falla*:
+			- desde 1950: 65 cartas
+			- notas, breve introducción, falta de análisis del conjunto, sin índice onomástico
+			- opiniones musicales y políticas
+	- Juan Larrea
+		- *Juan Larrea a Gerardo Diego*:
+			- 1915-1948: 214 cartas
+			- notas, detalles biobibliográficos
+			- poemas inéditos y versiones francesas de poemas
+			- comentarios de la obra del otro
+			- Larrea:**juicios sobre Aleixandre y sobre Diego** --> asimétrica generación y relaciones entre miembros
 	- ***Cartas de Aleixandre***
 		- poca atención y cuidado editorial
 		- Tesis doctoral de Emiliozzi sobre el epistolario de Aleixandre a los poetas del 27
