@@ -6,4 +6,4 @@
 - primero se concreta la *Poesía spagnola del Novecento* y luego Aleixandre le pide que haga una recopilación de su poesía, la *Poesie* (1961)
 - atención a las cartas de inicio y cierre
 - Aleixandre se muestra muy seductor y elogioso de Macrí, de hecho tiene que pedirle que le confirme si efectivamente quiere traducir la antología de su poesía (1953). Mientras que con Comincioli su actitud es mucho más relajada. Raznes? Aquí Aleixandre es más joven y su poesía tal vez no es tan conocida aún en otros mercados. Con Comincioli ya ha sido traducido y tiene más trayectoria.
-	- esto tb se ve en las cartas sobre la antología de poesía española (la primera). Quiere que se le dedique un espacio similar al del resto de los poetas, le parece importante e
+	- esto tb se ve en las cartas sobre la antología de poesía española (la primera). Quiere que se le dedique un espacio similar al del resto de los poetas, le parece importante este ingreso suyo al mercado italiano. quiere que su obra esté bien representada
