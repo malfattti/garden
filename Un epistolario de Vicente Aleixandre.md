@@ -3,12 +3,14 @@
 - Vicente Aleixandre fue participante de una fecunda y extensa correspondencia que forma parte de su obra total y cuya publicación es legítima y necesaria
 	- la autora postula que las cartas son inseparables de la obra total de Aleixandre
 	-  Documentan, confirman y completan la obra del poeta
-	-  fuente de información autobiográfica e histórica
+	-  fuente de información autobiográfica e histórica, autorretrato
 	-  conocimiento del hombre y del escritor, de sus fuentes de inspiración, del impacto de su experiencia vital en su obra y de sus opiniones sobre diversos temas incluyendo la política
+	-  valoración de su propia obra
 - La autora dice que este es un primer paso en el conocimiento público del abundante epistolario aleixandrino
 - Abarca de 1939 a 1976 (126 cartas), años muy importantes para obras capitales de Aleixandre
 - Temas:
 	- estado del cuerpo y alma del poeta
+		- el dolor
 	- desarrollo de su obra
 	- mundo íntimo, sentimental y amoroso
 	- cosmovisión
