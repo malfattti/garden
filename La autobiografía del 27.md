@@ -17,6 +17,7 @@
 			- el trabajo de publicación supone una selección y edición que pueden ser más o menos criteriosas
 - Peligro: pérdida de la correspondencia si no se actúa con diligencia
 - Algunos epistolarios recientes que constituyen un aporte importante:
+	- Pedro Salinas
 	- *Cartas de amor a Margarita* de Salinas: 
 		- 1912-1915: selección de 104 cartas
 		- No se indican criterios editoriales
