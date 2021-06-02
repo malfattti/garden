@@ -10,4 +10,4 @@
 - Para la primera antología da consejos y sugiere nombres. Tb anima a sus amigos a participar
 - se tratan de usted, pero la relación se insentifica. Se tutean después de su encuentro en Miraflores
 - Aleixandre envía hojas con correcciones e interpretaciones de los versos traducidos por Macrí. Similar a las que encontramos en la correspondencia con Comincioli
-- La publicación de  *Poesie* (1961) al final se hará con la edición/traducción de Puccini, otro hispanista italiano conocido de Macrí, a quien este alienta para que tome las riendas del proyecto. Y esta publicación resulta muy importante para la presencia de Aleixandre en Italia ya que le siguen traducciones y estudios que darán a conocer más de su obra al público italian
+- La publicación de  *Poesie* (1961) al final se hará con la edición/traducción de Puccini, otro hispanista italiano conocido de Macrí, a quien este alienta para que tome las riendas del proyecto. Y esta publicación resulta muy importante para la presencia de Aleixandre en Italia ya que le siguen traducciones y estudios que darán a conocer más de su obra al público italiano.
