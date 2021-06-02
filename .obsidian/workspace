@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "16f8de35216cbee2",
+        "id": "afe1d3fd8346c5d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Un epistolario de Vicente Aleixandre.md",
+            "file": "Decadence and aestheticism.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Un epistolario de Vicente Aleixandre.md",
+                "file": "Decadence and aestheticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16f8de35216cbee2",
+  "active": "afe1d3fd8346c5d3",
   "lastOpenFiles": [
+    "Decadence and aestheticism.md",
+    "2021-06-02.md",
+    "2021-05-17.md",
+    "2021-05-15.md",
+    "2021-05-07.md",
+    "journal/2021-03-26.md",
+    "journal/Untitled.md",
+    "Decadent Love.md",
     "Un epistolario de Vicente Aleixandre.md",
-    "Bibliografía Aleixandre.md",
-    "Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
-    "]. Hacia la recuperación de las memorias dispersas de Vicente Aleixandre en _Correspondencia a la Generación del 27 (1928-1984)_, ed. Irma Emiliozzi, Madrid, Castalia, **2001**. 9-37..md",
-    "]. “Introducción [[Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
-    "]. [[Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
-    "Emiliozzi, Irma.md",
-    "]. “[[Introducción [[Hacia la recuperación de las memorias dispersas de Vicente Aleixandre.md",
-    "Historia y exégesis de una antología poética a través del epistolario inédito Aleixandre-Macri.md",
-    "2021-05-15.md"
+    "Bibliografía Aleixandre.md"
   ]
 }

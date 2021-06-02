@@ -1,0 +1,35 @@
+- Artículo de [[Dennis Denisof]]
+- Decadence and aestheticism had been a contentious subject in Britan since mid-nineteenth century
+	- pessimism
+	- sexual aberrancy
+	- mysticism
+	- poor taste in clothing
+- Even its contributors found some of decadence and aestheticism's aspects displeasing
+- Decadent became a synonym for innovative in aesthetics, subject or style
+- The movement also provided some of the best writers of the era
+- Also: The Yellow Books, a journal, very significant product of the movement, and that captured elements of aestheticism and decadence, but also the sociopolitical dynamics of the time.
+- The author will use *The Yellow Books* to demonstrate decadence and aestheticism's unique dissidence as they approached the end of the century.
+
+**Key notes in the Aesthetic and Decadent movement**
+- Decadence:
+	- challenge to the idea that birth and growth are positive and that decadende and death are negative (all part of an indivisible and non-progressiva package) and in relationship to this, a challengue...:
+		- to the fundamental importance of the middle-class family
+		- to industrial progress
+		- to a common moral basis to beauty and the meaning of life
+	- points out the false reality in which the binary of progress vs. decadence is situated
+	- as opposed to Naturalism and Realism (XIX cent. other major aesthetic movements) which conceal artifice and create the illusion of being real, decadence more honestly exposes the inevitable artificiality of any effort in representation
+	- refuseal to allow society to pretend it can know objective reality or that constant progress is manageable
+	- 1834: First use of decadent to refer to art by Nisard. 
+		- the art which over emphasized artifice and which paid more attention to words and language rather than what they meant
+	- 1868: turned into a compliment by Gauthier (prologue to Les Fleurs du Mal)
+
+- Aestheticism: similarly anti-conformist:
+	- one's own utopia is at hand, if one can ignore the domineering burgeoisie
+	- aestheticism's approach to life cannot be sustained in the long run, but so cannot industrial, capitalist and imperialist developement
+	- even if it cannot be realized, dreaming is better than adapting to the mundane industrial society
+	- interest in perfection, but more focus on artistic ideals
+		- "art for art's sake", Gautier 1835: art must not be judged by morals. art only has a responsability to beauty
+			- only that which is totally useless can be ultimately beautiful
+			- an object's utility detracts from function as source of pleasure
+		- his ideas entered England through Swinburne, who reviewe Baudelaire and at the same time promoted his own style of poetry: focus on sensual pleasure and refusal to moralize (aestheticism) and controversial subjects and sensuous details that could be seen as distasteful (decadentism)
+			- art, not domestic love, as the ultimate source of pleasure
