@@ -50,24 +50,12 @@ Meeting with Zöe
 	  - situation of chamber's text: tick the decadent box 
 	  - fifth edition: fin de siecle character (artistic and intelectual freedom).
 		  - belongs to decadence but he is not a decadent figure. he benefits from the decadent movement. enjoying the intelectual freedom without being a Dorian Gray character
-		  - nice seeway into the other male characyer
+		  - nice segue into the other male character
+		  - demonstrated that being able to situate text
+		  - key themes that run through
+		  - if argument is that it is a neglected text 
 
-  
-  
-
-demonstrated that being able to situate text
-
-key themes that run through
-
-if argument is that it is a neglected text 
-
-  
-  
-
-come back to her with outline and send it to her 
-
-  
-
-try to do it in june
+  - come back to her with outline and send it to her 
+  - do it in june
 
 **
