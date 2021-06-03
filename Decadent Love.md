@@ -44,22 +44,11 @@ Meeting with Zöe
 	  - what is the text seeing and offering?
 	  - the same relationship is happening between the character and the text?
 	  - focus on courtship and the fifth edition
-
-  
-
-our lady is so based in the decadent community that 
-
-the fifth edition is not decadet figures directly
-
-in the transition take account of the differende. acknowledge these are characters that belogn to a very different environment.he is a liminal character, he is not fully one of them either
-
-situation of chamber's text
-
-tick the decadent box 
-
-  
-
-fifth edition fin de siecle characyer (artictis and intelectual freedom). it belogns to the decadent movement who woth in their own way are decadents. 
+	  - our lady is so based in the decadent community that 
+	  - the fifth edition is not decadet figures directly
+	  - in the transition take account of the differende. acknowledge these are characters that belong to a very different environment. he is a liminal character, he is not fully one of them either
+	  - situation of chamber's text: tick the decadent box 
+	  - fifth edition: fin de siecle character (artistic and intelectual freedom). it belongs to the decadent movement who in their own way are decadents. 
 
   
   
