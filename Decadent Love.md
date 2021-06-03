@@ -23,13 +23,9 @@ Meeting with Zöe
 	- how are they being problematized?
  
 - The fifth edition: 
-	- marginalized characters - from complete exclusion
-
-  
-
-use the fifth edition to establish the problemas
-
-giving and receiving of who one is cannot happen. she doesnt give much away either
+	- marginalized character, starting from complete exclusion
+	- use the fifth edition to establish the problems
+	- giving and receiving of who one is cannot happen. she doesnt give much away either
 
   
 
