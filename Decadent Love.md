@@ -48,16 +48,9 @@ Meeting with Zöe
 	  - the fifth edition is not decadet figures directly
 	  - in the transition take account of the differende. acknowledge these are characters that belong to a very different environment. he is a liminal character, he is not fully one of them either
 	  - situation of chamber's text: tick the decadent box 
-	  - fifth edition: fin de siecle character (artistic and intelectual freedom). it belongs to the decadent movement who in their own way are decadents. 
-
-  
-  
-
-belong sto decadence but he is not a decadent figure. he benefits from the decadent movement. enjoying the intelectual freedom without being a dorian gray character
-
-  
-
-nice segway into the other male characyer
+	  - fifth edition: fin de siecle character (artistic and intelectual freedom).
+		  - belongs to decadence but he is not a decadent figure. he benefits from the decadent movement. enjoying the intelectual freedom without being a Dorian Gray character
+		  - nice seeway into the other male characyer
 
   
   
