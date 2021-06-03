@@ -12,3 +12,7 @@
 	- feelings and ideas about the other one (and how these are conveyed) - how the others are looking
 	- why are these relationships somehow dissident?
 	- why does romance never fully work in decadence?
+
+COURTSHIP BROADENING THE SENSE OF WHAT COURTHSIP MEANS
+
+EXTEDE AND 
