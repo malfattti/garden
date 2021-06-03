@@ -28,37 +28,22 @@ Meeting with Zöe
 	- giving and receiving of who one is cannot happen. she doesnt give much away either
 	- decadence aesthetic: he doesnt have a way of describing her in the world that he lives in 
 	-  look at it on a textual level:
-	  - fifth edition: weird focalization thing: he is so unable to see her that the narrative itself is not being able to see her. we also cannot see her properly. however he is not the narrator. he overwhelms the narrator. his effect on her is so strong that 
+	  - fifth edition: weird focalization thing: he is so unable to see her that the narrative itself is not being able to see her. we also cannot see her properly. however he is not the narrator. he overwhelms the narrator. his effect on her is so strong
 
 - The Street of our Lady of the Fields
 	- a little more subtle and nuances
 	- he also doesn't see her but it is not the same thing exactly
 	- this courtship ritual 
+	- chambers: very close reading section. really close reading and picking apart.
 
   - In general:
 	  - mediating characters and filtering characters.
 	  - look at it on a textual level:
-	  - fifth edition: weird focalization thing: he is so unable to see her that the narrative itself is not being able to see her. we also cannot see her properly. however he is not the narrator. he overwhelms the narrator. his effect on her 
-
-  
-
-the best version of this essay accounts on 
-
-the narrative and the reader into the courship ritual asss well
-
-  
-
-what is the text seeing and offering?
-
-the same relationship is happening between the character and the text
-
-  
-
-chambers: very close reading section. really close reading and picking apart.
-
-  
-
-focus on courtship and the fifth edition
+	  - fifth edition: weird focalization thing: he is so unable to see her that the narrative itself is not being able to see her. we also cannot see her properly. however he is not the narrator. he overwhelms the narrator. his effect on her is so strong
+	  - the best version of this essay accounts on the narrative and the reader into the courship ritual as well. what role does it/do they play?
+	  - what is the text seeing and offering?
+	  - the same relationship is happening between the character and the text?
+	  - focus on courtship and the fifth edition
 
   
 
