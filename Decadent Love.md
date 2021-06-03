@@ -44,16 +44,16 @@ Meeting with Zöe
 		  - what is the text seeing and offering? (courtship between reader and text: what is the text offering the reader)
 	  - the same relationship is happening between the character and the text?
 	  - focus on courtship and the fifth edition
-	  - our lady is so based in the decadent community
+	  - Our Lady is so based in the decadent community
 	  - the fifth edition is not decadet figures directly
 	  - in the transition take account of the difference. acknowledge these are characters that belong to a very different environment. he is a liminal character, he is not fully one of them either
-	  - situation of chamber's text: tick the decadent box 
+	  - situation of Chamber's text: tick the decadent box 
 	  - fifth edition: fin de siecle character (artistic and intelectual freedom).
 		  - belongs to decadence but he is not a decadent figure. he benefits from the decadent movement. enjoying the intelectual freedom without being a Dorian Gray character
 		  - nice segue into the other male character
 		  - demonstrated that being able to situate text
 		  - key themes that run through
-		  - if argument is that it is a neglected text 
+		  - if argument is that it is a neglected text, then give it its importance with a detailed, close reading analysis
 
   - come back to her with outline and send it to her 
   - do it in june
