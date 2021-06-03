@@ -17,27 +17,9 @@ Meeting with Zöe
 
 - courtship:
 	-  broadening the sense of what courthsip means
-	-  extende and stretch the term 
-
-  
-
-courtship in terms of seeing each other, imposing their own ideas onto other s and receiving them
-
-  
-  
-
-showing oneself and being received
-
-  
-  
-
-matching? 
-
-  
-
-by definition it is a probleatized relationship
-
-what is seen is not what is projected, what beign projected is not what is seen
+	-  extend and stretch the term 
+	-  courtship in terms of seeing each other, imposing their own ideas onto others, and the others receiving them: showing oneself and being received. How do those match?
+	- a problematized relationship: what is seen is not what is projected, what beign projected is not what is seen
 
   
 
