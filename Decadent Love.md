@@ -26,22 +26,12 @@ Meeting with Zöe
 	- marginalized character, starting from complete exclusion
 	- use the fifth edition to establish the problems
 	- giving and receiving of who one is cannot happen. she doesnt give much away either
+	- decadence aesthetic: he doesnt have a way of describing her in the world that he lives in 
 
-  
-
-decadence aesthetic: he doesnt have a way of describing her in the world that he lives in 
-
-while in chambers he 
-
-  
-
-a little more subtle and nuances
-
-he also doesnt see her but it is not the same thing exactky
-
-  
-
-this courtship ritual 
+- The Street of our Lady of the Fields
+	- a little more subtle and nuances
+	- he also doesn't see her but it is not the same thing exactly
+	- this courtship ritual 
 
   
 
