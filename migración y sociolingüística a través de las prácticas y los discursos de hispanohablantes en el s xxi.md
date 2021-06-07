@@ -26,5 +26,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- comunicación intercultural
 			- **identidades**
 		- Contextos sociohistóricos:
-			- los moviminet
+			- los movimientos migratorios no son nuevos
+				- en todas partes del mundo y entre todas las culturas, desde el inicio de la humanidad
+				- a ellos 
 
