@@ -33,6 +33,60 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Migraciones de finales del s. XX y s. XXI: qué las caracterizan?
 				- superdiversidad:
 					- Vertovec 2007: ciencias sociales
-					- Blommaert y Rampton 2011: sociolingüística de la migración
-				- 
+					- Blommaert y Rampton 2011: sociolingüística de la migración:
+						- Blommaert, Jan & Rampton, Ben (2011). 
+				- - Superdiversity supposes a paradigm shift that sociolinguistics and linguistic anthropology are ready to study
+- This paper will:
+  -  define superdiversity
+     -  from multiculturalism to superdiversity
+     -  emerges from globalization and migration
+     -  social, cultural and linguistic diversity
+     -  increase in the categories of migrants (nationality, ethnicity, language, religion, motives, patterns, itineraries of migration, etc.)
+     -  influenced by the Internet : new media and technologies of communication
+     -  Example: text written in two form of Chinese: a mixture of two different scripts found in different parts of Chinese-speaking territories:
+        -  suggests that addressee and addressed are from different origins
+        -  suggests that the producer is learning the addressee's script
+        -  suggests the change from traditional to a new diaspora which originates in the PRC
+        -  suggests that such diaspora takes place in peripheral places too
+    -  there are distinctive communicative processes in migration and studying them can make contributions to the debates about superdiversity
+       -  people are still connected to their communities of origin
+       -  host communities are involved in these transnational connections
+       -  changes in both the material world and ways of life
+  -  define the most important theoretical and methodological developments in language study:
+     -  sociolinguistics has evolved with the humanities and social sciences
+     -  before, homogeneity, stability and boundedness; Now: mobility, mixing political dynamics and historical embedding
+     -  though these ideas are not new, the ideas they seek to displace are still very much at work
+     -  denaturalization of named, distinct languages
+        -  named languages are an ideological construct which serves the ideal of nation-estate
+        -  however the idea of language as bounded systems linked to bounded communities continues to be taken for granted in our institutions and even sociolinguistic studies which aim at questioning it
+        -  although the traditional idea of language is useful or functional in ways the most interesting analysis emerges when the variety of feature combinations
+          -  with the notion of language the notion of nation, people and speech community to be deconstructed
+        -  idealized speaker versus more flexible group
+        -  inequality and innovation: normativity
+        -  the communicative event is only possible interaction context
+        -  instead, variable resources picked up along an individual's trajectory: linguistic repertoire 
+        -  the focus is on the way people use different linguistic forms in different contexts
+     - linguistic is one semiotic among many:
+       - communicative practice
+       - attention turns to indexicality (connotation of choices)
+       - meaning is multimodal
+       - non-shared knowledge replaces the idea of common ground between speakers
+       - the idea of negotiation is questioned
+       - focus on creativity
+       - reflection on language
+       - mobility of texts
+       - comtext is multi layered and multi scalar
+       - traditionally macro components are found at the micro level
+       - methodologically, this means:
+         - investigation of the context
+         - analysis of internal organisation of semiotic data
+     - Defines a research agenda influenced by ethnography
+       - why is linguistic ethnography useful?
+         - alternative to structuralism's definitive constructs, suggests directions
+         - ideologies are also important
+         - sociolinguistic economy: different speech forms are valued and others are not, thus language plays a role in stratification
+       - what are the priorities?
+         - need for cumulative comparison
+           - as an objective in theory
+           - as a resource for practical intervention
 
