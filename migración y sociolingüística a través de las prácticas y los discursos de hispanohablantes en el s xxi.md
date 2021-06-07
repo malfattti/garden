@@ -3,5 +3,8 @@
 El curso está dividido en dos partes: una primera parte dedicada a cuestiones conceptuales, y una segunda parte en la que, a partir de estudios de caso, se profundizará en la naturaleza de los movimientos diaspóricos hispanoamericanos en el mundo globalizado actual. 
 
 - **Clase 1: Nuevas migraciones hispanas**
-	- 
+	- Definiciones de migración:
+		- como hiperónimo: todos los movimientos de personas o de grupos humanos
+		- más restringidamente: movimientos de personas por razones sociales o económicas
+		- diferencia e
 
