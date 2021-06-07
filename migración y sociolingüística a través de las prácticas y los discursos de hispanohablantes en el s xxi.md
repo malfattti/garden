@@ -43,7 +43,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
-							- Agenda de la investigación sobre la superdiversidad y lenguaje que co
+							- Agenda de la investigación sobre la superdiversidad y lenguaje que combina la lingüística y la etnografía
 
 From
 here, this paper moves to a research agenda on superdiversity and language that is strongly embedded in
