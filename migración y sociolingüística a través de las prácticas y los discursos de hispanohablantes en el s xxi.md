@@ -32,6 +32,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Teorías
 			- Migraciones de finales del s. XX y s. XXI: qué las caracterizan?
 				- superdiversidad:
-					-  (Vertovec 2007: ciencias sociales
-				- superdiversidad  (Blommat)
+					- Vertovec 2007: ciencias sociales
+					- Blommaert y Rampton 2011: sociolingüística de la migración
 
