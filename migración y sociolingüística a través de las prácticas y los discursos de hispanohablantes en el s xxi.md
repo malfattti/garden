@@ -7,5 +7,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- como hiperónimo: todos los movimientos de personas o de grupos humanos
 		- más restringidamente: movimientos de personas por razones sociales o económicas
 		- diferencia entre migración y diáspora:
-			- diáspora implica un movimiento forzado
+			- diáspora implica un movimiento forzado:
+	- Lingüística de la migración
+		- es un campo innovador de la lingüística 
 
