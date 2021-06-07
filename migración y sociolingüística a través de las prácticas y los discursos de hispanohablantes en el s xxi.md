@@ -2,4 +2,6 @@
 - Descripción del curso: En este curso se tratarán **aspectos sociolingüísticos de hispanohablantes en el siglo xxi**, atendiendo además a **fenómenos diaspóricos** de comunidades latinoamericanas. Se explorará el papel de la **migración** en las **prácticas lingüísticas** y en los **posicionamientos ideológicos e identitarios**. A partir de ejemplos concretos de comunidades hispanohablantes se mostrará de qué manera los sujetos **renegocian sus identidades** en la interacción. Asimismo, el curso introducirá de manera **crítica   conceptos actuales** en el estudio de la sociolingüística de la migración y su relación con las prácticas lingüísticas como por ejemplo **transnacionalidad**, **superdiversidad**, **escalaridad**, **prácticas heteroglósicas**, **prácticas translingües**, **nuevos hablantes**, entre otros.
 El curso está dividido en dos partes: una primera parte dedicada a cuestiones conceptuales, y una segunda parte en la que, a partir de estudios de caso, se profundizará en la naturaleza de los movimientos diaspóricos hispanoamericanos en el mundo globalizado actual. 
 
+- **Clase 1: Nuevas migraciones hispanas**
+	- 
 
