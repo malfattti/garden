@@ -19,4 +19,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- áreas de análisis:
 			- movimientos migratorios a lo largo de la historia
 			- contacto lingüístico: 
+				- bilingüismo
 
