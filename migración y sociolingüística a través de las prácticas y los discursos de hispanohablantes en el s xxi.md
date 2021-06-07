@@ -39,7 +39,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- después de un cambio de paradigma, la sociolingüística y la antropología lingüística pueden dedicarse a estudiar los cambios sociales asociados con la superdiversidad
 							- Qué es la superdiversidad?
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
-								- desnaturalización de los lenguajes nombrados
+								- desnaturalización de las lenguas con nombre
 								- 
 
 This paper explores the scope for research on language and superdiversity.1
