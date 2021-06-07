@@ -31,5 +31,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- a ellos les debemos la población de muchos lugares del mundo y el contacto entre culturas
 		- Teorías
 			- Migraciones de finales del s. XX y s. XXI: qué las caracterizan?
-				- superdiversidad (Vertovec)
+				- superdiversidad:
+					-  (Vertovec 2007: ciencias sociales
+				- superdiversidad  (Blommat)
 
