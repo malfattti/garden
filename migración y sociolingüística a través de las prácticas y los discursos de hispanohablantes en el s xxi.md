@@ -29,4 +29,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- los movimientos migratorios no son nuevos
 				- en todas partes del mundo y entre todas las culturas, desde el inicio de la humanidad
 				- a ellos les debemos la población de muchos lugares del mundo y el contacto entre culturas
+		- Teorías
+			- Migraciones de finales del s. XX y s. XXI: qué las caracterizan?
+				- superdiversidad (Vertovec)
 
