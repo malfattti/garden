@@ -42,16 +42,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- desnaturalización de las lenguas con nombre
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
-								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del eve
+								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
+							- Agenda de la investigación sobre la superdiversidad y lenguaje que co
 
-This paper explores the scope for research on language and superdiversity.1
-Following a protracted process
-of paradigm shift, sociolinguistics and linguistic anthropology are well placed to engage with the
-contemporary social changes associated with superdiversity. After a brief introductory discussion of what
-superdiversity entails, the paper outlines key theoretical and methodological developments in language
-study: named languages have now been denaturalised, the linguistic is treated as just one semiotic among
-many, inequality and innovation are positioned together in a dynamics of pervasive normativity, and the
-contexts in which people orient their interactions reach far beyond the communicative event itself. From
+From
 here, this paper moves to a research agenda on superdiversity and language that is strongly embedded in
 ethnography. The combination of linguistics and ethnography produces an exceptionally powerful and
 differentiated view of both activity and ideology. After a characterisation of what linguistic ethnography
