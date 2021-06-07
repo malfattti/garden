@@ -35,7 +35,22 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Vertovec 2007: ciencias sociales
 					- Blommaert y Rampton 2011: sociolingüística de la migración:
 						- Blommaert, Jan & Rampton, Ben (2011). [[Language and Superdiversity]]
-							- En este artículo Blommaert y Rampton explican
+							- En este artículo Blommaert y Rampton exploran el 
+
+This paper explores the scope for research on language and superdiversity.1
+Following a protracted process
+of paradigm shift, sociolinguistics and linguistic anthropology are well placed to engage with the
+contemporary social changes associated with superdiversity. After a brief introductory discussion of what
+superdiversity entails, the paper outlines key theoretical and methodological developments in language
+study: named languages have now been denaturalised, the linguistic is treated as just one semiotic among
+many, inequality and innovation are positioned together in a dynamics of pervasive normativity, and the
+contexts in which people orient their interactions reach far beyond the communicative event itself. From
+here, this paper moves to a research agenda on superdiversity and language that is strongly embedded in
+ethnography. The combination of linguistics and ethnography produces an exceptionally powerful and
+differentiated view of both activity and ideology. After a characterisation of what linguistic ethnography
+offers social science in general, this paper sketches some priorities for research on language and
+communication in particular, emphasising the need for cumulative comparison, both as an objective in
+theory and description and as a resource for practical intervention.
 				- - Superdiversity supposes a paradigm shift that sociolinguistics and linguistic anthropology are ready to study
 - This paper will:
   -  define superdiversity
