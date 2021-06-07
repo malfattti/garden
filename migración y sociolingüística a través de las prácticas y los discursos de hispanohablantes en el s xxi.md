@@ -40,6 +40,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- Qué es la superdiversidad?
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
 								- desnaturalización de los lenguajes nombrados
+								- 
 
 This paper explores the scope for research on language and superdiversity.1
 Following a protracted process
