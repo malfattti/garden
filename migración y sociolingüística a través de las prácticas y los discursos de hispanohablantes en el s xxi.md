@@ -6,5 +6,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Definiciones de migración:
 		- como hiperónimo: todos los movimientos de personas o de grupos humanos
 		- más restringidamente: movimientos de personas por razones sociales o económicas
-		- diferencia e
+		- diferencia entre migración y diáspora:
+			- diáspora implica un movimiento forzado
 
