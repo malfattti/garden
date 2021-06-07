@@ -25,4 +25,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- **dinámicas de interacción y repertorios**
 			- comunicación intercultural
 			- **identidades**
+		- Contextos sociohistóricos:
+			- los moviminet
 
