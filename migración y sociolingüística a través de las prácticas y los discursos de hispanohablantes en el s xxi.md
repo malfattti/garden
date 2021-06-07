@@ -20,4 +20,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- movimientos migratorios a lo largo de la historia
 			- contacto lingüístico: 
 				- bilingüismo
+				- multilingüismo
+				- formación de nuevas variedades
+			- **dinámicas de interacción y repertorios**
+			- comunicación intercultural
+			- **identidades**
 
