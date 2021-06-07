@@ -35,7 +35,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Vertovec 2007: ciencias sociales
 					- Blommaert y Rampton 2011: sociolingüística de la migración:
 						- Blommaert, Jan & Rampton, Ben (2011). [[Language and Superdiversity]]
-							- En este artículo Blommaert y Rampton exploran el 
+							- En este artículo Blommaert y Rampton exploran el \
 
 This paper explores the scope for research on language and superdiversity.1
 Following a protracted process
