@@ -36,7 +36,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Blommaert y Rampton 2011: sociolingüística de la migración:
 						- Blommaert, Jan & Rampton, Ben (2011). [[Language and Superdiversity]]
 							- En este artículo Blommaert y Rampton exploran el área de investigación sobre lenguaje y superdiversidad:
-								- después de un cambio de paradigma, la sociolingüística y la antropología linh
+								- después de un cambio de paradigma, la sociolingüística y la antropología lingüística pueden dedicarse a estudiar los cambios sociales asociados con la superdiversidad
+							- Qué es la superdiversidad?
+							- 
 
 This paper explores the scope for research on language and superdiversity.1
 Following a protracted process
