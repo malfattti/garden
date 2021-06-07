@@ -34,7 +34,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- superdiversidad:
 					- Vertovec 2007: ciencias sociales
 					- Blommaert y Rampton 2011: sociolingüística de la migración:
-						- Blommaert, Jan & Rampton, Ben (2011). 
+						- Blommaert, Jan & Rampton, Ben (2011). [[Language and Superdiversity]]
+							- En este artículo Blommaert y Rampton explican
 				- - Superdiversity supposes a paradigm shift that sociolinguistics and linguistic anthropology are ready to study
 - This paper will:
   -  define superdiversity
