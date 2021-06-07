@@ -10,11 +10,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- diáspora implica un movimiento forzado:
 	- Lingüística de la migración
 		- campo innovador de la lingüística
-			- muy importante en Alemania (pero en este curso --> )
+			- muy importante en Alemania (pero en este curso --> teorías anglosajonas)
 			- intersección entre aspectos:
 				- lingüísticos
 				- sociológicos
 				- culturales
 			- Sociolingüística de la migración:
-				- 
+		- áreas de análisis:
+			- movimientos migratorios a lo l
 
