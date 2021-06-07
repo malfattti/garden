@@ -38,7 +38,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- En este artículo Blommaert y Rampton exploran el área de investigación sobre lenguaje y superdiversidad:
 								- después de un cambio de paradigma, la sociolingüística y la antropología lingüística pueden dedicarse a estudiar los cambios sociales asociados con la superdiversidad
 							- Qué es la superdiversidad?
-							- 
+							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
+								- desnaturalización de los lenguajes nombrados
 
 This paper explores the scope for research on language and superdiversity.1
 Following a protracted process
