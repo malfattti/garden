@@ -18,7 +18,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Ambigüedad. El concepto deriva de la conquista
 			- “La cuestión": subterfugio? 
 			- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
-			- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / tb visión del mundo y concepción de la literatura.
+			- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / visión del mundo y concepción de la literatura.
 
 El plural acá señala los cambios de contextos, de visión del mundo, etc
 
