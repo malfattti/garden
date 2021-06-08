@@ -65,7 +65,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Indianismo (s. XIX): 
 			- presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. 
 			- Condición constante en las producciones literarias idealistas. Idealización y distancia.
-			-  S. XIX: literatura indianista: poesía, teatro tb hay. Los indigenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+			-  Géneros: poesía, teatro tb hay. 
 		- Indigenismo:
 			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
 		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
@@ -77,6 +77,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			-  Termina estudiando “Aves sin nido” que señala como punto de articulación entre indianismo e indigenismo. 
 			-  Contiene a la vez espíritu reivindicativo y social (Mariátegui, indigenismo). 
 			-  Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. Su novela está empapada aún de una sentimentalidad romántica
+			-  Los indigenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
 	- Hay todo un corpus que no cabe en el indianismo. 
 		- No se lo representa de forma idealizada sino como un salvaje insalvable. 
 		- Zonas donde al modernizarse la nación se puso en marcha la idea de aniquilar al indígena y a marginalizar. 
