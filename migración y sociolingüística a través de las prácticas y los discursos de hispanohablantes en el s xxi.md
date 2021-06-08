@@ -65,8 +65,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- foco en la creatividad, en prácticas no estándar de mezcla de lenguajes que recurren a estilos y lenguajes que no se consideran usualmente propios del hablante
 									- reflexión metapragmática: los hablantes reflexionan sobre sus propios usos del lenguaje y los ajenos
 									- trayectorias textuales a través de eventos:
-										- entextualización: personas y procesos involucrados en 
-										- transposición
+										- entextualización: personas y procesos involucrados en la creación de textos
+										- transposición: alteración y reevaluaci'
 										- recontextualización
 							
 							
