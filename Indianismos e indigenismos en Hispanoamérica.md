@@ -41,13 +41,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Lo "cholo" significa en ese momento simplemente mestizo con india. 
 			- Pero la palabra evoluciona con el tiempo y se usa cholo para señalar mestizo.
 			- Y eventualmente cholo con connotación despectiva: mestizo que adopta modos de vida de criollos (mezcla, falta de pureza, "traición")
-		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas Conejo Polar acuñó el concepto de heterogeneidad
-
-No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
-
-  
-
-Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
+		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas **Conejo Polar** acuñó el concepto de **heterogeneidad**
+			- No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
+			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
 
   
   
