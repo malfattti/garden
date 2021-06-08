@@ -132,4 +132,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
 
 - Por qué Vertovec postula la superdiversidad?
-	- empieza a haber un mayor flujo migratorio de personas hacia países que desde el s. XX habían sido caracterizados por ser países de emigración y no
+	- empieza a haber un mayor flujo migratorio de personas hacia países que desde el s. XX habían sido caracterizados por ser países de emigración y no de inmigración
