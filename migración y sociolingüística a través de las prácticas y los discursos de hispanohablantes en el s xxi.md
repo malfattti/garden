@@ -68,7 +68,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 										- entextualización: personas y procesos involucrados en la creación de textos
 										- transposición: alteración y reevaluación de los textos en su movilidad
 										- recontextualización: su incrustación en nuevos contextos
-									- los contextos se contextualizan como multi-estratales
+									- los contextos se conceptualizan como multi-estratificados y multi-escalares
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
@@ -80,12 +80,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 
      
-       - non-shared knowledge replaces the idea of common ground between speakers
-       - the idea of negotiation is questioned
-       - focus on creativity
-       - reflection on language
-       - mobility of texts
-       - comtext is multi layered and multi scalar
+
        - traditionally macro components are found at the micro level
        - methodologically, this means:
          - investigation of the context
