@@ -87,9 +87,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- Pérez-Milans, Miguel (2020). Lengua y superdiversidad 
 							- crítica a los conceptos introducidos al plano de la lingüística por Blommaert y otrxs
 							- El concepto de [[superdiversidad]] es controvertido y criticado pero es relevante en la sociolingüística contemporánea y cuestiona la forma estereotípica en la que se representa la migración en diferentes áreas del conocimiento y de la vida pública.
-							- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
-  - lengua como constituyente de la identidad y la cultura de origen de un migrante
-  - pero esta visión solo funciona en el caso de un migrante ideal en un contexto homogéneo, lo que el concepto de superdiversidad viene a cuestionar
+								- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
+									- lengua como constituyente de la identidad y la cultura de origen de un migrante
+							  - pero esta visión solo funciona en el caso de un migrante ideal en un contexto homogéneo, lo que el concepto de superdiversidad viene a cuestionar
 - superdiversidad en las ciencias sociales:
   - término acuñado por [[Steven Vertovec]]
   - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su 
