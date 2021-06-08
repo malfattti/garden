@@ -55,11 +55,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- La narrativa indigenista está determinada por la herencia de Europa. La tradición europea determina el contenido de la narrativa indigenista sino tb la FORMA estética:
 			- Narrativa escrita en la lengua colonizante
 			- Escrita en forma de novela, género no cultivado por los pueblos autóctonos americanos que preferían las formas de la canción y de la poesía, por constituir su tradición oral
-			- La novela indigenista es un discurso paradigmático de la heterogeneidad latinoamericana
-			- Circula en una cultura pero su referente es otra cultura 
-			- Novelas indigenistas: tendencia a la inserción de explicaciones y de elementos costumbristas
-			- No es una visión desde dentro
-			- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
+		- La novela indigenista es un discurso paradigmático de la heterogeneidad latinoamericana
+		- Circula en una cultura pero su referente es otra cultura 
+		- Novelas indigenistas: tendencia a la inserción de explicaciones y de elementos costumbristas
+		- No es una visión desde dentro
+		- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
     
 
   
