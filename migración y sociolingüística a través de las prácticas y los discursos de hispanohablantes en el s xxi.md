@@ -62,7 +62,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- el significado se estudia como multi-modal (no solo lenguaje sino gestos, posturas, el entorno material, etc)
 									- la idea de contexto común entre los hablantes se reemplaza por la de conocimientos no compartidos
 									- cuesionamiento de la ide de negociación (límites)
-									- foco en la creatividad, en prácticas no estándar de mezcla de lenguajes que recurren a estilos y lenguajes que no se consideran usualmente propios del hab
+									- foco en la creatividad, en prácticas no estándar de mezcla de lenguajes que recurren a estilos y lenguajes que no se consideran usualmente propios del hablante
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
