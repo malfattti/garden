@@ -133,22 +133,76 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Por qué Vertovec postula la superdiversidad?
 	- empieza a haber un mayor flujo migratorio de personas hacia países que desde el s. XX habían sido caracterizados por ser países de emigración y no de inmigración
-		- España, país de emigración:
-			- aumenta el flujo emigratorio a principios del s. XX ya que Francia demanda mano de obra y ofrece naturalización automática para asegurar una asimilación rápida. 
-				- 10% de la población inmigrante en francia es de origen español 
-			- en los años 30 los españoles ocupan el tercer lugar tras italianos y polacos en Francia
-			- Con la Guerra civil Española crece la emigración
-			- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Suiza
-				- esto se acrecienta con la crisis económica española de 1973
-			- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retornos en la década de 1990
-			- a pesar de esto en 1999 700.00 españoles residían fuera de su territorio, 250.000 en Francia, 130.000 en Alemania y 123.000 en Suiza
-		- España, país de inmigración:
-			- Causas:
-				- democratización
-				- ingreso en la UE
-				- instauración de un Estado de bienestar
-				- aumenta expectativa de vida / dosminuyen tasas de natalidad (falta de población activa)
+		- Ejemplo: superdiversidad en España
+			- España, país de emigración:
+				- Francia es el primer país al que salen los españoles
+				- aumenta el flujo emigratorio a principios del s. XX ya que Francia demanda mano de obra y ofrece naturalización automática para asegurar una **asimilación rápida**. 
+					- 10% de la población inmigrante en francia es de origen español 
+				- en los años 30 los españoles ocupan el tercer lugar tras italianos y polacos en Francia
+				- Con la Guerra civil Española crece la emigración
+				- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Suiza
+					- en 1960 hay manuales destinados a las españolas que van a trabajar como personal doméstico a Francia
+					- esto se acrecienta con la crisis económica española de 1973
+				- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retornos en la década de 1990
+				- a pesar de esto en 1999 700.00 españoles residían fuera de su territorio, 250.000 en Francia, 130.000 en Alemania y 123.000 en Suiza
+			- España, país de inmigración:
+				- Causas:
+					- democratización
+					- ingreso en la UE (principal razón)
+					- instauración de un Estado de bienestar (más dinero, riqueza, instituciones, infraestructura, etc.)
+					- aumenta expectativa de vida / dosminuyen tasas de natalidad (falta de población activa)
 				- en 1975 España tiene 165.000 residentes extranjeros, en 2006, 4 millones
-					- proveniencia: África y Latinoamérica
-					- mano de obra poco calificada que mantiene niveles de producción y desarrollo del país
-				-  2020 el número total de inmigrantes empadronados en España es de 245.301 
+						- proveniencia: África y Latinoamérica
+						- mano de obra poco calificada que mantiene niveles de producción y desarrollo del país
+							- antes, los inmigrantes que llegaban eran de perfil intelectual y con rasgos europeos
+				-  2020: el número total de inmigrantes empadronados en España es de 245.301 
+					-  los países de procedencia se superdiversifican debido a:
+						-  reestructuración de regímenes legales
+						-  reestructuración del estatus social de los inmigrantes de acuerdo con el país de procedencia
+					- superdiversidad jerarquizada:
+						- condiciones de establecimiento y residencia de acuerdo con los convenios de países de origen
+						- diferentes formas de migración y estatus de los migrantes
+							- rumanos: colectivo invisibilizado, tareas de construcción
+							- Reino Unido: colectivo de elite de la tercera edad, acceso a la salud pública española
+						- jerarquía de nacionalidades y además de lenguas (skills para moverse en la sociedad)
+						- A nivel lingüístico:
+							- multilingüismo
+							- reestructuración del estatus social de los migrantes según proficiencia lingüística
+								- lenguas como skills: de lenguas como capital cultural a lenguas como capital económico
+	- Superdiversidad: Reino Unido
+			- Vertovec toma este caso como ejemplo
+			- Old Commonwealth: países fundacionales de la comunidad del Reino Unido con sus antiguas colonias (EEUU, Australia, Sudáfrica, NZ, Canadá) --> países con ciertas facilidades en UK
+			- New Commonwealth: países que se han ido anexando por motivos de vínculos de colonia (Jamaica, países chicos de Oceanía, Bangladesh, países asiáticos, India)
+			- La mayor parte de los que van a Inglaterra no son del CW (ni viejo ni nuevo) y no están presentes en la historia de UK. sin conexión colonial ni cultural con UK
+	- Superdiversidad en Suiza
+		- Pese a su tamaño, muy superdiverso
+		- La mayor parte de los inmigrantes son europeos
+		- Religión:
+			- progresivamente menos miembros de las iglesias tradicionales cristianas
+			- incremento de religiones no cristianas
+			- más personas de nuevos movimientos religiosos
+		- Canales de migración y estatus:
+			- Diversificación del estatus:
+				- elites transnacionales de gestión
+				- transnacionales altamente especializados en tecnología
+				- transnacionales no especializados, mano de obra no calificada
+				- otros:
+					- voluntariados
+					- instructores religiosos
+					- au pair
+					- estudiantes
+				- asilados políticos
+				- Indocumentados:
+					- entre 58.000 y 105.000 (2015), se calcula una suma realista de 76.000
+					- se calcula que en su mayoría proveen de Sur y Centroamérica, luego de países de Europa que están afuera de la UE EFTA, luego de África y Asia
+					- Sur y Centroamérica, Asia: sobre todo, mujeres solas que se dedican a oficios domésticos y de cuidado de personas. esta es una tendencia global de la superdiversidad en el caso de las mujeres indocumentadas
+					- se apoyan en redes étnicas ya bien establecidas
+					- Europa: hombres temporeros de la construcción, agricultura, hostelería
+					- África: sobre todo hombres solos que no han recibido el derecho de permanencia como asilados. Los que más sufren en la inserción en el mercado laboral clandestino
+			- Diferentes vías de acceso:
+				- UE y EFTA
+					- elites
+					- temporeros
+					- trabajadores por cupo y ámbitos laborales
+				- Fuera de UE y EFTA: elites por Visa
+			- 
