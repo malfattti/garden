@@ -93,16 +93,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Neoindigenismo
 	- POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
 		- Poesía de referencia indígena es un caso excepcional
-		- **Mariano Melgar**: poeta, 1790 -1815. 
+		- **Mariano Melgar**: poeta peruano, 1790 -1815. 
 			- Es un único poeta que expresa lo indígena en un modo lírico. 
 			- Posicionarse desde dentro. 
 			- Reescribe los yarabíes (forma quechua), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo
 			- Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. Nos describe los usos y costumbres de los quechua.
 			- Tb escribe odas. Por ejemplo, Oda a la libertad
-
-  
-
-José Heredia: cubano que participó en un levantamiento contra España y fue exiliado muchos años en los estados Unidos 
+		- **José Heredia**: cubano que participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos 
 
 Primer poeta romántico
 
