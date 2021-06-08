@@ -45,7 +45,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
 			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
 			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
-			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora en yb
+			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultra pero
 
   
   
