@@ -52,7 +52,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- desnaturalización de las lenguas con nombre:
 									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
 										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de 
-								
+								But as
+sociolinguists have long maintained, it is far more productive analytically to focus on the
+very variable ways in which individual linguistic features with identifiable social and cultural
+associations get clustered together whenever people communicate (e.g. Hudson 1980; Le
+Page 1988; Hymes 1996; Silverstein 1998; Blommaert 2003). If we focus on the links and
+histories of each of the ingredients in any strip of communication, then the ideological
+homogenisation and/or erasure achieved in national language naming becomes obvious, and a
+host of sub- and/or trans-national styles and registers come into view, most of which are
+themselves ideologically marked and active (Agha 2007). I
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
