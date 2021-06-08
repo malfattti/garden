@@ -36,12 +36,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Problema indígena/del indígena
 				- Los problemas que se derivan de la estructura agraria.
 		- Construcciones raciales ( “criollo”, “indio”, “mestizo”, “cholo”): 
-			- Pinturas de castas coloniales: representación de la estructura la sociedad colonial de forma muy precisa.
+			- Pinturas de castas coloniales (s. XVII): representación de la estructura la sociedad colonial de forma muy precisa.
 			- Todas las mezclas recibieron denominaciones. 
 			- Lo "cholo" significa en ese momento simplemente mestizo con india. 
 			- Pero la palabra evoluciona con el tiempo y se usa cholo para señalar mestizo.
 			- Y eventualmente cholo con connotación despectiva: mestizo que adopta modos de vida de criollos (mezcla, falta de pureza, "traición")
-		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas **Conejo Polar** acuñó el concepto de **heterogeneidad**
+		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas **Cornejo Polar** acuñó el concepto de **heterogeneidad**
 			- No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
 			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
 			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
