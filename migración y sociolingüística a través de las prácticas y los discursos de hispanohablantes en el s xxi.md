@@ -84,7 +84,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 										- economía sociolingüística 
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
-						- Pérez-Milans, Miguel (2020). ''' 
+						- Pérez-Milans, Miguel (2020). [[Lengua y superdiversidad]]:
 							- crítica a los conceptos introducidos al plano de la lingüística por Blommaert y otrxs
 							- El concepto de [[superdiversidad]] es controvertido y criticado pero es relevante en la sociolingüística contemporánea y cuestiona la forma estereotípica en la que se representa la migración en diferentes áreas del conocimiento y de la vida pública.
 								- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
@@ -92,7 +92,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							  - pero esta visión solo funciona en el caso de un migrante ideal en un contexto homogéneo, lo que el concepto de superdiversidad viene a cuestionar
 							  - raíces intelectuales: superdiversidad en las ciencias sociales:
 								  - término acuñado por [[Steven Vertovec]] en 2007
-  - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su 
+								  - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su:
     - origen
     - situación legal
     - socialización previa
