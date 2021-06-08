@@ -55,6 +55,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- con la noción de lenguaje también se deconstruyen las ideas de nación, personas y comunidades de habla:
 									- se pasa de pensar en un hablante idealizado a un grupo más flexible
 									- de "comunidades de habla" a "comunidades de práctica", "instituciones" y "redes": más flexibilidad en los sitios y vínculos en los que las representaciones de un grupo emergen y circulan
+								- la comunicación
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
