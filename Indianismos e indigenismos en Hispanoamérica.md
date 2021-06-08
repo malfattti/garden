@@ -36,7 +36,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Problema indígena/del indígena
 				- Los problemas que se derivan de la estructura agraria.
 		- Construcciones raciales ( “criollo”, “indio”, “mestizo”, “cholo”): 
-			- Pinturas de castas coloniales (s. XVII): representación de la estructura la sociedad colonial de forma muy precisa.
+			- Pinturas de castas coloniales (s. XVIII): representación de la estructura la sociedad colonial de forma muy precisa.
 			- Todas las mezclas recibieron denominaciones. 
 			- Lo "cholo" significa en ese momento simplemente mestizo con india. 
 			- Pero la palabra evoluciona con el tiempo y se usa cholo para señalar mestizo.
