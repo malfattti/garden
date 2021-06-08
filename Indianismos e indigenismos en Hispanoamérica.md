@@ -50,16 +50,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
 
 - 02.03: Aclaraciones previas sobre la terminología
-	- Pintura de castas: ya se apoya en principios racistas: el espíritu de la época es esa clasificación que también correspondía a los deberes y derechos de los individuos 
-
-  
-  
-
-Cornejo Polar: el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
-
-  
-
-La narrativa indigenista está determinada por la herencia de Europa. La tradición europea determina el contenido de la narrativa indigenista sino tb la FORMA estética:
+	- Cronejo Polar:
+	- La narrativa indigenista está determinada por la herencia de Europa. La tradición europea determina el contenido de la narrativa indigenista sino tb la FORMA estética:
 
 -   Narrativa escrita en la lengua colonizante
     
