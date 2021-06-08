@@ -93,11 +93,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							  - raíces intelectuales: superdiversidad en las ciencias sociales:
 								  - término acuñado por [[Steven Vertovec]] en 2007
 								  - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su:
-    - origen
-    - situación legal
-    - socialización previa
-    - las nociones de origen y destino pasan a ser más laxas
-- Vertovec no dice que la superdiversidad sea nueva, pero que antes era tratada como excepcional mientras que ahora parece ser la norma
+									- origen
+									- situación legal
+									- socialización previa
+									- las nociones de origen y destino pasan a ser más laxas
+							- Vertovec no dice que la superdiversidad sea nueva, pero que antes era tratada como excepcional mientras que ahora parece ser la norma
   - la superdiversidad cuestiona la idea del estado-nación como categoría valida de referencia para anticipar el repertorio de conocimientos y experiencias previas de las personas
     - el estado-nación es una categoría originada por la ideología del colonialismo y el nacionalismo
   - es necesario descolonizar nuestros conocimientos y las disciplinas que los han originado en su contribución a la conceptualización de las comunidades nacionales como homogéneas y a justificar la colonización
