@@ -60,6 +60,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- la estructura lingüística es una semiótica entre muchas
 									- foco en la indexicalidad: el significado connotativo de los signos
 									- el significado se estudia como multi-modal (no solo lenguaje sino gestos, posturas, el entorno material, etc)
+									- la idea de contexto común entre los hablantes se reemplaza por la de conocimientos no compartidos
+									- cuesionamiento de la ide de negociació
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
