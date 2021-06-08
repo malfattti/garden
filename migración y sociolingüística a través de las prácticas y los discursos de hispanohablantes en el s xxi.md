@@ -51,16 +51,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- aunque estas últimas ideas no son nuevas, las primeras ideas, que intentan desplazar, siguen en funcionamiento
 								- desnaturalización de las lenguas con nombre:
 									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
-										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de las formas muy variables en las que los rasgos lingúísticos individuales con asociaciones culturales y sociales identificables, 
-								But as
-sociolinguists have long maintained, it is far more productive analytically to focus on the
-very variable ways in which individual linguistic features with identifiable social and cultural
-associations get clustered together whenever people communicate (e.g. Hudson 1980; Le
-Page 1988; Hymes 1996; Silverstein 1998; Blommaert 2003). If we focus on the links and
-histories of each of the ingredients in any strip of communication, then the ideological
-homogenisation and/or erasure achieved in national language naming becomes obvious, and a
-host of sub- and/or trans-national styles and registers come into view, most of which are
-themselves ideologically marked and active (Agha 2007). I
+										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de las formas muy variables en las que los rasgos lingüísticos individuales con asociaciones culturales y sociales identificables, se agrupan cuando las personas se comunican.
+										
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
@@ -70,19 +62,7 @@ themselves ideologically marked and active (Agha 2007). I
 								- Prioridades para la investigación en lengua y comunicación:
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 
-- This paper will:
-  -  define superdiversity
-    
 
-       -  changes in both the material world and ways of life
-  -  define the most important theoretical and methodological developments in language study:
-     -  sociolinguistics has evolved with the humanities and social sciences
-     -  before, homogeneity, stability and boundedness; Now: mobility, mixing political dynamics and historical embedding
-     -  though these ideas are not new, the ideas they seek to displace are still very much at work
-     -  denaturalization of named, distinct languages
-        -  named languages are an ideological construct which serves the ideal of nation-estate
-        -  however the idea of language as bounded systems linked to bounded communities continues to be taken for granted in our institutions and even sociolinguistic studies which aim at questioning it
-        -  although the traditional idea of language is useful or functional in ways the most interesting analysis emerges when the variety of feature combinations
           -  with the notion of language the notion of nation, people and speech community to be deconstructed
         -  idealized speaker versus more flexible group
         -  inequality and innovation: normativity
