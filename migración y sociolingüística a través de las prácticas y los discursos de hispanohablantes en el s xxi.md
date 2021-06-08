@@ -69,7 +69,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 										- transposición: alteración y reevaluación de los textos en su movilidad
 										- recontextualización: su incrustación en nuevos contextos
 									- los contextos se conceptualizan como multi-estratificados y multi-escalares
-								- a nivel metodolí
+								- a nivel metodológico esto implica:
+									- la necesidad de investigar el contexto en vez de asumirlo
+									- 
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
