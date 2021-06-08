@@ -111,9 +111,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Cómo ingresar derechos propios para la masa de los indígenas. 
 				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
 			- **José Joaquín Olmedo**(Ecuador 1780-1847): 
-			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
-			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
-			- Andrés Bello (Venezuela 1781-1865): 
+				- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
+				- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
+			- **Andrés Bello** (Venezuela 1781-1865): 
 				- "Hasta un poeta contenido (=neoclásico) y sabio como él no pudo evitar el tema indianista" (Meléndez, 1970: 71). 
 				- Bello instrumentaliza la evocación del pasado indígena: así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano. 
 				- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "Conserva el modelo, pero cambia el contenido". Habrá que leer por cuenta propia, a este propósito, el breve fragmento de Troncoso Araos
