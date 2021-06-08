@@ -92,12 +92,6 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
 	- Neoindigenismo  
   
-
-  
-
-Surgimiento - madurez - Y... crisis del orden neocolonial: terminología de Halperin Donghi. Libro recomendado, enfoque en lo económico para articular las etapas históricas
-
-  
   
 
 POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
