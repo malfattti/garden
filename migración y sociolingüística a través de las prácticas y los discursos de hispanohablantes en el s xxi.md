@@ -66,8 +66,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- reflexión metapragmática: los hablantes reflexionan sobre sus propios usos del lenguaje y los ajenos
 									- trayectorias textuales a través de eventos:
 										- entextualización: personas y procesos involucrados en la creación de textos
-										- transposición: alteración y reevaluaci'
-										- recontextualización
+										- transposición: alteración y reevaluación de los textos en su movilidad
+										- recontextualización: su incrustación en nuevos contextos
+									- los contextos son multi-
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
