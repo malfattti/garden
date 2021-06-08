@@ -101,27 +101,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Tb escribe odas. Por ejemplo, Oda a la libertad
 		- **José Heredia**: cubano, 1803-1839
 				- participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos 
-				- Primer poeta romántico de las América
-
-Sensibilidad ante el paisaje
-
-Lectura muy moderna de la historia de la conquista de méxico
-
-Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles pero entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
-
-  
-
-Mirada moderna, un poco más libre 
-
-  
-
-Además
-
-José Joaquín Olmedo (Ecuador)
-
-Andrés Bello (Venezuela)
-
-Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
+				- Primer poeta romántico de las Américas
+				- Sensibilidad ante el paisaje
+				- Lectura muy moderna de la historia de la conquista de México
+				- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles pero entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
+				- Mirada moderna, un poco más libre 
+			- **Otros: José Joaquín Olmedo (Ecuador), Andrés Bello (Venezuela), Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
 
   
 
