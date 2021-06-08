@@ -42,10 +42,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  implica una **diversidad social, cultural y lingüística**
 								-  presenta un **incremento en las categorías de migrantes** (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
 								-  influenciada por **Internet**: nuevos medios y tecnologías de la comunicación
-								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor está aprendiendo la escritura del receptor, que hay un cambio desde una diáspora tradicional a una nueva que se original en la PRC.
+								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor está aprendiendo la escritura del receptor, que hay un **cambio desde una diáspora tradicional a una nueva** que se original en la PRC.
 								-  en la migración ocurren formas distintivas de comunicación y estudiarlas puede contribuir a los debates sobre superdiversidad
-								-  la gente sigue conectada a sus comunidades de origen
-								-  las comunidades de destino están involucradas en estas conexiones transnacionales
+								-  la gente sigue **conectada** a sus **comunidades de origen**
+								-  las **comunidades de destino** están involucradas en estas **conexiones transnacionales**
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
 								- desnaturalización de las lenguas con nombre
 								- la lingüística es una semiótica entre muchas
