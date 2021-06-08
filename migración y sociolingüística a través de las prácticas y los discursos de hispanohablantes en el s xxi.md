@@ -84,3 +84,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 										- economía sociolingüística 
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
+						- 
