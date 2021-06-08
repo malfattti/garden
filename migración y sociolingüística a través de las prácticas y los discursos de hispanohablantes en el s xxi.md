@@ -85,4 +85,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 										- economía sociolingüística 
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
 						- Pérez-Milans, Miguel (2020). Lengua y superdiversidad 
-							- crítica a los conceptos introducidos a l
+							- crítica a los conceptos introducidos al plano de la lingüística por 
