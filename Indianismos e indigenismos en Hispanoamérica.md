@@ -16,15 +16,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Aclaraciones en torno a la denominación y descripción del curso:
 		- Ella no quiere usar la frase “el problema del indio”. Inevitablemente hablar de esto implica una serie de malentendidos sobre los que debemos tener cuidado:
 			- Ambigüedad. El concepto deriva de la conquista
-			- “La cuestión": subterfugio? 
-			- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
-			- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / visión del mundo y concepción de la literatura.
-
-El plural acá señala los cambios de contextos, de visión del mundo, etc
-
-  
-
-Articulaciones de momentos y estéticas vinculados con un contexto de ideas/ideológico
+		- “La cuestión": subterfugio? 
+		- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
+		- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / visión del mundo y de la literatura.
+		- El plural acá señala los cambios de contextos, de visión del mundo, etc.
+		- Articulaciones de momentos y estéticas vinculados con un contexto de ideas/ideológico
 
 Foco en el referente mismo: indígena. Precisión. Desde la conquista se englobó en una aparente unidad poblaciones, lenguas, culturas. Se homologaron así, para configurar todo lo que no fuera occidental o español… 
 
