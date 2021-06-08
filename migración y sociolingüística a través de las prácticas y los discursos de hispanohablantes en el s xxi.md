@@ -84,7 +84,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 										- economía sociolingüística 
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
-						- Pérez-Milans, Miguel (2020). [[Lengua y superdiversidad]]:
+							- Pérez-Milans, Miguel (2020). [[Lengua y superdiversidad]]:
 							- crítica a los conceptos introducidos al plano de la lingüística por Blommaert y otrxs
 							- El concepto de [[superdiversidad]] es controvertido y criticado pero es relevante en la sociolingüística contemporánea y cuestiona la forma estereotípica en la que se representa la migración en diferentes áreas del conocimiento y de la vida pública.
 								- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
@@ -101,8 +101,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
   							- la superdiversidad cuestiona la idea del estado-nación como categoría valida de referencia para anticipar el repertorio de conocimientos y experiencias previas de las personas
   							- el estado-nación es una categoría originada por la ideología del colonialismo y el nacionalismo
   							- es necesario descolonizar nuestros conocimientos y las disciplinas que los han originado en su contribución a la conceptualización de las comunidades nacionales como homogéneas y a justificar la colonización
-  							- diferente concepción del sujeto
-- superdiversidad y lingüística
+  							- diferente concepción de la subjetividad	
+							- superdiversidad y lingüística
   - El término es introducido por Blommaert y Rampton
   - los inmigrantes tienen repertorios y necesidades lingüísticas cada vez más variadas
   - sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
