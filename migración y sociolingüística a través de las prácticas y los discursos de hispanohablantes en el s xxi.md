@@ -138,4 +138,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- 10% de la población inmigrante en francia es de origen español 
 			- en los años 30 los españoles ocupan el tercer lugar tras italianos y polacos en Francia
 			- Con la Guerra civil Española crece la emigración
-			- 
+			- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Sui
