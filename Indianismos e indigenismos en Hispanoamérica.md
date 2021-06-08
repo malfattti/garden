@@ -46,19 +46,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
 			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
 			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra
-			- 
-
-  
-  
-  
-**
-
-**
-		- 
-	-  Concepto de heterogeneidad de Conejo Polar
-
-
-Aclaraciones previas sobre la terminología
+- 02.03: Aclaraciones previas sobre la terminología
+- 
 Grandes etapas de la historia siglos XIX-XX
 Antecedentes: del neoclasicismo al romanticismo en Hispanoamérica: poesía “de referente indígena”
 (1800-1825)2
