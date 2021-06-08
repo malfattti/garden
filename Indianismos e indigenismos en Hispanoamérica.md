@@ -74,7 +74,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			-  Termina estudiando “Aves sin nido” que señala como punto de articulación entre indianismo e indigenismo. 
 			-  Contiene a la vez espíritu reivindicativo y social (Mariátegui, indigenismo). 
 			-  Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. Su novela está empapada aún de una sentimentalidad romántica
-	- Hay todo un corpus que no cabe en el indianismo. No se lo representa de forma idealizada sino como un salvaje insalvable. Zonas donde al modernizarse la nación se puso en marcha la idea de aniquilar al indígena y a marginalizar. Caso argentino.o sea que en un estudio del indianismo no va a entrar el caso argentino. “La cautiva” de Echeverría: describe al indio salvaje imposible de salvar.Argentina comenzó muy pronto el proceso de modernización así que pronto hubo que implementar las condiciones de realización de la argentina. Siendo el indio el núcleo de la barbarie no podemos idealizarlo. El romanticismo se centra en el gaucho, que se percibe como más asimilable Martín Fierro, José Hernández: es un gaucho. La primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
+	- Hay todo un corpus que no cabe en el indianismo. 
+		- No se lo representa de forma idealizada sino como un salvaje insalvable. 
+		- Zonas donde al modernizarse la nación se puso en marcha la idea de aniquilar al indígena y a marginalizar. 
+		- Caso argentino, o sea que en un estudio del indianismo no va a entrar el caso argentino. 
+		- “La cautiva” de Echeverría: describe al indio salvaje imposible de salvar.
+		- Argentina comenzó muy pronto el proceso de modernización así que pronto hubo que implementar las condiciones de realización de la Argentina. 
+		- Siendo el indio el núcleo de la barbarie no podemos idealizarlo.
+		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández: es un gaucho. La primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
     
 -     
     
