@@ -68,6 +68,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			-  Géneros: novelas, poesía, teatro tb hay
 		- Indigenismo:
 			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
+			- En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
 		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
 			- Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835 1889”. 
 			- En las novelas indianistas los indios y sus tradiciones se presentan con simpatía.
@@ -89,14 +90,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- En la primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
 		- Vargas Llosa: referencia a Sarmiento / civilización y barbarie
 		- Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
-    
--  
-    
-
-		- Neoindigenismo  
+	- Neoindigenismo  
   
-
-En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
 
   
 
