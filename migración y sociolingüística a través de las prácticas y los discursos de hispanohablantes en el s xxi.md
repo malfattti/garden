@@ -140,4 +140,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Con la Guerra civil Española crece la emigración
 			- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Suiza
 				- esto se acrecienta con la crisis económica española de 1973
-			- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retorno
+			- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retornos en la década de 1990
+			- a pesar de esto en 1999 700.00 españoles residían fuera de su territorio, 250.000 en Francia, 130.000 en Alemania y 12
