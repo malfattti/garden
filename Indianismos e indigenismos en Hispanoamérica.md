@@ -13,6 +13,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 
 **Estructura**:
 - 23.02: Introducción general. Comentarios bibliográficos. Planificación del curso.
+	- Aclaraciones en torno a la denominación y descripción del curso:
+	- 
 	- Mariátegui (Perú 1894-1930)
 		- Uno de los principales representantes del pensamiento socialista de América Latina
 			- Su obra “Los siete ensayos de interpretación de la realidad peruana” es considerada de referencia para la intelectualidad del continente
