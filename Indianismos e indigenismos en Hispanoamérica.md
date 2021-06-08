@@ -17,6 +17,74 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Uno de los principales representantes del pensamiento socialista de América Latina
 			- Su obra “Los siete ensayos de interpretación de la realidad peruana” es considerada de referencia para la intelectualidad del continente
 			- Funda el partido socialista peruano en 1928, que luego se fusiona con el partido comunista peruano (marxismo, leninismo, partido de los trabajadores)
+			- El ensayo 2 “El problema del indio’
+			- Ensayo 7: proceso de la literatura / apartado 17: indigenismo
+
+El problema indígena no puede estar ausente de la literatura y el arte, estando presente en la sociedad, la economía etc
+
+El régimen feudal vigente en el perú de la época es la causa del problema del indio
+
+Solución: la liquidación del feudalismo en el Perú
+
+  
+
+Problema indígena/del indígena
+
+Los problemas que se derivan de la estructura agraria.
+
+Los problemas se derivan de este contexto
+
+  
+
+Ella no quiere usar la frase “el problema del indio”. Inevitablemente hablar de esto implica una serie de malentendidos sobre los que debemos tener cuidado:
+
+Ambigüedad. El concepto deriva de la conquista
+
+“La cuestión’: subterfugio? 
+
+“Literatura de referente indígena”?  “Literatura de autoría indígena”?
+
+  
+  
+
+Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / tb visión del mundo y concepción de la literatura.
+
+El plural acá señala los cambios de contextos, de visión del mundo, etc
+
+  
+
+Articulaciones de momentos y estéticas vinculados con un contexto de ideas/ideológico
+
+Foco en el referente mismo: indígena. Precisión. Desde la conquista se englobó en una aparente unidad poblaciones, lenguas, culturas. Se homologaron así, para configurar todo lo que no fuera occidental o español… 
+
+Conflictos y tensiones con el paso del tiempo se elaboran de forma englobante. La homologación se encuentra tb en “lo criollo”, “lo indígena”, “lo mestizo”
+
+Luego se ajustan términos 
+
+  
+
+Pintura de castas: estructura la sociedad colonial de forma muy precisa. Todas las mezclas recibieron denominaciones. Lo cholo significa en ese momento simplemente mestizo con india. Pero la palabra evolucona con el tiempo y se usa cholo para señalar mestizo. Y eventualmente cholo con connotación despectiva: mestizo que adopta modops de vida de criollos
+
+  
+  
+
+Para designar los productos culturales que resultan de esas cohabitaciones conflictivas Conejo Polar acuñó el concepto de heterogeneidad
+
+No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
+
+  
+
+Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
+
+  
+  
+
+Este concepto califica muchas realidad, antiguas, modernas, posmodernas, globales.
+
+  
+  
+  
+**
 
 **
 		- 
