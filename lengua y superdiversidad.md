@@ -44,7 +44,3 @@
         - eurocentrismo (extrapola experiencia europea al resto del mundo)
         - giro hacia el big data (interesante para los gobiernos y las corporaciones)
         - su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
-  
-
-
-- 
