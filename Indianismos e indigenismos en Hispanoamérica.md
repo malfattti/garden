@@ -60,22 +60,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- tendencia a la inserción de explicaciones y de elementos costumbristas
 			- No es una visión desde dentro
 		- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
-    
-
-  
-
-Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
-
-  
-
-Se delimitan tres fases (tres estéticas, novelísticas):
-
--   Indianismo: presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. Condición constante en las producciones literarias idealistas. Idealización y distancia.
-    
--   Indigenismo:
-    
-
--   Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono. 
+    - Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
+    - Se delimitan tres fases (tres estéticas, novelísticas):
+		- Indianismo: presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. Condición constante en las producciones literarias idealistas. Idealización y distancia.
+	- Indigenismo:
+		- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono. 
     
 -   Cometa Marzoni contrasta el indigenismo con el indianismo. Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835 1889”. En las novelas indianistas los indios y sus tradiciones se presentan con simpatía. Va a estudiar un amplio corpus decimonónico-romántico y concluye que en ellas el indio aparece transformado por el espíritu europeo. O sea lleva la marca de la transformación por el espíritu europeo. el personaje del indígena es convencional y sin matices. Falseamiento de la realidad + mistificación y clara instrumentalización del indio. Termina estudiando “Aves sin nido” que señala como punto de articulación entre indianismo e indigenismo. Contiene a la vez espíritu reivindicativo y social (Mariátegui, indigenismo). Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. Su novela está empapada aún de una sentimentalidad romántica
     
