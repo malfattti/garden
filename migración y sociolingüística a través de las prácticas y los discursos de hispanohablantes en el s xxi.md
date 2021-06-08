@@ -136,4 +136,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- España:
 			- aumenta el flujo emigratorio a principios del s. XX ya que Francia demanda mano de obra y ofrece naturalización automática para asegurar una asimilación rápida. 
 				- 10% de la población inmigrante en francia es de origen español 
-			- en
+			- en los años 30 los españoles ocupan el tercer lugar tras italianos y polacos en Francia
+			- Con la Guerra civil Española crece la emigración
+			- 
