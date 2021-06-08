@@ -50,7 +50,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- desde ideas sobre homogeneidad, estabilidad y delimitación a ideas de movilidad, mezcla de dinámicas políticas e "incrustaciones históricas"
 									- aunque estas últimas ideas no son nuevas, las primeras ideas, que intentan desplazar, siguen en funcionamiento
 								- desnaturalización de las lenguas con nombre:
-									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como na
+									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
 								
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
