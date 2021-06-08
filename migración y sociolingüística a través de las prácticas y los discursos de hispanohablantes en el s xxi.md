@@ -102,11 +102,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
   							- el estado-nación es una categoría originada por la ideología del colonialismo y el nacionalismo
   							- es necesario descolonizar nuestros conocimientos y las disciplinas que los han originado en su contribución a la conceptualización de las comunidades nacionales como homogéneas y a justificar la colonización
   							- diferente concepción de la subjetividad	
-							- superdiversidad y lingüística
-  - El término es introducido por Blommaert y Rampton
-  - los inmigrantes tienen repertorios y necesidades lingüísticas cada vez más variadas
-  - sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
-  - las prácticas comunicativas son el punto de partida desde el que identificar modelos sociales y culturales emergentes
+  							- superdiversidad y lingüística
+								- El término es introducido por Blommaert y Rampton
+								- los inmigrantes tienen repertorios y necesidades lingüísticas cada vez más variadas
+								- sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
+								- las prácticas comunicativas son el punto de partida desde el que identificar modelos sociales y culturales emergentes
     - otras disciplinas parten de modelos prestablecidos
   - la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticas comunicativas por parte de la sociolingüística:
     - las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
