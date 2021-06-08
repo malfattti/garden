@@ -110,6 +110,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Simón Bolívar: Proclama de los derechos del indio
 				- Cómo ingresar derechos propios para la masa de los indígenas. 
 				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
+- El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
 
   
   
