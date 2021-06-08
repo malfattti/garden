@@ -37,7 +37,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Los problemas que se derivan de la estructura agraria.
 		- Construcciones raciales ( “criollo”, “indio”, “mestizo”, “cholo”): 
 			- Pinturas de castas coloniales (s. XVIII): representación de la estructura la sociedad colonial de forma muy precisa.
-				- sustento racista, espíritu de clasificación que tb correspondía a los deberes y derechos de 
+				- sustento racista, espíritu de clasificación que tb correspondía a los deberes y derechos de los individuos
 			- Todas las mezclas recibieron denominaciones. 
 			- Lo "cholo" significa en ese momento simplemente mestizo con india. 
 			- Pero la palabra evoluciona con el tiempo y se usa cholo para señalar mestizo.
@@ -47,17 +47,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
 			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
 			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra
+				- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
+
 - 02.03: Aclaraciones previas sobre la terminología
 	- Pintura de castas: ya se apoya en principios racistas: el espíritu de la época es esa clasificación que también correspondía a los deberes y derechos de los individuos 
 
   
-
-Terminología se va cargando de aspectos 
-
-  
-
-Ferrari: el uso que tiene el concepto de indianismo
-
   
 
 Cornejo Polar: el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
