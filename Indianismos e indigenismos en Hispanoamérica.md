@@ -12,7 +12,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Carlos Arcos Cabrera (Ecuador), Memorias de Andrés Chiliquinga (2013)
 
 **Estructura**:
-- 23.02: Introducción general. Comentarios bibliográficos. Planificación del curso.
+- 23.02: Introducción general. Comentarios bibliográficos. Planificación del curso. Aclaraciones previas sobre la terminología
 	- Aclaraciones en torno a la denominación y descripción del curso:
 		- Ella no quiere usar la frase “el problema del indio”. Inevitablemente hablar de esto implica una serie de malentendidos sobre los que debemos tener cuidado:
 			- Ambigüedad. El concepto deriva de la conquista
