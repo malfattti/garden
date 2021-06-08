@@ -59,7 +59,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- del privilegio de la estructura del lenguaje al de las prácticas comunicativas
 									- la estructura lingüística es una semiótica entre muchas
 									- foco en la indexicalidad: el significado connotativo de los signos
-									- 
+									- el significado se estudia como multi-modal (no solo lenguaje sino gestos, posturas, el entorno material, etc)
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
@@ -71,15 +71,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 
 
-        -  idealized speaker versus more flexible group
-        -  inequality and innovation: normativity
-        -  the communicative event is only possible interaction context
-        -  instead, variable resources picked up along an individual's trajectory: linguistic repertoire 
-        -  the focus is on the way people use different linguistic forms in different contexts
-     - linguistic is one semiotic among many:
-       - communicative practice
-       - attention turns to indexicality (connotation of choices)
-       - meaning is multimodal
+     
        - non-shared knowledge replaces the idea of common ground between speakers
        - the idea of negotiation is questioned
        - focus on creativity
