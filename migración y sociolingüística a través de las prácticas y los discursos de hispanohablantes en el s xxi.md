@@ -123,7 +123,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- comunidades gruesas (estables, los miembros comparten características ligadas a un estado-nación) y ligeras (momentos de agrupación, los individuos solo comparten las reglas de los eventos)
 									- evento en el que dos grupos que chocan buscan el diálogo, TOGETHER es el mediadior
 									- la irrupción del grupo de Lagan y su autodenominación como "minoría étnica" lo colocaron como un grupo excluido del evento
-									- esto hizo que together y el evento en términos generales quedara deslegitimizado en su rol como mediador e inclusor de minorías
+									- esto hizo que TOGETHER y el evento en términos generales quedara deslegitimizado en su rol como mediador e inclusor de minorías
 									- al mismo tiempo emergieron grupos livianos que iban más allá de los grupos planteados en la conversación
 								  - Críticas a la superdiversidad
 									- su emergencia se debe a la competitividad académica (necesidad de los investigadores de acuñar conceptos nuevos con los que diferenciarse)
