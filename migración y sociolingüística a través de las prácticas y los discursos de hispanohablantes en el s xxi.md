@@ -133,7 +133,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Por qué Vertovec postula la superdiversidad?
 	- empieza a haber un mayor flujo migratorio de personas hacia países que desde el s. XX habían sido caracterizados por ser países de emigración y no de inmigración
-		- España:
+		- España, país de emigración:
 			- aumenta el flujo emigratorio a principios del s. XX ya que Francia demanda mano de obra y ofrece naturalización automática para asegurar una asimilación rápida. 
 				- 10% de la población inmigrante en francia es de origen español 
 			- en los años 30 los españoles ocupan el tercer lugar tras italianos y polacos en Francia
@@ -141,4 +141,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Suiza
 				- esto se acrecienta con la crisis económica española de 1973
 			- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retornos en la década de 1990
-			- a pesar de esto en 1999 700.00 españoles residían fuera de su territorio, 250.000 en Francia, 130.000 en Alemania y 12
+			- a pesar de esto en 1999 700.00 españoles residían fuera de su territorio, 250.000 en Francia, 130.000 en Alemania y 123.000 en Suiza
+		- España, país de inmigración:
+			- Causas:
+				- democratización
+				- ingreso en la UE
+				- Estado de bienesta
