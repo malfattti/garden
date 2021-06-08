@@ -106,8 +106,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- En su exilio mexicano hace una lectura muy moderna de la historia de la conquista de México
 				- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles pero entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
 				- Mirada moderna, un poco más libre 
-			- Simón BOLÍVAR (Venezuela, 1783-1830): Decreto sobre los derechos del indio en 1825.
-			- **Otros: José Joaquín Olmedo (Ecuador), Andrés Bello (Venezuela), Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
+			- **Simón BOLÍVAR**(Venezuela, 1783-1830): 
+				- Decreto sobre los derechos del indio en 1825.
+			- **José Joaquín Olmedo (Ecuador)**
+			- , Andrés Bello (Venezuela), Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
 			- Simón Bolívar: Proclama de los derechos del indio
 				- Cómo ingresar derechos propios para la masa de los indígenas. 
 				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
