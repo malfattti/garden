@@ -49,7 +49,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra
 				- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
 
-- 02.03: Aclaraciones previas sobre la terminología
+- 02.03: Grandes etapas de la historia siglos XIX-XX. Antecedentes: del neoclasicismo al romanticismo en Hispanoamérica: poesía “de referente indígena” (1800-1825)
 	- Cornejo Polar:
 		- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
 		- La novela indigenista es un discurso paradigmático de la heterogeneidad latinoamericana
