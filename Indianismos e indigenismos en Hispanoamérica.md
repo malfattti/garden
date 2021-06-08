@@ -90,15 +90,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- En la primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
 		- Vargas Llosa: referencia a Sarmiento / civilización y barbarie
 		- Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
-	- Neoindigenismo  
-  
-  
-
-POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
-
-Poesía de referencia indígena es un caso excepcional
-
-Mariano Melgar: poeta que nace en 1790 y muere en 1815. Es un único poeta que expresa lo indígena en un modo lírico. Poricionarse desde dentro. Reescribe los yarabíes (forma quechua), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo.
+	- Neoindigenismo
+	- POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
+		- Poesía de referencia indígena es un caso excepcional
+		- **Mariano Melgar**: poeta, 1790 -1815. 
+			- Es un único poeta que expresa lo indígena en un modo lírico. Posicionarse desde dentro. Reescribe los yarabíes (forma quechua), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo.
 
 Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. No describe los usos y costumbres de los quechua.
 
