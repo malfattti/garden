@@ -146,4 +146,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Causas:
 				- democratización
 				- ingreso en la UE
-				- Estado de bienesta
+				- instauración de un Estado de bienestar
+				- aumenta expectativa de vida / dosminuyen tasas de natalidad (falta de población activa)
+				- en 1975 España tiene 165.000
