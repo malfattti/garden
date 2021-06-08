@@ -43,7 +43,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  presenta un incremento en las categorías de migrantes (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
 								-  influenciada por Internet: nuevos medios y tecnologías de la comunicación)
 								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor está aprendiendo la escritura del receptor, que hay un cambio desde una diáspora tradicional a una nueva que se original en la PRC.
-								-  
+								-  there are distinctive communicative processes in migration and studying them can make contributions to the debates about superdiversity
+       -  people are still connected to their communities of origin
+       -  host communities are involved in these transnational connections
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
 								- desnaturalización de las lenguas con nombre
 								- la lingüística es una semiótica entre muchas
@@ -58,9 +60,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 - This paper will:
   -  define superdiversity
     
-    -  there are distinctive communicative processes in migration and studying them can make contributions to the debates about superdiversity
-       -  people are still connected to their communities of origin
-       -  host communities are involved in these transnational connections
+
        -  changes in both the material world and ways of life
   -  define the most important theoretical and methodological developments in language study:
      -  sociolinguistics has evolved with the humanities and social sciences
