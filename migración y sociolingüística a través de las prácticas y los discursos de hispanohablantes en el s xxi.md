@@ -42,6 +42,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  implica una diversidad social, cultural y lingüística
 								-  presenta un incremento en las categorías de migrantes (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
 								-  influenciada por Internet: nuevos medios y tecnologías de la comunicación)
+								-  El ejemplo del texto escrito en dos escrituras de chino diferentes encontradas en diferentes partes de ter
      -  emerges from globalization and migration
      -  social, cultural and linguistic diversity
      -  increase in the categories of migrants (nationality, ethnicity, language, religion, motives, patterns, itineraries of migration, etc.)
