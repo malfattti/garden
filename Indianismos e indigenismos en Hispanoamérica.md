@@ -65,7 +65,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Indianismo (s. XIX): 
 			- presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. 
 			- Condición constante en las producciones literarias idealistas. Idealización y distancia.
-			-  Géneros: poesía, teatro tb hay. 
+			-  Géneros: novelas, poesía, teatro tb hay
 		- Indigenismo:
 			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
 		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
