@@ -72,6 +72,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- a nivel metodológico esto implica:
 									- la necesidad de investigar el contexto en vez de asumirlo
 									- la necesidad de analizar la organización interna de los datos semióticos
+									- el abandono de los modelos estructuralistas
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
