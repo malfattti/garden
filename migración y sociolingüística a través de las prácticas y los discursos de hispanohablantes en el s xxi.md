@@ -57,8 +57,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- de "comunidades de habla" a "comunidades de práctica", "instituciones" y "redes": más flexibilidad en los sitios y vínculos en los que las representaciones de un grupo emergen y circulan
 								- la comunicación:
 									- del privilegio de la estructura del lenguaje al de las prácticas comunicativas
-								- la lingüística es una semiótica entre muchas
-								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
+									- la estructura lingüística es una semiótica entre muchas
+									- foco en la indexicalidad: el significado connotativo de los signos
+									- 
+							
+							
+							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
 							- Agenda de la investigación sobre la superdiversidad y lenguaje que combina la lingüística y la etnografía
 								- esta combinación ofrece una visión excepcionalmente poderosa y diferenciada sobre actividad e ideología
