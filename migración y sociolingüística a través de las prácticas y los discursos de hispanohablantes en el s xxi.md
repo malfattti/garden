@@ -73,13 +73,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- la necesidad de investigar el contexto en vez de asumirlo
 									- la necesidad de analizar la organización interna de los datos semióticos
 									- el abandono de los modelos estructuralistas dentro de la lingüística, la introducción de una sensibilidad etnográfica
-									- 
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
 							- Agenda de la investigación sobre la superdiversidad y lenguaje que combina la lingüística y la etnografía
 								- esta combinación ofrece una visión excepcionalmente poderosa y diferenciada sobre actividad e ideología
 								- ¿Qué ofrece la lingüística etnográfica a la ciencia social en términos generales?
+									- 
 								- Prioridades para la investigación en lengua y comunicación:
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 
