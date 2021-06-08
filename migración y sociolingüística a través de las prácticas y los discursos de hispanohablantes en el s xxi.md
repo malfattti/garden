@@ -45,8 +45,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
 							- Agenda de la investigación sobre la superdiversidad y lenguaje que combina la lingüística y la etnografía
 								- esta combinación ofrece una visión excepcionalmente poderosa y diferenciada sobre actividad e ideología
-							- ¿Qué ofrece la lingüística etnográfica a la ciencia social en términos generales?
-							- Prioridades para la investigación en 
+								- ¿Qué ofrece la lingüística etnográfica a la ciencia social en términos generales?
+								- Prioridades para la investigación en lengua y comunicación:
+									- necesidad de una comparación acumulativa 
 
 From
 here, this paper moves to a research agenda on superdiversity and language that is strongly embedded in
