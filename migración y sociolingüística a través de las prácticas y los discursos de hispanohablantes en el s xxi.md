@@ -90,7 +90,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
 									- lengua como constituyente de la identidad y la cultura de origen de un migrante
 							  - pero esta visión solo funciona en el caso de un migrante ideal en un contexto homogéneo, lo que el concepto de superdiversidad viene a cuestionar
-- superdiversidad en las ciencias sociales:
+						- raíces intelectuales: superdiversidad en las ciencias sociales:
   - término acuñado por [[Steven Vertovec]]
   - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su 
     - origen
