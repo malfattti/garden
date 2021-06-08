@@ -112,21 +112,21 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
 									- se pasa de un foco en las competencias lingüísticas (establecidas en torno a un hablante ideal) dentro de un grupo homogéneo y estático a la consideración de las trayectorias individuales en relación con los diferentes contextos en que desarrollan sus prácticas comunicativas emergidas de dichas trayectorias
 									- este punto de vista da lugar a la complejidad y dinamismo
-    - Hong Kong: 
-      - diversidad, compleja historia
-      - tres lenguas oficiales (cantonés, mandarín, ingles)
-      - grupo étnico mayoritario chino (diferentes grupos étnicos dentro) y otras minorías étnicas o nacionales
-      - es imposible comprender la diversidad de orígenes y trayectorias individuales usando categorías tan amplias como chinos y no chinos
-      - incorporar el cantonés no es exigido de los inmigrantes o locales de clases altas pero sí de las bajas 
-      - tanto en los discursos de quienes defienden como combaten esa política, los grupos se representan de forma homogénea al interior y antitética con respecto al otro
-      - Blommaert: propuesta de análisis
-        - comunidades gruesas (estables, los miembros comparten características ligadas a un estado-nación) y ligeras (momentos de agrupación, los individuos solo comparten las reglas de los eventos)
-        - evento en el que dos grupos que chocan buscan el diálogo, TOGETHER es el mediadior
-        - la irrupción del grupo de Lagan y su autodenominación como "minoría étnica" lo colocaron como un grupo excluido del evento
-        - esto hizo que together y el evento en términos generales quedara deslegitimizado en su rol como mediador e inclusor de minorías
-        - al mismo tiempo emergieron grupos livianos que iban más allá de los grupos planteados en la conversación
-      - Críticas a la superdiversidad
-        - su emergencia se debe a la competitividad académica (necesidad de los investigadores de acuñar conceptos nuevos con los que diferenciarse)
-        - eurocentrismo (extrapola experiencia europea al resto del mundo)
-        - giro hacia el big data (interesante para los gobiernos y las corporaciones)
-        - su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
+								- Hong Kong: 
+								  - diversidad, compleja historia
+								  - tres lenguas oficiales (cantonés, mandarín, ingles)
+								  - grupo étnico mayoritario chino (diferentes grupos étnicos dentro) y otras minorías étnicas o nacionales
+								  - es imposible comprender la diversidad de orígenes y trayectorias individuales usando categorías tan amplias como chinos y no chinos
+								  - incorporar el cantonés no es exigido de los inmigrantes o locales de clases altas pero sí de las bajas 
+								  - tanto en los discursos de quienes defienden como combaten esa política, los grupos se representan de forma homogénea al interior y antitética con respecto al otro
+								  - Blommaert: propuesta de análisis
+									- comunidades gruesas (estables, los miembros comparten características ligadas a un estado-nación) y ligeras (momentos de agrupación, los individuos solo comparten las reglas de los eventos)
+									- evento en el que dos grupos que chocan buscan el diálogo, TOGETHER es el mediadior
+									- la irrupción del grupo de Lagan y su autodenominación como "minoría étnica" lo colocaron como un grupo excluido del evento
+									- esto hizo que together y el evento en términos generales quedara deslegitimizado en su rol como mediador e inclusor de minorías
+									- al mismo tiempo emergieron grupos livianos que iban más allá de los grupos planteados en la conversación
+								  - Críticas a la superdiversidad
+									- su emergencia se debe a la competitividad académica (necesidad de los investigadores de acuñar conceptos nuevos con los que diferenciarse)
+									- eurocentrismo (extrapola experiencia europea al resto del mundo)
+									- giro hacia el big data (interesante para los gobiernos y las corporaciones)
+									- su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
