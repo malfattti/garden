@@ -40,7 +40,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- Qué es la superdiversidad?
 								-  término que emerge de la globalización y la migración
 								-  implica una diversidad social, cultural y lingüística
-								-  
+								-  presenta un incremento en las categorías de migrantes (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
+								-  influenciada por Internet: nuevos medios y tecnologías de la comunicación)
      -  emerges from globalization and migration
      -  social, cultural and linguistic diversity
      -  increase in the categories of migrants (nationality, ethnicity, language, religion, motives, patterns, itineraries of migration, etc.)
