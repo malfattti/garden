@@ -99,9 +99,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Reescribe los yarabíes (forma quechua), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo
 			- Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. Nos describe los usos y costumbres de los quechua.
 			- Tb escribe odas. Por ejemplo, Oda a la libertad
-		- **José Heredia**: cubano que participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos 
-
-Primer poeta romántico
+		- **José Heredia**: cubano, 1803-1839
+				- participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos 
+				- Primer poeta romántico de las América
 
 Sensibilidad ante el paisaje
 
