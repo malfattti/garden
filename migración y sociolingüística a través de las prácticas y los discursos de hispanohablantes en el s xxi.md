@@ -151,4 +151,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- en 1975 España tiene 165.000 residentes extranjeros, en 2006, 4 millones
 					- proveniencia: África y Latinoamérica
 					- mano de obra poco calificada que mantiene niveles de producción y desarrollo del país
-					- 
+				- 
