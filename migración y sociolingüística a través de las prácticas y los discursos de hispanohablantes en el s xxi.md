@@ -134,4 +134,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 - Por qué Vertovec postula la superdiversidad?
 	- empieza a haber un mayor flujo migratorio de personas hacia países que desde el s. XX habían sido caracterizados por ser países de emigración y no de inmigración
 		- España:
-			- aumenta el flujo emigratorio 
+			- aumenta el flujo emigratorio a principios del s. XX ya que Francia demanda mano de obra y ofrece naturalización automática para 
