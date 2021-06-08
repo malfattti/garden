@@ -16,16 +16,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Aclaraciones en torno a la denominación y descripción del curso:
 		- Ella no quiere usar la frase “el problema del indio”. Inevitablemente hablar de esto implica una serie de malentendidos sobre los que debemos tener cuidado:
 			- Ambigüedad. El concepto deriva de la conquista
-		- “La cuestión": subterfugio? 
-		- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
+			- “La cuestión": subterfugio? 
+			- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
 		- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / visión del mundo y de la literatura.
 			- El plural acá señala los cambios de contextos, de visión del mundo, etc.
 			- Articulaciones de momentos y estéticas vinculados con un contexto de ideas/ideológico
 		- Foco en el referente mismo: indígena. Precisión. Desde la conquista se englobó en una aparente unidad poblaciones, lenguas, culturas. Se homologaron así, para configurar todo lo que no fuera occidental o español… 
-
-Conflictos y tensiones con el paso del tiempo se elaboran de forma englobante. La homologación se encuentra tb en “lo criollo”, “lo indígena”, “lo mestizo”
-
-Luego se ajustan términos 
+		- Conflictos y tensiones con el paso del tiempo se elaboran de forma englobante. La homologación se encuentra tb en “lo criollo”, “lo indígena”, “lo mestizo"
+		- Luego se ajustan términos 
 	- Mariátegui (Perú 1894-1930)
 		- Uno de los principales representantes del pensamiento socialista de América Latina
 			- Su obra “Los siete ensayos de interpretación de la realidad peruana” es considerada de referencia para la intelectualidad del continente
@@ -37,16 +35,9 @@ Luego se ajustan términos
 				- Solución: la liquidación del feudalismo en el Perú
 				- Problema indígena/del indígena
 				- Los problemas que se derivan de la estructura agraria.
-
-
-
-  
-
-
-
-  
-
-Pintura de castas: estructura la sociedad colonial de forma muy precisa. Todas las mezclas recibieron denominaciones. Lo cholo significa en ese momento simplemente mestizo con india. Pero la palabra evolucona con el tiempo y se usa cholo para señalar mestizo. Y eventualmente cholo con connotación despectiva: mestizo que adopta modops de vida de criollos
+		- Pintura de castas: 
+			- representación de la estructura la sociedad colonial de forma muy precisa.
+			- Todas las mezclas recibieron denominaciones. Lo cholo significa en ese momento simplemente mestizo con india. Pero la palabra evolucona con el tiempo y se usa cholo para señalar mestizo. Y eventualmente cholo con connotación despectiva: mestizo que adopta modops de vida de criollos
 
   
   
