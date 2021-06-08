@@ -47,9 +47,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  la gente sigue **conectada** a sus **comunidades de origen**
 								-  las **comunidades de destino** están involucradas en estas **conexiones transnacionales**
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
-								- desnaturalización de las lenguas con nombre
-									- desde ideas sobre homogeneidad, estabilidad y delimitación a ideas de movilidad, mezcla de dinámicas políticas e "incrustaciones históricas"
+								- desde ideas sobre homogeneidad, estabilidad y delimitación a ideas de movilidad, mezcla de dinámicas políticas e "incrustaciones históricas"
 									- aunque estas últimas ideas no son nuevas, las primeras ideas, que intentan desplazar, siguen en funcionamiento
+								- desnaturalización de las lenguas con nombre:
+									- las lenguas nombradas son construcciones ideológica
+								
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
