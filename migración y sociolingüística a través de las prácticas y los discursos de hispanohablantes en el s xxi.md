@@ -107,11 +107,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- los inmigrantes tienen repertorios y necesidades lingüísticas cada vez más variadas
 								- sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
 								- las prácticas comunicativas son el punto de partida desde el que identificar modelos sociales y culturales emergentes
-    - otras disciplinas parten de modelos prestablecidos
-  - la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticas comunicativas por parte de la sociolingüística:
-    - las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
-    - se pasa de un foco en las competencias lingüísticas (establecidas en torno a un hablante ideal) dentro de un grupo homogéneo y estático a la consideración de las trayectorias individuales en relación con los diferentes contextos en que desarrollan sus prácticas comunicativas emergidas de dichas trayectorias
-      - este punto de vista da lugar a la complejidad y dinamismo
+								- otras disciplinas parten de modelos prestablecidos
+								- la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticas comunicativas por parte de la sociolingüística:
+									- las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
+									- se pasa de un foco en las competencias lingüísticas (establecidas en torno a un hablante ideal) dentro de un grupo homogéneo y estático a la consideración de las trayectorias individuales en relación con los diferentes contextos en que desarrollan sus prácticas comunicativas emergidas de dichas trayectorias
+									- este punto de vista da lugar a la complejidad y dinamismo
     - Hong Kong: 
       - diversidad, compleja historia
       - tres lenguas oficiales (cantonés, mandarín, ingles)
