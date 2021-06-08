@@ -47,7 +47,131 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
 			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra
 - 02.03: Aclaraciones previas sobre la terminología
-- 
+	- Pintura de castas: ya se apoya en principios racistas: el espíritu de la época es esa clasificación que también correspondía a los deberes y derechos de los individuos 
+
+  
+
+Terminología se va cargando de aspectos 
+
+  
+
+Ferrari: el uso que tiene el concepto de indianismo
+
+  
+
+Cornejo Polar: el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
+
+  
+
+La narrativa indigenista está determinada por la herencia de Europa. La tradición europea determina el contenido de la narrativa indigenista sino tb la FORMA estética:
+
+-   Narrativa escrita en la lengua colonizante
+    
+-   Escrita en forma de novela, género no cultivado por los pueblos autóctonos americanos que preferían las formas de la canción y de la poesía, por constituir su tradición oral
+    
+-   La novela indigenista es un discurso paradigmático de la heterogeneidad latinoamericana
+    
+-   Circula en una cultura pero su referente es otra cultura 
+    
+-   Novelas indigenistas: tendencia a la inserción de explicaciones y de elementos costumbristas
+    
+-   No es una visión desde dentro
+    
+-   Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
+    
+
+  
+
+Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
+
+  
+
+Se delimitan tres fases (tres estéticas, novelísticas):
+
+-   Indianismo: presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. Condición constante en las producciones literarias idealistas. Idealización y distancia.
+    
+-   Indigenismo:
+    
+
+-   Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono. 
+    
+-   Cometa Marzoni contrasta el indigenismo con el indianismo. Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835 1889”. En las novelas indianistas los indios y sus tradiciones se presentan con simpatía. Va a estudiar un amplio corpus decimonónico-romántico y concluye que en ellas el indio aparece transformado por el espíritu europeo. O sea lleva la marca de la transformación por el espíritu europeo. el personaje del indígena es convencional y sin matices. Falseamiento de la realidad + mistificación y clara instrumentalización del indio. Termina estudiando “Aves sin nido” que señala como punto de articulación entre indianismo e indigenismo. Contiene a la vez espíritu reivindicativo y social (Mariátegui, indigenismo). Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. Su novela está empapada aún de una sentimentalidad romántica
+    
+-   Hay todo un corpus que no cabe en el indianismo. No se lo representa de forma idealizada sino como un salvaje insalvable. Zonas donde al modernizarse la nación se puso en marcha la idea de aniquilar al indígena y a marginalizar. Caso argentino.o sea que en un estudio del indianismo no va a entrar el caso argentino. “La cautiva” de Echeverría: describe al indio salvaje imposible de salvar.Argentina comenzó muy pronto el proceso de modernización así que pronto hubo que implementar las condiciones de realización de la argentina. Siendo el indio el núcleo de la barbarie no podemos idealizarlo. El romanticismo se centra en el gaucho, que se percibe como más asimilable Martín Fierro, José Hernández: es un gaucho. La primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
+    
+-     
+    
+-   Indigenismo
+    
+
+-   Neoindigenismo
+    
+-   Vargas Llosa: referencia a Sarmiento / civilización y barbarie
+    
+-   Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
+    
+-   S. XIX: literatura indianista: poesía, teatro tb hay. Los indgenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+    
+
+  
+  
+
+En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
+
+  
+
+Surgimiento - madurez - Y... crisis del orden neocolonial: terminología de Halperin Donghi. Libro recomendado, enfoque en lo económico para articular las etapas históricas
+
+  
+  
+
+POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
+
+Poesía de referencia indígena es un caso excepcional
+
+Mariano Melgar: poeta que nace en 1790 y muere en 1815. Es un único poeta que expresa lo indígena en un modo lírico. Poricionarse desde dentro. Reescribe los yarabíes (forma quechua), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo.
+
+Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. No describe los usos y costumbres de los quechua.
+
+Tb escribe odas. Por ejemplo, Oda a la libertad
+
+  
+
+José Heredia: cubano que participó en un levantamiento contra España y fue exiliado muchos años en los estados Unidos 
+
+Primer poeta romántico
+
+Sensibilidad ante el paisaje
+
+Lectura muy moderna de la historia de la conquista de méxico
+
+Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles pero entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
+
+  
+
+Mirada moderna, un poco más libre 
+
+  
+
+Además
+
+José Joaquín Olmedo (Ecuador)
+
+Andrés Bello (Venezuela)
+
+Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
+
+  
+
+Simón Bolívar: Proclama de los derechos del indio
+
+Cómo ingresar derechos propios para la masa de los indígenas. 
+
+Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
+
+  
+  
+**
 Grandes etapas de la historia siglos XIX-XX
 Antecedentes: del neoclasicismo al romanticismo en Hispanoamérica: poesía “de referente indígena”
 (1800-1825)2
