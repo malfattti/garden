@@ -86,3 +86,47 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
 						- Pérez-Milans, Miguel (2020). Lengua y superdiversidad 
 							- crítica a los conceptos introducidos al plano de la lingüística por Blommaert y otrxs
+							- El concepto de [[superdiversidad]] es controvertido y criticado pero es relevante en la sociolingüística contemporánea y cuestiona la forma estereotípica en la que se representa la migración en diferentes áreas del conocimiento y de la vida pública.
+							- no hay que subestimar estas representaciones tradicionales sino pensar en las consecuencias de nuestro entendimiento de la lengua:
+  - lengua como constituyente de la identidad y la cultura de origen de un migrante
+  - pero esta visión solo funciona en el caso de un migrante ideal en un contexto homogéneo, lo que el concepto de superdiversidad viene a cuestionar
+- superdiversidad en las ciencias sociales:
+  - término acuñado por [[Steven Vertovec]]
+  - a partir de los años ochenta empieza un proceso de divserificación de la migración en cuanto a su 
+    - origen
+    - situación legal
+    - socialización previa
+    - las nociones de origen y destino pasan a ser más laxas
+- Vertovec no dice que la superdiversidad sea nueva, pero que antes era tratada como excepcional mientras que ahora parece ser la norma
+  - la superdiversidad cuestiona la idea del estado-nación como categoría valida de referencia para anticipar el repertorio de conocimientos y experiencias previas de las personas
+    - el estado-nación es una categoría originada por la ideología del colonialismo y el nacionalismo
+  - es necesario descolonizar nuestros conocimientos y las disciplinas que los han originado en su contribución a la conceptualización de las comunidades nacionales como homogéneas y a justificar la colonización
+  - diferente concepción del sujeto
+- superdiversidad y lingüística
+  - El término es introducido por Blommaert y Rampton
+  - los inmigrantes tienen repertorios y necesidades lingüísticas cada vez más variadas
+  - sus estudios problematizan la categoría de estado-nación como lente desde el cual entender y describir las prácticas y los repertorios lingüísticos y culturales de personas y grupos
+  - las prácticas comunicativas son el punto de partida desde el que identificar modelos sociales y culturales emergentes
+    - otras disciplinas parten de modelos prestablecidos
+  - la teoría de Blommaert y Rampton se desprende del giro que se produce en las décadas finales del s. XIX en el tratamiento de las lenguas, los hablantes y las prácticas comunicativas por parte de la sociolingüística:
+    - las lenguas pasan de ser sistemas orgánicos y abstractos a constructos ideológicos impulsados por intereses
+    - se pasa de un foco en las competencias lingüísticas (establecidas en torno a un hablante ideal) dentro de un grupo homogéneo y estático a la consideración de las trayectorias individuales en relación con los diferentes contextos en que desarrollan sus prácticas comunicativas emergidas de dichas trayectorias
+      - este punto de vista da lugar a la complejidad y dinamismo
+    - Hong Kong: 
+      - diversidad, compleja historia
+      - tres lenguas oficiales (cantonés, mandarín, ingles)
+      - grupo étnico mayoritario chino (diferentes grupos étnicos dentro) y otras minorías étnicas o nacionales
+      - es imposible comprender la diversidad de orígenes y trayectorias individuales usando categorías tan amplias como chinos y no chinos
+      - incorporar el cantonés no es exigido de los inmigrantes o locales de clases altas pero sí de las bajas 
+      - tanto en los discursos de quienes defienden como combaten esa política, los grupos se representan de forma homogénea al interior y antitética con respecto al otro
+      - Blommaert: propuesta de análisis
+        - comunidades gruesas (estables, los miembros comparten características ligadas a un estado-nación) y ligeras (momentos de agrupación, los individuos solo comparten las reglas de los eventos)
+        - evento en el que dos grupos que chocan buscan el diálogo, TOGETHER es el mediadior
+        - la irrupción del grupo de Lagan y su autodenominación como "minoría étnica" lo colocaron como un grupo excluido del evento
+        - esto hizo que together y el evento en términos generales quedara deslegitimizado en su rol como mediador e inclusor de minorías
+        - al mismo tiempo emergieron grupos livianos que iban más allá de los grupos planteados en la conversación
+      - Críticas a la superdiversidad
+        - su emergencia se debe a la competitividad académica (necesidad de los investigadores de acuñar conceptos nuevos con los que diferenciarse)
+        - eurocentrismo (extrapola experiencia europea al resto del mundo)
+        - giro hacia el big data (interesante para los gobiernos y las corporaciones)
+        - su expansión deslegitima el activismo étnico de grupos marginalizados, ya que muchos de sus reclamos están basados en los esencialismos que la superdiversidad problematiza
