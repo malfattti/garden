@@ -115,7 +115,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- "Hasta un poeta contenido (=neoclásico) y sabio como él no pudo evitar el tema indianista" (Meléndez, 1970: 71). 
 				- Bello instrumentaliza la evocación del pasado indígena: así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano. 
 				- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "Conserva el modelo, pero cambia el contenido". Habrá que leer por cuenta propia, a este propósito, el breve fragmento de Troncoso Araos
-				- Manuel González Prada (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
+				- Manuel González Prada (Perú, 1844-1918) (Clorinda Mato de Turner) … algunos hablan de su poesía como indigenista
 			- Simón Bolívar: Proclama de los derechos del indio
 				- Cómo ingresar derechos propios para la masa de los indígenas. 
 				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
