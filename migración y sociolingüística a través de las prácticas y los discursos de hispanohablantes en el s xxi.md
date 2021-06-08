@@ -52,7 +52,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- desnaturalización de las lenguas con nombre:
 									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
 										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de las formas muy variables en las que los rasgos lingüísticos individuales con asociaciones culturales y sociales identificables, se agrupan cuando las personas se comunican.
-									- con la noción de lenguaje también se deconstruyen las ideas de nación, personas y comunidades de habla
+								- con la noción de lenguaje también se deconstruyen las ideas de nación, personas y comunidades de habla:
+									- se pasa de pensar en un hablante idealizado a un grupo más flexible
+									- 
 								- la lingüística es una semiótica entre muchas
 								-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
 								-  los contextos en los que las personas orientan sus interacciones  están mucho más allá del evento comunicativo en sí mismo
