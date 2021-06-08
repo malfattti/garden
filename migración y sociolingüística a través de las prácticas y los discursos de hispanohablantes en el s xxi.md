@@ -64,6 +64,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- cuesionamiento de la ide de negociación (límites)
 									- foco en la creatividad, en prácticas no estándar de mezcla de lenguajes que recurren a estilos y lenguajes que no se consideran usualmente propios del hablante
 									- reflexión metapragmática: los hablantes reflexionan sobre sus propios usos del lenguaje y los ajenos
+									- trayectorias textuales entextualización, transposición y recontextualización
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
