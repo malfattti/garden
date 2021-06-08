@@ -47,28 +47,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- esta combinación ofrece una visión excepcionalmente poderosa y diferenciada sobre actividad e ideología
 								- ¿Qué ofrece la lingüística etnográfica a la ciencia social en términos generales?
 								- Prioridades para la investigación en lengua y comunicación:
-									- necesidad de una comparación acumulativa 
+									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 
-From
-here, this paper moves to a research agenda on superdiversity and language that is strongly embedded in
-ethnography. The combination of linguistics and ethnography produces an exceptionally powerful and
-differentiated view of both activity and ideology. After a characterisation of what linguistic ethnography
-offers social science in general, this paper sketches some priorities for research on language and
-communication in particular, emphasising the need for cumulative comparison, both as an objective in
-theory and description and as a resource for practical intervention.
-				- - Superdiversity supposes a paradigm shift that sociolinguistics and linguistic anthropology are ready to study
 - This paper will:
   -  define superdiversity
-     -  from multiculturalism to superdiversity
-     -  emerges from globalization and migration
-     -  social, cultural and linguistic diversity
-     -  increase in the categories of migrants (nationality, ethnicity, language, religion, motives, patterns, itineraries of migration, etc.)
-     -  influenced by the Internet : new media and technologies of communication
-     -  Example: text written in two form of Chinese: a mixture of two different scripts found in different parts of Chinese-speaking territories:
-        -  suggests that addressee and addressed are from different origins
-        -  suggests that the producer is learning the addressee's script
-        -  suggests the change from traditional to a new diaspora which originates in the PRC
-        -  suggests that such diaspora takes place in peripheral places too
+    
     -  there are distinctive communicative processes in migration and studying them can make contributions to the debates about superdiversity
        -  people are still connected to their communities of origin
        -  host communities are involved in these transnational connections
