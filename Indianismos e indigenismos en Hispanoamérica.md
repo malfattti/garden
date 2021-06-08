@@ -81,23 +81,15 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- “La cautiva” de Echeverría: describe al indio salvaje imposible de salvar.
 		- Argentina comenzó muy pronto el proceso de modernización así que pronto hubo que implementar las condiciones de realización de la Argentina. 
 		- Siendo el indio el núcleo de la barbarie no podemos idealizarlo.
-		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández: es un gaucho. La primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
-    
--     
-    
--   Indigenismo
-    
-
--   Neoindigenismo
-    
--   Vargas Llosa: referencia a Sarmiento / civilización y barbarie
-    
--   Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
+		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández: es un gaucho. 
+		- En la primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
+		- Vargas Llosa: referencia a Sarmiento / civilización y barbarie
+ armiento: última obra hace referencia a cuestiones racistas / racismo biológico
     
 -   S. XIX: literatura indianista: poesía, teatro tb hay. Los indgenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
     
 
-  
+		- Neoindigenismo  
   
 
 En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
