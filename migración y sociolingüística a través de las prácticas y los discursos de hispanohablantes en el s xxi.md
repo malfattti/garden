@@ -61,7 +61,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- foco en la indexicalidad: el significado connotativo de los signos
 									- el significado se estudia como multi-modal (no solo lenguaje sino gestos, posturas, el entorno material, etc)
 									- la idea de contexto común entre los hablantes se reemplaza por la de conocimientos no compartidos
-									- cuesionamiento de la ide de negociació
+									- cuesionamiento de la ide de negociación (límites)
+									- foco en la creatividad
 							
 							
 							-  la desigualdad y la innovación se sitúan juntas en una dinámica de normatividad omnipresente
