@@ -42,16 +42,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  implica una diversidad social, cultural y lingüística
 								-  presenta un incremento en las categorías de migrantes (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
 								-  influenciada por Internet: nuevos medios y tecnologías de la comunicación)
-								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor est; .
-     -  emerges from globalization and migration
-     -  social, cultural and linguistic diversity
-     -  increase in the categories of migrants (nationality, ethnicity, language, religion, motives, patterns, itineraries of migration, etc.)
-     -  influenced by the Internet : new media and technologies of communication
-     -  Example: text written in two form of Chinese: a mixture of two different scripts found in different parts of Chinese-speaking territories:
-        -  suggests that addressee and addressed are from different origins
-        -  suggests that the producer is learning the addressee's script
-        -  suggests the change from traditional to a new diaspora which originates in the PRC
-        -  suggests that such diaspora takes place in peripheral places too
+								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor está aprendiendo la escritura del receptor, que hay un cambio desde una diáspora tradicional a una nueva que se original en la PRC .
+
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
 								- desnaturalización de las lenguas con nombre
 								- la lingüística es una semiótica entre muchas
