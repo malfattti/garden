@@ -18,7 +18,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Su obra “Los siete ensayos de interpretación de la realidad peruana” es considerada de referencia para la intelectualidad del continente
 			- Funda el partido socialista peruano en 1928, que luego se fusiona con el partido comunista peruano (marxismo, leninismo, partido de los trabajadores)
 			- El ensayo 2 “El problema del indio’
-			- Ensayo 7: proceso de la literatura / apartado 17: indigenismo
+			- Ensayo 7: "El proceso de la literatura": apartado 17: indigenismo
 
 El problema indígena no puede estar ausente de la literatura y el arte, estando presente en la sociedad, la economía etc
 
