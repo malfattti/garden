@@ -140,3 +140,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Con la Guerra civil Española crece la emigración
 			- 1960-1973: más migración hacia Francia, país que ofrece más facilidades en torno a reagrupación familiar que Alemania y Suiza
 				- esto se acrecienta con la crisis económica española de 1973
+			- Hasta 1978: 1.3 millones de españoles residentes en el exterior. más retorno
