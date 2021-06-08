@@ -62,10 +62,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
     - Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
     - Se delimitan tres fases (tres estéticas, novelísticas):
-		- Indianismo: presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. Condición constante en las producciones literarias idealistas. Idealización y distancia.
-	- Indigenismo:
-		- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
-	- Cometa Marzoni contrasta el indigenismo con el indianismo. 
+		- Indianismo: 
+			- presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. 
+			- Condición constante en las producciones literarias idealistas. Idealización y distancia.
+			-  S. XIX: literatura indianista: poesía, teatro tb hay. Los indgenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+		- Indigenismo:
+			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
+		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
 			- Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835 1889”. 
 			- En las novelas indianistas los indios y sus tradiciones se presentan con simpatía.
 			-  Va a estudiar un amplio corpus decimonónico-romántico y concluye que en ellas el indio aparece transformado por el espíritu europeo. 
@@ -84,9 +87,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández: es un gaucho. 
 		- En la primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
 		- Vargas Llosa: referencia a Sarmiento / civilización y barbarie
- armiento: última obra hace referencia a cuestiones racistas / racismo biológico
+		- Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
     
--   S. XIX: literatura indianista: poesía, teatro tb hay. Los indgenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+-  
     
 
 		- Neoindigenismo  
