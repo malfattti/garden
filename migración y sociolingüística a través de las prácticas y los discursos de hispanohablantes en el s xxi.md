@@ -51,7 +51,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- aunque estas últimas ideas no son nuevas, las primeras ideas, que intentan desplazar, siguen en funcionamiento
 								- desnaturalización de las lenguas con nombre:
 									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
-										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de 
+										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de las formas muy variables en las que los rasgos lingúísticos individuales con asociaciones culturales y sociales identificables, 
 								But as
 sociolinguists have long maintained, it is far more productive analytically to focus on the
 very variable ways in which individual linguistic features with identifiable social and cultural
