@@ -19,20 +19,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Funda el partido socialista peruano en 1928, que luego se fusiona con el partido comunista peruano (marxismo, leninismo, partido de los trabajadores)
 			- El ensayo 2 “El problema del indio’
 			- Ensayo 7: "El proceso de la literatura": apartado 17: indigenismo
+				- El problema indígena no puede estar ausente de la literatura y el arte, estando presente en la sociedad, la economía etc.
+				- El régimen feudal vigente en el Perú de la época es la causa del problema del indio
+				- Solución: la liquidación del feudalismo en el Perú
+				- Problema indígena/del indígena
+				- Los problemas que se derivan de la estructura agraria.
 
-El problema indígena no puede estar ausente de la literatura y el arte, estando presente en la sociedad, la economía etc
 
-El régimen feudal vigente en el perú de la época es la causa del problema del indio
-
-Solución: la liquidación del feudalismo en el Perú
-
-  
-
-Problema indígena/del indígena
-
-Los problemas que se derivan de la estructura agraria.
-
-Los problemas se derivan de este contexto
 
   
 
