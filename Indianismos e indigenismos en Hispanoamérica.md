@@ -35,7 +35,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Solución: la liquidación del feudalismo en el Perú
 				- Problema indígena/del indígena
 				- Los problemas que se derivan de la estructura agraria.
-		- Pintura de castas: 
+		- Construcciones raciales: 
 			- representación de la estructura la sociedad colonial de forma muy precisa.
 			- Todas las mezclas recibieron denominaciones. 
 			- Lo "cholo" significa en ese momento simplemente mestizo con india. 
@@ -44,11 +44,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas **Conejo Polar** acuñó el concepto de **heterogeneidad**
 			- No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
 			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
-
-  
-  
-
-Este concepto califica muchas realidad, antiguas, modernas, posmodernas, globales.
+			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
 
   
   
