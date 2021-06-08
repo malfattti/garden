@@ -62,10 +62,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
     - Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
     - Se delimitan tres fases (tres estéticas, novelísticas):
-		- Indianismo: 
+		- Indianismo (s. XIX): 
 			- presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. 
 			- Condición constante en las producciones literarias idealistas. Idealización y distancia.
-			-  S. XIX: literatura indianista: poesía, teatro tb hay. Los indgenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+			-  S. XIX: literatura indianista: poesía, teatro tb hay. Los indigenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
 		- Indigenismo:
 			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
 		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
