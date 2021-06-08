@@ -112,7 +112,206 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
 - 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
 
+  **
+
+Literatura referida al indio nace al mismo tiempo que la conquista del nuevo mucho
+
   
+
+-   Códice florentino 1579 pero se publica mucho después
+    
+-   1180 págs y 397 dibujos con la historia del pasado de los incas y  laa visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
+    
+-   Visión desde el otro lado. No así las crónicas habituales que describen
+    
+
+La brevísima (Bartolomé de las Casa):  descripción de la destrucción de las indias. Descripción de episodios de crueldad por parte de los colonizadores.crónica moderna o de sucesos. Recuerda secuestros, mutilaciones, torturas y violaciones perpetradas contra los nativos de todos los rincones de américa. 
+
+Hilo de relatos atroces / de genocidios. La obra de Bartolomé de las casas alimenta la leyenda negra de España. Se apoyan en texto que denuncia lo que está pasando.
+
+  
+
+Fray Bernardino de Sahagún:
+
+Trabajo de etnología azteca
+
+Libros que trabajan sobre la visión del otro. 
+
+Escrito de los informantes indígenas de sahagún:L cuando este fray está en México tiene contacto con algunos aztecas que viven de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
+
+Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
+
+Transcrito en el libro de león-Portilla.
+
+Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de américa, la visión del otro
+
+  
+
+Inca Garcilaso de la vega es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
+
+Hijo de una princesa inca y de un español
+
+  
+
+Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la voida primitiva al extremo. El buen salvaje roussoniano no sale de la nada sino de estos relatos
+
+  
+
+Michelle de Montaigne, que conocía las obras de algunos cronistas (guevara, López de Gómara), publica en 1580 en Burdeos la primera edición de sus ensayos. “De los caníbales”. En este ensayo compara el mundo europeo (los portugueses) y el nuevo mundo. Describe los que en el texto se llama horrores bárbaros, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
+
+A través de este texto llegamos a la formulación de la pregunta, ´quién es el bárbaro?
+
+  
+
+Naturaleza versus ciudad. La naturaleza parece ser perfecta pero cuando se cruzan intereses de los hombres, empezamos a destruir ese equilibrio.
+
+  
+
+De Montaigne entonces se deriva un modelo de américa in genua y con una Edad dorada
+
+  
+
+Montaigne a Shakespeare: Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne
+
+  
+
+Concha Meléndez (1934) señala que no se encuentran directamente influencias directas de Montaigne en literatura indianista americana. 
+
+Más bien recupera otros textos de los que se nutre esa literatura. O sea que es posible que su influencia se haya diluido 
+
+  
+
+En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los textos del s. XVI y XVII
+
+O sea, a mediados del s. XVIII estamos con un corpus francés que celebra ese primitivismo de signo positivo
+
+Voltaire va a ser un escritor que recupera personajes indios tanto en tragedia Alcire, Cándido y L’ingenu (mediados de 1700)
+
+  
+
+Al lado de Voltaire se destaca Rousseau que aporta a la teoría del buen salvaje. En su obra Discurso del origen.. 1755, desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. Libros leídos por una  minoría. En s. XIX se traduce al español
+
+  
+
+Actitud del hombre compenetrado con la naturaleza
+
+  
+
+A Rousseau se le atribuye la originalidad de los planteamientos que acompañan la celebración de la vida primitiva. Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. Para esto se remonta al hombre en su estado natural. Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
+
+  
+
+Resurgimiento romántico a mediados de s. XVII hasta finales del XIX
+
+  
+
+Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. The conquest of Granada (mucha lit inglesa se interesa por los paisajes del sur de españa)
+
+  
+
+Al-manzur (el victorioso). Hombre de estado de al Andaluz. O sea, ya siglo XVII
+
+  
+
+El salvaje artificial recupera esta cita de Dryden
+
+  
+
+Todo se remonta a asos textos iniciales, en particular Las Casas
+
+-   Comentarios reales del Inca garcilaso
+    
+
+\>> Marmontel, un discípulo de Voltaire publica les inca ou la destrucción del imper de peru
+
+  
+
+Novela que copia casi literalmente los comentarios reales del Inca garcilaso. Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso en sus comentarios reales. Siempre conocemos y es casi un automatismo pensar las influencias desde europa a américa. Pero es importante saber que es un ida y vuelta.
+
+  
+
+Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
+
+  
+
+Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
+
+  
+
+Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español.
+
+Es traducida al castellano en 1822. 
+
+  
+
+Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca garcilaso y de las casas vuelven a tener influencia en américa.
+
+Recepción de garcilaso filtrada / prestigiada a través de marmontel. Si le ha interesado a él entonces es interesante. Como Europa y américa no pueden desvincularse, vemos que hay un prestigio de lo que son productos locales, pero como eran coloniales tampoco se podían tener como fuentes después de las independencias. Lo francés versus lo globalmente antiespanolista
+
+  
+
+La recepción se facilita tb a que se simplifica y se novela unos relatos que son cronicas que deleitan menos que una novela
+
+  
+  
+
+De Graffigny: relato de a través de una serie de cartas de una virgen del sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
+
+  
+
+Indianismo francés exótico. Todas estas historias pasan en un lugar alejando y beben fuentes que se prestan para desarrollar el indianismo literario
+
+\\\\crítica a la educación espa\`nola que podría haber sido si no hubiera caído en las manos de la flia francesa
+
+  
+  
+
+Paul et Virginie: Bernardin de Saint Pierre. Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la isla mauricio, paisaje tropical fácilmente pasa por el paisaje americano
+
+  
+
+María de Jorge Isaacs: colombia, 1867, recibe Paul et Virginie haciendo que los personajes lean pasajes de la novela
+
+  
+
+Chateaubriand 
+
+Novela que exalta la naturaleza 
+
+  
+
+Los estudiosos de esta novela subrayaron la filiación adánica de su protagonista indígena, arquetipo de la inocencia primigenia de la humanidad
+
+La primera edición sale  en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido
+
+  
+
+Atala : por qué tiene tanta resonancia? Es una novela lírica y su imaginario lo encontramos en algunas novelas indianistas como Cumandá
+
+Un episodio se titula los naches. Episodio integrado en otro libro de Chateaubriand que es El genio del cristianismo.. En la novela nos encontramos en los estados unidos a finales del s. XVII y asistimos a cómo el indio de la tribu naches va a ser apresado por una tribu enemiga en Louisiana. Atrapado por una tribu enemiga y salvado por una joven india ya secretamente cristianizada. Fondo bueno de su cristianización
+
+Atala se suicida ante amor impossible y el padre lo ayuda a enterrarlo a la manera cristiana
+
+  
+
+James Cooper: El último de los mohicanos , 1826. Revisitar novela indianista de cara a la estadounidense (UN TRABAJO QUE NO SE HA HECHO MUCHO!)
+
+  
+
+Autor estadounidense muy leído en hispanoamérica.
+
+Sarmiento lo elogia en Facundo, vemos cómo Cooper le sirve de estímulo para el desarrollo de su tema fundamental de civilización y barbarie. Sarmiento celebra que se haya movido el foco desde la esclavitud en esatdos Unidos a la guerra por la lucha del territorio entre indios y europeos
+
+  
+
+No es solo una inspiración mecánica sino procedimientos de refuncionalización de motivos, temas
+
+  
+
+Modelo es una palabra un poco cargada por una jerarquía.
+
+  
+**
   
 **
 Grandes etapas de la historia siglos XIX-XX
