@@ -314,3 +314,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Tradición alemana:
 			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
 				- comunidad homogénea, misma cultura y lengua
+				- definici
