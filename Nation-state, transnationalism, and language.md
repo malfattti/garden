@@ -1,4 +1,4 @@
 - artículo de Joseph Sung-Yul Park and Lionel Wee en Canaragajah, Sureh (2017). The Routledge Handbook of Migration and Language. Routledge: London
 - **Introduction**
-	- This paper focuses on the relationship between transnationalism in globalization and the concept of the nation-state.
-	- Are the former undermining the latter? Or do 
+	- This paper focuses on the relationship between transnationalism in globalization and the concept of the nation-state withing language and migration studies.
+	- Are the former undermining the latter? Or do the essentialist ties between language and national identities continue to b e
