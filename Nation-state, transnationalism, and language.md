@@ -37,4 +37,4 @@
 		- multiple ideologies of language
 
 	- Transidiomaticity (Jacquemet): recombination, mix or hybridization of linguistic resources
-	- intersection between moving people and moving texts
+	- intersection between moving people and moving texts through new technologies
