@@ -27,3 +27,4 @@
 			- multiple belongings and flexible sense of moorings
 			- a shared identity among people may be no longer be strongly attached to a physical territory 
 			- while the state is still important as an institutional arrangement, it may no longer be as important to determine someone's identity
+			- 'flexible citizenship': 
