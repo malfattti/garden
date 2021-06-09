@@ -36,5 +36,7 @@
 	- the opposing views regarding language and nation state in the context of transnationalism show the complexity between these terms
 		- multiple ideologies of language
 
-	- Transidiomaticity (Jacquemet): recombination, mix or hybridization of linguistic resources
-	- intersection between moving people and moving texts through new technologies
+	- Transidiomaticity (Jacquemet): 
+		- recombination, mix or hybridization of linguistic resources
+		- intersection between moving people and moving texts through new technologies
+		- use of newly acquired
