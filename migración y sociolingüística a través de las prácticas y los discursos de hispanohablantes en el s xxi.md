@@ -316,4 +316,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- comunidad homogénea, misma cultura y lengua
 				- definición étnica de la nación (jus sanguis)
 				- la nación es condición para la fundación del Estado
-		- 
+		- Tradición francesa:
+			- la cons
