@@ -327,4 +327,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			-  este federalismo es la base de lo a veces se identifica como **Willesnation** (nación basada en la voluntad), o a lo que se refiere el preámbulo de la constitución suiza cuando habla de 'diversidad en la unidad'
 				-  Buscando renovar **la Federación** para fortalecer la libertad y la democracia, la independencia y la paz, en la solidaridad y la apertura hacia el mundo, **dispuestos a vivir su diversidad en la unidad, en la consideración y el respeto mutuos**[...] (Preámbulo de la Constitución de la Federación, de 18 de abril de 1999)
 		- ¿Qué nos muestran estas ideas distintas sobre las que nace el concepto de Estado-nación?
-			- 
+			- el vínculo entre territorio, etnicidad y lengua que sirve como base a la idea de Estado-nación es un constructo social
+			- la naturalización de ese vínculo constribuye a la construcción de una comunidad imaginada
