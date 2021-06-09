@@ -62,3 +62,4 @@
 		- if left unchecked these can lead to discrimination, segregation, etc
 		- therefore language policy decisions need to interfere in this process so that national unity can be maintained while at the same time respecting diversity
 				- essentialist language ideologies need to scrutinized because they can become the basis for intolerance
+				- for example, in language tests as the w
