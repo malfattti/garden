@@ -61,3 +61,4 @@
 		- migration leads to liguistic diversity and thus to different valuations of the codes and varieties
 		- if left unchecked these can lead to discrimination, segregation, etc
 		- therefore language policy decisions need to interfere in this process so that national unity can be maintained while at the same time respecting diversity
+				- essentialist language ideologies need to scrutinized because they can become the basis for intolerance
