@@ -42,4 +42,5 @@
 		- use of newly acquired techno-linguistic skills
 		- in doing so people increase their social worth (power)
 	- However, individuals are still physically located somewhere
-		- 
+		- this mitigates claims about dererritorializatio
+		- it also means there will always b
