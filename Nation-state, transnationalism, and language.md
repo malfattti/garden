@@ -43,7 +43,7 @@
 		- in doing so people increase their social worth (power)
 	- However, individuals are still physically located somewhere
 		- this mitigates claims about deterritorialization
-			- this process has been met with tendencies towards hegemonization and centering of language and linguistic practices
+		- 	this process has been met with tendencies towards hegemonization and centering of language and linguistic practices
 				- emphasis on purity and ownership
 		- it also means there will always be localized constraints that they need to negotiate
 		- any discussion about power needs to be qualified
