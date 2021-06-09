@@ -79,3 +79,4 @@
 		- employees from particular nation states as seen as having appropriate language skills for the workplace, while others are pressured to conform to this ideal
 		- cultural difference is treated as ahistorical and essential
 		- the conditions of the new economy are always ideologically mediated
+		- citizenship is a category that involves gradations of esteem depending on the different 
