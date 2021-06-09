@@ -11,4 +11,4 @@
 		- Language played an important role in the creation of nation-states 
 			- the group of citizens inhabiting the boundaries of a state were supposed to speak a single language
 			- language was carrier of the culture
-			- However, the relationship 
+			- However, the relationship between territory, ethnicity and language was often id
