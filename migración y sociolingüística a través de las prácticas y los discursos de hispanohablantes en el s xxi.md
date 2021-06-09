@@ -310,3 +310,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- la lengua desempeña un rol importante en el establecimiento de los estados-nación:
 		- se supone que la única población éntica y cultural habla una sola lengua --> lengua nacional
 		- esta lengua es la portadora de la cultura étnica/nacional + base para el gobierno unificado del Estado
+	-
