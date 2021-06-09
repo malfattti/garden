@@ -341,4 +341,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- un **transmigrante** es aquel que mantiene relaciones de diferente tipo (familiar, económica, organizacional, política) que sobrepasan fronteras
 		- estas relaciones transfronterizas no son solo físicas sino virtuales 
 		- el cocnepto de transnacionalismo implica una desestabilización del concepto de Estado-nación:
-			- problematiza vínculos esencialistas entre territorio, lengua e identidad nacional (bass)
+			- problematiza vínculos esencialistas entre territorio, lengua e identidad nacional (bases de ideología del Estado-nación)
