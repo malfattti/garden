@@ -70,4 +70,7 @@
 		- younger generations are able to construct hybrid identities which allows them to be mobile without abandoning their affiliation to their heritage language and ethnic community
 		- thus transnationalism offers both challenges and advantages for heritage language education:
 			- problematizes the idea of heritage in relationship with the nation state
-			- offers 
+			- offers diasporic communities an opportunity to re-articulate their social position
+
+	- **Language in the new economy**
+		- 
