@@ -343,6 +343,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- rapidez y abaratamiento de los medios de transporte
 			- rapidez y ubicuidad de los medios de comunicación
 		- un **transmigrante** es aquel que mantiene relaciones de diferente tipo (familiar, económica, organizacional, política) que sobrepasan fronteras
-		- estas relaciones transfronterizas no son solo físicas sino virtuales 
-		- el cocnepto de transnacionalismo implica una desestabilización del concepto de Estado-nación:
+			- se mueve entre distintos estados-nación
+			- estas relaciones transfronterizas no son solo físicas sino virtuales 
+		- el concepto de transnacionalismo implica una desestabilización del concepto de Estado-nación:
 			- problematiza vínculos esencialistas entre territorio, lengua e identidad nacional (bases de ideología del Estado-nación)
