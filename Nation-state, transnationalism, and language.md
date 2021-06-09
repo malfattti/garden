@@ -81,4 +81,5 @@
 		- the conditions of the new economy are always ideologically mediated
 		- citizenship is a category that involves gradations of esteem depending on the different subcategories of citizens
 		- higher skilled workers enjoy more rights, welfare protection and flexible choices in acquiring citizenship
-- **Future directions**
+- **Future directions:**
+	- 
