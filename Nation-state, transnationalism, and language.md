@@ -41,4 +41,5 @@
 		- intersection between moving people and moving texts through new technologies
 		- use of newly acquired techno-linguistic skills
 		- in doing so people increase their social worth (power)
+	- However, individuals are still physically located somewhere
 		- 
