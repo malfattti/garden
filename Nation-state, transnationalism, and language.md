@@ -84,4 +84,5 @@
 - **Future directions:**
 	- it is important to keep in mind that transnationalism as a label cannot account for/distinguish all the different kinds of migrants and migran trajectories.
 		-  It is important to keep these in mind to understand how nation-state ideologies affect different migrants differently
-	- 
+	- a focus on social class can be useful
+	- linguistics has been focused on the discursive construction of identity
