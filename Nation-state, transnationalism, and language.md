@@ -56,3 +56,6 @@
 			- the opposite can also happen: example of French-Canadian school struggling to maintain its commitment to heritage while also accommodating new students who find value in Parisian French and English as more "global" languages
 	- Thus, ideologies of essentialist connection between language and national identity are juxtaposed with ideologies that view this connection as flexible
 	- this contestation takes place in the context of an increased reflexivity and awareness of life elsewhere brought about by globalization 
+- **Implications of this complexity**
+	- **Language and citizenship**
+		- 
