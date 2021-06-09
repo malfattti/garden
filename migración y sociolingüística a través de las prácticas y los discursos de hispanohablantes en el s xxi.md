@@ -329,4 +329,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- ¿Qué nos muestran estas ideas distintas sobre las que nace el concepto de Estado-nación?
 			- el vínculo entre territorio, etnicidad y lengua que sirve como base a la idea de Estado-nación es un constructo social
 			- la naturalización de ese vínculo constribuye a la construcción de una comunidad imaginada
-			- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una 
+			- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una forma de entender las relaciones políticas
+			- es por esto que se habla de la ideología del estado-Nación
+			- 
