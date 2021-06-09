@@ -52,4 +52,4 @@
 		- example: Rinkeby Swedish, the variety of Swedish spoken by migrants in the Rinkeby neighborhood as judged by the native Swedish population
 			- this label applies to the Swedish spoken by a hetergoenous community of migrants
 			- both native Swedes and immigrants themselves consider this variety to be inauthentic Swedish
-			- migrants str
+			- migrants struggle to find legitimacy for their language use from the host society, which uses the nation-state as a reference point for communi
