@@ -54,4 +54,4 @@
 			- both native Swedes and immigrants themselves consider this variety to be inauthentic Swedish
 			- nation state's relevance:  migrants struggle to find legitimacy for their language use from the host society, which uses the nation-state as a reference point for community
 			- the opposite can also happen: example of French-Canadian school struggling to maintain its commitment to heritage while also accommodating new students who find value in Parisian French and English as more "global" languages
-	- Thus, ideologies of essentialist c
+	- Thus, ideologies of essentialist connection between language and national identity are juxtaposed with ideologies that view this connection as flexible
