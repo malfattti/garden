@@ -9,4 +9,6 @@
 			- citizens of the emerging sovereign states saw themselves as equal in many respects
 		- nation state -->nationalism
 		- Language played an important role in the creation of nation-states 
-			- the group of citizens inhabiting the boundaries of a state were supposed to spea
+			- the group of citizens inhabiting the boundaries of a state were supposed to speak a single language
+			- language was carrier of the culture
+			- However, the relationship 
