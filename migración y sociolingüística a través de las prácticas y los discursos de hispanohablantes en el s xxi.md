@@ -322,5 +322,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- **la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)**
 				- el pacto social crea el Estado
 				- toda hispanoamérica se guía por el modelo francés de estado-nación
-		- El caso de Suiza:
+		- El caso de Suiza, dos niveles conceptuales distintos:
 			-  hay dos niveles
