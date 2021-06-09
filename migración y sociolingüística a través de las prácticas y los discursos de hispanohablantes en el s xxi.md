@@ -331,6 +331,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el vínculo entre territorio, etnicidad y lengua que sirve como base a la idea de Estado-nación es un constructo social
 				- la naturalización de ese vínculo constribuye a la construcción de una comunidad imaginada
 				- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una forma de entender las relaciones políticas
+				- constructo que cada nación crea de acuerdo a tradiciones
+					- categoría relativamente nueva
 				- es por esto que se habla de la ideología del estado-Nación
 	- **Transnacionalismo**
 		- proceso social en el que los migrantes entablan vínculos sociales a través de fronteras geográficas, culturales, políticas
