@@ -26,3 +26,4 @@
 			- it problematizes the essentialist links between territory, language and national identity that sustain the idea of nation-state
 			- multiple belongings and flexible sense of moorings
 			- a shared identity among people may be no longer be strongly attached to a physical territory 
+			- while the state is still important as an ins
