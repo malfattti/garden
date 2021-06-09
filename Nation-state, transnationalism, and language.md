@@ -30,4 +30,5 @@
 			- 'flexible citizenship': as opposed to a more traditional sense of citizenship, a choice of citizenship is no longer influenced by a sense of loyalty or identification with the community, but by whatever is more convenient economically
 			- of course, such flexibility is only afforded to an elite (citizenship is still granted by a state)
 			- states also employ economic criteria when selecting potential new citizens
-			- states may continue to be 
+			- states may continue to be relevant, nation-states less so
+			- bc language is so central to the idea of nation-state, what is the role of language in this context?
