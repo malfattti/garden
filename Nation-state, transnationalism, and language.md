@@ -58,4 +58,4 @@
 	- this contestation takes place in the context of an increased reflexivity and awareness of life elsewhere brought about by globalization 
 - **Implications of this complexity**
 	- **Language and citizenship**
-		- 
+		- migration leads to liguistic diversity and thus to different valuations of the codes and varieties
