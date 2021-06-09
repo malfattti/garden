@@ -323,3 +323,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el pacto social crea el Estado
 				- toda hispanoamérica se guía por el modelo francés de estado-nación
 		- El caso de Suiza:
+			- 
