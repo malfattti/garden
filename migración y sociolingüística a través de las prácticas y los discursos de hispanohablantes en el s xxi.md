@@ -347,4 +347,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- estas relaciones transfronterizas no son solo físicas sino virtuales 
 		- el concepto de transnacionalismo implica una desestabilización del concepto de Estado-nación:
 			- problematiza vínculos esencialistas entre territorio, lengua e identidad nacional (bases de ideología del Estado-nación)
-		- también implica que la migración no 
+		- también implica que la migración no culmina nacesariamente en la integración o asimilación de un migrante a una nueva cultura
+			- diferentes formas de vivir e interactuar en un territorio nacional
