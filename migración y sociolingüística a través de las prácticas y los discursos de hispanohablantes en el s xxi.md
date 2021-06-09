@@ -317,4 +317,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- definición étnica de la nación (jus sanguis)
 				- la nación es condición para la fundación del Estado
 		- Tradición francesa:
-			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don 
+			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa
