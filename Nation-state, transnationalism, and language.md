@@ -7,4 +7,5 @@
 	- **Language and the nation-state**
 		- since the 18th century: people's identity and worldview has been guided by the notion of a state with jurisdiction over a particular territory and its citizens 
 			- citizens of the emerging sovereign states saw themselves as equal in many respects
-			- 
+		- nation state -->nationalism
+		- Language played an important role in the creation of nation-sta
