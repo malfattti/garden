@@ -64,3 +64,6 @@
 				- essentialist language ideologies need to scrutinized because they can become the basis for intolerance
 				- for example, in language tests as the way to obtain citizenship
 				- it is necessary to remain aware of tying the access to a community to the skill in one specific language // as well as the respect that each migrant's  background and its role in the learning of the new language needs to be respected
+
+	- **Heritage language education**
+		- 
