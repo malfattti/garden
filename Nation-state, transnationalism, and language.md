@@ -43,4 +43,5 @@
 		- in doing so people increase their social worth (power)
 	- However, individuals are still physically located somewhere
 		- this mitigates claims about dererritorializatio
-		- it also means there will always b
+		- it also means there will always be localized constraints that they need to negotiate
+		- any discussion about power needs to be qualified
