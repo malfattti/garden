@@ -313,7 +313,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- El concepto de Estado-nación se origina en la Ilustración y el Romanticismo y hay dos tradiciones:
 		- Tradición alemana:
 			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
-				- comunidad homogénea, misma cultura y lengua
+				- **comunidad homogénea**, misma cultura y lengua
 				- **definición étnica de la nación (jus sanguis)**
 				- la nación es condición para la fundación del Estado
 		- Tradición francesa:
