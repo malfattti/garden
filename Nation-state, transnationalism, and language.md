@@ -41,10 +41,10 @@
 		- intersection between moving people and moving texts through new technologies
 		- use of newly acquired techno-linguistic skills
 		- in doing so people increase their social worth (power)
-	- However, individuals are still physically located somewhere
+	- However, individuals are still physically located somewhere (as Blommaert and Maryns argue)
 		- this mitigates claims about deterritorialization
 		- 	this process has been met with tendencies towards hegemonization and centering of language and linguistic practices
 				- emphasis on purity and ownership
 		- it also means there will always be localized constraints that they need to negotiate
 		- any discussion about power needs to be qualified
-		- 
+		- assylum seekers have been deterritorialized, but their
