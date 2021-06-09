@@ -90,4 +90,4 @@
 		- migrant professionls tend to have a higer level of autonomy, and their linguist repertoire is more likely to be perceived as an index of cosmopolitanism, as opposed to their less skilled counterparts
 		- thus intersectionality and power are important  to bring into the analysis
 	- Future research must also reconceptualize language competence to account for its fragmented and truncated nature, for every individual, as competence is always mediated by the dominant language ideologies of a particular setting
-	- these i
+	- these ideas must be taken account by language policy makers
