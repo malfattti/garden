@@ -5,4 +5,4 @@
 	- it is necessary to understand the relationships between the ideologies and material conditions.
 - **Overview**
 	- **Language and the nation-state**
-		- since the 18th century: people's identity and view of the world has been shaped by 
+		- since the 18th century: people's identity and worldview has been guided by the notion of a state with juri 
