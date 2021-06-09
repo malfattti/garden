@@ -312,4 +312,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- esta lengua es la portadora de la cultura étnica/nacional + base para el gobierno unificado del Estado
 	- El concepto de Estado-nación se origina en la Ilustración y el Romanticismo y hay dos tradiciones:
 		- Tradición alemana:
-			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico d
+			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
+				- 
