@@ -73,4 +73,5 @@
 			- offers diasporic communities an opportunity to re-articulate their social position
 
 	- **Language in the new economy**
-		- context: global scale production, off-shoring and transnational companies: other ways
+		- context: global scale production, off-shoring and transnational companies: other ways in which the idea of nation state is undermined
+		- this does not mean that essentialist views on language dissappear, they air in fact
