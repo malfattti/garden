@@ -28,4 +28,5 @@
 			- a shared identity among people may be no longer be strongly attached to a physical territory 
 			- while the state is still important as an institutional arrangement, it may no longer be as important to determine someone's identity
 			- 'flexible citizenship': as opposed to a more traditional sense of citizenship, a choice of citizenship is no longer influenced by a sense of loyalty or identification with the community, but by whatever is more convenient economically
-			- of course, such flexibility is only afforded to an elite
+			- of course, such flexibility is only afforded to an elite (citizenship is still granted by a state)
+			- states also employ economic criteria when selecting potential new citizens
