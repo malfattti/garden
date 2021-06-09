@@ -88,4 +88,4 @@
 	- linguistics has been focused on the discursive construction of identity, which has left aside the material conditions in which an identity emerges, particularly in the way social classes and inequality interact in capitalism
 	- wether or not particular migrants are treated as skilled foreigners in their host society, will depend on the latter's needs and receptiveness
 	- migrant professionls tend to have a higer level of autonomy, and their linguist repertoire is more likely to be perceived as an index of cosmopolitanism, as opposed to their less skilled counterparts
-	- thus intersectionality and power are important categories to bring into the analysis
+	- thus intersectionality and power are important  to bring into the analysis
