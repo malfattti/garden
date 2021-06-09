@@ -13,3 +13,5 @@
 			- language was carrier of the culture
 			- However, the relationship between territory, ethnicity and language that function as the basis of the nation-state is a constructed and idealized one:
 				- the nation-state is presented as clearly bounded and internally homogeneous
+				- these ideologies justify and naturalize the existence of the nation-state
+				- these ideologies must be presennted as natural and timeless through erasing 
