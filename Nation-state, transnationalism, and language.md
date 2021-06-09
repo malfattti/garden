@@ -24,4 +24,5 @@
 		- the phenomenon of transnationalism implies even greater complications 
 			- because transnationalism ecompasses relationships across national borders, it is not just relevant fro migrants, but also for those who are not on the move
 			- it problematizes the essentialist links between territory, language and national identity that sustain the idea of nation-state
-			- multiple belongings and 
+			- multiple belongings and flexible sense of moorings
+			- a shared identity among people may be no longer be strongly attached to a physical territory 
