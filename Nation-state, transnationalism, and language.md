@@ -34,3 +34,4 @@
 			- bc language is so central to the idea of nation-state, what is the role of language in this context? are the ties between language and national identity being weakened or is an essentialist view of language still relevant to the shaping of identities?
 	- Issues and ongoing debates 
 	- the opposing views regarding language and nation state in the context of transnationalism show the complexity between these terms
+		- multiple ideologies of language
