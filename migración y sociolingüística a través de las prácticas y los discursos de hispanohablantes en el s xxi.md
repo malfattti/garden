@@ -351,3 +351,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- problematiza vínculos esencialistas entre territorio, lengua e identidad nacional (bases de ideología del Estado-nación)
 		- también implica que la migración no culmina nacesariamente en la integración o asimilación de un migrante a una nueva cultura
 			- diferentes formas de vivir e interactuar en un territorio nacional
+- [[Nation-state, transnationalism, and language]]
