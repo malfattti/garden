@@ -73,4 +73,4 @@
 			- offers diasporic communities an opportunity to re-articulate their social position
 
 	- **Language in the new economy**
-		- 
+		- context: global scale production, off-shoring and transnational companies: other ways
