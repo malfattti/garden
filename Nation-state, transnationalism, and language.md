@@ -2,4 +2,7 @@
 - **Introduction**
 	- This paper focuses on the relationship between transnationalism in globalization and the concept of the nation-state withing language and migration studies.
 	- Are the former undermining the latter? Or do the essentialist ties between language and national identities continue to be an important model in the context of transnationalism
-	- it is necessary to understand the relationships between the ideologies and 
+	- it is necessary to understand the relationships between the ideologies and material conditions.
+- **Overview**
+	- **Language and the nation-state**
+		- 
