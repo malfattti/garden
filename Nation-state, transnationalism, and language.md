@@ -86,4 +86,5 @@
 		-  It is important to keep these in mind to understand how nation-state ideologies affect different migrants differently
 	- a focus on social class can be useful
 	- linguistics has been focused on the discursive construction of identity, which has left aside the material conditions in which an identity emerges, particularly in the way social classes and inequality interact in capitalism
-	- wether or not particular migrants are treated as skilled foreigners in their host society, will depend on its needs a
+	- wether or not particular migrants are treated as skilled foreigners in their host society, will depend on the latter's needs and receptiveness
+	- migrant professionls tend to have a 
