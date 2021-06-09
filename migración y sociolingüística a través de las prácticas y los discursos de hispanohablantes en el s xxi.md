@@ -324,4 +324,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- toda hispanoamérica se guía por el modelo francés de estado-nación
 		- El caso de Suiza, dos niveles conceptuales distintos:
 			-  confederación definida por un pacto político que reúne naciones culturales distintas, cuyas identidades culturales y lingüísticas se ven protegidas por la identidad política-territorial de los cantonces
-			-  este federalismo es la base de lo a vece
+			-  este federalismo es la base de lo a veces se identifica como **Willesnation** (nación basada en la voluntad), o a lo que se refiere el preámbulo de la constitución suiza cuando habla de 'diversidad en la unidad'
