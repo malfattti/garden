@@ -314,10 +314,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Tradición alemana:
 			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
 				- comunidad homogénea, misma cultura y lengua
-				- definición étnica de la nación (jus sanguis)
+				- **definición étnica de la nación (jus sanguis)**
 				- la nación es condición para la fundación del Estado
 		- Tradición francesa:
 			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa:
 				- el Estado nace por voluntad del pueblo soberano que proclama la existencia de una nación
-				- la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)
+				- **la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)**
 				- el pacto social crea el Estado
