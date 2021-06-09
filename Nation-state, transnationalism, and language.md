@@ -68,4 +68,6 @@
 	- **Heritage language education**
 		- should this education be guided by nation-state ideologies and the accompanying idea of a "standard" language which is the most appropriate and convenient to learn for the migrant population?
 		- younger generations are able to construct hybrid identities which allows them to be mobile without abandoning their affiliation to their heritage language and ethnic community
-		- thus transnationalism offers both 
+		- thus transnationalism offers both challenges and advantages for heritage language education:
+			- problematizes the idea of heritage in relationship with the nation state
+			- offers 
