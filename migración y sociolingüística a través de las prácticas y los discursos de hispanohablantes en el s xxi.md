@@ -338,5 +338,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- se enmarca en la globalización
 			- rapidez y abaratamiento de los medios de transporte
 			- rapidez y ubicuidad de los medios de comunicación
-		- un transmigrante es aquel que mantiene relaciones de diferente tipo (familiar, económica, organizacional, política) que sobrepasan fronteras
+		- un **transmigrante** es aquel que mantiene relaciones de diferente tipo (familiar, económica, organizacional, política) que sobrepasan fronteras
 		- estas relaciones transfronterizas no son solo físicas sino virtuales 
+		- 
