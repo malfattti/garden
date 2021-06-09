@@ -19,4 +19,5 @@
 			- nationalism is not a stable feature, it must be maintaines
 				- promotion of a national language is one of the social mechanisms used to maintain nationalism
 
-	- **
+	- **Transnationalism and the challenges to the nation-state**
+		- 
