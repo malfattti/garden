@@ -318,4 +318,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- la nación es condición para la fundación del Estado
 		- Tradición francesa:
 			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa:
-				- el Estado 
+				- el Estado nace por voluntad del pueb
