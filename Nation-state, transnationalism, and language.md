@@ -31,4 +31,5 @@
 			- of course, such flexibility is only afforded to an elite (citizenship is still granted by a state)
 			- states also employ economic criteria when selecting potential new citizens
 			- states may continue to be relevant, nation-states less so
-			- bc language is so central to the idea of nation-state, what is the role of language in this context? are the ties betwee
+			- bc language is so central to the idea of nation-state, what is the role of language in this context? are the ties between language and national identity being weakened or is an essentialist view of language still relevant to the shaping of identities?
+			- 
