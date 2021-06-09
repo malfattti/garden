@@ -322,3 +322,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- **la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)**
 				- el pacto social crea el Estado
 				- toda hispanoamérica se guía por el modelo francés de estado-nación
+		- 
