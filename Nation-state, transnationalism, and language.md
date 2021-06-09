@@ -42,6 +42,8 @@
 		- use of newly acquired techno-linguistic skills
 		- in doing so people increase their social worth (power)
 	- However, individuals are still physically located somewhere
-		- this mitigates claims about dererritorializatio
+		- this mitigates claims about deterritorialization
+			- this process has been met with 
 		- it also means there will always be localized constraints that they need to negotiate
 		- any discussion about power needs to be qualified
+		- 
