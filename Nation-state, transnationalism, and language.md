@@ -74,4 +74,5 @@
 
 	- **Language in the new economy**
 		- context: global scale production, off-shoring and transnational companies: other ways in which the idea of nation state is undermined
-		- this does not mean that essentialist views on language dissappear, they air in fact
+		- this does not mean that essentialist views on language dissappear, they are in fact used by the transnational corporations to rationalize aspects of multinational/multicultural work
+		- 
