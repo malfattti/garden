@@ -333,3 +333,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una forma de entender las relaciones políticas
 				- es por esto que se habla de la ideología del estado-Nación
 	- **Transnacionalismo**
+		- proceso social en el que los migrantes entablan vínculos sociales a través de fronteras geográficas, culturales, políticas
+		- nace de estudios postc
