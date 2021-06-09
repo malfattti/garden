@@ -319,4 +319,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Tradición francesa:
 			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa:
 				- el Estado nace por voluntad del pueblo soberano que proclama la existencia de una nación
-				- la nación se define por la voluntad de personas
+				- la nación se define por la voluntad de personas que viven en un m
