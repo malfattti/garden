@@ -20,4 +20,5 @@
 				- promotion of a national language is one of the social mechanisms used to maintain nationalism
 
 	- **Transnationalism and the challenges to the nation-state**
-		- the work implied in sustaining the nation-state and nationalism becomes harder in the context of globalization, because the role of nation-states and links between nations and state
+		- the work implied in sustaining the nation-state and nationalism becomes harder in the context of globalization, because the role of nation-states and links between nations and states are problematized/diminished in the new economic dynamics, for example
+		- the phenomenon of transnationalism implies even greater complications 
