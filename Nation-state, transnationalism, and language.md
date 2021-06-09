@@ -67,4 +67,5 @@
 
 	- **Heritage language education**
 		- should this education be guided by nation-state ideologies and the accompanying idea of a "standard" language which is the most appropriate and convenient to learn for the migrant population?
-		- younger generations are able to construct hybrid identities which allows them to be mobile without
+		- younger generations are able to construct hybrid identities which allows them to be mobile without abandoning their affiliation to their heritage language and ethnic community
+		- thus transnationalism offers both 
