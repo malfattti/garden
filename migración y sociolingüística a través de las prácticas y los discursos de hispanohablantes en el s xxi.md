@@ -313,3 +313,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- El concepto de Estado-nación se origina en la Ilustración y el Romanticismo y hay dos tradiciones:
 		- Tradición alemana:
 			- la constitución del Estado se basa en una existencia de una nación
+				- 
