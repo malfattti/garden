@@ -2,7 +2,7 @@
 - Descripción del curso: En este curso se tratarán **aspectos sociolingüísticos de hispanohablantes en el siglo xxi**, atendiendo además a **fenómenos diaspóricos** de comunidades latinoamericanas. Se explorará el papel de la **migración** en las **prácticas lingüísticas** y en los **posicionamientos ideológicos e identitarios**. A partir de ejemplos concretos de comunidades hispanohablantes se mostrará de qué manera los sujetos **renegocian sus identidades** en la interacción. Asimismo, el curso introducirá de manera **crítica   conceptos actuales** en el estudio de la sociolingüística de la migración y su relación con las prácticas lingüísticas como por ejemplo **transnacionalidad**, **superdiversidad**, **escalaridad**, **prácticas heteroglósicas**, **prácticas translingües**, **nuevos hablantes**, entre otros.
 El curso está dividido en dos partes: una primera parte dedicada a cuestiones conceptuales, y una segunda parte en la que, a partir de estudios de caso, se profundizará en la naturaleza de los movimientos diaspóricos hispanoamericanos en el mundo globalizado actual. 
 
-- **Clase 1: Nuevas migraciones hispanas**
+- **Clase 1: 23.02.2021**
 	- Definiciones de migración:
 		- como hiperónimo: todos los movimientos de personas o de grupos humanos
 		- más restringidamente: movimientos de personas por razones sociales o económicas
@@ -42,34 +42,37 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								-  implica una **diversidad social, cultural y lingüística**
 								-  presenta un **incremento en las categorías de migrantes** (nacionalidad, etnicidad, religión, motivos, patrones, itinerarios de migración, etc.
 								-  influenciada por **Internet**: nuevos medios y tecnologías de la comunicación
-								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes encontradas en diferentes partes de territorios sinohablantes sugiere los diferentes orígenes de emisor y receptor, que el productor está aprendiendo la escritura del receptor, que hay un **cambio desde una diáspora tradicional a una nueva** que se original en la PRC.
+								-  El ejemplo del texto hallado en una vidriera de Antwerp, escrito en dos escrituras de chino diferentes con origen en diferentes partes de territorios sinohablantes sugiere:
+										- los diferentes orígenes de emisor y receptor
+										- que el productor está aprendiendo la escritura del receptor
+										- que hay un **cambio desde una diáspora tradicional a una nueva** que se original en la PRC.
 								-  en la migración ocurren formas distintivas de comunicación y estudiarlas puede contribuir a los debates sobre superdiversidad
 								-  la gente sigue **conectada** a sus **comunidades de origen**
 								-  las **comunidades de destino** están involucradas en estas **conexiones transnacionales**
 							- Desarrollos téoricos y metodológicos clave en el estudio del lenguaje:
 								- desde ideas sobre homogeneidad, estabilidad y delimitación a ideas de movilidad, mezcla de dinámicas políticas e "incrustaciones históricas"
 									- aunque estas últimas ideas no son nuevas, las primeras ideas, que intentan desplazar, siguen en funcionamiento
-								- desnaturalización de las lenguas con nombre:
-									- las lenguas nombradas son construcciones ideológicas que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
+								- desnaturalización de las **lenguas** con nombre:
+									- las lenguas nombradas son **construcciones ideológicas** que sirven a la idea de estado-nación, pero siguen siendo consideradas como naturales o dadas a nivel institucional e incluso en estudios sociolingüísticos que quieren cuestionarlas.
 										- las ideas tradicionales tienen su utilidad pero los análisis más interesantes emergen de las formas muy variables en las que los rasgos lingüísticos individuales con asociaciones culturales y sociales identificables, se agrupan cuando las personas se comunican.
 								- con la noción de lenguaje también se deconstruyen las ideas de nación, personas y comunidades de habla:
 									- se pasa de pensar en un hablante idealizado a un grupo más flexible
 									- de "comunidades de habla" a "comunidades de práctica", "instituciones" y "redes": más flexibilidad en los sitios y vínculos en los que las representaciones de un grupo emergen y circulan
-								- la comunicación:
-									- del privilegio de la estructura del lenguaje al de las prácticas comunicativas
+								- la **comunicación**:
+									- del privilegio de la estructura del lenguaje al de las **prácticas comunicativas**
 									- la estructura lingüística es una semiótica entre muchas
 									- foco en la indexicalidad: el significado connotativo de los signos
 									- el significado se estudia como multi-modal (no solo lenguaje sino gestos, posturas, el entorno material, etc)
-									- la idea de contexto común entre los hablantes se reemplaza por la de conocimientos no compartidos
-									- cuesionamiento de la ide de negociación (límites)
+									- la idea de contexto común entre los **hablantes** se reemplaza por la de conocimientos no compartidos
+									- cuesionamiento de la idea de negociación (límites)
 									- foco en la creatividad, en prácticas no estándar de mezcla de lenguajes que recurren a estilos y lenguajes que no se consideran usualmente propios del hablante
-									- reflexión metapragmática: los hablantes reflexionan sobre sus propios usos del lenguaje y los ajenos
+									- reflexión metapragmática: los **hablantes** reflexionan sobre sus propios usos del lenguaje y los ajenos
 									- trayectorias textuales a través de eventos:
 										- entextualización: personas y procesos involucrados en la creación de textos
 										- transposición: alteración y reevaluación de los textos en su movilidad
 										- recontextualización: su incrustación en nuevos contextos
 									- los contextos se conceptualizan como multi-estratificados y multi-escalares
-								- a nivel metodológico esto implica:
+								- a nivel **metodológico** esto implica:
 									- la necesidad de investigar el contexto en vez de asumirlo
 									- la necesidad de analizar la organización interna de los datos semióticos
 									- el abandono de los modelos estructuralistas dentro de la lingüística, la introducción de una sensibilidad etnográfica
@@ -80,7 +83,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- ¿Qué ofrece la lingüística etnográfica a la ciencia social en términos generales?
 									- una alternativa a los constructos definitivos del estructuralismo y una sugerencia de direcciones a donde ir
 									- tomar en cuenta la importancia de las ideologías
-								- Prioridades para la investigación en lengua y comunicación:
+								- Prioridades para la investigación en **lengua y comunicación**:
 									- necesidad de una comparación acumulativa, como un objetivo en la teoría y como en recurso para la intervención práctica
 										- economía sociolingüística 
 										- lenguaje y socialización de la alfabetización de individuos en la superdiversidad
@@ -205,4 +208,105 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- temporeros
 					- trabajadores por cupo y ámbitos laborales
 				- Fuera de UE y EFTA: elites por Visa
-			- 
+		- Nuevos ciudadanos y nuevos hablantes
+			- muchos inmigrantes obtienen la ciudadanía del país de acogida
+			- muchos hablantes adultos aprenden el idioma del país de acogida
+				- el concepto de hablante nativo se relativiza
+		- Causas para la superdiversidad de acuerdo a Vertovec (2007)
+			- mayor cantidad de flujos migratorios en términos absolutos
+			- mayor diversidad de flujos migratorios en lo que concierne a:
+				- nacionalidades y religiones
+				- estatus legal y posibilidades de trabajo
+		- Consecuencias o conceptos relacionados:
+			- deshomogeneización de los colectivos étnicos: no es lo mismo un inmigrante que otro a pesar de que la proveniencia sea la misma
+				- ejemplo: entre los migrantes latinoamericanxs hay personas de la elite transnacional, de la elite altamente especializada, así como trabajadorxs no calificadxs e indocumentadxs
+				- por esta razón los estudios basados solo en la etnicidad grupal que buscan entender el funcionamiento de estos colectivos es un modelo de análisis inapropiado (como el estudio de von Essen)
+			- diversificación genérica:
+				- la mujer es la protagonista de los movimientos migratorios del s. XXI
+				- esto es por los trabajos domésticos y de cuidado que han incrementado a nivel global las posibilidades de trabajo de las mujeres, emigran primero y luego se da la reagrupación familiar
+					- ejemplos: ecuatorianas y peruanas en Italia (Bonomi)
+				 distinción urbano-rural: 
+				- depende del tipo de trabajo (por ejemplo: hotelería muchas veces en regiones rurales)
+				- depende de las redes étnicas
+				- es mucho más fácil insertarse en contextos urbanos que rurales. 
+					- Hay menos control en contextos urbanos
+			- Transnacionalismo:
+				- el concepto tiene origen en los estudios postcoloniales y se refiere a las **interacciones y relaciones sociales** que **trascienden fronteras** en el **contexto de la globalización**
+					- trans: in between, tercer espacio, formas híbridas respecto de realidades, modos de vida, identidades, más usuales o hasta ahora más usuales
+				- ya no hay una migración exclusivamente de ida que culmina en la integración
+				- proceso constante cuyo fin último no es necesariamente la integración
+				- vínculos con los lugares de origen, estos no se rompen
+				- creación de redes transnacionales y construcción de nuevas identidades que no necesariamente tienen que ver con el país de acogida (--> cosmopolitanismo)
+				- el transnacionalismo se ve beneficiado por la rapidez y abaratamiento de los viajes y medios de comunicación electrónicos
+			- Globalización:	
+				- se refiere a la **intensificación de relaciones sociales e institucionales** de **forma mundial** --> se vinculan locus **espacialmente separados **con **consecuencias económicas y sociales**
+				- concepto más amplio que transnacionalismo
+					- globalización: perspectiva más macro del fenómeno
+					- transnacionalismo: pespectiva más micro 
+		- Superdiversidad según Vertovec
+			- migraciones 1990-adelante vs 1950-80:
+				- más flujos migratorios que son más diversos a nivel sociocultural
+				- se mueven y comunican en distintos canales y con estatus diversos
+				- esto ocurre al interior de un mismo grupo étnico --> fragmentación
+				- más vínculos más intensos con países de origen y otros países de migración
+				- supera cualquier nivel y tipo de complejidad que se haya dado hasta el momento
+				- interjuego dinámico de variables (origen, canal de migración, estatus legal, capital humano del migrante, esp. educación, acceso al empleo, localidad, respuestas de parte de las autoridades locales, servicios y residentes locales)
+				- muchas más categorías de migrantes, no solo en cuanto al origen, etnicidad, lengua, religión, sino tb en los motivos, patrones, itinerarios de migración, procesos de inserción, etc.
+		- Retos científicos sobre cómo uestudiar la migración actual:
+			- dejar de lado las categorías étnicas que se suponen homogéneas
+			- buscar la interseccionalidad entre varios factores para el análisis
+			- usar metodologías diferentes
+		- Nuevos patrones de desigualdad y prejuicio que surgen con la superdiversidad
+			- nuevas formas de racismo contra nuevos grupos sin tradición migrante en países de acogida
+			- enfrentamiento entre nuevos y viejos colectivos migrantes
+			- enfrentamiento entre miembros de nuevos grupos migrantes 
+		- Nuevas formas de cosmopolitanismo:
+			- individuos que no están asentados en el país de acogida
+			- **prácticas híbridas/mixtas** que** cuestionan** el empleo de modelos de contacto lingüístico encarados solo desde una **perspectiva estructuralista**
+- **Clase 2: 02.03.2021**
+	- Lengua y superdiversidad (Blommaert & Rampton 2011)
+		- Cuestionamientos que la categoría de superdiversidad implica:
+			- de la asociación indisoluble entre una lengua, una cultura, un territorio y una identidad nacional
+			- de las lenguas entendidas como sistemas homogéneos separados entre sí
+			- de etiquetas como *lengua materna* o *hablante nativo*
+				- cada vez es más difícil asumir la lengua materna o una segunda lengua de una persona basándose en su nacionalidad, país de nacimiento, mucho menos apellido o color de piel (Pérez-Milans)
+		- Tres giros importantes:
+			- un giro en cuanto a las lenguas y la comunicación:
+				- las lenguas no son sistemas abstractos independientes de las prácticas sociales y culturales
+				- las lenguas son construcciones ideológicas clave en las comunidades imaginadas
+					- la asociación entre lengua y estado no tiene por qué ser tal, ni es necesario que un estado sea monolingüe
+					- la lengua ha constituido un elemento más en la homogeneización del conepto de estado-nación (que supone una raza/etnia, una lengua)
+					- en estas comunidades los repertorios comunicativos de ciertos grupos son impuestos como el estándar de referencia
+				- La lengua no es la única manera de comunicación: comunicación multimodal
+					- uso creativo de los recursos que el hablante tiene a su disposición para alcanzar sus fines comunicativos en un contexto mucho más complejo
+			- en cuanto a lxs hablantes
+				- se cuestiona al hablante nativo como ideal
+				- en vez de este tipo de clasificaciones las investigaciones deben abordar el uso de diferentes formas lingüísticas por parte de los hablantes, que se relaciona con los grupos lingüísticos con los que entran en contacto en diferentes momentos. 
+					- como intentan optar entrar y salir de estas afiliaciones?
+					- cómo interpretan y juegan con los signos lingúísticos que indexicalizan pertenencia a un grupo
+					- cómo desarrollan trayectorias específicas de identificación con el grupo a lo largo del tiempo
+				- las identidades son poliédricas y surgen en la interacción, están situadas
+			- en cuando a prácticas y métodos
+				- Prácticas:
+					- se habla de comunidades de práctica o redes y ya no de comunidades lingüísticas / de habla (Labov)
+						- las comunidades lingüísticas / de habla se piensan como constructos homogéneos que se definen a partir del hablante nativo y de la lengua nacional
+							- constructo teórico / entidad que se supone objetiva en la que los integrantes comparten las mismas actitudes y normas
+							- la unidad social más grande en el estudio de las lenguas
+						- el centro de interés entonces deja de ser el sistema abstracto y pasa a ser la negociación y el posicionamiento de los hablantes en las interacciones
+							- partimos desde abajo para ver los rasgos salientes de la comunidad de práctica en vez de asumirlos a partir de categorías top down
+							- las comunidades de prácticas son constructos teóricos que implican posibilidades diferentes de acuerdo a contextos comunicativos (redes y prácticas). 
+							- Toman en cuenta la movilidad y flexibilidad de los hablantes
+							- se trabaja con datos macro (género, edad, clase social), pero tb con categorías más pequeñas
+							- interaccional
+	- Críticas: 
+		- eurocentrismo
+		- romanticismo
+		- esloganización: afán de posicionarse como sociolingüista y ganar proyectos: atraer dinero y reconocimientos, necesidad de estar inventando nuevos conceptos.
+- Definición de Estado-nación
+	- es el concepto que resulta de la convergencia entre:
+		- la entidad política del Estado: sistema de gobierno que ejerce soberania sobre una población y territorio determinados
+		- la entidad cultural de una nación: grupo de personas con características comunes a la etnia, costumbres, memoria histórica, etc
+	- Estado-nación: territorio soberano delimitado, ocupado y gobernado políticamente por la representación de un grupo cultural único
+	- la lengua desempeña un rol importante en el establecimiento de los estados-nación:
+		- se supone que la única población éntica y cultural habla una sola lengua --> lengua nacional
+		- esta lengua es la portadora de la cultura étnica/nacional
