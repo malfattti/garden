@@ -80,3 +80,4 @@
 		- cultural difference is treated as ahistorical and essential
 		- the conditions of the new economy are always ideologically mediated
 		- citizenship is a category that involves gradations of esteem depending on the different subcategories of citizens
+		- higher skilled workers enjoy 
