@@ -47,4 +47,4 @@
 				- emphasis on purity and ownership
 		- it also means there will always be localized constraints that they need to negotiate
 		- any discussion about power needs to be qualified
-		- assylum seekers have been deterritorialized, but their
+		- assylum seekers have been deterritorialized, but their narratives and language practices in the host societies are attemtps at reterritorializing 
