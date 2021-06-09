@@ -336,6 +336,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- es por esto que se habla de la ideología del estado-Nación
 	- **Transnacionalismo**
 		- proceso social en el que los migrantes entablan vínculos sociales a través de fronteras geográficas, culturales, políticas
+		- implica mayor movilidad de los migrantes
+			- muchos viven en varios sitios
 		- nace de estudios postcoloniales 
 		- se enmarca en la globalización
 			- rapidez y abaratamiento de los medios de transporte
