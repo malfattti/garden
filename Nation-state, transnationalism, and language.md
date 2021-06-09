@@ -76,4 +76,4 @@
 		- context: global scale production, off-shoring and transnational companies: other ways in which the idea of nation state is undermined
 		- this does not mean that essentialist views on language dissappear, they are in fact used by the transnational corporations to rationalize aspects of multinational/multicultural work
 		- although multiculturality in the workforce is seen as a resource, not all forms of difference are equally valued
-		- employees 
+		- employees from particular nation states as seen as having appropriate language skills for the workplace, while others are pressured to conform to this ideal
