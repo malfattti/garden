@@ -302,33 +302,34 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- eurocentrismo
 		- romanticismo
 		- esloganización: afán de posicionarse como sociolingüista y ganar proyectos: atraer dinero y reconocimientos, necesidad de estar inventando nuevos conceptos.
-- Definición de Estado-nación
-	- es el concepto que resulta de la convergencia entre:
-		- la entidad política del Estado: sistema de gobierno que ejerce soberania sobre una población y territorio determinados
-		- la entidad cultural de una nación: grupo de personas con características comunes a la etnia, costumbres, memoria histórica, etc
-	- Estado-nación: territorio soberano delimitado, ocupado y gobernado políticamente por la representación de un grupo cultural único
-	- la lengua desempeña un rol importante en el establecimiento de los estados-nación:
-		- se supone que la única población éntica y cultural habla una sola lengua --> lengua nacional
-		- esta lengua es la portadora de la cultura étnica/nacional + base para el gobierno unificado del Estado
-	- El concepto de Estado-nación se origina en la Ilustración y el Romanticismo y hay dos tradiciones:
-		- Tradición alemana:
-			- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
-				- **comunidad homogénea**, misma cultura y lengua
-				- **definición étnica de la nación (jus sanguis)**
-				- la nación es condición para la fundación del Estado
-		- Tradición francesa:
-			- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa:
-				- el Estado nace por voluntad del pueblo soberano que proclama la existencia de una nación
-				- **la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)**
-				- el pacto social crea el Estado
-				- toda hispanoamérica se guía por el modelo francés de estado-nación
-		- El caso de Suiza, dos niveles conceptuales distintos:
-			-  confederación definida por un pacto político que reúne naciones culturales distintas, cuyas identidades culturales y lingüísticas se ven protegidas por la identidad política-territorial de los cantonces
-			-  este federalismo es la base de lo a veces se identifica como **Willesnation** (nación basada en la voluntad), o a lo que se refiere el preámbulo de la constitución suiza cuando habla de 'diversidad en la unidad'
-				-  Buscando renovar **la Federación** para fortalecer la libertad y la democracia, la independencia y la paz, en la solidaridad y la apertura hacia el mundo, **dispuestos a vivir su diversidad en la unidad, en la consideración y el respeto mutuos**[...] (Preámbulo de la Constitución de la Federación, de 18 de abril de 1999)
-		- ¿Qué nos muestran estas ideas distintas sobre las que nace el concepto de Estado-nación?
-			- el vínculo entre territorio, etnicidad y lengua que sirve como base a la idea de Estado-nación es un constructo social
-			- la naturalización de ese vínculo constribuye a la construcción de una comunidad imaginada
-			- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una forma de entender las relaciones políticas
-			- es por esto que se habla de la ideología del estado-Nación
-			- 
+- **Estado-nación, transnacionalismo y lengua**
+	- Definición de **Estado-nación**
+		- es el concepto que resulta de la convergencia entre:
+			- la entidad política del Estado: sistema de gobierno que ejerce soberania sobre una población y territorio determinados
+			- la entidad cultural de una nación: grupo de personas con características comunes a la etnia, costumbres, memoria histórica, etc
+		- Estado-nación: territorio soberano delimitado, ocupado y gobernado políticamente por la representación de un grupo cultural único
+		- la lengua desempeña un rol importante en el establecimiento de los estados-nación:
+			- se supone que la única población éntica y cultural habla una sola lengua --> lengua nacional
+			- esta lengua es la portadora de la cultura étnica/nacional + base para el gobierno unificado del Estado
+		- El concepto de Estado-nación se origina en la Ilustración y el Romanticismo y hay dos tradiciones:
+			- Tradición alemana:
+				- la constitución del Estado se basa en una existencia de una nación definida de acuerdo con el concepto romántico de Herder:
+					- **comunidad homogénea**, misma cultura y lengua
+					- **definición étnica de la nación (jus sanguis)**
+					- la nación es condición para la fundación del Estado
+			- Tradición francesa:
+				- la constitución del Estado nace como proyecto político basado en el pacto social, de acuerdo don las ideas jacobinas de la revolución francesa:
+					- el Estado nace por voluntad del pueblo soberano que proclama la existencia de una nación
+					- **la nación se define por la voluntad de personas que viven en un mismo territorio (jus solis)**
+					- el pacto social crea el Estado
+					- toda hispanoamérica se guía por el modelo francés de estado-nación
+			- El caso de Suiza, dos niveles conceptuales distintos:
+				-  confederación definida por un pacto político que reúne naciones culturales distintas, cuyas identidades culturales y lingüísticas se ven protegidas por la identidad política-territorial de los cantonces
+				-  este federalismo es la base de lo a veces se identifica como **Willesnation** (nación basada en la voluntad), o a lo que se refiere el preámbulo de la constitución suiza cuando habla de 'diversidad en la unidad'
+					-  Buscando renovar **la Federación** para fortalecer la libertad y la democracia, la independencia y la paz, en la solidaridad y la apertura hacia el mundo, **dispuestos a vivir su diversidad en la unidad, en la consideración y el respeto mutuos**[...] (Preámbulo de la Constitución de la Federación, de 18 de abril de 1999)
+			- ¿Qué nos muestran estas ideas distintas sobre las que nace el concepto de Estado-nación?
+				- el vínculo entre territorio, etnicidad y lengua que sirve como base a la idea de Estado-nación es un constructo social
+				- la naturalización de ese vínculo constribuye a la construcción de una comunidad imaginada
+				- el Estado-nación NO es una realidad que ha existido siempre, sino un constructo, un resultado de una forma de entender las relaciones políticas
+				- es por esto que se habla de la ideología del estado-Nación
+- 
