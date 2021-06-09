@@ -15,4 +15,5 @@
 				- the nation-state is presented as clearly bounded and internally homogeneous
 				- these ideologies justify and naturalize the existence of the nation-state
 				- these ideologies must be presennted as natural and timeless through erasing everything that doesn't fit (such as other ethnic groups, other languages)
-			- nationalism needs to downplay difference and over-emphasize the shared 
+			- nationalism needs to downplay difference and over-emphasize the shared features of its members
+			- nationalism is not a stable feature, it must be revitalized
