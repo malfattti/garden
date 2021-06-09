@@ -49,3 +49,4 @@
 		- any discussion about power needs to be qualified
 		- assylum seekers have been deterritorialized, but their narratives and language practices in the host societies are attemtps at reterritorializing
 		- nation state's relevance: migrants' use of language is judged against the hegemonic positioning of the local national language, which leads to social discrimination based on the idea that the migrant's version of language lacks legitimacy 
+		- example: Rinkeby Swedish, the variety of swedish spoken by migrants in the Rinkeby neighborhood as judged by the native Swedish population
