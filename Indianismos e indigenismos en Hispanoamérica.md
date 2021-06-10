@@ -320,8 +320,8 @@ Proyectos de nación: algunas diferencias
 		- Cambios significativos para los indígenas
 		- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
 		- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
-		- Gesto que se deriva de la situación poscolonial e intento de romper con españa
-		- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de américa. Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a españa… pero NO para liberar a los indígenas
+		- Gesto que se deriva de la situación poscolonial e intento de romper con España
+		- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de mérica. Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a españa… pero NO para liberar a los indígenas
 
   
 
