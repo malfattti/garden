@@ -249,16 +249,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Un episodio se titula Los Natchez. Episodio integrado en otro libro de Chateaubriand que es *El genio del cristianismo*
 		- En la novela nos encontramos en los Estados Unidos a finales del s. XVII y asistimos a cómo el indio de la tribu Natchez va a ser apresado por una tribu enemiga en Louisiana. Atrapado por una tribu enemiga y salvado por una joven india ya secretamente cristianizada. Fondo bueno de su cristianización
 	- Atala se suicida ante amor imposible y el padre lo ayuda a enterrarlo a la manera cristiana
-
-  
-
-James Cooper: El último de los mohicanos , 1826. Revisitar novela indianista de cara a la estadounidense (UN TRABAJO QUE NO SE HA HECHO MUCHO!)
-
-  
-
-Autor estadounidense muy leído en hispanoamérica.
-
-Sarmiento lo elogia en Facundo, vemos cómo Cooper le sirve de estímulo para el desarrollo de su tema fundamental de civilización y barbarie. Sarmiento celebra que se haya movido el foco desde la esclavitud en esatdos Unidos a la guerra por la lucha del territorio entre indios y europeos
+- **James Fenimore Cooper**, *The Last of The Mohicans* (1826)
+	- Revisitar novela indianista de cara a la estadounidense (UN TRABAJO QUE NO SE HA HECHO MUCHO!)
+	- Autor estadounidense muy leído en hispanoamérica.
+	- Sarmiento lo elogia en Facundo, vemos cómo Cooper le sirve de estímulo para el desarrollo de su tema fundamental de civilización y barbarie. Sarmiento celebra que se haya movido el foco desde la esclavitud en Estados Unidos a la guerra por la lucha del territorio entre indios y europeos
 
   
 
