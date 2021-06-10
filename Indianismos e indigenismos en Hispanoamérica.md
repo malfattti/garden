@@ -202,7 +202,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Concha Meléndez (1934) señala que **no se encuentran influencias directas de De Montaigne en literatura indianista americana. Más bien se recuperan otros textos de los que se nutre esa literatura**. O sea que es posible que su influencia se haya diluido 
 - En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los textos del s. XVI y XVII
 	- O sea, a mediados del s. XVIII estamos con un corpus francés que celebra ese primitivismo de signo positivo
-	- Voltaire va a ser un escritor que recupera personajes indios en las tragedia Alcire, Cándido y L’ingenu (mediados de 1700)
+	- Voltaire va a ser un escritor que recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingenu (mediados de 1700)
 
   
 
