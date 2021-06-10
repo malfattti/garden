@@ -287,7 +287,7 @@ Proyectos de nación: algunas diferencias
 	- Conflicto entre tradición y progreso: España
 	- Conflicto entre masas y minorías
 	- Caso del Río de la Plata: Pasado colonial pobre relativamente
-		- Y como observa Andrés Bello en una carta dirigida a un fray que tradujo Atala de Chateaubriand, 1821, dice bello que bs as era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en perú o México
+		- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
 
 Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge.en argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
 
