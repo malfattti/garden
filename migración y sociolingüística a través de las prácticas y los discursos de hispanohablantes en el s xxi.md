@@ -375,15 +375,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Los individuos que se instalan en un estado nación no necesariamente van a recorrer una trayectoria de integración o de asimilación.
 		- El punto final muchas veces no es la integración o asimilación. Diferencia entre integración y asimilación?
 			- Asimialción: dejo mi cultura y me integro totalmente en la otra. Idea de melting pot: todos se fusionan, se convierten en estadounidenses
-Integración: no hay que dejar la propia identidad cultural, esta identidad y la del país de acogida se pueden integrar
-
-Pero hay gente que directamente no interactúa con la cultura del estado nación, porque se mueven en redes transnacionales y construyen identidades nuevas pero no en base dle país de acogida
-Divergencia entre un ideal y lo que puede paar en estos países
-
-No todo migrante se convierte automáticamente en transnacional. Tampoco puede convertirse en transnacional cualquier “expat”
-Dahinden 2009 relativiza mucho el concepto de transnacionalismo y muestra que este es un continuum
-Las redes transnacionales según ella pueden ser 
-Débiles:ya nacionalizadas, con más de 15 años de residencia, cada vez menos lazos con país de origen.
+			- Integración: no hay que dejar la propia identidad cultural, esta identidad y la del país de acogida se pueden integrar
+		- Pero hay gente que directamente no interactúa con la cultura del estado nación, porque se mueven en redes transnacionales y construyen identidades nuevas pero no en base del país de acogida
+		- Divergencia entre un ideal y lo que puede pasar en estos países
+		- No todo migrante se convierte automáticamente en transnacional. Tampoco puede convertirse en transnacional cualquier “expat”
+		- Dahinden 2009 relativiza mucho el concepto de transnacionalismo y muestra que este es un continuum
+		- Las redes transnacionales según ella pueden ser 
+			- Débiles: ya nacionalizadas, con más de 15 años de residencia, cada vez menos lazos con país de origen.
 Medio: entran a suiza con permiso y tienen redes locales y transnacionales. Gente establecida pero que sigue comunicándose a nivel transnacional
 Pronunciadas: permisos anuales, no pertenecientes a Schengen , sin papeles y que no están en el mercado laboral. Tb sin papeles. Por ejemplo: personas que trabajan en la limpieza
 Alto: viven en diferentes países, móviles y con alto nivel de educación. Se mueven como quieren. Pueden elegir a dónde salen
