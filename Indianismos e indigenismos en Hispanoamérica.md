@@ -113,7 +113,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- se basa en la idea de igualdad de los ciudadanos que sustenta la Constitución, que es incompatible con el trabajo forzado y los malos tratos sufridos por los indios
 			- exige:
 				- que el trabajo de los indígenas esté mediado por un contrato
-				- 
+				- que los indígenas no puedan ser empleados contra su voluntad
+				- que en las obras
 		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
 			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
 			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
