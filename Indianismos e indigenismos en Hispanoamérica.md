@@ -173,6 +173,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
 			- Visión desde el otro lado. No así las crónicas habituales que describen
 	  - La brevísima (Bartolomé de las Casas):  
+	  -  ****(1552)
 		  - descripción de la destrucción de las Indias. 
 		  - Descripción de episodios de crueldad por parte de los colonizadores.
 		  - crónica moderna o de sucesos. 
@@ -215,10 +216,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - **Resurgimiento romántico a mediados de s. XVII hasta finales del XIX**
 	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. The conquest of Granada (mucha lit inglesa se interesa por los paisajes del sur de España)
 		- Al-manzur (el victorioso). Hombre de estado de al Andaluz. O sea, ya siglo XVII
-
-  
-
-El salvaje artificial recupera esta cita de Dryden
+		- El salvaje artificial recupera esta cita de Dryden
 
   
 
