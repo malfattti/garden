@@ -134,7 +134,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Influjo del romanticismo:
 							- en las ideas de patria y naturaleza, que organizan los dos grandes campos semánticos centrales del romanticismo en HA
 						- Presencia de lo indígena:
-							- para construir una imagen del mundo americano que contrasta con el europeo 
+							- para construir una imagen del mundo americano que contrasta con el europeo (como los ind)
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
