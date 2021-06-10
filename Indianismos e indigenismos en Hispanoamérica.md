@@ -188,15 +188,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro
 	- Inca Garcilaso de la Vega:
 		- Es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
-		- Hijo de una princesa inca y de un español
-
-  
-
-Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la voida primitiva al extremo. El buen salvaje roussoniano no sale de la nada sino de estos relatos
-
-  
-
-Michelle de Montaigne, que conocía las obras de algunos cronistas (guevara, López de Gómara), publica en 1580 en Burdeos la primera edición de sus ensayos. “De los caníbales”. En este ensayo compara el mundo europeo (los portugueses) y el nuevo mundo. Describe los que en el texto se llama horrores bárbaros, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
+		- Hijo de una Princesa Inca y de un español
+- Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la vida primitiva al extremo. 
+- El buen salvaje roussoniano no sale de la nada sino de estos relatos
+- Michelle de Montaigne, que conocía las obras de algunos cronistas (Guevara, López de Gómara), publica en 1580 en Burdeos la primera edición de sus ensayos “De los caníbales”. En este ensayo compara el mundo europeo (los portugueses) y el nuevo mundo. Describe los que en el texto se llama horrores bárbaros, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
 
 A través de este texto llegamos a la formulación de la pregunta, ´quién es el bárbaro?
 
