@@ -204,7 +204,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- O sea, a mediados del s. XVIII estamos con un corpus francés que celebra ese primitivismo de signo positivo
 	- Voltaire recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
 	- También se destaca Rousseau, que aporta a la teoría del buen salvaje. 
-		- En su obra Discurso del origen.. 1755, desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. Libros leídos por una  minoría. En s. XIX se traduce al español
+		- En su obra *Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755), desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
+		- Libros leídos por una  minoría. En s. XIX se traduce al español
 
   
 
