@@ -136,6 +136,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Presencia de lo indígena:
 							- para construir una imagen del mundo americano que contrasta con el europeo 
 							- como los independentistas, usa el referente indígena para condenar la Conquista española y exaltar la independencia 
+							- nombres de importantes figuras del pueblo indígena
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
