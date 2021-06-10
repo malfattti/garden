@@ -303,29 +303,14 @@ Proyectos de nación: algunas diferencias
 		- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
 		- Todo individuo debe reconocerse como perteneciente a una nación. 
 		- Pero la homogeneización conlleva necesariamente la exclusión.
-	- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
-
-  
-
-Proyecciones nacionales conciliadoras que llamaríamos de inclusión versus proyecciones no conciliadoras que diríamos que son de exclusión
-
-El proceso de aculturación provee esa posibilidad: la renuncia para entrar
-
-  
-
-Escritores ambiciosos del romanticismo que quieren medirse frente a las elites criollas
-
-Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
-
-Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
-
-  
-
-Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía
-
-  
-
-En conclusión, con el asentamiento del romanticismo en américa a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES. O sea: responden a...
+		- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
+	- Hay proyecciones nacionales conciliadoras que llamaríamos de inclusión versus proyecciones no conciliadoras que diríamos que son de exclusión
+	- El proceso de aculturación provee esa posibilidad: la renuncia para entrar
+	- Escritores ambiciosos del romanticismo que quieren medirse frente a las elites criollas
+	- Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
+	- Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
+	- Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía
+	- En conclusión, con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES. O sea: responden a...
 
 No es un interés puesto en el esparcimiento o deleite
 
