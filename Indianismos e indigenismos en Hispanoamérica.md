@@ -225,14 +225,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso
 	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un ida y vuelta.
 	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
-
-  
-
-Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
-
-  
-
-Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español.
+	- Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
+	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español.
 
 Es traducida al castellano en 1822. 
 
