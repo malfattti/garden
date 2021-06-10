@@ -361,4 +361,87 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- sugerencias para futuras investigaciones:
 		- necesidad de introducir la clase social en los estudios, ya las experiencias d emigración son múltiples y este lente nos permite observa resas diferencias
 		- necesidad de que los estudios reflejen que el uso del lenguaje siempre es fragmentario y truncado
-	- **Clase 3: 02.03.2021**
+- **Clase 3: 02.03.2021**
+	- Archivo Rosa Latino: los rasgos no son solamente del lenguaje sino semióticos en general
+
+Cuando grupos de afuera identifican los grupos latinxs lo hacen como si se tratara de una población homogénea cuando en verdad no lo son 
+
+No nos manifestamos solamente a partir de la lengua sino a través de una serie de elementos semióticos
+
+Transnacionalismo:
+Qué es el transnacionalismo: ver los fenómenos migratorios actuales de una manera más matizada y menos homogénea
+
+Ideología del estado-Nación: 
+
+Ideología: creación artificial, se da por naturalizada una relación directa entre un territoria y un componente humano homogéneo, unido por lazos comunitarios. Lengua: tiene un elemento simbólico fundamental en este estado que se rige por unas reglas.
+
+
+
+
+El transnacionalismo nos muestra que la idea de comunidad homogénea no funciona necesariamente así. Que es un ideal pero no tiene por qué cumplirse del todo.
+El transnacionalismo nos muestra que no todas las personas se asimilan o integran a ese territorio nacional
+
+Los individuos que se instalan en un estado nación no necesariamente van a recorrer una trayectoria de integración o de asimilación.
+El punto final muchas veces no es la integración o asimilación. Diferencia entre integración y asimilación?
+
+Asimialción: dejo mi cultura y me integro totalmente en la otra. Idea de melting pot: todos se fusionan, se convierten en estadounidenses
+Integración: no hay que dejar la propia identidad cultural, esta identidad y la del país de acogida se pueden integrar
+
+Pero hay gente que directamente no interactúa con la cultura del estado nación, porque se mueven en redes transnacionales y construyen identidades nuevas pero no en base dle país de acogida
+Divergencia entre un ideal y lo que puede paar en estos países
+
+No todo migrante se convierte automáticamente en transnacional. Tampoco puede convertirse en transnacional cualquier “expat”
+Dahinden 2009 relativiza mucho el concepto de transnacionalismo y muestra que este es un continuum
+Las redes transnacionales según ella pueden ser 
+Débiles:ya nacionalizadas, con más de 15 años de residencia, cada vez menos lazos con país de origen.
+Medio: entran a suiza con permiso y tienen redes locales y transnacionales. Gente establecida pero que sigue comunicándose a nivel transnacional
+Pronunciadas: permisos anuales, no pertenecientes a Schengen , sin papeles y que no están en el mercado laboral. Tb sin papeles. Por ejemplo: personas que trabajan en la limpieza
+Alto: viven en diferentes países, móviles y con alto nivel de educación. Se mueven como quieren. Pueden elegir a dónde salen
+
+y también quiénes son los que tienen a cada tipo de lazo
+
+Cuando más integrada está la persona menos fuertes sus redes transnacionales (?)
+
+Personas transnacionales uniculturales o posicionamiento cosmopolita
+
+Un fuerte transnacionalismo puede significar privilegio pero tb marginación
+
+Estado-nación: constructo ideológico pero tb hay que ser cauto porque si bien es un constructo, sus repercusiones son reales. El poder del estado nación todavía es muy grande. Repercusiones políticas/legales y obviamente identitarias
+
+
+Dahinden: 
+
+Translenguaje o translanguaging
+
+Es necesario ser críticos con estos conceptos y entender cómo y cuándo podemos usarlos
+
+Niños con repertorios mixtos, varias lenguas en uso en el día a día
+En toda episteme hay una postura desde la que se ven las cosas
+En el estructuralismo se ven las lenguas como estructuras estáticas. Por eso hay repertorios de diferentes funciones sintácticas: OD, Sujeto, etc
+
+Cambio de código: aproximación estructural, cómo funcionan estructuralmente estos cambios. Si no hay lenguas acotadas por qué hablaríamos de cambios de código
+Qué tipos de estructuras permiten cambiar de código
+
+Pero estas teorías no sirven para explicar aspectos sociales necesariamente
+No son teorías aplicadas a la enseñanza de lenguas
+
+Las teorías posmodernas se piensan tb como formas de abordar el aprendizaje de la lengua de los chicos que hablan más de una lengua.
+
+La teoría del code switching sirve mucho pero es solo teórica y se inserta en una visión estructuralista de la lengua
+
+Desde las teorías posmodernas se concibe al estructuralismo como una episteme que está enmarcada dentro de la ideología del estado-nación
+
+
+Hablante ideal de chomsky.
+Estas teorías posmodernas se apartan de una visión estructuralista de la lengua
+La comunicación no se entiende como lengua, pero de una forma mucho más amplia, como una práctica social. No comunicamos solo con palabras sino con gestos, miradas, ropa, etc.
+
+Repertorios fluidos y móviles.
+Los repertorios van cambiando de acuerdo a con quiénes me comunico
+
+El cambio de código está situado, uno sabe con quién puede cambiar
+
+Ahora: Cómo negociar estos diferentes repertorios
+
+
+13 de abril de 12.15 a 13.45 hay una conferencia sobre lenguaje inclusivo de Pedro Álvarez de Miranda
