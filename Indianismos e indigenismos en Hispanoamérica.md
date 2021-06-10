@@ -219,7 +219,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. *The conquest of Granada* de 1670 (mucha lit inglesa se interesa por los paisajes del sur de España)
 		- *El salvaje artificial* recupera esta cita de Dryden
 - Todo se remonta a esos textos iniciales, en particular Las Casas
-	- +Comentarios reales del Inca garcilaso
+	- +Comentarios reales del Inca Garcilaso
 - Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
 	- Novela que copia casi literalmente los *Comentarios reales* del Inca Garcilaso.
 	- Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso
@@ -239,10 +239,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- crítica a la educación españnola que podría haber sido si no hubiera caído en las manos de la flia francesa
 - **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie* (1789):
 	- Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la Isla Mauricio, paisaje tropical fácilmente pasa por el paisaje americano
-
-  
-
-María de Jorge Isaacs: colombia, 1867, recibe Paul et Virginie haciendo que los personajes lean pasajes de la novela
+	- María de Jorge Isaacs: Colombia, 1867, recibe *Paul et Virginie* haciendo que los personajes lean pasajes de la novela
 
   
 
