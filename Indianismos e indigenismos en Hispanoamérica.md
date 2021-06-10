@@ -169,9 +169,6 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
 	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
 	- Ejemplos:
-		- Códice florentino: 1579 pero se publica mucho después
-			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
-			- Visión desde el otro lado. No así las crónicas habituales que describen
 	  - La brevísima (Bartolomé de las Casas / 1474-1566):  
 		  - *Brevísima relación de la destruición de las Indias *(1552)
 		  - descripción de la destrucción de las Indias. 
@@ -182,6 +179,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - La obra de Bartolomé de las Casas alimenta la leyenda negra de España. 
 		  - Se apoyan en textos que denuncia lo que está pasando.
 	- Fray Bernardino de Sahagún (c.1500-1590)
+		- Códice florentino: 1579 pero se publica mucho después, en 1703
+			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
+			- Visión desde el otro lado. No así las crónicas habituales que describen
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
 		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
 		- Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
