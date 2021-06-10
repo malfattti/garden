@@ -145,6 +145,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 							- Uso de los elementos geográficos e históricos de los pueblos de América para darle una impronta americana a su poesía y un mínimo de originalidad. Bello se rige por modelos clásicos (esp. Virgilio)
 							- El elemento indígena más relevante y auténtico en las silvas podría ser, en "Alocución..", la narración del relato mítico que proviene de la tradición oral sobre el derrumbamiento del Tequedendama y del nuevo pueblo de los muiscas:
 								- Bello lo narra como si fuera un elemento histórico más, sin mencionar el cambio de punto de vista (las demás descripciones se ciñen a hechos históricos y descripción de la naturaleza, (poesía cientíifica")
+								- da cuenta de su cientificidad al mencionar la fuente de donde extrae el mito
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
