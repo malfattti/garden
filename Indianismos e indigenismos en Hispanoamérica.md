@@ -117,6 +117,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- que en las obras públicas no se emplee solo a indígenas, sino a todos los ciudadanos de acuerdo con sus facultades
 				- que las autoridades repartan bienes a las tropas sin que se grave más por esto a los indígenas que al resto de los ciudadanos
 				- pago justo y en forma de acuerdo con la voluntad del empleado
+				- que las autoridades se encarguen de hacerlo cumplir
+				- que los indígenas no pauen más derechos parroquiales que el resto de los ciudadanos
 				- 
 		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
 			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
