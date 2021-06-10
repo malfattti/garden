@@ -218,13 +218,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - **Resurgimiento romántico a mediados de s. XVII hasta finales del XIX**
 	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. *The conquest of Granada* de 1670 (mucha lit inglesa se interesa por los paisajes del sur de España)
 		- *El salvaje artificial* recupera esta cita de Dryden
-Todo se remonta a asos textos iniciales, en particular Las Casas
-
--   Comentarios reales del Inca garcilaso
-    
-
-\>> Marmontel, un discípulo de Voltaire publica les inca ou la destrucción del imper de peru
-
+- Todo se remonta a esos textos iniciales, en particular Las Casas
+	- +Comentarios reales del Inca garcilaso
+- Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
+Marmontel, un discípulo de Voltaire publica les inca ou la destrucción del imper de
   
 
 Novela que copia casi literalmente los comentarios reales del Inca garcilaso. Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso en sus comentarios reales. Siempre conocemos y es casi un automatismo pensar las influencias desde europa a américa. Pero es importante saber que es un ida y vuelta.
