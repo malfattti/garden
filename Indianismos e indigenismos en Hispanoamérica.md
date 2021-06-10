@@ -244,7 +244,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Primera traducción al español: Atala o Los amores de dos salvages en el desierto, París, 1801, realizada el mismo año por el fraile mexicano Fray Servando Teresa de Mier, junto con Simón Rodríguez
 	- Novela que exalta la naturaleza 
 	- Los estudiosos de esta novela subrayaron la filiación adánica de su protagonista indígena, arquetipo de la inocencia primigenia de la humanidad
-	- La primera edición sale en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido
+	- La primera edición sale en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido)
 
   
 
