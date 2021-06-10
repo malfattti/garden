@@ -353,4 +353,17 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- diferentes formas de vivir e interactuar en un territorio nacional
 - [[Nation-state, transnationalism, and language]] de Joseph Sung-Yul Park and Lionel Wee en Canaragajah, Sureh (2017). The Routledge Handbook of Migration and Language. Routledge: London
 	- intersección de los conceptos transnacionalismo, estado-nación y lengua en el contexto de la globalización
-	- presupone el transnacionalismo un debilitamiento de la concepción de estado nación y su relación con el lenguaje? o, por el contrario, 
+	- presupone el transnacionalismo un debilitamiento de la concepción de estado nación y su relación con el lenguaje? o, por el contrario, resulta la globalización en el refuerzo de dichos conceptos y relaciones?
+	- cuál es la implicación del 
+
+
+	- critical review of the relationship between transnationalism, language and nation-state, and its implications for the research on migration and language:
+		- overview of nation-state and transnationalism, and how these concepts are sites of tension in the context of globalization
+		- review of the debates on whether transnationalism destabilizes the role of the nation-state with a focus on linguistic studies that approach this issue
+		- implication of thos estudies for policy, research and pedagogy in three domains where the relationship between transnationalism, language and nation-state introduces new tensions:
+			- language and citizenship
+			- heritage language education
+			- language and the new economy
+		- suggestions for future research:
+			- need to consider the multiplicity of transnational experience with the lens of social class
+			- need to approach language taking into account that truncatedness and fragmentation are central to its use
