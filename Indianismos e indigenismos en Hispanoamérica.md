@@ -221,11 +221,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Todo se remonta a esos textos iniciales, en particular Las Casas
 	- +Comentarios reales del Inca garcilaso
 - Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
-- Novela que copia casi literalmente los comentarios reales del Inca Garcilaso. Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso en sus comentarios reales. Siempre conocemos y es casi un automatismo pensar las influencias desde europa a américa. Pero es importante saber que es un ida y vuelta.
-
-  
-
-Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
+	- Novela que copia casi literalmente los *Comentarios reales* del Inca Garcilaso.
+	- Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso
+	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un ida y vuelta.
+	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
 
   
 
