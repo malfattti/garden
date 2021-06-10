@@ -143,7 +143,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 							- Imagen de América como espacio de regeneración: no el opuesto de Europa, sino su continuador y superador
 								- naturaleza virgen + buen salvaje: estado de inocencia primigenia que da el sustrato para sobreponerse a la tragedia de la conquista y construir a partir de sus cenizas 
 							- Uso de los elementos geográficos e históricos de los pueblos de América para darle una impronta americana a su poesía y un mínimo de originalidad. Bello se rige por modelos clásicos (esp. Virgilio)
-							- El elemento indígena más relevante y auténtico en las silvas podría ser, en "Alocución..", la narración del relato mítico que proviene de la tradición oral sobre el derrumbamiento del Tequedendama y del nuevo pueblo de los muiscas
+							- El elemento indígena más relevante y auténtico en las silvas podría ser, en "Alocución..", la narración del relato mítico que proviene de la tradición oral sobre el derrumbamiento del Tequedendama y del nuevo pueblo de los muiscas:
+								- Bello lo narra como si fuera un elemento histórico más, sin mencionar el cambio de punto de vista
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
