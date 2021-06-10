@@ -226,13 +226,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un ida y vuelta.
 	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
 	- Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
-	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español.
-
-Es traducida al castellano en 1822. 
-
-  
-
-Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca garcilaso y de las casas vuelven a tener influencia en américa.
+	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español en 1822
+	- Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca Garcilaso y de las casas vuelven a tener influencia en américa.
 
 Recepción de garcilaso filtrada / prestigiada a través de marmontel. Si le ha interesado a él entonces es interesante. Como Europa y américa no pueden desvincularse, vemos que hay un prestigio de lo que son productos locales, pero como eran coloniales tampoco se podían tener como fuentes después de las independencias. Lo francés versus lo globalmente antiespanolista
 
