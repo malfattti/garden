@@ -270,11 +270,9 @@ Proyectos de nación: algunas diferencias
 - Corresponde a una serie de rasgos:
 	- La liberación de la autoridad literaria peninsular
 	- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
-	- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. Los antecedentes son externos
-    
--   Existe una literatura doméstica pero esa literatura desde la presencia colonial pasa a ser un pasado que poco a poco se va a clausurar a pesar de que la población indígena siga estando presente
-    
--   Qué es lo que señalamos cuando hablamos de nuestra tradición?
+	- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
+		- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
+	- Qué es lo que señalamos cuando hablamos de nuestra tradición?
     
 -   Romanticismo - proyectos de nación ahí donde se carece de una literatura doméstica 
     
