@@ -126,10 +126,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- la cultura es protagonista
 					- poema "Alocución a la poesía":
 						- contraposición entre nuevo y viejo mundo
-						- América: naturaleza / Europa: cultura (oposición ya presente en el Siglo de Oro)
+						- América: naturaleza / Europa: cultura 
 						- América es la posibilidad de un mundo nuevo no solo por su espacio geográfico sino por su gente
 							- América es el pueblo nuevo frente a una Europa cuyos vicios no pueden separarse de su cultura
-						- Influjo del 
+						- Influjo del siglo de 
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
