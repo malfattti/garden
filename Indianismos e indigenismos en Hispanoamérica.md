@@ -148,8 +148,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 								- da cuenta de su cientificidad al mencionar la fuente de donde extrae el mito (Humboldt)
 								- además, Bello usa el modelo europeo que recurre a la mitología (Virgilio) y cambia su contenido, reemplazándolo por lo americano. "se trata de crear una imagen poética el mundo americano"
 									- el uso de la mitología se justifica en su contribución a crear una imagen del mundo americano siguiendo el modelo europeo
-									- usualmente este mecanismo s
-			- 
+									- usualmente este mecanismo sirve para marcar diferencias, aunque en este caso particular lo indígena se configura como lo semejante
+									- la identidad varía de acuerdo con el contexto en que se construye
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
 			- En "El mitayo", denuncia –recreando la perspectiva "indígena" del hablante lírico– la injusticia de su explotación y opresión.
