@@ -202,11 +202,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Concha Meléndez (1934) señala que **no se encuentran influencias directas de De Montaigne en literatura indianista americana. Más bien se recuperan otros textos de los que se nutre esa literatura**. O sea que es posible que su influencia se haya diluido 
 - En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los textos del s. XVI y XVII
 	- O sea, a mediados del s. XVIII estamos con un corpus francés que celebra ese primitivismo de signo positivo
-	- Voltaire va a ser un escritor que recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingenu (mediados de 1700)
-
-  
-
-Al lado de Voltaire se destaca Rousseau que aporta a la teoría del buen salvaje. En su obra Discurso del origen.. 1755, desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. Libros leídos por una  minoría. En s. XIX se traduce al español
+	- Voltaire recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
+	- También se destaca Rousseau, que aporta a la teoría del buen salvaje. 
+		- En su obra Discurso del origen.. 1755, desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. Libros leídos por una  minoría. En s. XIX se traduce al español
 
   
 
