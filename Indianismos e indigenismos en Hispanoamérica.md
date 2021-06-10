@@ -342,17 +342,10 @@ Proyectos de nación: algunas diferencias
 	- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
 - El proceso de modernización comienza en Argentina muy rápido y muy pronto
 -  Indígena como núcleo de barbarie
--  Proceso de idealización (buscar designar nuestros héroes que nos representen) ocurre con el gaucho, héroe nacional
-
-  
-
-El gaucho se percibe pos la visión racista de impronta discriminatoria del sistema de castas y de europa, más como blanco. Es más asimilable a la civilización
-
-Mario Vargas Llosa sobre la situación “atrasada” del área andina: afimración que remite absurdamente a la dicotomía de civilización y barbarie
-
-  
-
-Conflicto y armonías de las razas en américa (Sarmiento 1883): tesis de racismo pseudocientífico de europa
+-  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
+	-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
+- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
+- Conflicto y armonías de las razas en américa (Sarmiento 1883): tesis de racismo pseudocientífico de europa
 
   
 
