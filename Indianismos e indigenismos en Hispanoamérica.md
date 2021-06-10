@@ -235,13 +235,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- La recepción se facilita tb a que se simplifica y se novela unos relatos que son cronicas que deleitan menos que una novela
 - **Françoise de Graffigny** (1695-1758, *Lettres d’une Péruvienne* (1747):
 	- Relato de a través de una serie de cartas de una Virgen del Sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
-
-  
-
-Indianismo francés exótico. Todas estas historias pasan en un lugar alejando y beben fuentes que se prestan para desarrollar el indianismo literario
-
-\\\\crítica a la educación espa\`nola que podría haber sido si no hubiera caído en las manos de la flia francesa
-
+	- Indianismo francés exótico. Todas estas historias pasan en un lugar alejando y beben fuentes que se prestan para desarrollar el indianismo literario
+	- crítica a la educación españnola que podría haber sido si no hubiera caído en las manos de la flia francesa
+- **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie_ (1789)
   
   
 
