@@ -130,7 +130,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- América es la posibilidad de un mundo nuevo no solo por su espacio geográfico sino por su gente
 							- América es el pueblo nuevo frente a una Europa cuyos vicios no pueden separarse de su cultura
 						- Influjo del Siglo de Oro en la oposición naturaleza/cultura
-						- 
+						- Influjo del r
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
