@@ -315,23 +315,10 @@ Proyectos de nación: algunas diferencias
 		- Es un deleite que aprovecha
 		- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
 		- no son imitación sino mejor una operatividad cultural, ideológica y política de los modelos y antecedentes, esas representaciones del buen salvaje que se aplican al contexto local
-
-  
-  
-
-Conceptos actuales : traducción cultural
-
-  
-
-Anti españolismo , rescate de la tradición indígena y optimismo sobre el futuro de américa
-
-  
-
-Cambios significativos para los indígenas
-
-  
-
-El antiespaÑolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de francia, inglaterra, estados unidos, alemania 
+	- Conceptos actuales : traducción cultural
+	- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de américa
+	- Cambios significativos para los indígenas
+	- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de francia, inglaterra, estados unidos, alemania 
 
 Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. Lo cuento en español, pero el rescate es nuestro
 
