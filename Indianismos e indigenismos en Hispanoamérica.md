@@ -11,7 +11,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Óscar Colchado (Perú), Rosa Cuchillo (1997)
 - Carlos Arcos Cabrera (Ecuador), Memorias de Andrés Chiliquinga (2013)
 
-**Estructura**:
+**Estructura y desarrollo**:
 - 23.02: Introducción general. Comentarios bibliográficos. Planificación del curso. Aclaraciones previas sobre la terminología
 	- Aclaraciones en torno a la denominación y descripción del curso:
 		- Ella no quiere usar la frase “el problema del indio”. Inevitablemente hablar de esto implica una serie de malentendidos sobre los que debemos tener cuidado:
@@ -96,43 +96,50 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- **Mariano Melgar**: poeta peruano, 1790 -1815. 
 			- Es un único poeta que expresa lo indígena en un modo lírico. 
 			- Posicionamiento desde dentro. 
-			- Reescribe los yarabíes (forma quechua: canto sentimental popular), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo
+			- Reescribe los yarabíes (forma quechua: *harawi* (canto sentimental popular), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo
 			- Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. Nos describe los usos y costumbres de los quechua.
 			- Tb escribe odas. Por ejemplo, Oda a la libertad
 		- **José María Heredia**: cubano, 1803-1839
-				- participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos / tb en México
-				- Primer poeta romántico de las Américas
-				- Sensibilidad ante el paisaje
-				- En su exilio mexicano hace una lectura muy moderna de la historia de la conquista de México
-				- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles pero entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
-				- Mirada moderna, un poco más libre 
-			- **Simón BOLÍVAR**(Venezuela, 1783-1830): 
-				- Decreto sobre los derechos del indio en 1825.
-				- Cómo ingresar derechos propios para la masa de los indígenas. 
-				- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
-			- **José Joaquín Olmedo**(Ecuador 1780-1847): 
-				- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
-				- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
-			- **Andrés Bello** (Venezuela 1781-1865): 
-				- "Hasta un poeta contenido (=neoclásico) y sabio como él no pudo evitar el tema indianista" (Meléndez, 1970: 71). 
-				- Bello instrumentaliza la evocación del pasado indígena: así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano. 
-				- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "Conserva el modelo, pero cambia el contenido". Habrá que leer por cuenta propia, a este propósito, el breve fragmento de Troncoso Araos
-			- **Manuel González Prada** (Perú, 1844-1918):
-					- algunos hablan de su poesía como indigenista
-					- En "El mitayo", denuncia –recreando la perspectiva "indígena" del hablante lírico– la injusticia de su explotación y opresión.
-	
+			- participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos / tb en México
+			- Primer poeta romántico de las Américas
+			- Sensibilidad ante el paisaje
+			- En su exilio mexicano hace una lectura muy moderna de la historia de la conquista de México en "En el teocalli de Cholula" (en 1820, y primero titulado "Fragmentos descriptivos de un poema mexicano", 1a ed. póstuma en 1832, con el título definitivo)
+			- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles sino que entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
+			- Mirada moderna, un poco más libre 
+		- **Simón BOLÍVAR**(Venezuela, 1783-1830): 
+			- Decreto sobre los derechos del indio en 1825.
+			- Cómo ingresar derechos propios para la masa de los indígenas. 
+			- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
+		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
+			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
+			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
+		- **Andrés Bello** (Venezuela 1781-1865): 
+			- "Hasta un poeta contenido (=neoclásico) y sabio como él no pudo evitar el tema indianista" (Meléndez, 1970: 71). 
+			- Bello instrumentaliza la evocación del pasado indígena: así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano. 
+			- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "Conserva el modelo, pero cambia el contenido". 
+				- Breve fragmento de Troncoso Araos:
+					- La naturaleza americana como tópico no nace con Bello pero con él se torna lo representativo: es lo único concreto a lo que aferrarse
+					- Sus *Silvas americanas* suelen ser consideradas las primeras obras americanistas porque exaltan al mundo americano como utópico y  potencialmente superador de los vicios europeos
+					- poema "La agritcultura de la zona tórrida": 
+						- naturaleza pródiga en manos civilizadoras
+						- espacio lleno de posibilidades, todo por hacer
+						- la cultura es protagonista
+					- poema "Alocución a la poesía":
+						- contraposición entre nuevo y viejo mundo
+						- América: naturaleza / Europa: cultura (oposición ya presente en el Siglo de Oro)
+						- América es la posibilidad de un mundo nuevo no solo por su espacio geográfico sino por su gente
+							- América es el pueblo nuevo frente a una Europa cuyos vicios no pueden separarse de su cultura
+
+					- Influcjo del
+			- 
+		- **Manuel González Prada** (Perú, 1844-1918):
+			- algunos hablan de su poesía como indigenista
+			- En "El mitayo", denuncia –recreando la perspectiva "indígena" del hablante lírico– la injusticia de su explotación y opresión.
 				
 - 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
-
-  **
-
-Literatura referida al indio nace al mismo tiempo que la conquista del nuevo mucho
-
-  
-
--   Códice florentino 1579 pero se publica mucho después
-    
--   1180 págs y 397 dibujos con la historia del pasado de los incas y  laa visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
+	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
+	- Códice florentino: 1579 pero se publica mucho después
+		- 1180 págs y 397 dibujos con la historia del pasado de los incas y  laa visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
     
 -   Visión desde el otro lado. No así las crónicas habituales que describen
     

@@ -18,7 +18,6 @@
 			- nationalism needs to downplay difference and over-emphasize the shared features of its members
 			- nationalism is not a stable feature, it must be maintaines
 				- promotion of a national language is one of the social mechanisms used to maintain nationalism
-
 	- **Transnationalism and the challenges to the nation-state**
 		- the work implied in sustaining the nation-state and nationalism becomes harder in the context of globalization, because the role of nation-states and links between nations and states are problematized/diminished in the new economic dynamics, for example
 		- the phenomenon of transnationalism implies even greater complications 
@@ -35,7 +34,6 @@
 - **Issues and ongoing debates** 
 	- the opposing views regarding language and nation state in the context of transnationalism show the complexity between these terms
 		- multiple ideologies of language
-
 	- Transidiomaticity (Jacquemet): 
 		- recombination, mix or hybridization of linguistic resources
 		- intersection between moving people and moving texts through new technologies
@@ -64,14 +62,12 @@
 				- essentialist language ideologies need to scrutinized because they can become the basis for intolerance
 				- for example, in language tests as the way to obtain citizenship
 				- it is necessary to remain aware of tying the access to a community to the skill in one specific language // as well as the respect that each migrant's  background and its role in the learning of the new language needs to be respected
-
 	- **Heritage language education**
 		- should this education be guided by nation-state ideologies and the accompanying idea of a "standard" language which is the most appropriate and convenient to learn for the migrant population?
 		- younger generations are able to construct hybrid identities which allows them to be mobile without abandoning their affiliation to their heritage language and ethnic community
 		- thus transnationalism offers both challenges and advantages for heritage language education:
 			- problematizes the idea of heritage in relationship with the nation state
 			- offers diasporic communities an opportunity to re-articulate their social position
-
 	- **Language in the new economy**
 		- context: global scale production, off-shoring and transnational companies: other ways in which the idea of nation state is undermined
 		- this does not mean that essentialist views on language dissappear, they are in fact used by the transnational corporations to rationalize aspects of multinational/multicultural work
@@ -92,3 +88,14 @@
 	- Future research must also reconceptualize language competence to account for its fragmented and truncated nature, for every individual, as competence is always mediated by the dominant language ideologies of a particular setting
 	- these ideas must be taken account by language policy makers
 		- this view would suggest that there is compatibility in the maintainance of the native language and the acquisition of the host society language
+- **Summary**
+	- critical review of the relationship between transnationalism, language and nation-state, and its implications for the research on migration and language:
+		- overview of nation-state and transnationalism, and how these concepts are sites of tension in the context of globalization
+		- review of the debates on whether transnationalism destabilizes the role of the nation-state with a focus on linguistic studies that approach this issue
+		- implication of thos estudies for policy, research and pedagogy in three domains where the relationship between transnationalism, language and nation-state introduces new tensions:
+			- language and citizenship
+			- heritage language education
+			- language and the new economy
+		- suggestions for future research:
+			- need to consider the multiplicity of transnational experience with the lens of social class
+			- need to approach language taking into account that truncatedness and fragmentation are central to its use
