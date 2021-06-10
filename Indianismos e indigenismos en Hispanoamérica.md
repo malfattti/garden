@@ -282,18 +282,12 @@ Proyectos de nación: algunas diferencias
 			- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
 			- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
 			- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
-			- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
-
-Alcances culturales de estas discusiones literarias fueron:
-
--   Conflicto entre tradición y progreso: España / 
-    
--   Conflicto entre masas y minorías
-    
-
-\-  Caso del río de la plata: Pasado colonial pobre relativamente 
-
-Y como observa Andrés Bello en una carta dirigida a un fray que tradujo Atala de Chateaubriand, 1821, dice bello que bs as era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en perú o México
+- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
+- Alcances culturales de estas discusiones literarias fueron:
+	- Conflicto entre tradición y progreso: España
+	- Conflicto entre masas y minorías
+	- Caso del Río de la Plata: Pasado colonial pobre relativamente
+		- Y como observa Andrés Bello en una carta dirigida a un fray que tradujo Atala de Chateaubriand, 1821, dice bello que bs as era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en perú o México
 
 Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge.en argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
 
