@@ -331,24 +331,25 @@ Proyectos de nación: algunas diferencias
 - Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así el criollo se pone a dialogar con esa tradición
 
 - **PROYECTOS DE EXCLUSIÓN**
-- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
-- Salvaje que no se puede salvar
-- El insalvable salvaje (eso no es indianismo)
-- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
-- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
-	- Progreso no implica diálogo
-- Lo encontramos en:
-	- El poema de E. Echeverria: *La cautiva* (1837)
-	- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
-- El proceso de modernización comienza en Argentina muy rápido y muy pronto
--  Indígena como núcleo de barbarie
--  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
-	-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
-- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
-- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
-- El aborigen es amansado como una llama en la vasta extensión del Perú
-- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista**
-- 
+	- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
+	- Salvaje que no se puede salvar
+	- El insalvable salvaje (eso no es indianismo)
+	- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
+	- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
+		- Progreso no implica diálogo
+	- Lo encontramos en:
+		- El poema de E. Echeverria: *La cautiva* (1837)
+		- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
+	- El proceso de modernización comienza en Argentina muy rápido y muy pronto
+	-  Indígena como núcleo de barbarie
+	-  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
+		-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
+	- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
+	- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
+	- El aborigen es amansado como una llama en la vasta extensión del Perú
+	- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
+- Entonces..
+- **Especificidad hispanoamericana: los proyectos de nación. Sería erróneo hablar de una imitación a secas. Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. No se trata de tomar lo que sea para escribir algo.**
 Literatura romántica de referente indígena en Argentina
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
