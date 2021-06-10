@@ -147,7 +147,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 								- Bello lo narra como si fuera un elemento histórico más, sin mencionar el cambio de punto de vista (las demás descripciones se ciñen a hechos históricos y descripción de la naturaleza, (poesía cientíifica")
 								- da cuenta de su cientificidad al mencionar la fuente de donde extrae el mito (Humboldt)
 								- además, Bello usa el modelo europeo que recurre a la mitología (Virgilio) y cambia su contenido, reemplazándolo por lo americano. "se trata de crear una imagen poética el mundo americano"
-									- el uso de la mitología se justifica en su contribución a crear una imagen del mundo americano 
+									- el uso de la mitología se justifica en su contribución a crear una imagen del mundo americano siguiendo el modelo europeo
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
