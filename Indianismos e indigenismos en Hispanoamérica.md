@@ -178,17 +178,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - crónica moderna o de sucesos. 
 		  - Recuerda secuestros, mutilaciones, torturas y violaciones perpetradas contra los nativos de todos los rincones de América. 
 		  - Hilo de relatos atroces / de genocidios. 
-		  - La obra de Bartolomé de las casas alimenta la leyenda negra de España. Se apoyan en texto que denuncia lo que está pasando.
-
-  
-
-Fray Bernardino de Sahagún:
-
-Trabajo de etnología azteca
-
-Libros que trabajan sobre la visión del otro. 
-
-Escrito de los informantes indígenas de sahagún:L cuando este fray está en México tiene contacto con algunos aztecas que viven de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
+		  - La obra de Bartolomé de las Casas alimenta la leyenda negra de España. 
+		  - Se apoyan en textos que denuncia lo que está pasando.
+	- Fray Bernardino de Sahagún
+		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
+		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
 
 Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
 
