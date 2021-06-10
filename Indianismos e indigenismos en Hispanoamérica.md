@@ -293,14 +293,10 @@ Proyectos de nación: algunas diferencias
 		- Los argentinos románticos fueron más europeizantes que hispanizantes. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
 	- En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
 	- El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indígena remoto
-
-En el s. XIX: balance. Hasta Aves sin nido (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
-
-En el contexto caribeño la idealización se da con las personas negras
-
-La representacióne s mediatizada, puesta al servicio de quienes perciben al indígena como otro
-
-Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude con la corriente exotista romántica de representación del buen salvaje (de Europa)
+	- En el s. XIX: balance. Hasta *Aves sin nido* (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
+	- En el contexto caribeño la idealización se da con las personas negras
+	- La representación es mediatizada, puesta al servicio de quienes perciben al indígena como otro
+	- Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude con la corriente exotista romántica de representación del buen salvaje (de Europa)
 
 Los referentes presentados en la lit romántica (paratextos: lo propio, lo nuestro, lo local), constantemente giran en torno a lo nacional
 
