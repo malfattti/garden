@@ -216,12 +216,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Para esto se remonta al hombre en su estado natural. 
 		- Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
 - **Resurgimiento romántico a mediados de s. XVII hasta finales del XIX**
-	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. The conquest of Granada de 1670 (mucha lit inglesa se interesa por los paisajes del sur de España)
-		- Al-manzur (el victorioso). Hombre de estado de Al-Andaluz. 
-		- El salvaje artificial recupera esta cita de Dryden
-
-  
-
+	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. *The conquest of Granada* de 1670 (mucha lit inglesa se interesa por los paisajes del sur de España)
+		- *El salvaje artificial* recupera esta cita de Dryden
 Todo se remonta a asos textos iniciales, en particular Las Casas
 
 -   Comentarios reales del Inca garcilaso
