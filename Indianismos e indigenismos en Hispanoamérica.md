@@ -167,15 +167,18 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- En "El mitayo", denuncia –recreando la perspectiva "indígena" del hablante lírico– la injusticia de su explotación y opresión.
 	
 - 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
-	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo: 
+	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
+	- Ejemplos:
 		- Códice florentino: 1579 pero se publica mucho después
 			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
 			- Visión desde el otro lado. No así las crónicas habituales que describen
-    
-
-La brevísima (Bartolomé de las Casas):  descripción de la destrucción de las indias. Descripción de episodios de crueldad por parte de los colonizadores.crónica moderna o de sucesos. Recuerda secuestros, mutilaciones, torturas y violaciones perpetradas contra los nativos de todos los rincones de américa. 
-
-Hilo de relatos atroces / de genocidios. La obra de Bartolomé de las casas alimenta la leyenda negra de España. Se apoyan en texto que denuncia lo que está pasando.
+	  - La brevísima (Bartolomé de las Casas):  
+		  - descripción de la destrucción de las Indias. 
+		  - Descripción de episodios de crueldad por parte de los colonizadores.
+		  - crónica moderna o de sucesos. 
+		  - Recuerda secuestros, mutilaciones, torturas y violaciones perpetradas contra los nativos de todos los rincones de América. 
+		  - Hilo de relatos atroces / de genocidios. 
+		  - La obra de Bartolomé de las casas alimenta la leyenda negra de España. Se apoyan en texto que denuncia lo que está pasando.
 
   
 
