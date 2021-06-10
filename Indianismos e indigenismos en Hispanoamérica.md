@@ -141,6 +141,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 								- lo indígena como recurso que legitima el carácter americano de los criollos: equivalencia entre pueblos originarios y colonias independizadas
 									-es decir que se hace extensiva la independiencia política conseguida por las colonias a los pueblos originarios, aunque para los indígenas la independecia no representó una liberación
 							- Imagen de América como espacio de regeneración: no el opuesto de Europa, sino su continuador y superador
+								- naturaleza virgen + buen salvaje: espíritu inocente que da el sustrato para sobreponerse a la tragedia de la conquista y construir a partir de sus cenizas 
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
