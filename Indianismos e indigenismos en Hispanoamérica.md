@@ -259,21 +259,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Recuperación de los textos de la época colonial
 - Para acotar un poco la producción hispanoamericana respecto de los antecedentes y modelos, veremos ahora lo que serán después de las independencias con los proyectos de nación: el romanticismo y sus escritos. 
 - **Proyectos de nación como los pone en marcha literariamente la literatura hispanoamericana**
-Proyectos de nación: algunas diferencias.
-
-\-se produce a partir de la industrialización
-
-\-romanticismo: a partir de lo que Tulio Halperin Donghi llama el pacto neocolonial: post colonialismo pero tb llamado con mucha perspicacia y lucidez, neocolonialista
-
-Los criterios económicos van a ser muy decisivos
-
-Implican una asimetría entre américa, europa y los estados unidos
-
-Formación y consolidación de la burguesía
-
-O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
-
-A partir del primer cuarto del s. Xix entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
+Proyectos de nación: algunas diferencias
+- se produce a partir de la industrialización
+- romanticismo: a partir de lo que Tulio Halperin Donghi llama el pacto neocolonial: post colonialismo pero tb llamado con mucha perspicacia y lucidez, neocolonialista
+- Los criterios económicos van a ser muy decisivos
+- Implican una asimetría entre América, Europa y los Estados Unidos
+- Formación y consolidación de la burguesía
+- O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
+- A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
 
 Corresponde a una serie de rasgos:
 
