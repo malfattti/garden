@@ -189,7 +189,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- *Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
 		- Restituye una visión catastrófica de la experiencia andina
 		- Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro
-	-**Inca Garcilaso de la Vega**:
+	-**Inca Garcilaso de la Vega** (Perú, 1540-1616) con los *Comentarios reales* (parte 1: Lisboa 1605, parte 2 póstuma 1616 con el título de Historia del Perú) 
 		- Es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
 		- Hijo de una Princesa Inca y de un español
 - Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la vida primitiva al extremo. 
@@ -221,10 +221,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Todo se remonta a esos textos iniciales, en particular Las Casas
 	- +Comentarios reales del Inca garcilaso
 - Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
-Marmontel, un discípulo de Voltaire publica les inca ou la destrucción del imper de
-  
-
-Novela que copia casi literalmente los comentarios reales del Inca garcilaso. Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso en sus comentarios reales. Siempre conocemos y es casi un automatismo pensar las influencias desde europa a américa. Pero es importante saber que es un ida y vuelta.
+- Novela que copia casi literalmente los comentarios reales del Inca Garcilaso. Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso en sus comentarios reales. Siempre conocemos y es casi un automatismo pensar las influencias desde europa a américa. Pero es importante saber que es un ida y vuelta.
 
   
 
