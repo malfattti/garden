@@ -303,7 +303,7 @@ Proyectos de nación: algunas diferencias
 		- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
 		- Todo individuo debe reconocerse como perteneciente a una nación. 
 		- Pero la homogeneización conlleva necesariamente la exclusión.
-- Redención, evangelización y educación: acceso a la homogeneización
+	- Redención, evangelización y educación: acceso a la homogeneización
 
 “salvación “del salvaje
 
