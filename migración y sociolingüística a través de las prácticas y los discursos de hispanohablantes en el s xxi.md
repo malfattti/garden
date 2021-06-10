@@ -368,19 +368,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Transnacionalismo:
 		- Qué es el transnacionalismo: ver los fenómenos migratorios actuales de una manera más matizada y menos homogénea
 		- Ideología del estado-Nación: 
-
-Ideología: creación artificial, se da por naturalizada una relación directa entre un territoria y un componente humano homogéneo, unido por lazos comunitarios. Lengua: tiene un elemento simbólico fundamental en este estado que se rige por unas reglas.
-
-
-
-
-El transnacionalismo nos muestra que la idea de comunidad homogénea no funciona necesariamente así. Que es un ideal pero no tiene por qué cumplirse del todo.
-El transnacionalismo nos muestra que no todas las personas se asimilan o integran a ese territorio nacional
-
-Los individuos que se instalan en un estado nación no necesariamente van a recorrer una trayectoria de integración o de asimilación.
-El punto final muchas veces no es la integración o asimilación. Diferencia entre integración y asimilación?
-
-Asimialción: dejo mi cultura y me integro totalmente en la otra. Idea de melting pot: todos se fusionan, se convierten en estadounidenses
+			- Ideología: creación artificial, se da por naturalizada una relación directa entre un territoria y un componente humano homogéneo, unido por lazos comunitarios. 
+			- Lengua: tiene un elemento simbólico fundamental en este estado que se rige por unas reglas.
+		- El transnacionalismo nos muestra que la idea de comunidad homogénea no funciona necesariamente así. Que es un ideal pero no tiene por qué cumplirse del todo
+		- El transnacionalismo nos muestra que no todas las personas se asimilan o integran a ese territorio nacional
+		- Los individuos que se instalan en un estado nación no necesariamente van a recorrer una trayectoria de integración o de asimilación.
+		- El punto final muchas veces no es la integración o asimilación. Diferencia entre integración y asimilación?
+			- Asimialción: dejo mi cultura y me integro totalmente en la otra. Idea de melting pot: todos se fusionan, se convierten en estadounidenses
 Integración: no hay que dejar la propia identidad cultural, esta identidad y la del país de acogida se pueden integrar
 
 Pero hay gente que directamente no interactúa con la cultura del estado nación, porque se mueven en redes transnacionales y construyen identidades nuevas pero no en base dle país de acogida
