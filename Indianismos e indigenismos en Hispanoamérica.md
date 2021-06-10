@@ -334,16 +334,12 @@ Proyectos de nación: algunas diferencias
 - **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
 - Salvaje que no se puede salvar
 - El insalvable salvaje (eso no es indianismo)
-
-Prosas y poemas del primer romanticismo en zonas donde empieza la modernización se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
-
-Progreso no implica diálogo
-
-  
-
-Lo encontramos en:
-
-\-el poema de e echeverria: la cautiva (1837) + sarmiento: Facundo, civilización y barbarie, ensayo, autobiografía, discurso político 
+- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
+- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
+	- Progreso no implica diálogo
+- Lo encontramos en:
+	- El poema de E. Echeverria: *La cautiva* (1837)
+	armiento: Facundo, civilización y barbarie, ensayo, autobiografía, discurso político 
 
 El proceso de modernización comienza en argentina muy rápido y muy pronto
 
