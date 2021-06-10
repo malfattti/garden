@@ -299,13 +299,11 @@ Proyectos de nación: algunas diferencias
 	- Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude a la corriente exotista romántica de representación del buen salvaje (de Europa)
 	- Los referentes presentados en la lit romántica (paratextos: lo propio, lo nuestro, lo local), constantemente giran en torno a lo nacional
 	- La realidad étnica con sus variantes quiere servir de elemento distintivo de la construcción de una identidad autóctona propia pero está puesta al servicio de / a los propósitos sociopolíticos de los autores. 
-		- La gran mayoría de los autores románticos apuntan a una homogeneización de lo heterogéneo. 
+	- La gran mayoría de los autores románticos apuntan a una homogeneización de lo heterogéneo. 
 		- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
 		- Todo individuo debe reconocerse como perteneciente a una nación. 
 		- Pero la homogeneización conlleva necesariamente la exclusión.
-	- Redención, evangelización y educación: acceso a la homogeneización
-
-“salvación “del salvaje
+	- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
 
   
 
