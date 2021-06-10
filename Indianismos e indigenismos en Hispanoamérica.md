@@ -138,6 +138,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 							- como los independentistas, usa el referente indígena para condenar la Conquista española y exaltar la independencia 
 								- nombres de importantes figuras del pueblo indígena para designar a los pueblos víctima
 								- la independencia como reparación de los males causados a América
+								- lo indígena como recurso que legitima el
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
