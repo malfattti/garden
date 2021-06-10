@@ -107,7 +107,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles sino que entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
 			- Mirada moderna, un poco más libre 
 		- **Simón BOLÍVAR**(Venezuela, 1783-1830): 
-			- Decreto sobre los derechos del indio en 1825.
+			- Decreto sobre los derechos del indio en 1825 (Cuzco).
 			- Cómo ingresar derechos propios para la masa de los indígenas. 
 			- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
 			- se basa en la idea de igualdad de los ciudadanos que sustenta la Constitución, que es incompatible con el trabajo forzado y los malos tratos sufridos por los indios
@@ -120,7 +120,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- que las autoridades se encarguen de hacerlo cumplir
 				- que los indígenas no pauen más derechos parroquiales que el resto de los ciudadanos
 					- necesidad de mediación de autoridades mayores
-				- falta u omisión de esto
+				- falta u omisión en el cumplimiento de estos articulos llevará a acción popular
+				- 
 		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
 			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
 			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
