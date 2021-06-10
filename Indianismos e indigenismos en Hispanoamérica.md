@@ -199,7 +199,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- De de Montaigne entonces se deriva un modelo de América ingenua y con una Edad Dorada
 - De de Montaigne a Shakespeare: 
 	- Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne (parodia?)
-- Concha Meléndez (1934) señala que no se encuentran influencias directas de Montaigne en literatura indianista americana. 
+- Concha Meléndez (1934) señala que no se encuentran influencias directas de De Montaigne en literatura indianista americana. 
 
 Más bien recupera otros textos de los que se nutre esa literatura. O sea que es posible que su influencia se haya diluido 
 
