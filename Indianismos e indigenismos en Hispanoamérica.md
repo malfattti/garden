@@ -197,7 +197,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- A través de este texto llegamos a la formulación de la pregunta, quién es el bárbaro?
 	- Naturaleza versus ciudad. La naturaleza parece ser perfecta pero cuando se cruzan intereses de los hombres, empezamos a destruir ese equilibrio.
 	- De de Montaigne entonces se deriva un modelo de América ingenua y con una Edad Dorada
-	- Montaigne a Shakespeare: Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne
+- De de Montaigne a Shakespeare: 
+	- Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne
 
   
 
