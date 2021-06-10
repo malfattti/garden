@@ -169,7 +169,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
 	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
 	- Ejemplos:
-	  - La brevísima (Bartolomé de las Casas / 1474-1566):  
+	  - **La brevísima (Bartolomé de las Casas** / 1474-1566):  
 		  - *Brevísima relación de la destruición de las Indias *(1552)
 		  - descripción de la destrucción de las Indias. 
 		  - Descripción de episodios de crueldad por parte de los colonizadores.
@@ -184,7 +184,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- LIBRO XII y último del *Códice Florentino*. Titulado: “De la Conquista de la Nueva España que es la ciudad de México”.
 		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
 		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
-	- Felipe Huamán Poma de Ayala (Ayacucho 1534-Lima 1615)
+	- **Felipe Huamán Poma de Ayala** (Ayacucho 1534-Lima 1615)
 		- *Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
 		- Restituye una visión catastrófica de la experiencia andina
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
