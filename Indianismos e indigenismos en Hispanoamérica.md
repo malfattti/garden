@@ -200,10 +200,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - De de Montaigne a Shakespeare: 
 	- Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne (parodia?)
 - Concha Meléndez (1934) señala que **no se encuentran influencias directas de De Montaigne en literatura indianista americana. Más bien se recuperan otros textos de los que se nutre esa literatura**. O sea que es posible que su influencia se haya diluido 
-- En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los textos del s. XVI y XVII
-	- O sea, a mediados del s. XVIII estamos con un corpus francés que celebra ese primitivismo de signo positivo
-	- Voltaire recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
-	- También se destaca Rousseau, que aporta a la teoría del buen salvaje. 
+- En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los **textos del s. XVI y XVII**
+	- O sea, a mediados del s. XVIII estamos con un **corpus francés que celebra ese primitivismo de signo positivo**
+	- **Voltaire** recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
+	- También se destaca **Rousseau**, que aporta a la teoría del buen salvaje. 
 		- En su obra *Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755), desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
 		- Libros leídos por una  minoría. 
 		- En s. XIX se traduce al español
@@ -212,15 +212,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. 
 		- Para esto se remonta al hombre en su estado natural. 
 		- Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
-- Resurgimiento romántico a mediados de s. XVII hasta finales del XIX
-
-  
-
-Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. The conquest of Granada (mucha lit inglesa se interesa por los paisajes del sur de españa)
-
-  
-
-Al-manzur (el victorioso). Hombre de estado de al Andaluz. O sea, ya siglo XVII
+- **Resurgimiento romántico a mediados de s. XVII hasta finales del XIX**
+	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. The conquest of Granada (mucha lit inglesa se interesa por los paisajes del sur de España)
+		- Al-manzur (el victorioso). Hombre de estado de al Andaluz. O sea, ya siglo XVII
 
   
 
