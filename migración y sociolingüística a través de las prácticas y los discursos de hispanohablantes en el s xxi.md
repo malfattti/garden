@@ -358,7 +358,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- lengua y ciudadanía
 		- educaicón de lenguas de herencia
 		- lenguajes y la nueva economía
-
+	- sugerencias para futuras investigaciones:
+		- necesidad de introducir la clase social en los estudios, ya las experiencias d emigración son múltiples y este lente nos permite observa resas diferencias
+		- necesidad de que los estudios en
 	- critical review of the relationship between transnationalism, language and nation-state, and its implications for the research on migration and language:
 		- overview of nation-state and transnationalism, and how these concepts are sites of tension in the context of globalization
 		- review of the debates on whether transnationalism destabilizes the role of the nation-state with a focus on linguistic studies that approach this issue
