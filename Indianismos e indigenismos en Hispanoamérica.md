@@ -133,7 +133,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 							- en la oposición naturaleza/cultura
 						- Influjo del romanticismo:
 							- en las ideas de patria y naturaleza, que organizan los dos grandes campos semánticos centrales del romanticismo en HA
-						- Presenci
+						- Presencia de lo indígena:
+							- 
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
