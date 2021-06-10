@@ -205,19 +205,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Voltaire recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
 	- También se destaca Rousseau, que aporta a la teoría del buen salvaje. 
 		- En su obra *Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755), desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
-		- Libros leídos por una  minoría. En s. XIX se traduce al español
-
-  
-
-Actitud del hombre compenetrado con la naturaleza
-
-  
-
-A Rousseau se le atribuye la originalidad de los planteamientos que acompañan la celebración de la vida primitiva. Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. Para esto se remonta al hombre en su estado natural. Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
-
-  
-
-Resurgimiento romántico a mediados de s. XVII hasta finales del XIX
+		- Libros leídos por una  minoría. 
+		- En s. XIX se traduce al español
+		- Actitud del hombre compenetrado con la naturaleza
+		- A Rousseau se le atribuye la originalidad de los planteamientos que acompañan la celebración de la vida primitiva. 
+		- Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. 
+		- Para esto se remonta al hombre en su estado natural. 
+		- Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
+- Resurgimiento romántico a mediados de s. XVII hasta finales del XIX
 
   
 
