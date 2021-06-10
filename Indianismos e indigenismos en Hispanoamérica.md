@@ -327,17 +327,13 @@ Proyectos de nación: algunas diferencias
 			- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
 - Todo esto acontece en el ámbito de la literatura.
 - Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
-- Afán no inconciente de comunicar mis propias ansias de libertad / independencia.. Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así elcriollo se pone a dialogar con es atradición
+- Afán no inconciente de comunicar mis propias ansias de libertad / independencia
+- Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así el criollo se pone a dialogar con esa tradición
 
-- **PROYECTOS DE EXCLUSIÓN
-
-  
-
-Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)
-
-Salvaje que no se puede salvar
-
-El insalvable salvaje (eso no es indianismo)
+- **PROYECTOS DE EXCLUSIÓN**
+- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
+- Salvaje que no se puede salvar
+- El insalvable salvaje (eso no es indianismo)
 
 Prosas y poemas del primer romanticismo en zonas donde empieza la modernización se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
 
