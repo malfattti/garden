@@ -180,12 +180,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - Se apoyan en textos que denuncia lo que está pasando.
 	- Fray Bernardino de Sahagún (c.1500-1590)
 		- *Códice florentino o Historia general de las cosas de Nueva España*: 1579 pero se publica mucho después, en 1793
+		- códice: cuadernos plegados, cosidos y encuadernados
 		- LIBRO XII y último del *Códice Florentino*. Titulado: “De la Conquista de la Nueva España que es la ciudad de México”.
 		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
+		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
 
-(Este texto también será transcrito en el capítulo I de _La visión de los vencidos_ (1959) de Miguel León-Portilla).
-
-\*cuadernos plegados, cosidos y encuadernados
+\
 			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
 			- Visión desde el otro lado. No así las crónicas habituales que describen
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
