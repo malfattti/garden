@@ -184,10 +184,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- LIBRO XII y último del *Códice Florentino*. Titulado: “De la Conquista de la Nueva España que es la ciudad de México”.
 		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
 		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
-
-\
-			- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
-			- Visión desde el otro lado. No así las crónicas habituales que describen
+		- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
 		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
 		- Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
