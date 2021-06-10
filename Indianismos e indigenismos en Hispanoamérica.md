@@ -289,14 +289,10 @@ Proyectos de nación: algunas diferencias
 	- Caso del Río de la Plata: Pasado colonial pobre relativamente
 		- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
 		- Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge. En argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
-
-Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
-
-Los argentinos románticos fueron más europeizantes que hispanización. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
-
-En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
-
-El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indógena remoto
+		- Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
+		- Los argentinos románticos fueron más europeizantes que hispanizantes. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
+	- En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
+	- El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indígena remoto
 
 En el s. XIX: balance. Hasta Aves sin nido (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
 
