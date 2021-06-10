@@ -348,8 +348,12 @@ Proyectos de nación: algunas diferencias
 	- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
 	- El aborigen es amansado como una llama en la vasta extensión del Perú
 	- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
-- Entonces..
-- **Especificidad hispanoamericana: los proyectos de nación. Sería erróneo hablar de una imitación a secas. Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. No se trata de tomar lo que sea para escribir algo.**
+- ** Entonces...**
+	- Especificidad hispanoamericana: los proyectos de nación. 
+	- Sería erróneo hablar de una imitación a secas. 
+	- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
+	- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 
+
 Literatura romántica de referente indígena en Argentina
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
