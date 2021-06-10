@@ -122,7 +122,6 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- que los indígenas no pauen más derechos parroquiales que el resto de los ciudadanos
 					- necesidad de mediación de autoridades mayores
 				- falta u omisión en el cumplimiento de estos articulos llevará a acción popular
-				- 
 		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
 			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
 			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
