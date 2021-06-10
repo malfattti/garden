@@ -362,16 +362,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- necesidad de introducir la clase social en los estudios, ya las experiencias d emigración son múltiples y este lente nos permite observa resas diferencias
 		- necesidad de que los estudios reflejen que el uso del lenguaje siempre es fragmentario y truncado
 - **Clase 3: 02.03.2021**
-	- Archivo Rosa Latino: los rasgos no son solamente del lenguaje sino semióticos en general
-
-Cuando grupos de afuera identifican los grupos latinxs lo hacen como si se tratara de una población homogénea cuando en verdad no lo son 
-
-No nos manifestamos solamente a partir de la lengua sino a través de una serie de elementos semióticos
-
-Transnacionalismo:
-Qué es el transnacionalismo: ver los fenómenos migratorios actuales de una manera más matizada y menos homogénea
-
-Ideología del estado-Nación: 
+	- Archivo Rosa Latino: 
+		- Cuando grupos de afuera identifican los grupos latinxs lo hacen como si se tratara de una población homogénea cuando en verdad no lo son 
+		- No nos manifestamos solamente a partir de la lengua sino a través de una serie de elementos semióticos
+	- Transnacionalismo:
+		- Qué es el transnacionalismo: ver los fenómenos migratorios actuales de una manera más matizada y menos homogénea
+		- Ideología del estado-Nación: 
 
 Ideología: creación artificial, se da por naturalizada una relación directa entre un territoria y un componente humano homogéneo, unido por lazos comunitarios. Lengua: tiene un elemento simbólico fundamental en este estado que se rige por unas reglas.
 
