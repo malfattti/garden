@@ -139,7 +139,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 								- nombres de importantes figuras del pueblo indígena para designar a los pueblos víctima
 								- la independencia como reparación de los males causados a América
 								- lo indígena como recurso que legitima el carácter americano de los criollos: equivalencia entre pueblos originarios y colonias independizadas
-									-es decir que se 
+									-es decir que se hace extensiva la independiencia política conseguida por las colonias a los pueblos originarios, aunque para los indígenas la independecia no representó una liberación
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
