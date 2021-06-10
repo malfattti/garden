@@ -346,7 +346,7 @@ Proyectos de nación: algunas diferencias
 	-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
 - Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
 - *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
-- El aborigen es amansado como una llama en la vasta 
+- El aborigen es amansado como una llama en la vasta extensión del Perú
 - Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista**
 - 
 Literatura romántica de referente indígena en Argentina
