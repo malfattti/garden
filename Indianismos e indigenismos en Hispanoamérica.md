@@ -132,7 +132,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Influjo del Siglo de Oro 
 							- en la oposición naturaleza/cultura
 						- Influjo del romanticismo:
-							- 
+							- en las ideas d e
 			- 
 		- **Manuel González Prada** (Perú, 1844-1918):
 			- algunos hablan de su poesía como indigenista
