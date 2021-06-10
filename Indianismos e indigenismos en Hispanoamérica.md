@@ -110,6 +110,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Decreto sobre los derechos del indio en 1825 (Cuzco).
 			- Cómo ingresar derechos propios para la masa de los indígenas. 
 			- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
+			- prohibición de las prácticas de explotación
 			- se basa en la idea de igualdad de los ciudadanos que sustenta la Constitución, que es incompatible con el trabajo forzado y los malos tratos sufridos por los indios
 			- exige:
 				- que el trabajo de los indígenas esté mediado por un contrato
