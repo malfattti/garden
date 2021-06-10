@@ -183,18 +183,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Fray Bernardino de Sahagún
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
 		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
-
-Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
-
-Transcrito en el libro de león-Portilla.
-
-Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de américa, la visión del otro
-
-  
-
-Inca Garcilaso de la vega es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
-
-Hijo de una princesa inca y de un español
+		- Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
+		- Transcrito en el libro de León-Portilla.
+		- Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro
+	- Inca Garcilaso de la Vega:
+		- Es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
+		- Hijo de una princesa inca y de un español
 
   
 
