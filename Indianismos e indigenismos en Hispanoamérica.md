@@ -339,13 +339,10 @@ Proyectos de nación: algunas diferencias
 	- Progreso no implica diálogo
 - Lo encontramos en:
 	- El poema de E. Echeverria: *La cautiva* (1837)
-	armiento: Facundo, civilización y barbarie, ensayo, autobiografía, discurso político 
-
-El proceso de modernización comienza en argentina muy rápido y muy pronto
-
-Indígena como núcleo de barbarie
-
-Proceso de idealización (buscar designar nuestros héroes que nos representen) ocurre con  el gaucho, héroe nacional
+	- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
+- El proceso de modernización comienza en Argentina muy rápido y muy pronto
+-  Indígena como núcleo de barbarie
+-  Proceso de idealización (buscar designar nuestros héroes que nos representen) ocurre con el gaucho, héroe nacional
 
   
 
