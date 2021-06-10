@@ -321,26 +321,15 @@ Proyectos de nación: algunas diferencias
 		- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
 		- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
 		- Gesto que se deriva de la situación poscolonial e intento de romper con España
-		- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de mérica. Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a españa… pero NO para liberar a los indígenas
+		- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América. 
+			- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
+			- Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad
+			- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
+- Todo esto acontece en el ámbito de la literatura.
+- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
+- Afán no inconciente de comunicar mis propias ansias de libertad / independencia.. Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así elcriollo se pone a dialogar con es atradición
 
-  
-
-Indio, entonces, es símbolo del patriotismo., de amor a la tierra y a la libertad
-
-Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo espaÑol
-
-Todo esto acontece en el ámbito de la literatura.
-
-Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía/
-
-  
-
-Afán no inconciente de comunicar mis propias ansias de libertad / independencia.. Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así elcriollo se pone a dialogar con es atradición
-
-  
-  
-
-PROYECTOS DE EXCLUSIÓN
+- **PROYECTOS DE EXCLUSIÓN
 
   
 
