@@ -352,4 +352,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- también implica que la migración no culmina nacesariamente en la integración o asimilación de un migrante a una nueva cultura
 			- diferentes formas de vivir e interactuar en un territorio nacional
 - [[Nation-state, transnationalism, and language]] de Joseph Sung-Yul Park and Lionel Wee en Canaragajah, Sureh (2017). The Routledge Handbook of Migration and Language. Routledge: London
-	- intersección de os co
+	- intersección de los conceptos transnacionalismo, estado-nación y lengua en el contexto de la globalización
+	- presupone el transnacionalismo un debilitamiento de la concepción de estado nación y su relación con el lenguaje? o, por el contrario, 
