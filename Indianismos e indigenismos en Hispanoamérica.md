@@ -233,11 +233,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Como Europa y América no pueden desvincularse, vemos que hay un prestigio de lo que son productos locales, pero como eran coloniales tampoco se podían tener como fuentes después de las independencias. 
 		- Lo francés versus lo globalmente antiespañolista
 		- La recepción se facilita tb a que se simplifica y se novela unos relatos que son cronicas que deleitan menos que una novela
-
-  
-  
-
-De Graffigny: relato de a través de una serie de cartas de una virgen del sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
+- **Françoise de Graffigny** (1695-1758, *Lettres d’une Péruvienne* (1747):
+	- Relato de a través de una serie de cartas de una Virgen del Sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
 
   
 
