@@ -185,8 +185,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
 		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
 	- Felipe Huamán Poma de Ayala (Ayacucho 1534-Lima 1615)
-	- *	Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
-		- 1180 págs y 397 dibujos con la historia del pasado de los incas y la visión indígena del mundo andino. Restituye una visión catastrófica de la experiencia andina
+		- *Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
+		- Restituye una visión catastrófica de la experiencia andina
 		- Trabajo de etnología azteca, libros que trabajan sobre la visión del otro. 
 		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
 		- Este documento pone las bases de determinadas reacciones que rondaban entre los presagios (vuelta de la serpiente emplumada)
