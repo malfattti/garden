@@ -277,7 +277,7 @@ Proyectos de nación: algunas diferencias
 		- cuestión de los orígenes de las literaturas nacionales: gran debate de la época
 		- Depende de la perspectiva histórica / cultural que se adopte
 		- Ejemplo: México
-			- Cantos escritos en lengua indígena: rey poeta, escribe en idioma nahuatl: Cantares mexicanos, constituido por 36 poemas. Intelectuales que no suelen hablar nahuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a españa: deseo de romper incluso la lógica del idioma y la cultura que conlleva
+			- Cantos escritos en lengua indígena: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas. Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a españa: deseo de romper incluso la lógica del idioma y la cultura que conlleva
     
 -   Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
     
