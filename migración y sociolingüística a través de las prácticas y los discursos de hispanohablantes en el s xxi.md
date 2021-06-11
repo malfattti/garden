@@ -406,8 +406,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Repertorios fluidos y móviles.
 		- Los repertorios van cambiando de acuerdo a con quiénes me comunico
 		- El cambio de código está situado, uno sabe con quién puede cambiar
-
-Ahora: Cómo negociar estos diferentes repertorios
+		- Ahora: Cómo negociar estos diferentes repertorios
 
 
 13 de abril de 12.15 a 13.45 hay una conferencia sobre lenguaje inclusivo de Pedro Álvarez de Miranda
