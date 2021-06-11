@@ -411,5 +411,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- new terminology that is considered as post-Fishmanian
 		- desire to move away from approaches that consider languages as discrete entities (such as biligualism or multilingualism)
 	- overview of these frameworks:
-	- 
+		- translanguaging
+	- evaluation of frameworks
 
