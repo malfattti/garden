@@ -407,5 +407,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Los repertorios van cambiando de acuerdo a con quiénes me comunico
 		- El cambio de código está situado, uno sabe con quién puede cambiar
 		- Ahora: Cómo negociar estos diferentes repertorios
-- PENNYCOOK: Mobile times, mobile terms: Tre trans-super-0oly-metro movement
+- PENNYCOOK: Mobile times, mobile terms: The trans-super-poly-metro movement
 
