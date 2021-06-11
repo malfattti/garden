@@ -402,7 +402,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Desde las teorías posmodernas se concibe al estructuralismo como una episteme que está enmarcada dentro de la ideología del estado-nación
 		- Hablante ideal de Chomsky.
 		- Estas teorías posmodernas se apartan de una visión estructuralista de la lengua
-La comunicación no se entiende como lengua, pero de una forma mucho más amplia, como una práctica social. No comunicamos solo con palabras sino con gestos, miradas, ropa, etc.
+		- La comunicación no se entiende como lengua, pero de una forma mucho más amplia, como una práctica social. No comunicamos solo con palabras sino con gestos, miradas, ropa, etc.
 
 Repertorios fluidos y móviles.
 Los repertorios van cambiando de acuerdo a con quiénes me comunico
