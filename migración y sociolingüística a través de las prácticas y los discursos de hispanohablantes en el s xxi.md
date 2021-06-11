@@ -412,17 +412,18 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- desire to move away from approaches that consider languages as discrete entities (such as biligualism or multilingualism)
 	- overview of these frameworks:
 		- translanguaging
-		- translingual practices as umbrella term
-		- translanguaging turn?
-			- pedagogical and sociolinguistic impetus
-				- pedagogical aspect: 
-					- changes needed to be made in classrooms
-					- language teaching should resemble the real world more
-		- transidiomatic practices
-		- origins og the term 'translanguage'
-		- three meanings of trans:
-			- going between and beyond linguistic systemas and structures
-			- transforming current structures and practices
-			- employing transdisciplinary perspectives on 
-	- evaluation of frameworks
+			- translingual practices as umbrella term
+			- translanguaging turn?
+				- pedagogical and sociolinguistic impetus
+					- pedagogical aspect: 
+						- changes needed to be made in classrooms
+						- language teaching should resemble the real world more
+			- transidiomatic practices
+			- origins og the term 'translanguage'
+			- three meanings of trans:
+				- going between and beyond linguistic systemas and structures
+				- transforming current structures and practices
+				- employing transdisciplinary perspectives on society and cognition
+			- another origin: Bakhtin's heteroglossia
+		- evaluation of frameworks
 
