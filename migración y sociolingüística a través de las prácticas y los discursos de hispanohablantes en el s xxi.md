@@ -420,6 +420,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- language teaching should resemble the real world more
 		- transidiomatic practices
 		- origins og the term 'translanguage'
-		- 
+		- three meanings of trans:
+			- going between and beyond linguistic systemas and structures
+			- transforming current structures and practices
+			- employing transdisciplinary perspectives on 
 	- evaluation of frameworks
 
