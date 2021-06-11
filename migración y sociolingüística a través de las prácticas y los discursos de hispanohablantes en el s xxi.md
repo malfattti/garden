@@ -414,6 +414,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- translanguaging
 		- translingual practices as umbrella term
 		- translanguaging turn?
-		- 
+		- pedagogical and sociolinguistic impetus
+			- pedagogical aspect: 
 	- evaluation of frameworks
 
