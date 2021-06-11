@@ -414,9 +414,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- translanguaging
 		- translingual practices as umbrella term
 		- translanguaging turn?
-		- pedagogical and sociolinguistic impetus
-			- pedagogical aspect: 
-				- changes needed to be made in classrooms
-				- language teaching should resemble the real world more
+			- pedagogical and sociolinguistic impetus
+				- pedagogical aspect: 
+					- changes needed to be made in classrooms
+					- language teaching should resemble the real world more
+		- transidiomatic practices
+		- origins og the term 'translanguage'
+		- 
 	- evaluation of frameworks
 
