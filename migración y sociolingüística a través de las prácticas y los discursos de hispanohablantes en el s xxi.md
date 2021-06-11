@@ -403,8 +403,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Hablante ideal de Chomsky.
 		- Estas teorías posmodernas se apartan de una visión estructuralista de la lengua
 		- **La comunicación no se entiende como lengua, pero de una forma mucho más amplia, como una práctica social**. No comunicamos solo con palabras sino con gestos, miradas, ropa, etc.
-
-Repertorios fluidos y móviles.
+		- Repertorios fluidos y móviles.
 Los repertorios van cambiando de acuerdo a con quiénes me comunico
 
 El cambio de código está situado, uno sabe con quién puede cambiar
