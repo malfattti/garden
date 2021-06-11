@@ -408,3 +408,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- El cambio de código está situado, uno sabe con quién puede cambiar
 		- Ahora: Cómo negociar estos diferentes repertorios
 
+
