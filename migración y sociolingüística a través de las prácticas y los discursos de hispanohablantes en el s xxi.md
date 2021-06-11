@@ -425,5 +425,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- transforming current structures and practices
 				- employing transdisciplinary perspectives on society and cognition
 			- another origin: Bakhtin's heteroglossia
+	
 		- evaluation of frameworks
-
+	- poly-metro and 
