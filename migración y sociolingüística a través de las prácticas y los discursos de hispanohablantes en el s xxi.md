@@ -412,5 +412,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- desire to move away from approaches that consider languages as discrete entities (such as biligualism or multilingualism)
 	- overview of these frameworks:
 		- translanguaging
+		- translingual practices as umbrella term
+		- translanguaging turn?
+		- 
 	- evaluation of frameworks
 
