@@ -417,6 +417,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- pedagogical and sociolinguistic impetus
 			- pedagogical aspect: 
 				- changes needed to be made in classrooms
-				- language teaching should be sensible to real world 
+				- language teaching should resemble the real world more
 	- evaluation of frameworks
 
