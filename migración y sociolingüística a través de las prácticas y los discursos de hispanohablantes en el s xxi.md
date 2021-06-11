@@ -409,5 +409,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Ahora: Cómo negociar estos diferentes repertorios
 - PENNYCOOK: Mobile times, mobile terms: The trans-super-poly-metro movement
 	- new terminology that is considered as post-Fishmanian
-		- desire to move away from approaches that consider languages as discrete entiti
+		- desire to move away from approaches that consider languages as discrete entities (such as biligualism or multilingualism)
+	- overview of these frameworks:
+	- 
 
