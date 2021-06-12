@@ -637,4 +637,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- ambas lenguas se retroalimentan y fortalecen mutuamente
 			- la traducción tiene un valor pedagógico alto y un impacto positivo en el desarrollo de las habilidades académicas de los alumnos
 			- los estudiantes pueden hablar en inglés o español lo que les da confianza
+			- profesorado de origen dominicano recurre al bagaje cultural común
+			- el modo de enseñanza se sustenta en investigaciones que sugieren que los estudiantes que 
   
