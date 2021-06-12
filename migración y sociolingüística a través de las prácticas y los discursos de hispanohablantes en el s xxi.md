@@ -521,7 +521,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- 3. Al quitarse el foco de la estructura como unidades discretas pertenecientes a lenguas distintas, y centrarse en la agentividad, surge el concepto etnográfico de la voz (su origen es Bajtin)
 					- Este concepto de voz refleja el aspecto experiencial y práctico del lenguaje 
 						- cómo y para qué los individuos despliegan sus recursos semióticos en las prácticas comunicativas en las que participan 
-	- La teoría de translenguar
+	- La teoría de translenguar (Ofelia García 2008, Li Wei, 2014 + García y Otheguy 2015)
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Atravesar sistemas y espacios, viendolos como fluidos
 		- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
