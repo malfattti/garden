@@ -466,6 +466,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- language is best understood as a social practice
 
 - Clase 4: 16.03: 
+	- Repertorio lingüístico: forma de comunicar compartidas
 	- Nuevas teorías lingüísticas del contacto
 		- Migración no implica solamente el movimiento geográfico de personas, sino la movilidad de recursos lingüísticos y semióticos (por ejemplo, gestos, aspecto kinésico, humor, etc.)
 		- Las definiciones tradicionales del estructuralismo en torno a monolongüismo, bilingüismo, etc., no parecen ser útiles para entender prácticas semióticas porque parten de una idea estática de la lengua
@@ -478,8 +479,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- las personas desarrollan esta práctica social en una red de relaciones sociales y cognitivas a través de un conjunto de elementos semióticos (repertorios)
 	- dentro de las corrientes sociolingüísticas enfocadas en la movilidad surgen nuevas teorías que comprenden las prácticas multilingües desde una perspectiva nueva donde se subraya la movilidad de personas y de sus formas de comuniación --> complejidad en vez de estatismo
 
-- Repertorio lingüístico: forma de comunicar compartidas
-	
 
 	- Muchas veces pueden ser claros los límites, otras veces más difusos
 	- Qué tienen en común estas etiquetas? 
