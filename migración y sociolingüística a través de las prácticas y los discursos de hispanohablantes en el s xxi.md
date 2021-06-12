@@ -435,7 +435,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- 2. linguistic resources in relation to the city: how the spaces and ruthm of the city influence language use
 			- Mobility is a great challenge: superdiversity and supervernacular:
 				- problematic terms (erasure of inequalities, discriminatiosn, etc.) and problematic use of the super- prefix
-			- 
+		- These terms in general entail...
+			- move away from talking about languages as separate identities
+			- focus on repertoires, 
 			- 
 		- evaluation of frameworks
 
