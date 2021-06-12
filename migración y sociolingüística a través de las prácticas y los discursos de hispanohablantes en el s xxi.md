@@ -633,5 +633,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- problemas: cuatro años no alcanzan + contexto socioeconómico restringe un cambio social mayor
 		- microcontexto 
 			- los estudiantes leen en inglés los contenidos y el profesor se asegura de que sean comprendidos en español
-			- así se fortalece el lenguaje académido en inglé
+			- así se fortalece el lenguaje académido en inglés
+			- ambas lenguas se retroalimentan y fortalecen mutuamente
+			- la traducción tiene un valor pedagógico alto y un impacto positivo en el desar
   
