@@ -478,10 +478,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- a partir del postestructuralismo de la era posmoderna, la comunicación se entiende como una práctica social
 		- las personas desarrollan esta práctica social en una red de relaciones sociales y cognitivas a través de un conjunto de elementos semióticos (repertorios)
 	- dentro de las corrientes sociolingüísticas enfocadas en la movilidad surgen nuevas teorías que comprenden las prácticas multilingües desde una perspectiva nueva donde se subraya la movilidad de personas y de sus formas de comuniación --> complejidad en vez de estatismo
-
-
-	- Muchas veces pueden ser claros los límites, otras veces más difusos
-	- Qué tienen en común estas etiquetas? 
+	- Entre las nuevas teorías podemos nombrar:Qué tienen en común estas etiquetas? 
 	- Mobility turn, marco en el que estamos ubicando estos fenómenos
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
 	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
