@@ -501,7 +501,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
 					- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
 				- Según esta visión la comunicación es un conjunto de recursos (códigos semióticos, géneros, registros) que el hablante usa para expresarse
-			- TRES CARACTERÍSTICAS COMPARTIDAS POR TODAS ESTA	
+			- TRES CARACTERÍSTICAS COMPARTIDAS POR TODAS ESTAS TEORÍAS:
+				- acto comunicativo como un despliegue de repertorios y no de lenguas	
 	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 	- Códigos semióticos, formas, manos, etc.
