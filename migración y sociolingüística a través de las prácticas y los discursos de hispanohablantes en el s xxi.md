@@ -494,11 +494,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Abrir un grupo de whatsapp es abrir un espacio de comunicación, que nos deja comunicar con determinadas características/ prácticas
 		- evitar no solo la dicotomía mono/multi-, sino también cuestionar la idea de que las lenguas son sistemas finitos
 			- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
-			- Trans: pasaje de una lengua a otra. Atraviesan varias formas
-
-
-	- Trans: se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
-	- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
+			- Trans: 
+				- pasaje de una lengua a otra. Atraviesan varias formas
+				- se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
+			- Estas teorías entienden la comunicación como una práctica heteroglósica
+				- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
+				- Según 
 		- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
 	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
