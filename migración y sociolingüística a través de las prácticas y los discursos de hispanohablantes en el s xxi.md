@@ -667,5 +667,146 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- las identidades personales reflejan caracteristicas y atributos que el individuo considera que lo definen como una persona particular y única
 		- las sociales se refieren a la pertenencia a grupos sociales que se basan en género, edad, etnia, origen, etc
 		- estas categorías no son siempre claras en la práctica
-		- la identidad individual siempre forma parte de una identidad social, 
+		- la identidad individual siempre forma parte de una identidad social, y son varias
+	- 
   
+**
+
+Cómo ha evolucionado el concepto de identidad ling. a lo largo de los años?
+
+Edad antigua: concepciones dicotómicas
+
+Para aristóteles no hay relación entre las lenguas que hablamos y nuestra naturaleza. Para el todas las mentes son iguales. Las lenguas son algo superficial, porque la esencia del ser humano es la misma. 
+
+  
+
+Idea epicurista y platónica: las lenguas que hablan afectan la identidad de las personas. Epicuro ya decía que la constitución física es parte de la identidad grupal de las personas. Aspectos materiales del individuo como conformantes de grupos sociales. 
+
+  
+
+Renacimiento: se retoman las ideas de epicuro y platón: 
+
+-   La lengua tiene un papel pragmático. Compartir una lengua une a un pueblo
+    
+-   La forma particular o genio de la lengua compartida refleja lo que distingue a las personas de las demás (la lengua es la consecuencia de la distinción)
+    
+-   La lengua es la causa de que me separe de otros grupos (causa)
+    
+
+  
+
+Siglo XIX: constructo de estado-nación: a partir de una idea de identidad de la nación.  Se retoman las ideas que ya circulaban en el renacimiento
+
+-   Visión romántica: espíritu compartido que se proyecta en la lengua es la base de la constitución del estado
+    
+-   Visión política: ilustración: la lengua compartida es un elemento fundamental. Muchas ideologías nacionales se construyen a partir de la identidad social
+    
+
+  
+
+Repercusiones en la lingüística moderna:
+
+-   Comunidades lingüísticas homogéneas: 
+    
+-   Clasificaciones binarias
+    
+-   Clasificaciones discretas 
+    
+-     
+    
+-   (concepciones, identidades discretas, contrastivas, y cerradas, tal como las expone el estado nación)
+    
+-   Las epistemes son hijas de su tiempo y se nutren de las ideas de ese tiempo
+    
+
+  
+Mediados del s. XX
+
+-   Vuelta de tuerca en la filosofía y la psicología 
+    
+-   Pensadores post-estructuralistas
+    
+-   Los vinculos entre lenguaje e identidad se forman iontersubjetivamente y en contexto. Ya no hay identidades discretas y cerradas, son más bien prismáticas (depende de la situación expongo una detemrinada cara)
+    
+-   Tb hay corrientes construccionistas. Pero esto no es así, hay una parte de mí que no es construcción. Nosotros no estamos en el mundo del construccionismo radical
+    
+-   Depende de con quien interactúa expongo una cara y cambio, salvo las cosas que no puedo cambiar
+    
+-   Por eso la identidad semiótica es situada
+    
+-   Tajfel:
+    
+
+-   La identidad social se refiere a un individuo más que a un grupo. Es una cuestión de autoconcepto, yo me incluyo en determinado grupo y me adjudico rasgos que me unen a ese grupo
+    
+-   Como individuo me siento ligado a un determinado grupo de gente. Estos vínculos son tb emotivos
+    
+-   El otro surge precisamente en esta teoría social. Siempre construyo mi identidad en alteridad con el otro que no quiero ser. Relación dialéctica con el otro
+    
+-   Solo me puedo distinguir del otro en determinadas situaciones
+    
+-   Por eso es importante la situación, la autopercepción y el hecho de que sea una auto-categorización. Cuestión subjetiva, es histórico, tengo que poder percibir los rasgos históricos que identifican a este grupo
+    
+
+-   Esta es la postura teórica que se refleja en las teorías de la superdiversidad. Teorías postestructuralistas de la identidad: transnacionalismo, medios de comunicación
+    
+-   Se prefiere hablar de prácticas, redes y repertorios en vez de lenguas y comunidades. Toda esta terminología se vuelca en torno a lo situacional y se deja de lado lo que tiende a homogeneizar a los grupos. 
+    
+
+  
+
+LO CENTRÍFUGO: DIVERSIFICAR
+
+Prácticas heterocéntrias: reticular / se mueven entre varios centros. Por ejemplo, mandar a un chico a la escuela española. No solo mezclar lenguas sino hacer parte de prácticas culturales distintas. 
+
+  
+  
+
+heteroglósicas: bottom up : la lengua. Si alguien dice: me fui a la post y no encontré márkli. Mezcla de lenguas
+
+  
+
+LO CENTRÍPETO; HOMOGENEIZAR
+
+PERO: CÓMO FUNCIONAN las cabezas? En sus cabezas siguen presentando en sus cabezas la idea de que solo hablan una lengua y son muy fieles a su cultura de origen (movimiento centrípeto) . 
+
+Los países en los que estas personas están, quieren que las personas se integren (por ejemplo, regalar cursos de alemán). Estos movimientos tiran hacia las prácticas del estado nación
+
+  
+
+MODELO IDEOLÓGICO IDENTITARIO DEL ESTADO NACIÓN ES MUY importante en la autopercepción de las personas
+
+  
+
+Franzé Mudanó: los individuos tienen muy interiorizada la idea de pertenencia a un colectivo nacional. Sobre todo las generaciones que han migrado en el s. XX
+
+  
+
+Investigación
+
+  
+
+-   Quiénes son estas personas, qué hacen en Berna
+    
+-   Analizar la práctica es muy difícil, primero hay que establecer vínculos
+    
+-   Empezó por la autopercepción de los inmigrantes y ver cuáles eran sus ideologías ling\\ú;isticas 
+    
+
+  
+
+1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
+
+2: hijos de dos latinxs
+
+2.5: madre latina, padre suiza (mayormente)
+
+  
+
+Español caribeño: mezcla entre suizo alemán y alemán
+
+Autopercepción: trabajo de introspección mediante estímulo auditivo y como ellas ven y perciben las prácticas heterogósicas
+
+  
+  
+**
