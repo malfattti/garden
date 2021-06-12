@@ -651,4 +651,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- impuslar el translanguaging desde una perspectiva oficial
 
 - Clase 5 23.03: Identidad y lenguaje
+	- el uso y la variación de la lengua est;an profundamente vinculados con los procesos de construcción y representación de la identidad
+	- las identidades se 
   
