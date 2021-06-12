@@ -654,5 +654,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- el uso y la variación de la lengua est;an profundamente vinculados con los procesos de construcción y representación de la identidad
 	- las identidades se transmiten y se negocian a partir de elementos semióticos y en los discursos
 	- **relación dialéctica** entre las percepciones y las construcciones de las identidades a través de los diferentes recursos semióticos
-	- la identida
+	- la identidad es un término resbaladizo
+		- el lenguaje puede usarse para transmitir y construir distintos tipos de identidades:
+			- por ejemplo, el acento se usa para indicar origen geográfico
   
