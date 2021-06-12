@@ -465,5 +465,233 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- speakers draw on repertoires of semiotic resources
 				- language is best understood as a social practice
 
-- Clase 4 
+- Clase 4: 16.03
+- **  
+  
+
+PRÓXIMA CLASE: LEER EJEMPLOS
+
+LEER ARTÍCULO SOBRE LA TEORÍA TRANSLANGUAGING (OFELIA GARCÍA) TIENE EL ARTÍCULO EN INGLÉS Y ESPAÑOL - LEERLO EN ESPAÑOL
+
+El artículo para el examen es el de pennycook: sobre el etiquetismo
+
+  
+  
+  
+
+16.03.2021
+
+  
+
+Repertorio: forma de comunicar compartidas
+
+  
+
+Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
+
+La óptica del estructuralismo es estática 
+
+  
+
+Muchas veces pueden ser claros los límites, otras veces difusos
+
+Los límites pueden ser más difusos
+
+  
+
+Qué tienen en común estas etiquetas? 
+
+Mobility turn, marco en el que estamos ubicando estos fenómenos
+
+  
+
+Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
+
+Trans: pasaje de una lengua a otra. Atraviesan varias formas
+
+  
+  
+
+Énfasis no en el sistema sino en la práctica social.
+
+Elemento de identidad que las une. Parte de la entidad de latina, de Milán
+
+Los individuos hacen uso de recursos para crear su propio espacio. Abrir un grupo de whatsapp es abrir un espacio de comunicación, que nos deja comunicar con determinadas características/ prácticas
+
+  
+
+Trans: se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
+
+  
+
+Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
+
+La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
+
+Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
+
+Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
+
+Códigos semióticos, formas, manos, etc.
+
+  
+
+Repertorio: conjunto de posibilidades. No es la lengua, porque la lengua se vincula con la estructura. La idea es traspasar esa barrera
+
+Énfasis sobre todo discursivo, no estructural
+
+Los repertorios son individuales.
+
+En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: 
+
+  
+  
+  
+
+Alemán estándar: en el trabajo, en la calle
+
+Español estándar: amigxs suizos que hablan español, trabajo y universidad
+
+Español rioplatense: grupos de whatsapp
+
+Inglés estándar: 
+
+  
+
+Estas teorías quieren sobre todo realzar la agentividad del hablante. Cómo hace el hablante para comunicar?
+
+Tb: la voz 
+
+  
+  
+
+Giannina braschi: yo-yo boing (1998)
+
+  
+
+Escrita enteramente en español e inglés
+
+  
+
+Pero los repertorios tb pueden usarse para fines comerciales 
+
+  
+  
+
+La teoría de translenguar
+
+  
+
+Marco en la lingüística aplicada a la enseñanza bilingüe
+
+  
+
+Atravesar sistemas y espacios, viendolos como fluidos
+
+  
+
+Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
+
+  
+
+Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
+
+  
+
+Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
+
+  
+
+Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos cultura so tres o cuatro
+
+  
+
+El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
+
+  
+
+Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
+
+El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más monolingüe
+
+Pero depende del contexto. Los repertorios se mueven en un continuum del mono al bilingüismo
+
+  
+
+Esta teoría es mucho más aceptara que el translanguaging
+
+  
+
+El translanguaging dice que no hay separación en el cerebro de un bilingüe. Esto en general es rechazado. 
+
+  
+
+No hay barrera entre lenguas, solo repertorios
+
+  
+
+Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
+
+  
+
+García y Wei: toman de estas teorías 
+
+El bilingue tiene formas diferentes de comunicar que el monolingúe (aspectos cognitivos)
+
+Concepto
+
+  
+
+Situación de las lenguas en un continuum
+
+  
+
+Rechazo de categorías estructurales de los años sessenta y setenta 
+
+  
+  
+
+Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como  una especie de problemática)
+
+  
+  
+
+No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno.
+
+  
+
+No hablamos de sistemas si no de repertorios
+
+  
+
+Un solo repertorio compuesto de elementos diferentes?  García dice que es solo una “caja”
+
+Grosjean dice que no, que tenemos dos cajas, pero que están en contacto continuo.
+
+La teoría del translanguaging es más radical
+
+  
+  
+
+Dar la vuelta y que el monolingüe deje de ser la norma. Bilingüismo aditivo, sustractivo etc, parte de la idea de que las personas hablan una lengua y todo lo demás es la desviación. La propuesta es no partir del monolingüe como el “normal”, sino que se parta de la idea de que se habla seguramente más de una lengua
+
+  
+
+En el estructuralismo estamos partiendo de la idea del hablante monolingüe como norma, y tb la idea de la lengua estándar.
+
+En cambio estas teorías proponen partir del repertorio en que la persona se mueve y después proponer ampliar el repertorio para otras situaciones sociales.
+
+La idea es partir de una concepción más compleja. Tener en cuenta la complejidad del hablante bilingüe (esta palabra es muy importante)
+
+  
+
+Interacción constante entre nuestro repertorios y las personas con las que estamos comunicando.
+
+  
+
+Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
+
+Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
+
+**
 
