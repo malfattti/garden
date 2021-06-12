@@ -647,5 +647,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- terminar con la creencia de que las lenguas deben mantenerse separadas a toda costa
 				- no solo el profesorado bilingüe puede hacer uso del trasnlanguaging
 					- un profesor que en un aula multilingüe utilice algunas palabras en las lenguas de los estudiantes aunque no sepa hablarlas, ya es un modelo para que el alumnado se lance a hablar en su lengua más "débil"
-					- 
+				- incorporación del translanguaging en la evaluación
+				- impuslar el translanguaging desde una perspectiva oficial
   
