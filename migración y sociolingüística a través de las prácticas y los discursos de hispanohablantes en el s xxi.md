@@ -426,6 +426,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- employing transdisciplinary perspectives on society and cognition
 			- another origin: Bakhtin's heteroglossia
 		- **poly-metro and other terms**
-			- Polylingual instead of bi- or multilingual: focus on all linguistic resources available to the speaker instead of juxtaposition of languages and separabilit
+			- Polylingual instead of bi- or multilingual: focus on all linguistic resources available to the speaker instead of juxtaposition of languages and separability of linguistic categories
+			- 
 		- evaluation of frameworks
 
