@@ -642,5 +642,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- conclusiones
 			- hacen falta más estudios que evalúen el efecto del translanguaging en diferentes contextos
 			- puesta en marcha y evaluación
-			- el translanguaging es un concepto ideológico que va más allá del aula porque presenta una visión más moderna del bilingüismo en el que las lenguas interactúan 
+			- el translanguaging es un concepto ideológico que va más allá del aula porque presenta una visión más moderna del bilingüismo en el que las lenguas interactúan simultáneamente
+			- retos futuros:
+				- fin
   
