@@ -542,8 +542,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- no es solamente un espacio de mezcla o hibridación, sino de una revitalización del "languaging" con nuevas posibilidades desde un lugar de creatividad y poder
 				- idea de transformación y reescritura en este acto
 				- teoría transdisciplinaria: prácticas lingüísticas y educativas + relaciones y estructuras sociales (foco más amplio)
-		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
-		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
+		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés
+			- *trawsieithu* (Cen Williams)
+			- dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
+			- los conceptos de 
 		- 
 		- Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
 			- El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más bilingüe
