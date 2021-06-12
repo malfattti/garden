@@ -622,6 +622,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- escuela separada, solo estudiantes latinxs
 				- duración de 4 añoa (período más largo, resultados óptimos) -->política lingüística bien desarrollada
 				- apoyo de una comunidad muya ctiva
-			- aplicación de bilingüismo din
+			- aplicación de bilingüismo dinámico tiene en cuenta las diferentes prácticas lingüísticas generadas a través del translanguaging
+				- las lenguas no se 
 		- microcontexto 
   
