@@ -548,7 +548,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- los conocimientos de las dos lenguas de los hablantes se explotan para crear sentido
 			- las lenguas se conciben interactuando mutuamente, pero se trata de lenguas separadas
 		- Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
-			- El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más bilingüe
+			- El bilingüe tiene dos sistemas intercomunicados entre si (uno de base + otro más)
+			- de acuerdo con la situación el hablante activa uno u otro modo: el más monolingüe o el más bilingüe
 			- Pero depende del contexto. Los repertorios se mueven en un continuum del mono al bilingüismo
 			- Esta teoría es mucho más aceptada que el translanguaging
 			- El translanguaging dice que no hay separación en el cerebro de un bilingüe. Esto en general es rechazado. 
