@@ -433,7 +433,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- enregisterment and metrolingualism: terms to focus on:
 				- 1. youth street language: fluid and also fixed as locally used and recognized register
 				- 2. linguistic resources in relation to the city: how the spaces and ruthm of the city influence language use
-			- 
+			- Mobility is a great challenge: superdiversit
 			- 
 			- 
 		- evaluation of frameworks
