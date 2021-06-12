@@ -619,5 +619,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- handicap: los estudiantes no tienen tiempo suficiente para aprender el lenguaje académico que necesitan
 			- el instituto se distingue por:
 				- enseñanza de contenidos en español + alfabetización en español
+				- escuela separada, solo estudiantes latinxs
+				- duración de 4 añoa (período más largo, resultados óptimos)
+			- 
 		- microcontexto 
   
