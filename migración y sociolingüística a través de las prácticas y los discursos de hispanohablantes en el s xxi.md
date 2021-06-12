@@ -640,5 +640,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- profesorado de origen dominicano recurre al bagaje cultural común
 			- el modo de enseñanza se sustenta en investigaciones que sugieren que los estudiantes que aprenden en su lengua minoritaria obtienen mejores resultados en las pruebas de inglés que tienes solo reciben instrucción en ingles
 		- conclusiones
-			- hacen falta más estu
+			- hacen falta más estudios que evalúen el efecto del translanguaging en diferentes contextos
+			- puesta en marcha y evaluación
   
