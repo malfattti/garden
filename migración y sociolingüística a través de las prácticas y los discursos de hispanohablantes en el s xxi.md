@@ -481,7 +481,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Entre las nuevas teorías podemos nombrar:
 		- prácticas **trans**idiomáticas (Jaquemet)
 		- **poli**lingialismo (Jørgensen)
-		- Metrolingualismo 
+		- **Metro**lingualismo (Otsuji & Pennycook)
+		- **Multi**vocalidad (Higgings)
+		- **codemeshing** y prácticas **trans**lingües
 	- Qué tienen en común estas etiquetas? 
 	- Mobility turn, marco en el que estamos ubicando estos fenómenos
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
