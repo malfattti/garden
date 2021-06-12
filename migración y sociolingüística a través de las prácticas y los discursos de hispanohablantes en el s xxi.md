@@ -487,7 +487,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Qué tienen en común estas etiquetas? 
 		- Mobility turn, marco en el que estamos ubicando estos fenómenos
 		- subrayan formas de comunicación que se originan en la **diversidad** (prefijos)
-		- intensión de ir más allá d
+		- intención de ir más allá de la categoría lengua y sus términos afines
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
 	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
 	- Énfasis no en el sistema sino en la práctica social.
