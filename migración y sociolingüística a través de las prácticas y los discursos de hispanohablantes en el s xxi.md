@@ -563,7 +563,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- el bilingue tiene formas diferentes de comunicar que el monolingüe 
 	- Énfasis en las funciones: más que en formas o estructuras
 	- Situación de las lenguas en un continuum
-	- Rechazo de categorías estructurales de los años sessenta y setenta 
+	- Rechazo de categorías estructurales de los años sesenta y setenta 
 	- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
 	- No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno.
 	- No hablamos de sistemas si no de repertorios
