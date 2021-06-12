@@ -448,5 +448,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			-	integrationalist approach: we move across languages and with means beyond language 
 			-	within all this new jargon, traditional terms are still being used 
 				-	transgression ends up reinforcing the same boundaries it aims to cross
-			- code switching: a term very much criticized by the new approach, but whose original 
+			- code switching: a term very much criticized by the new approach, but whose original meaning was much more 
 
