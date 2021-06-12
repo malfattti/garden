@@ -466,24 +466,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- language is best understood as a social practice
 
 - Clase 4: 16.03
-- **  
-  
 
-PRÓXIMA CLASE: LEER EJEMPLOS
-
-LEER ARTÍCULO SOBRE LA TEORÍA TRANSLANGUAGING (OFELIA GARCÍA) TIENE EL ARTÍCULO EN INGLÉS Y ESPAÑOL - LEERLO EN ESPAÑOL
-
-El artículo para el examen es el de pennycook: sobre el etiquetismo
-
-  
-  
-  
-
-16.03.2021
-
-  
-
-Repertorio: forma de comunicar compartidas
+	- Repertorio: forma de comunicar compartidas
 
   
 
