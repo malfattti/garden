@@ -545,8 +545,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés
 			- *trawsieithu* (Cen Williams)
 			- dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
-			- los conceptos de 
-		- 
+			- los conocimientos de las dos lenguas de los hablantes se explotan para crear sentido
+			- las lenguas se conciben interactuando mutuamente, pero se trata de lenguas separadas
 		- Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
 			- El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más bilingüe
 			- Pero depende del contexto. Los repertorios se mueven en un continuum del mono al bilingüismo
