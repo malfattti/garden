@@ -651,7 +651,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- impuslar el translanguaging desde una perspectiva oficial
 
 - Clase 5 23.03: Identidad y lenguaje
-	- el uso y la variación de la lengua est;an profundamente vinculados con los procesos de construcción y representación de la identidad
+	-	Diferencia entre lengua y lenguaje:
+		-	Lenguaje: todas las posibilidades de comunicar. Dentro de las nu
+	- el uso y la variación de la lengua están profundamente vinculados con los procesos de construcción y representación de la identidad
 	- las identidades se transmiten y se negocian a partir de elementos semióticos y en los discursos
 	- **relación dialéctica** entre las percepciones y las construcciones de las identidades a través de los diferentes recursos semióticos
 	- la identidad es un término resbaladizo
