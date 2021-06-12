@@ -439,7 +439,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- move away from talking about languages as separate identities
 			- focus on repertoires of linguistic and non linguist resources and on language practices
 			- focus on agency and processes
-			- focus on individual accumulation rather than 
+			- focus on individual accumulation rather than community resources
+		- **evaluation of frameworks**
 			- 
-		- evaluation of frameworks
 
