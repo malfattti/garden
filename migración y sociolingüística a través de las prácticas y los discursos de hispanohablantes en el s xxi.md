@@ -600,5 +600,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Español rioplatense: grupos de Whatsapp
 - Artículo Lasagabaster & García (2014)
 	- Programas bilingües --> premisas aceptadas como la separación de las lenguas en contacto
-	- 
+		- interferencia negativa entre las enguaes que se están aprendiendo
   
