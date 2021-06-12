@@ -559,8 +559,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- de acuerdo al contexto, el tópico y los factores interaccionales el bilingüe selecciona unos elementos de su repertorios (activa más o menos su modo de hablar bilingüe)
 - García y Wei: toman de estas teorías:
 	- Énfasis en la interacción entre lenguas
-	- Énfasis en los aspectos cognitivos: e
-		- el bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
+	- Énfasis en los aspectos cognitivos:
+		- el bilingue tiene formas diferentes de comunicar que el monolingüe 
+	- Énfasis en las funciones: más que en formas o estructuras
 	- Situación de las lenguas en un continuum
 	- Rechazo de categorías estructurales de los años sessenta y setenta 
 	- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
