@@ -529,9 +529,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- ir más allá de las lenguas concebidas como sistemas finitos y discretos
 			- prácticas fluidas que van entre y más allá de sistemas educativos y lingüísticos, estructuras y prácticas construidos socialmente... para captar los múltiples sistemas y subjetividades que generan sentido de los estudiantes
 		- Teoría centrada en el ámbito de la lingüística aplicada
-		- Una teoría transformadora de las prácticas lingüísticas 
-		- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
-		- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
+		- Una teoría transformadora de las prácticas lingüísticas imperantes, con el objetivo de cambiar no solo las subjetividades, sino las estructuras sociales y los regímenes impuestos con el fin de **dar voz a las minorías**
+			- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
+			- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
 		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
