@@ -457,5 +457,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- at the same time, bilingualism has been painted in amore positive light, but remained static
 			- the trans- prefix offfers a less static and less compartimentalized view on language than the multi- one
 			- it is important to keep in mind that previous approaches, such as integrationalism, have done similar things
-			- 
+			- one can either reclaim the idea that bilingualism is a dynamic term, or nvent new vocabulary that reflects this today
+				- since our perception of reality is linguistically mediated, this may be necessary
+				
 
