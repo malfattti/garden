@@ -522,6 +522,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Este concepto de voz refleja el aspecto experiencial y práctico del lenguaje 
 						- cómo y para qué los individuos despliegan sus recursos semióticos en las prácticas comunicativas en las que participan 
 	- La teoría de translenguar (Ofelia García 2008, Li Wei, 2014 + García y Otheguy 2015)
+		- Ofelia García es de origen cubano y su objetivo con esta teoría era hacer más sostenible la enseñanza del español en EEUU
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Atravesar sistemas y espacios, viendolos como fluidos
 		- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
