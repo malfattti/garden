@@ -476,7 +476,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- en este contexto, las lenguas se entienden como entidades discretas sujetas a un modelo ideal (estándares)
 	- a partir del postestructuralismo de la era posmoderna, la comunicación se entiende como una práctica social
 		- las personas desarrollan esta práctica social en una red de relaciones sociales y cognitivas a través de un conjunto de elementos semióticos (repertorios)
-	- dentro de las corrientes sociolingüísticas enfocadas en la movilidad surgen nuevas teorías que
+	- dentro de las corrientes sociolingüísticas enfocadas en la movilidad surgen nuevas teorías que comprenden las prácticas multilingües desde una perspectiva nueva donde se subraya la movilidad de personas y de sus formas de comuniación --> complejidad en vez de estatismo
 
 - Repertorio lingüístico: forma de comunicar compartidas
 	
