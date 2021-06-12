@@ -572,6 +572,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
 		- Ante estos conceptos, la teoría de translenguar propone un **bilingüismo dinámico**: No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno, que depende del manejo individual del repertorio lingüístico y semiótico del hablante 
 	- No hablamos de sistemas si no de repertorios
+		- no son dos lenguas separadas, ni síntesis de prácticas lingüísticas separadas, ni prácticas híbridas resultantes de la mezcla entre lenguas
+		- no puede hablarse de contacto entre 
 	- Un solo repertorio compuesto de elementos diferentes?  García dice que es solo una “caja”
 	- Grosjean dice que no, que tenemos dos cajas, pero que están en contacto continuo.
 - La teoría del translanguaging es más radical
