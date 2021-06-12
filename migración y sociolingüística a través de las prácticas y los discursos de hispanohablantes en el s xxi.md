@@ -668,7 +668,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- las sociales se refieren a la pertenencia a grupos sociales que se basan en género, edad, etnia, origen, etc
 		- estas categorías no son siempre claras en la práctica
 		- la identidad individual siempre forma parte de una identidad social, y son varias
-	- 
+	- el concepto de identidad lingüística ha ido evolucionando en el tiempo:
+		- 
   
 **
 
