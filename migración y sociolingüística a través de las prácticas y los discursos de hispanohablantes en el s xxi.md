@@ -467,7 +467,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Clase 4: 16.03: 
 	- Nuevas teorías lingüísticas del contacto
-	- 
+		- Migración no implica solamente el movimiento geográfico de personas, sino la movilidad de recursos lingüísticos y semióticos (por ejemplo, gestos, aspecto kinésico, humor, etc.)
+		- 
 	- Repertorio lingüístico: forma de comunicar compartidas
 	
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
