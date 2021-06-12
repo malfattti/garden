@@ -471,10 +471,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Las definiciones tradicionales del estructuralismo en torno a monolongüismo, bilingüismo, etc., no parecen ser útiles para entender prácticas semióticas porque parten de una idea estática de la lengua
 			- la teoría del cambio de código: explica aspectos estructurales (por ejemplo, cuándo es permisible hacer code-switching), pero no sociales
 			- no es aplicada a la enseñanza, mientras que estas nuevas teorías surgen en ese contexto y de esa necesidad
-	- Repertorio lingüístico: forma de comunicar compartidas
-	
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
-	- La óptica del estructuralismo es estática 
+	- La óptica del estructuralismo es estática, está enmarcada en su tiempo y refleja planteamientos 
+
+- Repertorio lingüístico: forma de comunicar compartidas
+	
+
 	- Muchas veces pueden ser claros los límites, otras veces más difusos
 	- Qué tienen en común estas etiquetas? 
 	- Mobility turn, marco en el que estamos ubicando estos fenómenos
