@@ -411,7 +411,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- new terminology that is considered as post-Fishmanian
 		- desire to move away from approaches that consider languages as discrete entities (such as biligualism or multilingualism)
 	- overview of these frameworks:
-		- translanguaging
+		- **translanguaging**
 			- translingual practices as umbrella term
 			- translanguaging turn?
 				- pedagogical and sociolinguistic impetus
@@ -425,6 +425,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- transforming current structures and practices
 				- employing transdisciplinary perspectives on society and cognition
 			- another origin: Bakhtin's heteroglossia
-	
+		- **poly-metro and other terms**
+			- 
 		- evaluation of frameworks
-	- poly-metro and 
+
