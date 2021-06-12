@@ -564,7 +564,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Énfasis en las funciones: más que en formas o estructuras
 - Situación de las lenguas en un continuum
 	- Rechazo de categorías estructurales de los años sesenta y setenta:
-		- concepción monoglósica
+		- concepción monoglósica que supone que el bilingüe es igual a dos monolingües en uno... conceptos de:
+			- bilingüismo equilibrado (dos sistemas lingüísticos con el mismo nivel de desarrallo)
+			- bilingüismo imperfecto (dos sistemas lingüísticos no desarrrollados en el mismo nivel)
+			- bilingüismo sustrativo (un sistema lingüístico cede ante otro)
+			- bilingüismo aditivo (a un sistema lingüístico se añade otro)
+			- 
 	- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
 	- No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno.
 	- No hablamos de sistemas si no de repertorios
