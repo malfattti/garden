@@ -514,9 +514,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- 	no es que no existan las estructuras, pero se pone el foco en las acciones sociales a través de los repertorios
 					- **Repertorio: conjunto de posibilidades. No es la lengua, porque la lengua se vincula con la estructura. La idea es traspasar esa barrera**
 					- Énfasis sobre todo discursivo, no estructural
-	- Los repertorios son individuales.
-	- Estas teorías quieren sobre todo realzar la agentividad del hablante. Cómo hace el hablante para comunicar? Tb: la voz 
-	- Giannina braschi: yo-yo boing (1998)
+					- Ejemplos:
+						- Giannina Braschi: Yo-yo boing (1998)
 		- Escrita enteramente en español e inglés
 	- Pero los repertorios tb pueden usarse para fines comerciales 
 	- La teoría de translenguar
