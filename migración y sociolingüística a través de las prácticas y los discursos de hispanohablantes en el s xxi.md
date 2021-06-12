@@ -557,8 +557,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
 			- es decir, hay módulos separados que interactúan entre sí en un proceso graduable
 			- de acuerdo al contexto, el tópico y los factores interaccionales el bilingüe selecciona unos elementos de su repertorios (activa más o menos su modo de hablar bilingüe)
-- García y Wei: toman de estas teorías 
-	- El bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
+- García y Wei: toman de estas teorías:
+	- Énfasis en la interacción entre lenguas
+	- Énfasis en los aspectos cognitivos: e
+		- el bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
 	- Situación de las lenguas en un continuum
 	- Rechazo de categorías estructurales de los años sessenta y setenta 
 	- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
