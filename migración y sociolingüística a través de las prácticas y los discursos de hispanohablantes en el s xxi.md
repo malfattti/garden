@@ -487,41 +487,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- **Repertorio: conjunto de posibilidades. No es la lengua, porque la lengua se vincula con la estructura. La idea es traspasar esa barrera**
 	- Énfasis sobre todo discursivo, no estructural
 	- Los repertorios son individuales.
-
-
-
-	- Archivo FS21 Migración prácticas translingües:
-En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: Alemán estándar: en el trabajo, en la calle
-
-Español estándar: amigxs suizos que hablan español, trabajo y universidad
-
-Español rioplatense: grupos de Whatsapp
-
-Inglés estándar: 
-
-  
-
-Estas teorías quieren sobre todo realzar la agentividad del hablante. Cómo hace el hablante para comunicar?
-
-Tb: la voz 
-
-  
-  
-
-Giannina braschi: yo-yo boing (1998)
-
-  
-
-Escrita enteramente en español e inglés
-
-  
-
-Pero los repertorios tb pueden usarse para fines comerciales 
-
-  
-  
-
-La teoría de translenguar
+	- Estas teorías quieren sobre todo realzar la agentividad del hablante. Cómo hace el hablante para comunicar? Tb: la voz 
+	- Giannina braschi: yo-yo boing (1998)
+		- Escrita enteramente en español e inglés
+	- Pero los repertorios tb pueden usarse para fines comerciales La teoría de translenguar
 
   
 
@@ -638,3 +607,14 @@ Esta teoría es ampliamente programática y busca quitar el estigma es una base 
 
 **
 
+
+
+
+
+	- Archivo FS21 Migración prácticas translingües
+		- En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: Alemán estándar: en el trabajo, en la calle
+		- Español estándar: amigxs suizos que hablan español, trabajo y universidad
+		- Español rioplatense: grupos de Whatsapp
+
+
+  
