@@ -626,5 +626,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- las lenguas no se mantienen separadas
 				- el objetivo no es alcanzar una competencia de hablante nativo
 				- aprendizaje a través del uso de la lengua en contextos específicos
+					- inmersos en una comunidad de hablantes que está aprendiendo, no compiten con hablantes nativos
 		- microcontexto 
   
