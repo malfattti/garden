@@ -652,7 +652,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Clase 5 23.03: Identidad y lenguaje
 	-	Diferencia entre lengua y lenguaje:
-		-	Lenguaje: todas las posibilidades de comunicar. Dentro de las nu
+		-	Lenguaje: todas las posibilidades de comunicar. Dentro de las nuevas teorías, lenguaje implica todo tipo de comunicación semiótica
+		-	Lengua: sistema, los sistemas lingüísticos que llevan etiquetas. Suponen sistemas cerrados
 	- el uso y la variación de la lengua están profundamente vinculados con los procesos de construcción y representación de la identidad
 	- las identidades se transmiten y se negocian a partir de elementos semióticos y en los discursos
 	- **relación dialéctica** entre las percepciones y las construcciones de las identidades a través de los diferentes recursos semióticos
