@@ -502,22 +502,23 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- Según esta visión la comunicación es un conjunto de recursos (códigos semióticos, géneros, registros) que el hablante usa para expresarse
 				- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 			- TRES CARACTERÍSTICAS COMPARTIDAS POR TODAS ESTAS TEORÍAS:
-				- **acto comunicativo como un despliegue de repertorios y no de lenguas**
+				- 1. **acto comunicativo como un despliegue de repertorios y no de lenguas**
 					- los hablantes no tienen competencias separadas por lenguajes etiquetados separadamente
 					- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 					- **los repetorios son individuales**, dependen tanto de las situaciones como de las experiencias comunicativas de los hablantes 
 					- 	los repertorios incluyen recursos lingüísticos, semióticos y socioculturales que se emplean en la comunicación
 						- 	el lenguaje es solo un recurso semiótico entre muchos
 						- 	los repertorios no solo incluyen lenguas, variedades y registros, sino gestos, ropa, posturas, rutinas gestuales y kinésicas
-				- 	Estas teorías se enfocan en la **agentividad de los hablantes**, en vez de en la estructura de los repertorios
+				- 	2. Estas teorías se enfocan en la **agentividad de los hablantes**, en vez de en la estructura de los repertorios
 					- 	qué quieren comunicar los hablantes, con quién y para qé
 					- 	no es que no existan las estructuras, pero se pone el foco en las acciones sociales a través de los repertorios
 					- **Repertorio: conjunto de posibilidades. No es la lengua, porque la lengua se vincula con la estructura. La idea es traspasar esa barrera**
 					- Énfasis sobre todo discursivo, no estructural
 					- Ejemplos:
 						- Giannina Braschi: Yo-yo boing (1998)
-		- Escrita enteramente en español e inglés
-	- Pero los repertorios tb pueden usarse para fines comerciales 
+						- Escrita enteramente en español e inglés
+						- Pero los repertorios tb pueden usarse para fines comerciales 
+				- 3. 
 	- La teoría de translenguar
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Atravesar sistemas y espacios, viendolos como fluidos
