@@ -499,8 +499,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
 			- Estas teorías entienden la comunicación como una práctica heteroglósica
 				- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
-				- Según 
-		- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
+					- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
+				- Según esta visión la comunicación es un conjunto de recursos (códigos semióticos, géneros, registros) que el hablante usa para expresarse
+				
 	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 	- Códigos semióticos, formas, manos, etc.
