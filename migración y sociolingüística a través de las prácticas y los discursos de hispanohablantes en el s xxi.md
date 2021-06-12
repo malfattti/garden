@@ -618,6 +618,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- estudiantes dominicanos
 			- handicap: los estudiantes no tienen tiempo suficiente para aprender el lenguaje académico que necesitan
 			- el instituto se distingue por:
-			- OFRECER CLASES
+				- enseñanza de contenidos en español + alfabetización en español
 		- microcontexto 
   
