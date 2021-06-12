@@ -581,6 +581,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- En el estructuralismo estamos partiendo de la idea del hablante monolingüe como norma, y tb la idea de la lengua estándar.
 	- En cambio estas teorías proponen partir del repertorio en que la persona se mueve y después proponer ampliar el repertorio para otras situaciones sociales.
 	- La idea es partir de una concepción más compleja. Tener en cuenta la complejidad del hablante bilingüe (esta palabra es muy importante)
+	- **Translenguar es un mecanismo comunicativo que ponen en acción los hablantes de manera contextual**
 	- Interacción constante entre nuestro repertorios y las personas con las que estamos comunicando.
 	- Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
 	- Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
