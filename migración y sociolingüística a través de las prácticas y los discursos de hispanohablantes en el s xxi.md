@@ -499,36 +499,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
 		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
-
-  
-
-Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
-
-El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más monolingüe
-
-Pero depende del contexto. Los repertorios se mueven en un continuum del mono al bilingüismo
-
-  
-
-Esta teoría es mucho más aceptara que el translanguaging
-
-  
-
-El translanguaging dice que no hay separación en el cerebro de un bilingüe. Esto en general es rechazado. 
-
-  
-
-No hay barrera entre lenguas, solo repertorios
-
-  
-
-Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
-
-  
-
-García y Wei: toman de estas teorías 
-
-El bilingue tiene formas diferentes de comunicar que el monolingúe (aspectos cognitivos)
+		- Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
+			- El bilingüe tiene dos sistemas intercomunicados entre si y de acuerdo con la situación el hablante activa activa uno u otro modo: el más monolingüe o el más bilingüe
+			- Pero depende del contexto. Los repertorios se mueven en un continuum del mono al bilingüismo
+			- Esta teoría es mucho más aceptada que el translanguaging
+			- El translanguaging dice que no hay separación en el cerebro de un bilingüe. Esto en general es rechazado. 
+			- No hay barrera entre lenguas, solo repertorios
+			- Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
+- García y Wei: toman de estas teorías 
+- El bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
 
 Concepto
 
