@@ -469,7 +469,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Nuevas teorías lingüísticas del contacto
 		- Migración no implica solamente el movimiento geográfico de personas, sino la movilidad de recursos lingüísticos y semióticos (por ejemplo, gestos, aspecto kinésico, humor, etc.)
 		- Las definiciones tradicionales del estructuralismo en torno a monolongüismo, bilingüismo, etc., no parecen ser útiles para entender prácticas semióticas porque parten de una idea estática de la lengua
-			- la teoría del cambio de código:
+			- la teoría del cambio de código: explica aspectos estructurales (por ejemplo, cuándo es permisible hacer code-switching), pero no sociales
+			- no es aplicada a la enseñanza, mientras que estas nuevas teorías surgen en ese contexto y de esa necesidad
 	- Repertorio lingüístico: forma de comunicar compartidas
 	
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
