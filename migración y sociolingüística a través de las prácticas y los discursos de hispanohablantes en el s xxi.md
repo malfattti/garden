@@ -453,5 +453,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- the new terms cannot in the end escape the idea of languages
 		- **Conclusion**
 			- paradox: sociolinguistics have at the same time promoted an idea of tolerant diversity while also remaining in the same terminological terrain as static language ideologies
-				- bilingualism is still seen by many sociolinguists as 
+				- bilingualism is still seen by many sociolinguists as abnormal and dangerous
+				- at the same time, bilingualism has been painted in amore positive light, but remained static
+			- the rans- prefiz offfers a
 
