@@ -613,6 +613,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- aplicable a cualquier situación de bilingüismo, no solo en el caso de equilibrio entre las dos lenguas
 			- diferencia enrte code-switching y translanguaging
 		- mesocontexto
-			- instituto Gregorio Luperón
+			- instituto Gregorio Luperón, Washington Heights, NY
+			- contexto de alta migración proveniente de Latinoamérica
 		- microcontexto 
   
