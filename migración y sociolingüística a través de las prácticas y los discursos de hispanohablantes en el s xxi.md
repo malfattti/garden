@@ -475,7 +475,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- La óptica del estructuralismo es estática, está enmarcada en su tiempo y refleja planteamientos discretos vinculados con la ideologia del Estado-nación decimonónica
 		- en este contexto, las lenguas se entienden como entidades discretas sujetas a un modelo ideal (estándares)
 	- a partir del postestructuralismo de la era posmoderna, la comunicación se entiende como una práctica social
-		- las personas desarrollan esta práctica social en una red de relaciones sociales y cogniticas
+		- las personas desarrollan esta práctica social en una red de relaciones sociales y cognitivas a través de un conjunto de elementos semióticos (repertorios)
+	- dentro de las corrientes sociolingüísticas enfocadas en la movilidad surgen nuevas teorías que
 
 - Repertorio lingüístico: forma de comunicar compartidas
 	
