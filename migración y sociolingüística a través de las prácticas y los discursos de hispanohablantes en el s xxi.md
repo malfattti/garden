@@ -536,6 +536,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- foco en el lenguaje como tipo de acción, en los aspectos sociales y simbólicos se las prácticas multilingües y sacar el enfoque de los rasgos formales del lenguaje
 			- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
+		- Orígenes de la teoría:
+			- Tercer espacio de Soja
+				- crítica de las estructuras binarias y prpuesta de crear nuevos discursos y conocimientos en un tercer espacio
+		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
 		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
 		- 
 		- Otra teoría que es importante en el translanguaging es la de Francois Grosjean (suizo 2008)
