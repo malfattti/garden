@@ -604,6 +604,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Sin embargo, estudios más recientes rebaten esta visión de las lenguas como compartimentos estancos
 	- En este artículo se plantea una idea dinámica de bilingüismo
 		- macrocontexto
+			- translanguaging 
 		- mesocontexto
 		- microcontexto 
   
