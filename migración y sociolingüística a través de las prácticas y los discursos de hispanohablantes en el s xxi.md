@@ -472,7 +472,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- la teoría del cambio de código: explica aspectos estructurales (por ejemplo, cuándo es permisible hacer code-switching), pero no sociales
 			- no es aplicada a la enseñanza, mientras que estas nuevas teorías surgen en ese contexto y de esa necesidad
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
-	- La óptica del estructuralismo es estática, está enmarcada en su tiempo y refleja planteamientos 
+	- La óptica del estructuralismo es estática, está enmarcada en su tiempo y refleja planteamientos discretos vinculados con la ideologia del Estado-nación decimonónica
+		- en este contexto, las lenguas se entienden como entidades discretas sujetas a un modelo ideal (estándares)
+		- 
 
 - Repertorio lingüístico: forma de comunicar compartidas
 	
