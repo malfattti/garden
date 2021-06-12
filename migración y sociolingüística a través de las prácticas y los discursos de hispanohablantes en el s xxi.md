@@ -438,7 +438,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- These terms in general entail...
 			- move away from talking about languages as separate identities
 			- focus on repertoires of linguistic and non linguist resources and on language practices
-			- 
+			- focus on agency and processes
+			- focus on individual accumulation rather than 
 			- 
 		- evaluation of frameworks
 
