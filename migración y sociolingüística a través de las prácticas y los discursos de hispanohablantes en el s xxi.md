@@ -434,7 +434,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- 1. youth street language: fluid and also fixed as locally used and recognized register
 				- 2. linguistic resources in relation to the city: how the spaces and ruthm of the city influence language use
 			- Mobility is a great challenge: superdiversity and supervernacular:
-				- problematic terms (erasure of inequalities, discriminatiosn, etc.) and problematic use of the super-
+				- problematic terms (erasure of inequalities, discriminatiosn, etc.) and problematic use of the super- prefix
 			- 
 			- 
 		- evaluation of frameworks
