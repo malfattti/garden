@@ -426,6 +426,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- employing transdisciplinary perspectives on society and cognition
 			- another origin: Bakhtin's heteroglossia
 		- **poly-metro and other terms**
-			- 
+			- Po
 		- evaluation of frameworks
 
