@@ -520,6 +520,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- Pero los repertorios tb pueden usarse para fines comerciales 
 				- 3. Al quitarse el foco de la estructura como unidades discretas pertenecientes a lenguas distintas, y centrarse en la agentividad, surge el concepto etnográfico de la voz (su origen es Bajtin)
 					- Este concepto de voz refleja el aspecto experiencial y práctico del lenguaje 
+						- cómo y para qué los individuos despliegan sus recursos semióticos en las prácticas comunicativas en las que participan 
 	- La teoría de translenguar
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Atravesar sistemas y espacios, viendolos como fluidos
