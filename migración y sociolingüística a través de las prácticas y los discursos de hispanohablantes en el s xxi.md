@@ -615,5 +615,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- mesocontexto
 			- instituto Gregorio Luperón, Washington Heights, NY
 			- contexto de alta migración proveniente de Latinoamérica
+			- estudiantes dominicanos
+			- handicap: los
 		- microcontexto 
   
