@@ -431,7 +431,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- emphasis on features
 			- Blommaert's truncated multilingualism: idea of a partial competence of a broader linguistic repertoire
 			- enregisterment and metrolingualism: terms to focus on:
-				- youth street language: fluid and 
+				- youth street language: fluid and also fixed as locally used
 			- 
 		- evaluation of frameworks
 
