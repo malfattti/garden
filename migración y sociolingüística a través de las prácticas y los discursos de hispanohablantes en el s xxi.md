@@ -443,5 +443,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- **evaluation of frameworks**
 			- paradigm shift?
 			- or just new jargon for concepts that have been developed before?
-				- Bakthin's 'hetergo'
+				- Bakthin's 'heteroglossia': focus on voices and variability of speech, and not languages
+				- unnecessary to create new 
 
