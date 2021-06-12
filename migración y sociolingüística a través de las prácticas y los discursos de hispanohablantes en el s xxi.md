@@ -573,11 +573,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Ante estos conceptos, la teoría de translenguar propone un **bilingüismo dinámico**: No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno, que depende del manejo individual del repertorio lingüístico y semiótico del hablante 
 	- No hablamos de sistemas si no de repertorios
 		- no son dos lenguas separadas, ni síntesis de prácticas lingüísticas separadas, ni prácticas híbridas resultantes de la mezcla entre lenguas
-		- no puede hablarse de contacto entre 
+		- no puede hablarse de contacto entre lenguas, sino de un solo repertorio compuesto por elementos de diferentes fuentes
 	- Un solo repertorio compuesto de elementos diferentes?  García dice que es solo una “caja”
 	- Grosjean dice que no, que tenemos dos cajas, pero que están en contacto continuo.
 - La teoría del translanguaging es más radical
-	- Dar la vuelta y que el monolingüe deje de ser la norma. Bilingüismo aditivo, sustractivo etc, parte de la idea de que las personas hablan una lengua y todo lo demás es la desviación. La propuesta es no partir del monolingüe como el “normal”, sino que se parta de la idea de que se habla seguramente más de una lengua
+	- Dar la vuelta y que el monolingüe deje de ser la norma. Bilingüismo aditivo, sustractivo etc, parte de la idea de que las personas hablan una lengua y todo lo demás es la desviación. **La propuesta es no partir del monolingüe como el “normal”, sino que se parta de la idea de que se habla seguramente más de una lengua**
 	- En el estructuralismo estamos partiendo de la idea del hablante monolingüe como norma, y tb la idea de la lengua estándar.
 	- En cambio estas teorías proponen partir del repertorio en que la persona se mueve y después proponer ampliar el repertorio para otras situaciones sociales.
 	- La idea es partir de una concepción más compleja. Tener en cuenta la complejidad del hablante bilingüe (esta palabra es muy importante)
