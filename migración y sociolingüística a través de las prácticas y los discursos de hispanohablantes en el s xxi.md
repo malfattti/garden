@@ -446,4 +446,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- Bakthin's 'heteroglossia': focus on voices and variability of speech, and not languages
 				- unnecessary to create new terms
 			-	integrationalist approach: we move across languages and with means beyond language 
+			-	within all this new jargon, traditional terms are still being used 
+				-	transgression ends up reinforcing the same boundaries it aims to cross
+			- 
 
