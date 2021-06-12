@@ -585,6 +585,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Interacción constante entre nuestro repertorios y las personas con las que estamos comunicando.
 	- En vez de basar el aprendizaje de la lengua en las normas que debe seguir el hablante monolingüe ideal, la teoría del translenguar **privilegia una perspectiva centrada en el hablante real**.
 	- los bilingües no tienen mentes o acciones distintas a los monolingües, sino más complejas 
+		- esta forma de ver el bilingüismo se corresponde con los resultados actuales que muestra la psicolingüística
 	- Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
 	- Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
 
