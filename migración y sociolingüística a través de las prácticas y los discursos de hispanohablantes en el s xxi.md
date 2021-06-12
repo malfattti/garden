@@ -657,7 +657,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- la identidad es un término resbaladizo
 		- el lenguaje puede usarse para transmitir y construir distintos tipos de identidades:
 			- por ejemplo, el acento se usa para indicar origen geográfico
-			- diferentes elementos semióticos se usan para indicar el género de una eprsona
+			- diferentes elementos semióticos se usan para indicar el género de una persona
 	- identidad individual versus identidad social:
-		- las identidades personales 
+		- las identidades personales reflejan caracteristicas y atributos que el individuo considera que lo definen como una persona particular y 
   
