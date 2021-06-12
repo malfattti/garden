@@ -474,13 +474,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Qué tienen en común estas etiquetas? 
 	- Mobility turn, marco en el que estamos ubicando estos fenómenos
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
-
-Trans: pasaje de una lengua a otra. Atraviesan varias formas
-
-  
-  
-
-Énfasis no en el sistema sino en la práctica social.
+	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
+	- Énfasis no en el sistema sino en la práctica social.
 
 Elemento de identidad que las une. Parte de la entidad de latina, de Milán
 
