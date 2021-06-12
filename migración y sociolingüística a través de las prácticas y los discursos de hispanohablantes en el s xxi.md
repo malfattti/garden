@@ -644,5 +644,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- puesta en marcha y evaluación
 			- el translanguaging es un concepto ideológico que va más allá del aula porque presenta una visión más moderna del bilingüismo en el que las lenguas interactúan simultáneamente
 			- retos futuros:
-				- fin
+				- terminar con la creencia de que las lenguas deben mantenerse separadas a toda costa
+				- no solo el profesorado bilingüe puede hacer uso del trasnlanguaging
+					- un prof
   
