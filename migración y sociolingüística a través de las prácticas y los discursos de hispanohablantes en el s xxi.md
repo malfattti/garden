@@ -485,7 +485,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- **Multi**vocalidad (Higgings)
 		- **codemeshing** y prácticas **trans**lingües
 	- Qué tienen en común estas etiquetas? 
-	- Mobility turn, marco en el que estamos ubicando estos fenómenos
+		- Mobility turn, marco en el que estamos ubicando estos fenómenos
+		- subrayan formas de comunicación que se originan en la **diversidad** (prefijos)
+		- intensión de ir más allá d
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
 	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
 	- Énfasis no en el sistema sino en la práctica social.
