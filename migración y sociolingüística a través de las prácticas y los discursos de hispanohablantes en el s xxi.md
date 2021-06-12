@@ -455,5 +455,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- paradox: sociolinguistics have at the same time promoted an idea of tolerant diversity while also remaining in the same terminological terrain as static language ideologies
 				- bilingualism is still seen by many sociolinguists as abnormal and dangerous
 				- at the same time, bilingualism has been painted in amore positive light, but remained static
-			- the rans- prefiz offfers a
+			- the trans- prefix offfers a less static and less compartimentalized view on language than the multi- one
+			- 
 
