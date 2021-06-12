@@ -509,8 +509,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- 	los repertorios no solo incluyen lenguas, variedades y registros, sino gestos, ropa, posturas, rutinas gestuales y kinésicas
 				- 	Estas teorías se enfocan en la **agentividad de los hablantes**, en vez de en la estructura de los repertorios
 					- 	qué quieren comunicar los hablantes, con quién y para qé
-					- 	no es que no existan las estructuras, pero se pone el foco en 
-	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
+					- 	no es que no existan las estructuras, pero se pone el foco en las acciones sociales a través de los repertorios
+
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 	- Códigos semióticos, formas, manos, etc.
 	- **Repertorio: conjunto de posibilidades. No es la lengua, porque la lengua se vincula con la estructura. La idea es traspasar esa barrera**
