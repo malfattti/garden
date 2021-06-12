@@ -526,7 +526,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Los objetivos de la teoría se resumen bien en el prefijo trans-
 			- Atravesar sistemas y espacios, viendolos como fluidos
-			- prácticas fluidas que van entre y más allá de sistemas educativos y lingüísticos construidos socialmente
+			- prácticas fluidas que van entre y más allá de sistemas educativos y lingüísticos, estructuras y prácticas construidos socialmente... para 
 		- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
 		- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
