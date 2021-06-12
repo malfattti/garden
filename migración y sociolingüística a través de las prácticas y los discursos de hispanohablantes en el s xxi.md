@@ -661,7 +661,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- el lenguaje puede usarse para transmitir y construir distintos tipos de identidades:
 			- por ejemplo, el acento se usa para indicar origen geográfico
 			- diferentes elementos semióticos se usan para indicar el género de una persona
-		- 
+		- lenguaje en un sentido amplio: recursos comunicativos
+		- existen muchas facetas para manifestar 
 	- identidad individual versus identidad social:
 		- las identidades personales reflejan caracteristicas y atributos que el individuo considera que lo definen como una persona particular y única
 		- las sociales se refieren a la pertenencia a grupos sociales que se basan en género, edad, etnia, origen, etc
