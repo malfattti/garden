@@ -521,7 +521,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- 3. Al quitarse el foco de la estructura como unidades discretas pertenecientes a lenguas distintas, y centrarse en la agentividad, surge el concepto etnográfico de la voz (su origen es Bajtin)
 					- Este concepto de voz refleja el aspecto experiencial y práctico del lenguaje 
 						- cómo y para qué los individuos despliegan sus recursos semióticos en las prácticas comunicativas en las que participan 
-	- La teoría de translenguar (Ofelia García 2008, Li Wei, 2014 + García y Otheguy 2015)
+	- **La teoría de translenguar** (Ofelia García 2008, Li Wei, 2014 + García y Otheguy 2015)
 		- Ofelia García es de origen cubano y su objetivo con esta teoría era hacer más sostenible la enseñanza del español en EEUU
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Los objetivos de la teoría se resumen bien en el prefijo trans-
@@ -532,7 +532,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Una teoría transformadora de las prácticas lingüísticas imperantes, con el objetivo de cambiar no solo las subjetividades, sino las estructuras sociales y los regímenes impuestos con el fin de **dar voz a las minorías**
 			- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
 				- reconocer que los repertorios lingüísticos de las personas multilingües incluyen recursos distribuidos a través de las fronteras de lo que tradicionalmente se ha etiquetado como idiomas distintos
-				- cuando las personas multilingües interactúan, simplemente urilizan y combinan diferentes recursos de los que disponen, sin prestar 
+				- cuando las personas multilingües interactúan, simplemente urilizan y combinan diferentes recursos de los que disponen, sin prestar atención a qué lengua corresponden
+			- 
 			- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
