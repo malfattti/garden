@@ -492,11 +492,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- reconocer la complejidad de las prácticas bi-/ multilingües y que estas cambian de acuerdo a los espacios en que se llevan a cabo
 		- entender que los individuos usan un repertorio de recursos para crear un espacio propio
 			- Abrir un grupo de whatsapp es abrir un espacio de comunicación, que nos deja comunicar con determinadas características/ prácticas
+		- evitar no solo la dicotomía mono/multi-, sino también cuestionar la idea de que las lenguas son sistemas finitos
+			- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
+			- Trans: pasaje de una lengua a otra. Atraviesan varias formas
 
-- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
-	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
 
-	- Los individuos hacen uso de recursos para crear su propio espacio. 
 	- Trans: se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
 	- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
 		- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
