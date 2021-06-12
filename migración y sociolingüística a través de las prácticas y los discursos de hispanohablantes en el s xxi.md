@@ -539,7 +539,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Orígenes de la teoría:
 			- Tercer espacio de Soja
 				- crítica de las estructuras binarias y prpuesta de crear nuevos discursos y conocimientos en un tercer espacio
-				- no es solamente un espacio de mezcla o hibridación, sino de una revitalización del "lenguar"
+				- no es solamente un espacio de mezcla o hibridación, sino de una revitalización del "languaging" con nuevas posibilidades desde un lugar de creatividad y poder
+				- idea de transformación y reescritura en este acto
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
 		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
 		- 
