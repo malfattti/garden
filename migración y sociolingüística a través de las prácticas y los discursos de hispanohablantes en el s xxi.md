@@ -452,5 +452,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- focus on codes, greater flexibility than if it had focused on languages
 				- the new terms cannot in the end escape the idea of languages
 		- **Conclusion**
-			- paradox: sociolinguistics have at the same time promoted an idea of tolerant diversity while also remaining in a terminological terrain of 
+			- paradox: sociolinguistics have at the same time promoted an idea of tolerant diversity while also remaining in the same terminological terrain as static language ideologies
+				- bilingualism is still seen by many sociolinguists as 
 
