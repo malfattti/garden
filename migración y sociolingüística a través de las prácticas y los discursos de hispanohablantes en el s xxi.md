@@ -518,7 +518,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- Giannina Braschi: Yo-yo boing (1998)
 						- Escrita enteramente en español e inglés
 						- Pero los repertorios tb pueden usarse para fines comerciales 
-				- 3. 
+				- 3. Al quitarse el foco de la estructura como unidades discretas pertenecientes a lenguas distintas, y centrarse en la agentividad, surge el concepto etnográfico de la voz
 	- La teoría de translenguar
 		- Marco en la lingüística aplicada a la enseñanza bilingüe
 		- Atravesar sistemas y espacios, viendolos como fluidos
