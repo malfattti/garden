@@ -649,4 +649,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- un profesor que en un aula multilingüe utilice algunas palabras en las lenguas de los estudiantes aunque no sepa hablarlas, ya es un modelo para que el alumnado se lance a hablar en su lengua más "débil"
 				- incorporación del translanguaging en la evaluación
 				- impuslar el translanguaging desde una perspectiva oficial
+
+- Clase 5 23.03: Identidad y lenguaje
   
