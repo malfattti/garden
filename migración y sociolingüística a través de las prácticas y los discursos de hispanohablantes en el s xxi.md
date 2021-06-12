@@ -488,17 +488,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Énfasis sobre todo discursivo, no estructural
 	- Los repertorios son individuales.
 
-En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: 
 
-  
-  
-  
 
-Alemán estándar: en el trabajo, en la calle
+En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: Alemán estándar: en el trabajo, en la calle
 
 Español estándar: amigxs suizos que hablan español, trabajo y universidad
 
-Español rioplatense: grupos de whatsapp
+Español rioplatense: grupos de Whatsapp
 
 Inglés estándar: 
 
