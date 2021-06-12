@@ -465,10 +465,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- speakers draw on repertoires of semiotic resources
 				- language is best understood as a social practice
 
-- Clase 4: 16.03
-
-	- Pennycook:
+- Clase 4: 16.03: 
+	- Nuevas teorías lingüísticas del contacto
+	- 
 	- Repertorio lingüístico: forma de comunicar compartidas
+	
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
 	- La óptica del estructuralismo es estática 
 	- Muchas veces pueden ser claros los límites, otras veces más difusos
