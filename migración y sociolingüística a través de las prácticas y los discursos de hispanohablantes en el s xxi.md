@@ -432,8 +432,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Blommaert's truncated multilingualism: idea of a partial competence of a broader linguistic repertoire
 			- enregisterment and metrolingualism: terms to focus on:
 				- 1. youth street language: fluid and also fixed as locally used and recognized register
-				- 2. linguistic resources in relation to the city: how the spaces and ruthm of the city 
-				-
+				- 2. linguistic resources in relation to the city: how the spaces and ruthm of the city influence language use
+			- 
 			- 
 			- 
 		- evaluation of frameworks
