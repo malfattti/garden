@@ -598,6 +598,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: Alemán estándar: en el trabajo, en la calle
 		- Español estándar: amigxs suizos que hablan español, trabajo y universidad
 		- Español rioplatense: grupos de Whatsapp
-
-
+- Artículo Lasagabaster & García (2014)
+	- Programas bilingües --> 		
   
