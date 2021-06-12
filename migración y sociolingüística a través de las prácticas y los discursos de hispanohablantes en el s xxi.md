@@ -504,7 +504,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- acto comunicativo como un despliegue de repertorios y no de lenguas
 					- los hablantes no tienen competencias separadas por lenguajes etiquetados separadamente
 					- **los repetorios son individuales**, dependen tanto de las situaciones como de las experiencias comunicativas de los hablantes 
-					- 	los reperel lenguaje es solo un recurso semiótico entre muchos	
+					- 	los repertorios incluyen recursos lingüísticos, semióticos y socioculturales que se emplean en la comunicación
+						- 	el lenguaje es solo un recurso semiótico entre muchos
+						- 	los repertorios no solo incluyen lenguas, variedades y registros, sino gestos, r
 	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 	- Códigos semióticos, formas, manos, etc.
