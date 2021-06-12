@@ -503,8 +503,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- TRES CARACTERÍSTICAS COMPARTIDAS POR TODAS ESTAS TEORÍAS:
 				- acto comunicativo como un despliegue de repertorios y no de lenguas
 					- los hablantes no tienen competencias separadas por lenguajes etiquetados separadamente
-					- el lenguaje es solo un recurso semiótico entre muchos	
 					- **los repetorios son individuales**, dependen tanto de las situaciones como de las experiencias comunicativas de los hablantes 
+					- 	los reperel lenguaje es solo un recurso semiótico entre muchos	
 	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 	- Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 	- Códigos semióticos, formas, manos, etc.
