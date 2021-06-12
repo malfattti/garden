@@ -610,6 +610,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- creación de un espacio en el que el estudiante usa todo el repertorio lingüístico y semiótico aceptado por el profesorado como una práctica pedagógica legítima
 				- comienza como una teoría pedagógica y este artículo lo aborda como una práctica
 				- idea del bilingüismo como recurso en vez de problema
+				- aplicable a cualquier situación de bilingüs
 			- diferencia enrte code-switching y translanguaging
 		- mesocontexto
 		- microcontexto 
