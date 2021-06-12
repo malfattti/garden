@@ -437,7 +437,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- problematic terms (erasure of inequalities, discriminatiosn, etc.) and problematic use of the super- prefix
 		- These terms in general entail...
 			- move away from talking about languages as separate identities
-			- focus on repertoires, 
+			- focus on repertoires of linguistic and non linguist resources and on language practices
+			- 
 			- 
 		- evaluation of frameworks
 
