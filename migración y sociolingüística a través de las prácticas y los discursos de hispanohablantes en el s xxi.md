@@ -620,7 +620,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- el instituto se distingue por:
 				- enseñanza de contenidos en español + alfabetización en español
 				- escuela separada, solo estudiantes latinxs
-				- duración de 4 añoa (período más largo, resultados óptimos)
-			- 
+				- duración de 4 añoa (período más largo, resultados óptimos) -->política lingüística bien desarrollada
+				- apoyo de una comunidad muya ctiva
+			- aplicación de bilingüismo din
 		- microcontexto 
   
