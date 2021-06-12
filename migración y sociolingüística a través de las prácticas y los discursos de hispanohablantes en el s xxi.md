@@ -591,7 +591,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- la comunicación se coconstruye y se renegocia ajustándose a su entorno 
 	- Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
 		- fenómenos salientes como cambio de código, préstamo lingüístico y calco lingüístico se estudian teniendo como punto de partida un sistema monolingüe idea. De esta forma fueron estudiados los latinos en Estados Unidos y el español de las segundas o terceras generaciones
-		
+		- de esta manera se intenta imponer la idea de un sistema monoglósico en una comunidad que no lo es
+		- estos regímenes de normatividad lingüísticos provenientes de las comunidades monoglósicas lleva a los hablantes hispanos a avergonzarse de sus repert
 	- Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
 
 
