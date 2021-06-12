@@ -461,5 +461,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- since our perception of reality is linguistically mediated, this may be necessary
 			- what is important is that these approaches help reinforce the ideas that:
 				- language mixing is the norm
-				- 
+				- communication occurs across languages
+				- speakers draw on repertoires of semiotic resources
+				- language is best understood as a social practice
+
+- Clase 4 
 
