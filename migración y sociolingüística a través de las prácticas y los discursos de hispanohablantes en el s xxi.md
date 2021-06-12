@@ -605,7 +605,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- En este artículo se plantea una idea dinámica de bilingüismo
 		- macrocontexto
 			- translanguaging (galés Cen Williams 1980): uso planficiado y sistemático de dos lenguas en la misma lección
-				- por ejemplo, una en la fase de recepción y otra en la fase de pro
+				- por ejemplo, una en la fase de recepción y otra en la fase de producción
+			- Más recientemente García defina translanguaging como las diversas rácti
 		- mesocontexto
 		- microcontexto 
   
