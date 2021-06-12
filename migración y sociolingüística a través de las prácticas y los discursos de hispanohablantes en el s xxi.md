@@ -592,13 +592,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
 		- fenómenos salientes como cambio de código, préstamo lingüístico y calco lingüístico se estudian teniendo como punto de partida un sistema monolingüe idea. De esta forma fueron estudiados los latinos en Estados Unidos y el español de las segundas o terceras generaciones
 		- de esta manera se intenta imponer la idea de un sistema monoglósico en una comunidad que no lo es
-		- estos regímenes de normatividad lingüísticos provenientes de las comunidades monoglósicas lleva a los hablantes hispanos a avergonzarse de sus repert
+		- estos regímenes de normatividad lingüísticos provenientes de las comunidades monoglósicas lleva a los hablantes hispanos a avergonzarse de sus repertorios en vez de a crecer lingüísticamente con ellos
 	- Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
-
-
-
-
-
 	- Archivo FS21 Migración prácticas translingües
 		- En ejemplo 4: no están alfabetizadas en español sino en italiano. El repertorio en espaÑol es oral y no escrito. Su repertorio del español es específico de su situación: Alemán estándar: en el trabajo, en la calle
 		- Español estándar: amigxs suizos que hablan español, trabajo y universidad
