@@ -632,4 +632,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- las clases se imparten inicialmente en español y después en inglés
 				- problemas: cuatro años no alcanzan + contexto socioeconómico restringe un cambio social mayor
 		- microcontexto 
+			- los estudiantes leen en inglés los contenidos y el profesor se asegura de que sean comprendidos en español
+			- así se fortalece el lenguaje académido en inglé
   
