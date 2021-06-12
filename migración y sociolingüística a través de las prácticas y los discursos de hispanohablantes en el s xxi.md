@@ -507,44 +507,16 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- No hay barrera entre lenguas, solo repertorios
 			- Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
 - García y Wei: toman de estas teorías 
-- El bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
-
-Concepto
-
-  
-
-Situación de las lenguas en un continuum
-
-  
-
-Rechazo de categorías estructurales de los años sessenta y setenta 
-
-  
-  
-
-Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como  una especie de problemática)
-
-  
-  
-
-No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno.
-
-  
-
-No hablamos de sistemas si no de repertorios
-
-  
-
-Un solo repertorio compuesto de elementos diferentes?  García dice que es solo una “caja”
-
-Grosjean dice que no, que tenemos dos cajas, pero que están en contacto continuo.
-
-La teoría del translanguaging es más radical
-
-  
-  
-
-Dar la vuelta y que el monolingüe deje de ser la norma. Bilingüismo aditivo, sustractivo etc, parte de la idea de que las personas hablan una lengua y todo lo demás es la desviación. La propuesta es no partir del monolingüe como el “normal”, sino que se parta de la idea de que se habla seguramente más de una lengua
+	- El bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
+	- Situación de las lenguas en un continuum
+	- Rechazo de categorías estructurales de los años sessenta y setenta 
+	- Modelo ideal del monolingüe: una persona es monolingüe y después pasan cosas (se plantea el bilingüismo o plurilingüismo como una especie de problemática)
+	- No es una bicicleta o un triciclo nuestro manejo de lenguas sino se compara de forma más precisa con un vehículo todo terreno.
+	- No hablamos de sistemas si no de repertorios
+	- Un solo repertorio compuesto de elementos diferentes?  García dice que es solo una “caja”
+	- Grosjean dice que no, que tenemos dos cajas, pero que están en contacto continuo.
+	- La teoría del translanguaging es más radical
+	- Dar la vuelta y que el monolingüe deje de ser la norma. Bilingüismo aditivo, sustractivo etc, parte de la idea de que las personas hablan una lengua y todo lo demás es la desviación. La propuesta es no partir del monolingüe como el “normal”, sino que se parta de la idea de que se habla seguramente más de una lengua
 
   
 
