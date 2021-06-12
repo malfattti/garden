@@ -590,6 +590,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- teorías psicolingüísticas dinámicas: interacción entre sistemas cognitivos internos y sistemas sociales externos
 				- la comunicación se coconstruye y se renegocia ajustándose a su entorno 
 	- Parte programática de la teoría: NO ver los repertorios “otros” como desviados o incorrectos. Entender que varias formas sirven para determinados fines y son valiosas
+		- fenómenos salientes como cambio de código, préstamo lingüístico y calco  
 	- Esta teoría es ampliamente programática y busca quitar el estigma es una base claramente social
 
 
