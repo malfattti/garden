@@ -430,7 +430,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- focus on all linguistic resources available to the speaker instead of juxtaposition of languages and separability of linguistic categories
 				- emphasis on features
 			- Blommaert's truncated multilingualism: idea of a partial competence of a broader linguistic repertoire
-			- ENREGISTERMENT AND METROLIGUALISM: 
+			- enregisterment and metrolingualis 
 			- 
 		- evaluation of frameworks
 
