@@ -607,7 +607,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- translanguaging (galés Cen Williams 1980): uso planficiado y sistemático de dos lenguas en la misma lección
 				- por ejemplo, una en la fase de recepción y otra en la fase de producción
 			- Más recientemente García define translanguaging como las múltiples prácticas discurisvas de las que los hablantes se sirven para entender el mundo bilingüe en que viven
-				- creación de un espacio en el que el estudiante usa todo el repertorio lingüístico y semiótico aceptado por el profesorado como una pra
+				- creación de un espacio en el que el estudiante usa todo el repertorio lingüístico y semiótico aceptado por el profesorado como una práctica pedagógica legítima
+				- comienza como una teoría pedagógica y este artículo lo aborda como 
 		- mesocontexto
 		- microcontexto 
   
