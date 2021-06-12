@@ -627,6 +627,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el objetivo no es alcanzar una competencia de hablante nativo
 				- aprendizaje a través del uso de la lengua en contextos específicos
 					- inmersos en una comunidad de hablantes que está aprendiendo, no compiten con hablantes nativos
-				- el español sigue desempeñando un rol importante mientras se apr
+				- el español sigue desempeñando un rol importante mientras se aprende el inglés
+				- necesidad de alcanzar nivel de inglés suficiente para pasar el Regents English exam
 		- microcontexto 
   
