@@ -441,5 +441,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- focus on agency and processes
 			- focus on individual accumulation rather than community resources
 		- **evaluation of frameworks**
-			- 
+			- paradigm shift?
+			- or just new jargon for terms that have been 
 
