@@ -474,7 +474,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
 	- La óptica del estructuralismo es estática, está enmarcada en su tiempo y refleja planteamientos discretos vinculados con la ideologia del Estado-nación decimonónica
 		- en este contexto, las lenguas se entienden como entidades discretas sujetas a un modelo ideal (estándares)
-		- 
+	- a partir del 
 
 - Repertorio lingüístico: forma de comunicar compartidas
 	
