@@ -603,4 +603,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- interferencia negativa entre las lenguas que se están aprendiendo
 	- Sin embargo, estudios más recientes rebaten esta visión de las lenguas como compartimentos estancos
 	- En este artículo se plantea una idea dinámica de bilingüismo
+		- macrocontexto
+		- mesocontexto
+		- microcontexto 
   
