@@ -616,6 +616,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- instituto Gregorio Luperón, Washington Heights, NY
 			- contexto de alta migración proveniente de Latinoamérica
 			- estudiantes dominicanos
-			- handicap: los
+			- handicap: los estudiantes no tienen tiempo suficiente para aprender el lenguaje académico que necesitan
+			- el instituto se distingue por:
+			- OFRECER CLASES
 		- microcontexto 
   
