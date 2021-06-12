@@ -490,35 +490,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Estas teorías quieren sobre todo realzar la agentividad del hablante. Cómo hace el hablante para comunicar? Tb: la voz 
 	- Giannina braschi: yo-yo boing (1998)
 		- Escrita enteramente en español e inglés
-	- Pero los repertorios tb pueden usarse para fines comerciales La teoría de translenguar
-
-  
-
-Marco en la lingüística aplicada a la enseñanza bilingüe
-
-  
-
-Atravesar sistemas y espacios, viendolos como fluidos
-
-  
-
-Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
-
-  
-
-Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
-
-  
-
-Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
-
-  
-
-Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos cultura so tres o cuatro
-
-  
-
-El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
+	- Pero los repertorios tb pueden usarse para fines comerciales 
+	- La teoría de translenguar
+		- Marco en la lingüística aplicada a la enseñanza bilingüe
+		- Atravesar sistemas y espacios, viendolos como fluidos
+		- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
+		- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
+		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
+		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
+		- El translanguaging como teoría nace en el contexto pedagógico de enseñanza del galés . dejar que el alumno vaya por encima de las barreras de las lenguas para mejorar sus destrezas lingüísticas 
 
   
 
