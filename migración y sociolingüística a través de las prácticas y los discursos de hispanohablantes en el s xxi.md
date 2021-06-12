@@ -555,6 +555,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- El translanguaging dice que no hay separación en el cerebro de un bilingüe. Esto en general es rechazado. 
 			- No hay barrera entre lenguas, solo repertorios
 			- Grosjean habla de repertorios. Hay repertorios que se acercan más a la lengua materna y otros más alejados 
+			- es decir, hay módulos separados que interactúan entre sí en un proceso graduable
 - García y Wei: toman de estas teorías 
 	- El bilingue tiene formas diferentes de comunicar que el monolingüe (aspectos cognitivos)
 	- Situación de las lenguas en un continuum
