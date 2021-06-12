@@ -467,29 +467,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Clase 4: 16.03
 
-	- Repertorio: forma de comunicar compartidas
-
-  
-
-Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
-
-La óptica del estructuralismo es estática 
-
-  
-
-Muchas veces pueden ser claros los límites, otras veces difusos
-
-Los límites pueden ser más difusos
-
-  
-
-Qué tienen en común estas etiquetas? 
-
-Mobility turn, marco en el que estamos ubicando estos fenómenos
-
-  
-
-Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
+	- Repertorio lingüístico: forma de comunicar compartidas
+	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
+	- La óptica del estructuralismo es estática 
+	- Muchas veces pueden ser claros los límites, otras veces más difusos
+	- Qué tienen en común estas etiquetas? 
+	- Mobility turn, marco en el que estamos ubicando estos fenómenos
+	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
 
 Trans: pasaje de una lengua a otra. Atraviesan varias formas
 
