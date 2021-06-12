@@ -531,7 +531,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Teoría centrada en el ámbito de la lingüística aplicada
 		- Una teoría transformadora de las prácticas lingüísticas imperantes, con el objetivo de cambiar no solo las subjetividades, sino las estructuras sociales y los regímenes impuestos con el fin de **dar voz a las minorías**
 			- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
-				- reconocer que los repertorios lingüísticos de las personas multilingües incluyen recursos distribuidos a través de las fronteras de lo que tradicionalmente se ha etiquetado como i
+				- reconocer que los repertorios lingüísticos de las personas multilingües incluyen recursos distribuidos a través de las fronteras de lo que tradicionalmente se ha etiquetado como idiomas distintos
+				- cuando las personas multilingües interactúan, simplemente urilizan y combinan diferentes recursos de los que disponen, sin prestar 
 			- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
