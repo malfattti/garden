@@ -533,7 +533,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Y ayudar a lxs estudiantes que manejan varios sistemas pero tal vez no todos con la misma proficiencia 
 				- reconocer que los repertorios lingüísticos de las personas multilingües incluyen recursos distribuidos a través de las fronteras de lo que tradicionalmente se ha etiquetado como idiomas distintos
 				- cuando las personas multilingües interactúan, simplemente urilizan y combinan diferentes recursos de los que disponen, sin prestar atención a qué lengua corresponden
-			- 
+			- foco en el lenguaje como tipo de acción, en los aspectos sociales y simbólicos se las prác y sacar el enfoque de los rasgos formales del lenguaje
 			- Una teoría con una ideología muy fuerte y la idea de regenerar la educación bilingüe
 		- Objetivo programático: se plantea no solo pedagógicamente sino como con un claro mensaje social. El objetivo es -poder comunicar y evitar no poder hacerlo porque no hemos alcanzado el ideal de esa lengua
 		- Espacios distintos y repertorios distintos. Tercer espacio compartido entre dos culturas o tres o cuatro
