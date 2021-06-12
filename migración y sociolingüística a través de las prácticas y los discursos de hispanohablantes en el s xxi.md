@@ -467,6 +467,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
 - Clase 4: 16.03
 
+	- Pennycook:
 	- Repertorio lingüístico: forma de comunicar compartidas
 	- Estas teorías subrayan el flujo y movilidad de personas y sus formas de comunicación
 	- La óptica del estructuralismo es estática 
@@ -476,22 +477,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Poly, metro, multi: hacen énfasis en que son varios códigos involucrados
 	- Trans: pasaje de una lengua a otra. Atraviesan varias formas
 	- Énfasis no en el sistema sino en la práctica social.
-
-Elemento de identidad que las une. Parte de la entidad de latina, de Milán
-
-Los individuos hacen uso de recursos para crear su propio espacio. Abrir un grupo de whatsapp es abrir un espacio de comunicación, que nos deja comunicar con determinadas características/ prácticas
-
-  
-
-Trans: se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
-
-  
-
-Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
-
-La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
-
-Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
+	- Los individuos hacen uso de recursos para crear su propio espacio. Abrir un grupo de whatsapp es abrir un espacio de comunicación, que nos deja comunicar con determinadas características/ prácticas
+	- Trans: se cuestiona que podamos contar las lenguas y etiquetas que utilizamos para comunicar
+	- Heteroglosia: término que se ha apropiado la sociolingüística de la teoría literaria: Bajtín.
+		- La novela está compuesta por un carnaval de voces, personas que hablan de formas diferentes
+	- Subtexto o intertexto de todas las etiquetas que hemos visto: recursos, códigos semióticos, géneros, registros
 
 Vamos más allá de las lenguas, tb se trata de variedades o formas que tenemos para comunicar
 
