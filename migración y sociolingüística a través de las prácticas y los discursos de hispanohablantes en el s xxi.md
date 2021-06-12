@@ -662,9 +662,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- por ejemplo, el acento se usa para indicar origen geográfico
 			- diferentes elementos semióticos se usan para indicar el género de una persona
 		- lenguaje en un sentido amplio: recursos comunicativos
-		- existen muchas facetas para manifestar 
+		- existen muchas facetas para manifestar la identidad y la identidad siempre es situada
 	- identidad individual versus identidad social:
 		- las identidades personales reflejan caracteristicas y atributos que el individuo considera que lo definen como una persona particular y única
 		- las sociales se refieren a la pertenencia a grupos sociales que se basan en género, edad, etnia, origen, etc
 		- estas categorías no son siempre claras en la práctica
+		- la identidad individual siempre forma parte de una identidad social, 
   
