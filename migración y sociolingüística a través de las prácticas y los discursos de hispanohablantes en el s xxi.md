@@ -444,5 +444,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- paradigm shift?
 			- or just new jargon for concepts that have been developed before?
 				- Bakthin's 'heteroglossia': focus on voices and variability of speech, and not languages
-				- unnecessary to create new 
+				- unnecessary to create new terms
+			-	integrationalist approach: we move 
 
