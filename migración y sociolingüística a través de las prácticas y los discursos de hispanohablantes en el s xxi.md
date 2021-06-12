@@ -459,5 +459,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- it is important to keep in mind that previous approaches, such as integrationalism, have done similar things
 			- one can either reclaim the idea that bilingualism is a dynamic term, or nvent new vocabulary that reflects this today
 				- since our perception of reality is linguistically mediated, this may be necessary
-				
+			- what is important is that these approaches help reinforce the ideas that:
+				- language mixing is the norm
+				- 
 
