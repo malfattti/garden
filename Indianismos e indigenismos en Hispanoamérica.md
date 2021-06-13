@@ -415,9 +415,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  En esta novela Mera quiere reavivar la utopía jesuita, intento de promover la unidad nacional a través del catolicismo como agente de cohesión
 				-  Reaviva la idea de que una religión que no fuera común sería la mejor garantiá de una unidad nacional por encima de las diferencias
 				-  Cumandá viene a ser la víctima de la cultura en la que ha vivido y entonces queda excluida de la nación. Condena a una muerte trágica
-			- Concha meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo  que le falta a la distancia es cifrar el paternalismo con el que canta la belleza de los salvajes. 
-    
--   Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatroiana hay que ser católico.
+				- Concha Meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo  que le falta a la distancia es cifrar el paternalismo con el que cuenta la belleza de los salvajes. 
+				- Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatoriana hay que ser católico.
     
 
   
