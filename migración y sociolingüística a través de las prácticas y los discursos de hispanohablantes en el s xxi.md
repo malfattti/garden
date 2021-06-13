@@ -745,7 +745,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- entrevista semi-estructurada cuyo objetivo es:
 				- estudiar creencias, evaluaciones, actitudes e ideologías (lingúísticas) que subyacen a ellas a través de la actividad metalingüística de lxs entrevistadxs
 				- el discurso de lxs entrivistadxs es un proceso de elicitación externo e interno
-					- externo:  
+					- externo: las preguntas o pautas son un estímulo, ya que las respuestas están vinculadas a estas. Pero no es un estímulo sensorial
+					- interno: la entrevista etnográfica semi-guiada da mucho marg
 			- 
 		- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
