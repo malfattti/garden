@@ -810,7 +810,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- el espacio físico urbano existe en tanto es corporeizado a través de las experiencias de los individuos y contruido en las narrativas de esos individuos día a día
 		- la agentividad humana hace del espacio físico uno social
 		- el espacio urbano funciona como un texto que se construye de forma dinámica a través de un sistema de signos semióticos constituido por y en los lugares e intercambios que ocurren allí
-		- por eso las ciudades son distintas, porque cuentan histrorias distintas. A una 
+		- por eso las ciudades son distintas, porque cuentan histrorias distintas. A una ciudad la percibo con toda su experiencia humana
+		- Su trabajo "Walk in the city" implica un cambio en la concepción del paisaje lingüístico porque mientras que en las teorías 
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
