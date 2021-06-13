@@ -858,7 +858,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Fase 3: a partir de finales de 1990: latinoamericanos sin conocimientos de inglés, provienen de diásporas secundarias, básicamente de España y entran a Londres por sus redes socioculturales trtnsnacionales
 						- Empleos: comerciantes, tiendas étnicas, restaurantes éticos, sector doméstico y limpieza, restauración
 					-  Podemos hablar aquí de reterritorialización porque el español no es solo un elemento de identidad étnica sino que es además un capital social y económico
-					-  el inglés es importante pero el e
+					-  el inglés es importante pero el español es la lengua que facilita las relaciones sociales entre los grupos étnicos y mediante ellas el acceso a fuentes de trabajo
+					-  en Londres el español se corporeiza no solo en el pa
 	
 
   
