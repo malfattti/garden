@@ -417,8 +417,301 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  Cumandá viene a ser la víctima de la cultura en la que ha vivido y entonces queda excluida de la nación. Condena a una muerte trágica
 				- Concha Meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo  que le falta a la distancia es cifrar el paternalismo con el que cuenta la belleza de los salvajes. 
 				- Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatoriana hay que ser católico.
-    
-			- 
+			- Enriquillo:
+				- 1882. Galván: escritor de la República dominicana, lugar sorprendente en relación a los países andinos que venimos viendo
+
+  
+
+Novela histórica romántica y teatro histórico romántico
+
+Pretende contribuir a la legitimación del sentimiento de nación. Esta literatura asume al indio a sus tradiciones
+
+  
+
+Los escritores liberales asumen la misión de reflejar una realidad que en esos países andinos representaban una minoría marginada por el poder conservador
+
+  
+
+No va a ser el caso de méxico ni de las naciones de la cuenca caribeña,
+
+Escapa de lo que se da en los países andinos
+
+  
+  
+
+Benito Juarez: liberal, indígena, primer presidente indíigena de América latina 
+
+México, contexto liberal 
+
+  
+
+Novelas con acento antiespañolista muy marcado: los mártires de Anahuac
+
+  
+
+Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador
+
+  
+
+El indio había desaparecido , se parte de un contexto nacional donde no hay indígenas.
+
+Esta presencia no plantea problemas de homogeneidad. “n o molesta” si es que llega a darse.
+
+El tema del indio tuvo una fucnión muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
+
+Presencia negra/presencia indígena
+
+  
+
+Los negros eran mucho más activos en el campo social que los indígenas y por eso constituían un peligro para el poder conservador
+
+  
+
+Inclusión del negro como ciudadano de lo nacional
+
+  
+
+Siboneísmo: tendencia indianista en cuba 
+
+Se deriva sobre todo de la producción poética de Fornaris, Cantos Del Siboney 
+
+Lo que se propone como genuinamemente cubano. Un lugar de encuentro entre criollos e indígenas (pero la presencia negra no se explicita)
+
+  
+
+Aquí se ve la dificultad de elaborar lo nacional. Pugna por esta o no estar o excluir
+
+  
+
+En estas zonas aparecen obras indianistas e indigenistas
+
+  
+
+Lo insólito es que hay novelas indianistas donde ya no encontramos indígenas en el s. XIX
+
+Este es el caso de Enriquillo. Toma como fuente explícita una obra de Bartolomé de las Casas (autor de la Brevísima relación, pero la que se cita en este caso es “la historia de las indias”, cuenta la historia de santo domingo entre 1503 y 1533) se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
+
+  
+
+Organiza un centro de resistencia y rebelión indígena.
+
+Por qué resiste y se indigna? Porque el español para el que trabaja le roba su propiedad y le da una paliza a su mujer por negarse a sus peticiones sexuales. 
+
+Esto lo enfurece y organiza resistencia frente a los españoles
+
+Perro la historia tb narra que sería perdonado por el emperador Carlos V y compensado con el derecho de fundar su propio pueblo. Episodio conocido por de las casas y romantizado por Manuel de jesús galván en su novela.
+
+  
+
+En la rep/ dominicana a pesar de que gran parte de la población es mulata, descendiente de negros, en la población indígena.
+
+  
+
+Una novel como Enriquillo viene a fortalecer esta idea. En este momento la literatura dominicana rechaza la cultura africana para sustituirlo por la del indio (+idealización)
+
+Entonces Galván hace remontar la identidad dominicana muy lejos. \\
+
+  
+
+En la lectura de esta novela se observa tb que Galván no adopta términos negativos en torno a la conquista de América de los españoles. Insiste en la crueldad y violencia de los españoles como elementos inevitables de cualquier conquista.
+
+Parece entender que una conquista mandada por la corona no puede no trabajar a favor de la corona
+
+La realización de los objetivos de la corona hacen evidente que la conquista es inevitable 
+
+Su tema entonces no sería la conquista sino la invención de unos orígenes heroicos idealizados. Vació que hay que llenar y que se va a llenar de formas diversas. Orígenes nacionales pero tb de la literatura 
+
+Dar la dirección de lo que tiene que asumir la nación
+
+  
+
+Los criollos asumen como propia la historia incaica o de las poblaciones indígenas locales
+
+  
+
+Ven la llegada de los españoles como una invasión y la independencia como liberación. La identificación con lo indio y lo andino (Jorge basadre, historiador) era histórica y simbólica.
+
+  
+
+El indígena real contemporáneo recibe muy poca atenci
+
+On entonces los primeros años de la república no van a ver ningún cambio sustancial durante estos primeros años de independencia.
+
+Lo evalúan así los historiadores .
+
+Es el momento en que ocurren los arrebatos de tierras
+
+  
+
+Proyectos de movimientos románticos que buscan en américa y europa regresar a raíces ancestrales, recuperación de lo nuestro. 
+
+Lit romántica europea: medioevo, dioses paganos
+
+Entonces por qué no remontarse en la lit romántica andina al incanato. Lo que pasa aquí es que hay una ruptura por la conquista. Hay que crear la continuidad
+
+Transición del indianismo hacia el indigenismo.
+
+  
+
+Se desplaza un poco el interés y se dispone a un tiempo más contemporáneo. Ya no la cuestión de los orígenes sino una identidad social más concreta e inmediata
+
+  
+
+Hacia 1888 puede considerarse consumada la organización política y social de la mayoría de las repúblicas
+
+  
+
+A partir de ahora, progreso y modernización vertiginosos
+
+Así es que se trasplantan los modelos europeos de desarrollo industrial, de racionalización y explotación del trabajo y de las riquezas naturales.
+
+Se necesita mano de obra para llevar adelante estas tareas. Se propicia la inmigración
+
+  
+
+Modificación de la fisonomía étnica que ya era plural, de países sobre todo rurales
+
+Se aprecia una constante conglomeración humana que se ve en una literatura que traslada su escenario a la ciudad (proceso migración de campo a ciudad), nuevas experiencias de promiscuidad de población, ciudades de espíritu laico y secular 
+
+  
+
+Producciones que nos llevan del indianismo al indigenismo: alejamiento del romanticismo realista A  realismo naturalista . y en hispanoamérica se confunde con él
+
+Las representaciones literarias se confunden cupon la experiencia concreta de la realidad. La literatura intenta proveer con las representaciones literarias una realidad objetiva
+
+  
+
+No dejan de lado interés por realidades regionales, las ciudades no son todo
+
+  
+
+AVES SIN NIDO: en el corazón de la sierra peruana, pero con muchas referencias a la ciudad. La autora es serrana 
+
+  
+
+Es necesario fijar algunos factores sociopolíticos de estas décadas:
+
+Giro literario: el indianismo literario da un fruto novedoso con aves sin nido
+
+  
+  
+
+En 1879-1883: la guerra del pacífico o del salitre. Conduce a la derrota del perú frente a chile. Perú pierde la región sur de tarapacá (hoy norte de Chile) y bolivia pierde (bolivia y perú contra chile) su salida al mar
+
+  
+
+Reactivación de los sentimientos patrióticos (emoción social). Revisitación del pasado y la construcción nacional
+
+Centramiento en problemas internos.
+
+En este contexto la literatura plantea la cuestión india: la extrema pobreza, marginalización, etc que sufre la población india. La literatura que brota es indianista de reivindicación social. Aves sin nido entra en este momento. Entonces por eso es considerada un punto de arranque en la lit indigenista. Ella no es indígena, algo que caracteriza la narrativa indigenista (el hablar por los demás)
+
+  
+
+Decadas finales del s. XIX en que se va a centrar la atención la propuesta del peruano Manuel González prada (1849-1910) predomina su figura en el escenario progresista
+
+  
+
+Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresiÓn en clorinda matto de turner, su contemporánea
+
+Entonces en  su obra se ve esta influencia.
+
+  
+
+Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la literatura que cree en el poder de la representación (por eso realista y naturalista)
+
+Y sigue creyendo en el poder de la intervención a partir de la literatura
+
+  
+
+MANUEL GONZÁLEZ PRADA: 
+
+2 ensayos en particular
+
+Lo conocemos por ser voz ppal en la ensayística y crítica literaria
+
+Es la voy ppal del período de reconstrucción de la posguerra. MOMENTO de pausa, reflexión, diagnóstico 
+
+“Discurso en el teatro politeama” 1888. Expresa ansia de regeneración moral, combate por la creación de un auténtico patriotismo periano, explica su opinión sobre la derrota de la guerra del pacífico y en su tonalidad se expresa acentro revanchista
+
+Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal 
+
+  
+
+No solo el virreinato explotó al indio sino que la república tb siguió explotándolo.
+
+la situación del indígena ha empeorado
+
+Hay otro texto ue expone y detalla estas ideas: “nuestros indios” de 1904 “Horas de lucha” 1924, una etapa muy distinta. Esboza el problema: la república es la continuación del virreinato y el indio es el ciervo abusado aún 
+
+Rechaza la idea de que acusen al indio como refractarios a la civilización y considera que es una campaña de desprestigio inaceptable. El indio, dice el, recibe lo que le dan, fanatismo y aguardiente
+
+  
+
+Una vez que el movimiento indigenista ya está formalizado como movimiento político y pero tb cultural. (falta mariátegui, 192x). En González Prada encontramos una exposición y acusación, pero faltan soluciones o propuestas específicas 
+
+Se pasa de la idea de que al indio hay que educarlo a la idea de que la cuestión indígena más que pedagógica es una cuestión económica/social.
+
+Todo este discurso lo encontramos en aves sin nido
+
+  
+
+Tiranía embrutecedora: la ejercen los que se ocupan de las leyes, lso que gobiernan y los curas. La trinidad embrutecedora (así la llama Matto de Turner tb)
+
+La iglesia es tb aliada de esos poderes usurpados
+
+  
+
+González prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
+
+Los indios no tiene derechos, solo obligaciones
+
+Y por lo tanto no merece llamarse república democrática un estado como perú donde una cantidad millonaria de individuos viven por fuera de la ley
+
+  
+  
+
+En González Parad el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos
+
+  
+
+El problema de la tierra y el indígena están vinculados: Mariátegui tb comparte esta idea.pero la formula con más claridad
+
+  
+
+Cómo se mejora la condición del inxígena?
+
+O sea ablanda el corazón a los opresores y mejoran las condiciones de los oprimidos (pero esto no va a pasar)
+
+O el indio tiene que tener orgullo y rebeldía. Llamado poco práctico. Ideas, esbozos, aforismos. Pero a nivel práctico no es tan claro.
+
+  
+
+El que tenga mayor implicación política será Mariátegui
+
+  
+
+La crítica más común que se le dirige a Parada es que en esa época no tiene una visión sistemática sino ideas sueltas y que además no es un hombre de acción sino de pensamiento.
+
+Basadre expone diferencia entre pRada y Mariátegui: 
+
+Prada preguntas y problemas
+
+Mariátegui: rtas y soluciones.
+
+  
+
+Prada escribe, suscita controversia, provoca, etc. pero no presenta una ideología (sistema de ideas coherente)
+
+Pero su intervención en el campo culturales decisiva y motiva a una escritora como Matto de Turner 
+
+  
+  
+
+La semana que viene: CLORINDA MATTO DE TUNER
+
+  
+**
   
 
 La otra novela…
