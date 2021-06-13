@@ -746,8 +746,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- estudiar creencias, evaluaciones, actitudes e ideologías (lingúísticas) que subyacen a ellas a través de la actividad metalingüística de lxs entrevistadxs
 				- el discurso de lxs entrivistadxs es un proceso de elicitación externo e interno
 					- externo: las preguntas o pautas son un estímulo, ya que las respuestas están vinculadas a estas. Pero no es un estímulo sensorial
-					- interno: la entrevista etnográfica semi-guiada da mucho marg
-			- 
+					- interno: la entrevista etnográfica semi-guiada da mucho margen de acción al individuo entrevstado, que puede expresar creencias y actitudes que vayan más allá de las que el entrevistador podría haber divisado al diseñar las preguntas
 		- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
