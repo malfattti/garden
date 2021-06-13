@@ -771,11 +771,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 - Ejemplos de segunda generación:
 	- Natalie: La mezcla soy yo
 	- Manuela: mezclar es cool
-Conclusiones:
-
-
-Español caribeño: mezcla entre suizo alemán y alemán
-
+- Conclusiones:
+	- a nivel sociohistórico y político vivimos en una época donde dos ideologías distintas conviven:
+		- la ideología monoglósica y centrípeta del estado nación (hegemónica del s. XX)
+		- ideologías 
 
 
   
