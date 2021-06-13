@@ -814,9 +814,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Su trabajo "Walk in the city" implica un cambio en la concepción del paisaje lingüístico porque adqueire una dimensión etnográfica
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
-  
-	  - Relación entre estas teorías y la sociolingüística de migración
-	  - Estudios de pasaije lingüístico y semiótico de perspectiva etnográfica
+	- Relación entre estas teorías y la sociolingüística de migración
+		- Estudios de pasaije lingüístico y semiótico de perspectiva etnográfica
 		  - Nueva concepción etnográfica en los estudios de paisaje lingüístico: el foco se mueve de la vitalidad de las lenguas hacia la estratificación histórica en el PLyS y en la manera en que los cambios sociales se muestran en el PLyS
 		  - Ejemplo de Mónica Castillo Luch:
 			  -  texto que muestra cómo ha ido cambiado la fisonomía de Lausana debido a la migración hispana
@@ -827,6 +826,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			  -  PACO SERVICES: Las eses en la escritura muestra que el emisor es seseante o sea hispanoamericano. Nueva ola migratoria no española
 			  -  Ejemplos de cómo una ciudad puede ser un libro abierto, configuración de espacio social que muestra la historia de una migración (en este caso dos colectivos de hispanohablantes distintos)
 
+	- Conceptos de territorialización - deterritorialización - reterritorialización
   
 
 Deleuze y Guattari, reconfigurada por Appadurai 1996 
