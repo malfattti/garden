@@ -840,12 +840,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- La lucha por el espacio se carga de valor simbólico, se etnitiza
 			- Estos procesos de territorialización también pueden ocurrir entre colectivos de inmigrantes más nuevos frente a los viejos
 				- Ejemplo: en Sidney, Australia, una ola de refugiados del Medio Oriente desencadenó una campaña anti-inmigratoria con el lema "we grew here, you flew here"
-				- 
-Otro ejemplo: australia hizo una campaña anti inmigración cuando recibió muchos inmigrantes de medio oriente
+		- RETERRITORIALIZACIÓN: proceso mediante el cual 
 
-  
-
-Pero la terri. Conlleva tb la DESTERRITORALIZACIÓN Y LA RETERRITORALIZACIÓN
 
   
 
