@@ -743,7 +743,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Un estudio de 2017 muestra que el colectivo de inmigrantes latinoamericanos se destaca por el gran porcetntaje de mujeres (64%)
 		- Metodos para desarrollar una investigación
 			- entrevista semi-estructurada cuyo objetivo es:
-				- estudiar creencias, evaluaciones, actitudes e ideolo
+				- estudiar creencias, evaluaciones, actitudes e ideologías (lingúísticas) que subyacen a ellas a través de la actividad metalingüística de lxs entrevistadxs
+				- el discurso de lxs entrivistadxs es un proceso de elicitación externo e interno
+					- externo:  
 			- 
 		- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
