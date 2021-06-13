@@ -590,8 +590,195 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Autor implícito: narrautor, que se dice a través de la voz del narrador, 3ra persona, omnisciente (no puede en rigo presentar juicios de valor, ironía etc.)
 			- Distancia entre referente y destinatario de la obra se traduce en la narración en la distancia entre autor implícito y sujeto novelado 
 			- Es consciente de la imprecisión de la terminología
-20.04.
+- 20.04
+  - Escajadillo se interroga sobre las condiciones que hacen que una obra pueda ser considerada indigenista
+
   
+
+Cuestión de la proximidad
+
+  
+
+Distancia y proximidad se puede examinar en relación con el indianismo (que no presenta la suficiente proximidad) y el indigenismo
+
+Distancia entre referente y destinatario de la obra. Esta es reflejo de la distancia entre el autor implícito (cuya voz a veces descubrimos en el narrador omnisciente) y el sujeto novelado
+
+Narrador extradiegético: omnisciente que ofrece relato en tercera persona y al que se le supone conocimiento total de la historia.
+
+  
+
+Extradiegético y heterodiegético en la medida en que no está en la historia y narra algo en lo que no ha participado. Distancia entre el autor implícito y el sujeto otro. El narrador suele usar el registro culto e imponerse en el relato con pasajes descriptivos desde la perspectiva exterior, dejando a los indígenas que se expresen en un espaÑol no normativo y en constante vaivén con su otro idioma (español asimilado de manera no formal)
+
+  
+
+Entonces la posición del narrador es un dato interesante en la novela indianista e indigenista, es exterior a la historia en estos dos casos. O sea que estas novelas no se diferencian en cuanto al narrador (por ej. Matto de Turner y Huasipungo)
+
+  
+
+Es probablemente José María Arguedas el único que hasta ahora haya superado la frontera aunque sea de manera problemática porque él mismo era culturalmente mitad indio, al menos.
+
+  
+
+Una novela como Huasipungo, realista, no logra esta proximidad. Los ríos profundos, al desplegar una estructura narrativa muy lírica, prosa poética, donde los valores temporales se ven alterados/ desdibujados. Restitución de un tempo (ritmo) propiamente poético. Es a través del uso de esta virtud lírica de esta novela que Arguedas logra un acceso más profundo al alma indígena
+
+Así tenemos una fusión entre el yo del narrador y el ellos de los indígenas.
+
+El logro está en la representación del mundo andino “desde dentro” 
+
+PERO (se mezclan criterios que tienen que ver con el ser indígena con la capacidad de recrear el mundo indígena desde dentro). A Arguedas se lo considera “indio a medias” pero lo que se considera es su proximidad, no su pertenencia, y sobre todo su conocimiento del quechua desde la infancia. Ese bilingüismo va a generar la posibilidad de una traducción cultural mayor en Arguedas.
+
+  
+  
+
+Indigenismo ortodoxo: cuando todas las características se ven dadas.
+
+  
+
+Huasi: puerta
+
+Pungo: casa
+
+Esta palabra hace referencia a la parcela de tierra que se les concedía a los indígenas en el sistema de haciendas o latifundios
+
+  
+
+Explotación de tierra:
+
+Sistem de hacienda: lo central es el concertaje, término usado para referir el contrato de servicios personales en el que la parte contratante paga el trabajo por adelantado y crea una deuda de parte del trabajador. Inseguridad laboral, no es que haya libertad por más que parezca. Inexistencia de horario laboral, imposibilidad del trabajador de romper el acuerdo y la amenaza de ser encarcelado en caso de no cumplir el compromiso. Y la herencia de la deuda. Pobreza y explotación eternas
+
+Una variante del concertaje es el huasipungo, precisamente.
+
+Designa la porción de la tierra entregada al indígena y a su familia. El huasipunguero trabaja para el dueño 5 días a la semana sin recibir salario. Los días restantes los usa para trabajar su propio terreno, que generalmente se caracteriza por su baja productividad.
+
+  
+  
+
+Sistema plantación: anterior. Rige en Cuba de todo el s. XIX: ingenio, propietario, plantaciones y esclavos
+
+  
+
+El paso de un sistema de explotación a la modernización no resuelve el problema de fondo que es la explotación.
+
+Concentración industria maderera
+
+  
+
+Analogía entre el indio y el obrero: ilustrada en un fragmento de conversación en documento que entablan Alfonso Pereira y su tío en las primeras páginas de la novela
+
+  
+
+El cholo: Gabriel Rodríguez: representa las tensiones del mestizaje, (cholo: indígena que ha adoptado cultura dominante), mal visto tanto dentro como fuera. Corporización del problema mismo del mestizaje 
+
+  
+
+Cholo blanqueado o hsipanizado
+
+  
+
+Reflexión entre clases sociales y construcciones raciales en Ecuador
+
+  
+
+Masa taimada, inmóvil, petrificada, muda: retrato en un conjunto donde no se distinguen los individuos pero puede verse “la furia congelada” de varios siglos 
+
+  
+
+Reactivación de los estereotipos, masa sujeta a la inacción, seres fuera de la historia. Estas críticas se le harán a muchas novelas indigenistas. Cual es el fin? Horror pero inacción.
+
+  
+
+Huasipungo ha sido recibido de maneras muy diferentes sin embargo
+
+  
+
+Diálogos sin emisores nombrados (aptos para des-subjetivizar la problemática andina), no sabemos quién está hablando más allá de que son ‘los indios” —> emanación del colectivo
+
+  
+
+Cornejo Polar: valores puestos en cuestión, la ausencia nos presenta la novela como un callejón sin salida. Al terminar de leer lo que vemos es que la presión y la expoliación son tan grandes que terminan deshumanizando los indígenas
+
+  
+
+March y Martul: se le exige a la obra literaria que contenga lo que se supone políticamente más correcto: casi pidiendo que relate lo que no relata. 
+
+  
+
+Reproche de limitarse a presentar una novela indigenista y no neoindigenista. La novela se presta a múltiples interpretaciones, ella nos va a subir tres. 
+
+  
+  
+  
+  
+  
+
+El mundo es ancho y ajeno de Ciro Alegría (1941)
+
+Huasipungo: negatividad, determinismo. La novela de Alegría presenta un referente indígena y un universo imbuído de poesía. 
+
+  
+
+La serpiente de oro, los perros hambrientos 
+
+Renueva legado y lo conduce a sus máximas consecuencias. Novela amplia que le permite englobar una amplísima visión de la problemática andina
+
+La comunidad indígena como único espacio en el que indio puede realizarse humana y socialmente
+
+  
+
+Toma partido por un sistema de cohabitación social que se da en las comunidades andinas, alegría postula la supremacía del orden comunitario por sobre cualquier otro sistema de organización social que pudieran existir en el mundo andino
+
+  
+
+Espacio donde se puede vivir con dignidad, al amparo de valores que rigen esas comunidades como la fraternidad, la justicia entre pares y la sabiduría tradicional con la que todos cuentan
+
+  
+
+Narra y condena la explotación indígena poniéndo énfasis en el despojo de sus tierras
+
+  
+
+Tensión entre ese orden social y el mundo moderno.
+
+Transición de un tipo de mundo a otro.
+
+  
+
+Episodio de la laguna: laguna que los ancianos consideran intocable y que los más jóvenes quieren aprovechar para regalar. 
+
+  
+
+Dejan plantearse en la conciencia del lector una visión crítica de la modernización
+
+A diferencia de huasipungo, donde la modernización es negativa pero tampoco hay nada positivo que haya venido antes
+
+De esta novela entonces salimos con menos clausura que de Huasipungo
+
+  
+  
+
+La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. Equilibrio, actitud que nos distancia de lo mágico. A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
+
+  
+
+El indigenismo literario va a ser objeto de muchísimas críticas. Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
+
+  
+  
+  
+
+ESCRIBIR EL ENFOQUE QUE SE DESTACA DE LA LECTURA DE ESTOS TRES LECTURAS
+
+Una frase o dos, palabras clave
+
+  
+
+Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de arguedas no resuelve que sigue siendo literatura de origen no indígena
+
+  
+
+Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
+
+**
   
 **
   
