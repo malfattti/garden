@@ -859,31 +859,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- Empleos: comerciantes, tiendas étnicas, restaurantes éticos, sector doméstico y limpieza, restauración
 					-  Podemos hablar aquí de reterritorialización porque el español no es solo un elemento de identidad étnica sino que es además un capital social y económico
 					-  el inglés es importante pero el español es la lengua que facilita las relaciones sociales entre los grupos étnicos y mediante ellas el acceso a fuentes de trabajo
-					-  en Londres el español se corporeiza no solo en el pa
-	
-
-  
-
-Es muy importante la lengua: por qué podemos hablar de reterritorialización>
-
-Por qué es importante el español como lengua en Londres para poder conseguir trabajo.
-
-  
-
-Fragmento 1: su mercado es latino y así sus empleados tb.
-
-Fragmento 3: no necesita hablar inglés practicamente porque consigue trabajo a partir de su red latina. Empleada doméstica. En el trabajo solo necesita ocasionalmente un nivel de inglés muy básico. Pero su red para conseguir trabajo es latina. 
-
-El español entonces es una forma de conseguir trabajo en estas redes.
-
-  
-  
-
-El español entonce sno solo es elemento de identidad étnica, sino que facilita el acceso a las fuentes de trabajo
-
-  
-
-DESTERRITORIALIZACIÓN
+					-  en Londres el español se corporeiza no solo en el PL sino en las redes sociales que son esenciales para conseguir trabajo
+		  - DESTERRITORIALIZACIÓN
 
 Desterritorialización de espacio simbólico cultural muy importante con la pérdida de la lengua en el caso de los latinxs en estados unidos
 
