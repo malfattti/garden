@@ -621,14 +621,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Reactivación de los estereotipos, masa sujeta a la inacción, seres fuera de la historia. Estas críticas se le harán a muchas novelas indigenistas. Cual es el fin? Horror pero inacción.
 		- Huasipungo ha sido recibido de maneras muy diferentes sin embargo
 		- Diálogos sin emisores nombrados (aptos para des-subjetivizar la problemática andina), no sabemos quién está hablando más allá de que son ‘los indios” —> emanación del colectivo
-
-  
-
-Cornejo Polar: valores puestos en cuestión, la ausencia nos presenta la novela como un callejón sin salida. Al terminar de leer lo que vemos es que la presión y la expoliación son tan grandes que terminan deshumanizando los indígenas
-
-  
-
-March y Martul: se le exige a la obra literaria que contenga lo que se supone políticamente más correcto: casi pidiendo que relate lo que no relata. 
+		- **Cornejo Polar: valores puestos en cuestión, la ausencia nos presenta la novela como un callejón sin salida. Al terminar de leer lo que vemos es que la presión y la expoliación son tan grandes que terminan deshumanizando los indígenas**
+		- March y Martul: se le exige a la obra literaria que contenga lo que se supone políticamente más correcto: casi pidiendo que relate lo que no relata. 
 
   
 
