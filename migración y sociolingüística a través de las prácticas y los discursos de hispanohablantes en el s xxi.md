@@ -756,7 +756,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- --> Métodos de estudio de la percepción de Dennis Preston
 					- línea de invetstigación integral: percepción en sentido amplio (regard)
 						- percepción directa a partir de un estímulo sensorial
-						- el mundo conceptual de los hablantes SIn 
+						- el mundo conceptual de los hablantes SIN acudir a un estímulo
 
 Español caribeño: mezcla entre suizo alemán y alemán
 
