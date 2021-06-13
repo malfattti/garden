@@ -869,5 +869,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			  - desplazamiento intergeneracional hacia el inglés en tres generaciones
 			  - el mantenimiento del español no se debe a su conservación sino a la inmigración constante
 			  - Los padres no pasan la lengua a los hijos por miedo a la estigmatización social
-				  - español como síbolo de pobreza y desventaja social
-				  - miedo
+				  - español como símbolo de pobreza y desventaja social
+				  - miedo a la xenofobia y a la exclusión
+				  - miedo al aprendizaje deficitario del inglés
+				 - a pesar de que el 
