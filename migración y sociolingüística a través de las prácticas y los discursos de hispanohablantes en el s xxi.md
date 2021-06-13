@@ -819,35 +819,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	  - Estudios de pasaije lingüístico y semiótico de perspectiva etnográfica
 		  - Nueva concepción etnográfica en los estudios de paisaje lingüístico: el foco se mueve de la vitalidad de las lenguas hacia la estratificación histórica en el PLyS y en la manera en que los cambios sociales se muestran en el PLyS
 		  - Ejemplo de Mónica Castillo Luch:
-			  - comparacion entre poblaciones hispanoparlantes en Suiza, particularmente en Lausana: españoles y latinos
-				  - los elementos del paisaje lingü
-
-
-
-
-  
-
-Teorías sociales nutre la sociolingüística 
-
-  
-
-Como encajan estas teorías entonces en la socioling. De la migración?
-
--   Concepción etnográfica del paisaje ling (el foco ya no está en la vitalidad sino en la estratifícación 
-    
-
-Mónica Castillo Luch: texto que muestra cómo ha ido cambiado la fisonomía de Lausana debido a la migración hispana
-
-  
-  
-
-Pico de la migración 70s: igración sedentaria, no transnacional
-
-A partir de los 90s es distinTA: migrantes españoles altamente calificados
-
-  
-
-Los centros culturales donde la migración sedentaria se encontraba ya no tiene razón de ser. Las migraciones transnacionales tienen otros modos de vida: por ejemplo, viajan mucho más y no necesitan tener tantas comunidades fijas locales, pueden tener ese contacto cultural por otros lados
+			  -  texto que muestra cómo ha ido cambiado la fisonomía de Lausana debido a la migración hispana
+			  -  Pico de la migración 70s: migración sedentaria, no transnacional
+			  -  A partir de los 90s es distinta: migrantes españoles altamente calificados
+			  -  Los centros culturales donde la migración sedentaria se encontraba ya no tiene razón de ser. Las migraciones transnacionales tienen otros modos de vida: por ejemplo, viajan mucho más y no necesitan tener tantas comunidades fijas locales, pueden tener ese contacto cultural por otros lados
 
   
 
