@@ -587,15 +587,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Exigir de esa obra suficiente proximidad (mundo novelado, indígena, paisaje, etc): es una lit indigenista y no indigena,**la indigena vendrá a su tiempo**. 
 				- Distancia versus cercanía? En la novela indianista, desde q postura y cómo se trata o representa el referente? 
 				- Visión exotizante de las producciones indianistas / la que abre una distancia entre el referente y el destinatario de la obra.
-			- Autor implícito: narrautor, que se dice a través de la voz del narrador, 3ra persona, omnisciente (no puede en rigo presentar juicios de valor, ironía etc.
-
-Distancia entre referente y destinatario de la obra traduce en la narración en la distancia entre autor implícito y sujeto novelado 
-
-  
-  
-
-Es consciente de la imprecisión de la terminología
-
+			- Autor implícito: narrautor, que se dice a través de la voz del narrador, 3ra persona, omnisciente (no puede en rigo presentar juicios de valor, ironía etc.)
+			- Distancia entre referente y destinatario de la obra se traduce en la narración en la distancia entre autor implícito y sujeto novelado 
+			- Es consciente de la imprecisión de la terminología
+20.04.
   
   
 **
