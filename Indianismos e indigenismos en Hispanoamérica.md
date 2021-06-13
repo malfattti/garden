@@ -465,12 +465,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Proyectos de movimientos románticos que buscan en América y Europa regresar a raíces ancestrales, recuperación de lo nuestro. 
 			- Lit romántica europea: medioevo, dioses paganos
 			- Entonces por qué no remontarse en la lit romántica andina al incanato. Lo que pasa aquí es que hay una ruptura por la conquista. Hay que crear la continuidad
-
-Transición del indianismo hacia el indigenismo.
-
-  
-
-Se desplaza un poco el interés y se dispone a un tiempo más contemporáneo. Ya no la cuestión de los orígenes sino una identidad social más concreta e inmediata
+			- **Transición del indianismo hacia el indigenismo.**
+			- Se desplaza un poco el interés y se dispone a un tiempo más contemporáneo. Ya no la cuestión de los orígenes sino una identidad social más concreta e inmediata
 
   
 
