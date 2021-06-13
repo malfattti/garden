@@ -430,39 +430,17 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador
 				- El indio había desaparecido, se parte de un contexto nacional donde no hay indígenas.
 				- Esta presencia no plantea problemas de homogeneidad. “no molesta” si es que llega a darse.
-				- El tema del indio tuvo una fucnión muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
-
-Presencia negra/presencia indígena
-
-  
-
-Los negros eran mucho más activos en el campo social que los indígenas y por eso constituían un peligro para el poder conservador
-
-  
-
-Inclusión del negro como ciudadano de lo nacional
-
-  
-
-Siboneísmo: tendencia indianista en cuba 
-
-Se deriva sobre todo de la producción poética de Fornaris, Cantos Del Siboney 
-
-Lo que se propone como genuinamemente cubano. Un lugar de encuentro entre criollos e indígenas (pero la presencia negra no se explicita)
-
-  
-
-Aquí se ve la dificultad de elaborar lo nacional. Pugna por esta o no estar o excluir
-
-  
-
-En estas zonas aparecen obras indianistas e indigenistas
-
-  
-
-Lo insólito es que hay novelas indianistas donde ya no encontramos indígenas en el s. XIX
-
-Este es el caso de Enriquillo. Toma como fuente explícita una obra de Bartolomé de las Casas (autor de la Brevísima relación, pero la que se cita en este caso es “la historia de las indias”, cuenta la historia de santo domingo entre 1503 y 1533) se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
+				- El tema del indio tuvo una función muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
+				- Presencia negra/presencia indígena
+				- Los negros eran mucho más activos en el campo social que los indígenas y por eso constituían un peligro para el poder conservador
+				- Inclusión del negro como ciudadano de lo nacional
+				- Siboneísmo: tendencia indianista en Cuba 
+				- Se deriva sobre todo de la producción poética de Fornaris, Cantos Del Siboney 
+				- Lo que se propone como genuinamemente cubano. Un lugar de encuentro entre criollos e indígenas (pero la presencia negra no se explicita)
+				- Aquí se ve la dificultad de elaborar lo nacional. Pugna por estar o no estar o excluir
+				- En estas zonas aparecen obras indianistas e indigenistas
+				- Lo insólito es que hay novelas indianistas donde ya no encontramos indígenas en el s. XIX
+				- Este es el caso de Enriquillo. Toma como fuente explícita una obra de Bartolomé de las Casas (autor de la Brevísima relación, pero la que se cita en este caso es “la historia de las indias”, cuenta la historia de santo domingo entre 1503 y 1533) se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
 
   
 
