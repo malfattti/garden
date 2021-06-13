@@ -352,6 +352,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Sería erróneo hablar de una imitación a secas. 
 		- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
 		- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 	
+		- Tras las independencias, se trataron en los proyectos de na
 - Clase 23.03
 	- Literatura romántica de referente indígena en Argentina
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
