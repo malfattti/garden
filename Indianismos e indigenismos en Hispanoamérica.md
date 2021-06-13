@@ -563,25 +563,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Marxismo sui generis, readaptado, en clave socioeconómica no educativa.
 		- *Siete ensayos* fue tomada como alternativa 
 		- **A partir de la desilusión con el marxismo sus teorías son fuertemente criticadas, viendo en el indigenismo una forma de racismo invertido**. Representación compleja de la alteridad que distingue  entre varios otros. El otro de la herencia colonial, el chino, el negro y el indio.
-		- Valoración negativa de la herencia hispánica (económica y culturalmente). Lo que ha dejado España es el medioevo, la inquisición y la feudalidad.
-
-Aunque mariátegui no asuma supuestos de superioridad de razas, al intentar colocar lo autóctono como central y superior en su proyecto, subvalora las demás alteridades
-
-  
-
-Jornalero, peón chino: ocupa territorio cada vez mayor en términos de identidad
-
-Para Mariátegui el negro y los peones chinos permanecen atrapados en las tramas de la colonia y no hay puerta de salida para esas otredades
-
-  
-
-Se le reprocha alusiones al odio existente entre serranos y costeños. Se le reprocha el exclusivismo indigenista. 
-
-Diagnóstico fundamental pero tb simplificador y ambiguo
-
-  
-
-Idea de que la emancipación o redención del indio debe ser obra suya y de nadie más. Idea muy clara en Mariátegui, cuando es trasladada al campo de la producción literaria, resulta en augurios y esperanzas que le dan un significado muy profundo al pensamiento de Mariátegui.
+		- Valoración negativa de la herencia hispánica (económica y culturalmente). 
+			- Lo que ha dejado España es el medioevo, la inquisición y la feudalidad.
+		- Aunque Mariátegui no asuma supuestos de superioridad de razas, al intentar colocar lo autóctono como central y superior en su proyecto, subvalora las demás alteridades
+		- Jornalero, peón chino: ocupa territorio cada vez mayor en términos de identidad
+		- Para Mariátegui el negro y los peones chinos permanecen atrapados en las tramas de la colonia y no hay puerta de salida para esas otredades
+		- Se le reprocha alusiones al odio existente entre serranos y costeños. Se le reprocha el exclusivismo indigenista. 
+		- Diagnóstico fundamental pero tb simplificador y ambiguo
+		- Idea de que la emancipación o redención del indio debe ser obra suya y de nadie más. Idea muy clara en Mariátegui, cuando es trasladada al campo de la producción literaria, resulta en augurios y esperanzas que le dan un significado muy profundo al pensamiento de Mariátegui.
 
   
 
