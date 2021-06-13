@@ -789,10 +789,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Sobre todo tb en relación a las migraciones
 - Teorías del giro espacial y cómo se aplican en el estudio de la intersección entre lenguaje, movilidad y migración:
 	- La teoría de Henry Lefebvre (La production de l‘espace, 1974)
+		- ruptura con el modelo estructuralista dicotómico que separa lo material de lo imaginado
+		- presenta una concepción tripartita:
+			- 
 	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996)
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
-> Escalas y policentrismo (Blommaert 2007; 2015)
+	- Escalas y policentrismo (Blommaert 2007; 2015)
   
   
 
