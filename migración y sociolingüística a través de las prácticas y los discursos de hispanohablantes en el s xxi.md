@@ -767,10 +767,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 - Ejemplos de la primera generación:
 	- Ana: polarización extrema
 	- Luciana: entre prácticas reales e ideologías monoglosicas
-	- Carmen: el poder de la ideologá
-- Ejemplos de segunda generaci\on:
+	- Carmen: el poder de la ideología
+- Ejemplos de segunda generación:
 	- Natalie: La mezcla soy yo
 	- Manuela: mezclar es cool
+Conclusiones:
 
 
 Español caribeño: mezcla entre suizo alemán y alemán
