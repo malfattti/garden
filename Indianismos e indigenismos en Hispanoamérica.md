@@ -552,21 +552,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Recorre Perú y eso lo lleva a defender el **derecho de autodeterminación de los indígenas**
 		- Crea un **socialismo indigenista**: **prácticas comunitarias**de los incas lo lleva a ver una posible coherencia con la propuesta marxista 
 		- **Problema del indio**: **fundamentalmente económico, relacionado con el derecho a la tierra**. Muy relacionado esto con temáticas actuales, donde **los reclamos en torno a las tierras siguen siendo vigentes**
-		- Lo que se lee con el problema agrario corresponde con la necesidad de la liquidación del feudalismo y usos de la feudalidad que hay aún en el Perú
-
-  
-
-Raíces: Régimen de la propiedad de la tierra 
-
-La concentración de la tierra en los latifundios despoja a los indios, los hace dependientes y según Mariátegui la solución no es fraccionar latifundios en parcelas (solución liberal) sino la protección de las tierras comunitarias
-
-  
-
-Comunismo incáico histórico: propiedad de la tierra cultivable por el ayllu (conjunto de familias emparentadas), es una palabra que reaparece en muchas obras indigenistas y neoindigenistas
-
-  
-
-Publica en la editorial amauta vinculada a la revista vanguardista peruana del mismo nombre, fundada por Mariátegui en 1926
+		- Lo que se lee con el problema agrario corresponde con la **necesidad de la liquidación del feudalismo** y usos de la feudalidad que hay aún en el Perú
+		- Raíces: Régimen de la propiedad de la tierra 
+			- La concentración de la tierra en los latifundios despoja a los indios, los hace dependientes y según Mariátegui la solución no es fraccionar latifundios en parcelas (solución liberal) sino la protección de las tierras comunitarias
+		- **Comunismo incáico histórico: propiedad de la tierra cultivable por el ayllu (conjunto de familias emparentadas)**, es una palabra que reaparece en muchas obras indigenistas y neoindigenistas
+		- Publica en la Editorial Amauta vinculada a la revista vanguardista peruana del mismo nombre, fundada por Mariátegui en 1926
 
 El título que le da mariátegui
 
