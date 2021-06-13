@@ -795,8 +795,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- el espacio concebido (mental) = espacio representado
 				- el de la planificación urbana, ciencia, tecnocracia
 				- visiones y utopías, actividad artística y poética
-			- el espacio vivido (social): micromundos de habitantas en barrios, interacciones y prácticas sociales dia
-	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996)
+			- el espacio vivido (social): micromundos de habitantas en barrios, interacciones y prácticas sociales diarias, ideas y creencias
+				- el espacio adquiere valor simbólico
+	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996):
+		- redefine el orden tripartito de Lefebvre:
+			- primer espacio: físico
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
 	- Escalas y policentrismo (Blommaert 2007; 2015)
