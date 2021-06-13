@@ -400,19 +400,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- *Aves sin nido* de Clorinda Mato de Turner, escritora peruana , la primera novela indigenista, muy cerca de la **estética romántica** de **reivindicación social**. **Porque los indígenas que se representan en la novela pertenecen al presente de la autora y no al pasado**.
 		- Dentro del panorama romántico indianista se destacan dos novelas, antes de llegar a Aves sin nido. 
 		- Son las dos de mayor esfuerzo literario, las de mayor difusión. Indianistas con referente indígena. 
-
-Juan león Mera (Ecuador): Cumandá o un drama entre salvajes (1879):
-
--   Novela muy representativa de las narrativas de la época porque en ella lo literario y el proyecto político se entretejen. Puesta al servicio de lo político, medida de discurrir sobre un proyecto político. Cual es el proyecto de nación que presenta?
-    
-
--   Evolución de la sociedad ecuatoriana
-    
--   Se escribe apenas terminada la dictadura ultra conservadora y católica de gabriel garcía Moreno (entre 1860 y 1875)
-    
--   Mra emprende camino de reafirmación de este régimen
-    
--   Abogar por una modernidad que está en el pasado (s. XIX)
+			- Juan León Mera (Ecuador): Cumandá o un drama entre salvajes (1879):
+				- Novela muy representativa de las narrativas de la época porque en ella lo literario y el proyecto político se entretejen. Puesta al servicio de lo político, medida de discurrir sobre un proyecto político. Cual es el proyecto de nación que presenta?
+					- Evolución de la sociedad ecuatoriana
+					- Se escribe apenas terminada la dictadura ultra conservadora y católica de Gabriel García Moreno (entre 1860 y 1875)
+					- Mera emprende camino de reafirmación de este régimen
+					- Abogar por una modernidad que está en el pasado (s. XIX)
     
 -   Consdiera que se ha cometido un error como consecuencia de la expulsión de los jesuitas de los territorios (1877)
     
