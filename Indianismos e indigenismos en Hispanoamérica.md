@@ -608,28 +608,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - Huasi: puerta / Pungo: casa: Esta palabra hace referencia a la parcela de tierra que se les concedía a los indígenas en el sistema de haciendas o latifundios
 		  - Explotación de tierra:
 			  - Sistem de hacienda: lo central es el concertaje, término usado para referir el contrato de servicios personales en el que la parte contratante paga el trabajo por adelantado y crea una deuda de parte del trabajador. Inseguridad laboral, no es que haya libertad por más que parezca. Inexistencia de horario laboral, imposibilidad del trabajador de romper el acuerdo y la amenaza de ser encarcelado en caso de no cumplir el compromiso. Y la herencia de la deuda. Pobreza y explotación eternas
-			- Una variante del concertaje es el Huasipungo, precisamente.
-
-Designa la porción de la tierra entregada al indígena y a su familia. El huasipunguero trabaja para el dueño 5 días a la semana sin recibir salario. Los días restantes los usa para trabajar su propio terreno, que generalmente se caracteriza por su baja productividad.
-
-  
-  
-
-Sistema plantación: anterior. Rige en Cuba de todo el s. XIX: ingenio, propietario, plantaciones y esclavos
-
-  
-
-El paso de un sistema de explotación a la modernización no resuelve el problema de fondo que es la explotación.
-
-Concentración industria maderera
-
-  
-
-Analogía entre el indio y el obrero: ilustrada en un fragmento de conversación en documento que entablan Alfonso Pereira y su tío en las primeras páginas de la novela
-
-  
-
-El cholo: Gabriel Rodríguez: representa las tensiones del mestizaje, (cholo: indígena que ha adoptado cultura dominante), mal visto tanto dentro como fuera. Corporización del problema mismo del mestizaje 
+		- Una variante del concertaje es el Huasipungo, precisamente.
+			- Designa la porción de la tierra entregada al indígena y a su familia. El huasipunguero trabaja para el dueño 5 días a la semana sin recibir salario. Los días restantes los usa para trabajar su propio terreno, que generalmente se caracteriza por su baja productividad.
+		- Sistema plantación: anterior. Rige en Cuba de todo el s. XIX: ingenio, propietario, plantaciones y esclavos
+		- El paso de un sistema de explotación a la modernización no resuelve el problema de fondo que es la explotación.
+		- Concentración industria maderera
+		- Analogía entre el indio y el obrero: ilustrada en un fragmento de conversación en documento que entablan Alfonso Pereira y su tío en las primeras páginas de la novela
+		- El cholo: Gabriel Rodríguez: representa las tensiones del mestizaje, (cholo: indígena que ha adoptado cultura dominante), mal visto tanto dentro como fuera. Corporización del problema mismo del mestizaje 
 
   
 
