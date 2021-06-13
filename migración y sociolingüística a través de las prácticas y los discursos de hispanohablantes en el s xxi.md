@@ -879,7 +879,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- las dinámicas se dan en diferentes escalas (regionales y sociales) ordenadas en un continuum
 		- procesos micro y macro con diferentes formas de intersección de escalas
 	- retroalimentación entre escala global y local
-	- la globalización
+	- la globalización ha transformado las relaciones entre las regiones (flujos migratorios e interconectividad  transnacional de personas, recursos)
+		- más movilidad
+		- más uso de nuevas tecnologías para comunicación
 
 Varias capas
 
