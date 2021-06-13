@@ -857,7 +857,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- diferentes niveles de inglés y posibilidades de trabajo en pequeños porcentajes
 					- Fase 3: a partir de finales de 1990: latinoamericanos sin conocimientos de inglés, provienen de diásporas secundarias, básicamente de España y entran a Londres por sus redes socioculturales trtnsnacionales
 						- Empleos: comerciantes, tiendas étnicas, restaurantes éticos, sector doméstico y limpieza, restauración
-						- 
+
+					- 
 	
 
   
