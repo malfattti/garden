@@ -753,7 +753,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
 				- autopercepción en narrativas autobiográficas
-  
+				- --> Métodos de estudio de la percepción de Dennis Preston
+					- línea de invetsigación integral:
+						- percepción et
 
 Español caribeño: mezcla entre suizo alemán y alemán
 
