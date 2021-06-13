@@ -834,21 +834,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Ejemplo: Frederik, Maryland es el primer condado que declara el inglés como única lengua oficial en 2012 
 			- Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
 			- Esto desató un contramovimiento que reclamaba el espacio para los pueblos originarios americanos
-				- llamado a deportar a los primeros y reales inmigrante silegales: los descendientes de los ingleses que invadieron Norteamérica en 
-
-Acto simbólico.
-
-Cuando maryland empieza a tener la migración latina fuerte (antes no había tanta presencia), hacen esto.
-
-Aquí se moviliza un imaginario colectivo de temor del avance del otro. La ley simboliza la lucha que existe entre estos espacios étnicos. Se moviliza la lengua como símbolo de inclusión/exclusión.
-
-  
-
-Esto desata un contra movimiento, en el que se dice que los anglos No eran los verdaderos poseedores de ese espacio sino los pueblos originarios
-
-  
-
-A partir de las lenguas se lucha por el espacio.
+				- llamado a deportar a los primeros y reales inmigrante silegales: los descendientes de los ingleses que invadieron Norteamérica en los 1600s
+				- llamado a declarar como lengua oficial a la lengua más vieja
+				- A partir de las lenguas se lucha por el espacio. La lucha 
 
 Otro ejemplo: australia hizo una campaña anti inmigración cuando recibió muchos inmigrantes de medio oriente
 
