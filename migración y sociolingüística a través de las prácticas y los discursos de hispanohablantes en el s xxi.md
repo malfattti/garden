@@ -791,7 +791,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- La teoría de Henry Lefebvre (La production de l‘espace, 1974)
 		- ruptura con el modelo estructuralista dicotómico que separa lo material de lo imaginado
 		- presenta una concepción tripartita:
-			- el espacio percibido (físico): empíricamente observable, medible, cuantificable. Materializado, producido mediante la actividad social del hombre
+			- el espacio percibido (físico): empíricamente observable, medible, cuantificable. Materializado, producido mediante la actividad social del hombre (pero no solamente)
 			- el espacio concebido (mental) = espacio representado
 				- el de la planificación urbana, ciencia, tecnocracia
 				- visiones y utopías, actividad artística y poética
@@ -807,32 +807,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
-	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en
+	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
-  
-
-
-Escalas y poloicentrismo Blommaert/ esta es la única teoría que nace en la sociolingúística
-
- (esto lo veremos bien el 13.04)
-
-  
-
-La primera teoría entonces es la de Lefebvre:
-
-Rompe con las teorías dicotómicas estructuralistas
-
-Propone en vez de una visión dicotómida del espacio una teoría tripartita.
-
-El espacio puede estudiarse desde tres perspectivas complementarias:
-
--   El espacio percibido (físico): empíricamente observable, cuantificable. Producido por la actividad del hombre (pero no solamente)
-    
--   El concebido (mental): el representado. De la planificación urbana. Es creativo porque da lugar a visiones utópicas (planificación ambiental y urbana) 
-    
--   El vivido (social): micromundos, barrios, manzanas, en el que nosotros hacemos nuestra vida social (Melanie Würth hizo un trabajo sobre estos barrios en Buenos Aires).
-    
-
   
 
 Soja: a partir de Lefebvre presenta tres espacios: primero, segundo y tercero.
