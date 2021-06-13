@@ -829,7 +829,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Conceptos de territorialización - deterritorialización - reterritorialización
 		- Deleuze y Guattari 1977, reconfigurada por Appadurai 1996 
 		- A través de estos procesos: choques y reajustes 
-		- TERRITORIALIZACIÓN: proceso mediante el que se corporeiza un espacio a través de una lengua.
+		- **TERRITORIALIZACIÓN: proceso mediante el que se corporeiza un espacio a través de una lengua**.
 			- en contextos de migración este proceso puede implicar los procesos conflictivos mediante los que un colectivo reclama para sí un determinado espacio instrumentalizando para ello la lengua
 				- Ejemplo: Frederik, Maryland es el primer condado que declara el inglés como única lengua oficial en 2012 
 				- Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
@@ -840,9 +840,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- La lucha por el espacio se carga de valor simbólico, se etnitiza
 			- Estos procesos de territorialización también pueden ocurrir entre colectivos de inmigrantes más nuevos frente a los viejos
 				- Ejemplo: en Sidney, Australia, una ola de refugiados del Medio Oriente desencadenó una campaña anti-inmigratoria con el lema "we grew here, you flew here"
-		- RETERRITORIALIZACIÓN: proceso mediante el cual un grupo étnico con su lengua correspondiente se reestablece tras una dislocación física en un nuevo país de acogida. 
+		- **RETERRITORIALIZACIÓN: proceso mediante el cual un grupo étnico con su lengua correspondiente se reestablece tras una dislocación física en un nuevo país de acogida**. 
 			- Recorporeización de un nuevo espacio mediante la lengua
-			- En estos proc
+			- En estos procesos las redes sociales son fundamentales
+			- Los individuos dislocados reestablecen sus identidades étnicas a través de canales reales y virtuales (nuevos medios)
 
 
   
