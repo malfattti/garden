@@ -852,7 +852,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- Elephant and castle es un centro comercial que se quiere derrumbar porque está en muy mal estado, por eso es que se está luchando por su supervivencia.
 				- La inmigración latina en Londres tiene una historia muy parecida a la que hay en Suiza/ Y la configuración tb es parecida:
 					- es la comunidad latina más grande después de España e Italia
-					- Fase 1: en
+					- Fase 1: entre 1970 y 1990: refugiados políticos desde Chile, Argentina y Uruguay a los que se ofrece clases de inglés gratuitas para facilitar su integración 
 
   
 
