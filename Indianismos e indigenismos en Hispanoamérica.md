@@ -544,23 +544,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Cohesión social: propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
 	- Cornejo Polar: Matto de Turner propone la integración de la raza desheredada a través de la adopción e integracón
 	- La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
-	- Cornejo polar traduce el proyecto como modernizador de aculturación
-
-  
-
-Del indianismo al indigenismo
-
-S. XX: del indigenismo al neoindigenismo
-
-  
-
-En Perú y Ecuador la hacienda (corazón del régimen agrario feudal heredado del colonialismo) se constituyó no solo como sistema socioeconómico sino que constituye casi la cara olvidada de una modernidad que no resolvía los problemas de loa indígena
-
-  
-  
-  
-
-Mariátegui: primer pensador indigenista peruano.
+	- **Cornejo Polar traduce el proyecto como modernizador de aculturación** 
+	- aquí se va del indianismo al indigenismo y en el S. XX: del indigenismo al neoindigenismo
+	- En Perú y Ecuador la hacienda (corazón del régimen agrario feudal heredado del colonialismo) se constituyó no solo como sistema socioeconómico sino que constituye casi la cara olvidada de una modernidad que no resolvía los problemas de loa indígena
+	- Mariátegui: primer pensador indigenista peruano.
 
 La figura fundadora del marxismo latinoamericano: funda en 1928 el partido socialista del perú 
 
