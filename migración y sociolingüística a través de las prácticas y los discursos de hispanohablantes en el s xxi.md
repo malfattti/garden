@@ -793,7 +793,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- presenta una concepción tripartita:
 			- el espacio percibido (físico): empíricamente observable, medible, cuantificable. Materializado, producido mediante la actividad social del hombre
 			- el espacio concebido (mental) = espacio representado
-				- el de la planificación 
+				- el de la planificación urbana, ciencia, tecnocra
 			- el espacio vivido (social)
 	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996)
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
