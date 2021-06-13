@@ -811,24 +811,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- la agentividad humana hace del espacio físico uno social
 		- el espacio urbano funciona como un texto que se construye de forma dinámica a través de un sistema de signos semióticos constituido por y en los lugares e intercambios que ocurren allí
 		- por eso las ciudades son distintas, porque cuentan histrorias distintas. A una ciudad la percibo con toda su experiencia humana
-		- Su trabajo "Walk in the city" implica un cambio en la concepción del paisaje lingüístico porque mientras que en las teorías 
+		- Su trabajo "Walk in the city" implica un cambio en la concepción del paisaje lingüístico porque adqueire una dimensión etnográfica
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
-  
+	  - Relación entre estas teorías y la sociolingüística de migración
+	  - 
 
 
 
-
-  
-
-Por eso las ciudades son distintas. Cuentan historias distintas.
-
-A una ciudad la percibo con toda su experiencia humana
-
-“Walk in the city”
-
-: implica un giro en la subdisciplina del paisaje lingüística. La idea del paisaje lingüístico era describir en el paisaje cuan seguido aparecían determinadas lenguas (vitalidad lingüística urbana). A partir de “Walk in the city” cambia porque adquiere una dimensión etnográfica
 
   
 
