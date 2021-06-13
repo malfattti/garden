@@ -592,22 +592,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Es consciente de la imprecisión de la terminología
 - 20.04
   - Escajadillo se interroga sobre las condiciones que hacen que una obra pueda ser considerada indigenista
-
-  
-
-Cuestión de la proximidad
-
-  
-
-Distancia y proximidad se puede examinar en relación con el indianismo (que no presenta la suficiente proximidad) y el indigenismo
-
-Distancia entre referente y destinatario de la obra. Esta es reflejo de la distancia entre el autor implícito (cuya voz a veces descubrimos en el narrador omnisciente) y el sujeto novelado
-
-Narrador extradiegético: omnisciente que ofrece relato en tercera persona y al que se le supone conocimiento total de la historia.
-
-  
-
-Extradiegético y heterodiegético en la medida en que no está en la historia y narra algo en lo que no ha participado. Distancia entre el autor implícito y el sujeto otro. El narrador suele usar el registro culto e imponerse en el relato con pasajes descriptivos desde la perspectiva exterior, dejando a los indígenas que se expresen en un espaÑol no normativo y en constante vaivén con su otro idioma (español asimilado de manera no formal)
+	  - Cuestión de la proximidad
+		  - Distancia y proximidad se puede examinar en relación con el indianismo (que no presenta la suficiente proximidad) y el indigenismo
+		  - Distancia entre referente y destinatario de la obra. Esta es reflejo de la distancia entre el autor implícito (cuya voz a veces descubrimos en el narrador omnisciente) y el sujeto novelado
+		  - Narrador extradiegético: omnisciente que ofrece relato en tercera persona y al que se le supone conocimiento total de la historia.
+		  - Extradiegético y heterodiegético en la medida en que no está en la historia y narra algo en lo que no ha participado. Distancia entre el autor implícito y el sujeto otro. 
+		  - El narrador suele usar el registro culto e imponerse en el relato con pasajes descriptivos desde la perspectiva exterior, dejando a los indígenas que se expresen en un español no normativo y en constante vaivén con su otro idioma (español asimilado de manera no formal)
 
   
 
