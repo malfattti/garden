@@ -507,21 +507,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Rechaza la idea de que acusen al indio como refractarios a la civilización y considera que es una campaña de desprestigio inaceptable. 
 					- El indio, dice el, recibe lo que le dan, fanatismo y aguardiente
 				- Una vez que el movimiento indigenista ya está formalizado como movimiento político y pero tb cultural. (falta mariátegui, 192x). 
-				- En González Prada encontramos una exposición y acusación, pero faltan soluciones o propuestas específicas 
-
-Se pasa de la idea de que al indio hay que educarlo a la idea de que la cuestión indígena más que pedagógica es una cuestión económica/social.
-
-Todo este discurso lo encontramos en aves sin nido
-
-  
-
-Tiranía embrutecedora: la ejercen los que se ocupan de las leyes, lso que gobiernan y los curas. La trinidad embrutecedora (así la llama Matto de Turner tb)
-
-La iglesia es tb aliada de esos poderes usurpados
-
-  
-
-González prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
+				- En González Prada encontramos una exposición y acusación, pero **faltan soluciones o propuestas específicas** 
+				- **Se pasa de la idea de que al indio hay que educarlo a la idea de que la cuestión indígena más que pedagógica es una cuestión económica/social**.
+				- Todo este discurso lo encontramos en Aves sin nido
+				- Tiranía embrutecedora: la ejercen los que se ocupan de las leyes, los que gobiernan y los curas. La Trinidad embrutecedora (así la llama Matto de Turner tb)
+				- La iglesia es tb aliada de esos poderes usurpados
+				- onzález prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
 
 Los indios no tiene derechos, solo obligaciones
 
