@@ -531,19 +531,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 
   
   
-
-La semana que viene: CLORINDA MATTO DE TUNER
-
-  
-**
-  
-
-La otra novela…
-
-**
 	
 	
-El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
+
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
 Del indigenismo al neoindigenismo (años 30-finales años 70); Mariátegui; la literatura indigenista; Icaza;
 Alegría; recepción crítica del indigenismo; Arguedas; Scorza
