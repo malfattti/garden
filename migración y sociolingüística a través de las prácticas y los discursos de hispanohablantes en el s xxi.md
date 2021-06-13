@@ -872,4 +872,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - español como símbolo de pobreza y desventaja social
 				  - miedo a la xenofobia y a la exclusión
 				  - miedo al aprendizaje deficitario del inglés
-				 - a pesar de que el 
+				- a pesar de que el inflés sea una lengua valorada a nivel internacional y mismo dentro de Estados Unidos (cuando no es el inglés de los inmigrantes), poco se hace para mantener el inglés de los estudiantes
