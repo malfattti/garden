@@ -873,3 +873,113 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - miedo a la xenofobia y a la exclusión
 				  - miedo al aprendizaje deficitario del inglés
 				- a pesar de que el español sea una lengua valorada a nivel internacional y mismo dentro de Estados Unidos (cuando no es el inglés de los inmigrantes), poco se hace para mantener el español nativo de los estudiantes inmigrantes
+	- Clase 13.04: Escalas sociolingüísticas
+		- **
+
+Varias capas
+
+Cuestión espacial y cuestión vertical (social)
+
+  
+
+La escala es una metáfora, compuesta por dos ejes: vertical y horizontal
+
+  
+
+Conceptos que nacen en otras ciencias sociales
+
+La socioling. De la globalización es ampliamente interdisciplinaria
+
+  
+
+Wallenstein: teoría sociológica/sociopolítica: las diferencias socioeconómicas entre estados se pueden entender con la ayuda de escalas
+
+  
+
+Países de acuerdo a tres escalas: centro - semi-periferia-perfiferia
+
+  
+  
+
+Qué ha creado esta jerarquía? Condicionamientos sociohistóricos / económicos
+
+Los del centro: jerárquicamente superiores y más acceso a recursos (sin necesariamente tenerlos ellos)
+
+Periferia: tienen recursos pero no pueden capitalizarlos, desigual
+
+Periferia: intermedio 
+
+Intercambio entre países: sujeto a jerarquía, históricamente condicionado
+
+  
+
+La escala es una herramienta que sirve para entender cómo se mueven los recursos entre estos tres niveles jerárquicamente diferenciados
+
+  
+
+El elemento micro está conectado con elementos macro (ejemplo producción de droga en centroamérica - distribución mundial). Retroalimentación entre escala local y global 
+
+  
+
+Esta teoría del sistema mundo se ha utilizado para explicar por qué hay países que ofrecen mano de obra barata
+
+  
+
+Descapitalización humana: fuga de cerebros, personas que se desplazan espacialmente desde zonas periféricas a centrales. Esto implica para estas personas un desplazamiento vertical (sus recursos se desplazan hacia abajo o arriba desde el viejo al nuevo contexto)
+
+Relación entre jerarquías
+
+Giro de la movilidad: Salazar en año 2016: no solo hay transnacionalismo sino movilidad de personas, quienes consigo movilizan recursos
+
+Las lenguas se convierten en un recurso central de la movilidad de las personas. Por ejemplo: suizos tienen amplia movilidad espacial y vertical. Sin recursos uno se puede movilizar tal vez en el espacio pero no en la jerarquía
+
+Los valores de las lenguas como recursos no son objetivos. Cambian cuando nos movemos de un lado al otro, del centro a periferia
+
+  
+
+Indexicalidad: asociar rasgos lingüísticos a contexto social. La indexicalidad depende de los valores que tengo y cuál es mi centro. Si se juzgara la carta con valores de tanzania, seguramente sería una carta excelente
+
+Pero de acuerdo a las normas epistolares europeas y del inglés, no es del todo correcto
+
+O sea que los valores sociales que yo le doy a las prácticas varían
+
+  
+
+Variedad seseante en Madrid. Esto tb pasa en movimientos translocales
+
+  
+
+PLURICENTRISMO
+
+Los actores sociales se puede regir por diferentes centros
+
+No es exactamente lo mismo que las escalas
+
+Nosotros dependiendo de con quiénes nos comunicamos o qué objetivos tiene nuestra comunicación, tomamos determinadas decisiones / movilizamos determinados recursos/variedades
+
+Diferentes prácticas orientadas dependiendo de los centros.
+
+Las prácticas SON policéntricas
+
+  
+
+Como hablante, se qué práctica utilizo, para qué evento. Hay prácticas muy locales y puntuales, otras menos (rango de impacto mayor)
+
+  
+
+Normativo: yo conozco la manera de comunicar en un evento determinado
+
+Para cada práctica me rijo por normas distintas
+
+No solo  estoy dentro de prácticas policéntricas, sino de prácticas complejas
+
+Para cada práctica se cómo debo moverme, discursivamente hablando.
+
+  
+  
+
+Para la próxima: LEER EL TEXTO SOBRE LAS POLÍTICAS DE LENGUA DE HERENCIA EN SUIZA
+
+  
+  
+**
