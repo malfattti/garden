@@ -619,14 +619,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Reflexión entre clases sociales y construcciones raciales en Ecuador
 		- Masa taimada, inmóvil, petrificada, muda: retrato en un conjunto donde no se distinguen los individuos pero puede verse “la furia congelada” de varios siglos
 		- Reactivación de los estereotipos, masa sujeta a la inacción, seres fuera de la historia. Estas críticas se le harán a muchas novelas indigenistas. Cual es el fin? Horror pero inacción.
-
-  
-
-Huasipungo ha sido recibido de maneras muy diferentes sin embargo
-
-  
-
-Diálogos sin emisores nombrados (aptos para des-subjetivizar la problemática andina), no sabemos quién está hablando más allá de que son ‘los indios” —> emanación del colectivo
+		- Huasipungo ha sido recibido de maneras muy diferentes sin embargo
+		- Diálogos sin emisores nombrados (aptos para des-subjetivizar la problemática andina), no sabemos quién está hablando más allá de que son ‘los indios” —> emanación del colectivo
 
   
 
