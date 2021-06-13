@@ -353,7 +353,7 @@ Proyectos de nación: algunas diferencias
 	- Sería erróneo hablar de una imitación a secas. 
 	- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
 	- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 
-
+- Clase
 Literatura romántica de referente indígena en Argentina
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
