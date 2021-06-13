@@ -829,10 +829,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Conceptos de territorialización - deterritorialización - reterritorialización
 		- Deleuze y Guattari 1977, reconfigurada por Appadurai 1996 
 		- A través de estos procesos: choques y reajustes 
-
-  
-
-TERRITORIALIZACIÓN
+		- TERRITORIALIZACIÓN: proceso mediante el que se corporeiza un espacio a través de una lengua.
+			- en contextos de migración este proceso i
 
 Maryland: colectivos que luchan por adquirir un espacio simbólico. Luchas étnicas por posicionarse en un territorio. Frederik, Maryland, 2012. Es el primer condado en declarar el inglés como lengua única oficial. Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
 
