@@ -742,11 +742,14 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- la mayoría de la migración a Suiza viene de Europa, seguida por Asia y África
 			- Un estudio de 2017 muestra que el colectivo de inmigrantes latinoamericanos se destaca por el gran porcetntaje de mujeres (64%)
 		- Metodos para desarrollar una investigación
-			- entrevista semi-estructurada
-			- pruebas perceptivas:
+			- entrevista semi-estructurada cuyo objetivo es:
+				- estudiar creencias, evaluaciones, actitudes e ideolo
+			- 
+		- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
 				- autopercepción en narrativas autobiográficas
+					-  trabajo de introspección mediante estímulo auditivo y como ellas ven y perciben las prácticas heterogósicas
 				- --> Métodos de estudio de la percepción de Dennis Preston
 					- línea de invetstigación integral: percepción en sentido amplio (regard)
 						- percepción directa a partir de un estímulo sensorial
@@ -762,7 +765,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- 2.5: madre latina, padre suizo (mayormente)
 Español caribeño: mezcla entre suizo alemán y alemán
 
-Autopercepción: trabajo de introspección mediante estímulo auditivo y como ellas ven y perciben las prácticas heterogósicas
+
 
   
   
