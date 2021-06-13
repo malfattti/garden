@@ -543,12 +543,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Adoptan dos huérfanas 
 	- Cohesión social: propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
 	- Cornejo Polar: Matto de Turner propone la integración de la raza desheredada a través de la adopción e integracón
-
-  
-
-La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
-
-Cornejo polar traduce el proyecto como modernizador de aculturación
+	- La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
+	- Cornejo polar traduce el proyecto como modernizador de aculturación
 
   
 
