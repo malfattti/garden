@@ -799,7 +799,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el espacio adquiere valor simbólico
 	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996):
 		- redefine el orden tripartito de Lefebvre:
-			- primer espacio: físico
+			- primer espacio: físico, cuantificable y explicable
+			- segundo espacio: ideacional, proyecciones hacia el espacio físico
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
 	- Escalas y policentrismo (Blommaert 2007; 2015)
