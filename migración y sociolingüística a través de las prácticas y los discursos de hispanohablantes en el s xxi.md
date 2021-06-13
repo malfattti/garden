@@ -883,7 +883,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- más movilidad
 		- más uso de nuevas tecnologías para comunicación transnacional
 		- diversificación de conectividad de empresas multinacionales
-	- 
+	- Descapitalización humana: fuga de cerebros, personas que se desplazan espacialmente desde zonas periféricas a centrales. Esto implica para estas personas un desplazamiento vertical (sus recursos se desplazan hacia abajo o arriba desde el viejo al nuevo contexto)
 	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros epistémicos
 		- el espacial (dimensión social)
 		- de la movilidad: personas y recursos simbólicos
@@ -899,7 +899,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
   
 
-Descapitalización humana: fuga de cerebros, personas que se desplazan espacialmente desde zonas periféricas a centrales. Esto implica para estas personas un desplazamiento vertical (sus recursos se desplazan hacia abajo o arriba desde el viejo al nuevo contexto)
+
 
 Relación entre jerarquías
 
