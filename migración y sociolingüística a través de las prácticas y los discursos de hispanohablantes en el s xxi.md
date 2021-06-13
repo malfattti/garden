@@ -862,15 +862,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					-  en Londres el español se corporeiza no solo en el PL sino en las redes sociales que son esenciales para conseguir trabajo
 		  - **DESTERRITORIALIZACIÓN: desvinculación entre el espacio, la lengua étnica y la actividad humana**
 			  - Ejemplo: pérdida de la lengua en los latinxs que han migrado a Estados Unidos
-			  - Choques intergeneraaci
-
-Desterritorialización de espacio simbólico cultural muy importante con la pérdida de la lengua en el caso de los latinxs en estados unidos
-
-Choque entre generaciones 9los padres se prientan hacia el español, los hijos no)
-
-O los padres adrede desterritorializan el espacio al no pasar la lengua (ideologías instrumentalistas). El inglés sirve pero el español no, como instrumento de movilidad social
-
-Como no se pasa la lengua hay una desterritorialización lingúística.
+			  - Choques intergeneracionales: los padres siguen orientados hacia la cultura y lengua de su país de origen y los hijos buscan su identidad en el nuevo contexto
+			  - O los padres adrede desterritorializan el espacio al no pasar la lengua (ideologías instrumentalistas). El inglés sirve pero el español no, como instrumento de movilidad social
+			  - Como no se pasa la lengua hay una desterritorialización lingúística.
 
   
 
