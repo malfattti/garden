@@ -485,15 +485,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Centramiento en problemas internos.
 				- En este contexto la literatura plantea la cuestión india: la extrema pobreza, marginalización, etc. que sufre la población india. 
 				- La literatura que brota es indianista de reivindicación social. *Aves sin nido* entra en este momento. 
-				- Entonces por eso es considerada un punto de arranque en la lit indigenista. Ella no es indígena, algo que caracteriza la narrativa indigenista (el hablar por los demás)
-
-  
-
-Decadas finales del s. XIX en que se va a centrar la atención la propuesta del peruano Manuel González prada (1849-1910) predomina su figura en el escenario progresista
-
-  
-
-Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresiÓn en clorinda matto de turner, su contemporánea
+				- Entonces por eso es considerada un punto de arranque en la literatura indigenista. Ella no es indígena, algo que caracteriza la narrativa indigenista (el hablar por los demás)
+			- Decadas finales del s. XIX en que se va a centrar la atención la propuesta del peruano Manuel González Prada (1849-1910) predomina su figura en el escenario progresista
+			- Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresión en Clorinda matto de turner, su contemporánea
 
 Entonces en  su obra se ve esta influencia.
 
