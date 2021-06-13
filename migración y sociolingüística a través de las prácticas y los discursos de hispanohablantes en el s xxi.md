@@ -844,11 +844,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Recorporeización de un nuevo espacio mediante la lengua
 			- En estos procesos las redes sociales son fundamentales
 			- Los individuos dislocados reestablecen sus identidades étnicas a través de canales reales y virtuales (nuevos medios)
+			- Si hay gente que migra, la vida social siempre tiene lugar en un espacio. Los inmigrantes inevitablemente reterritorializan el espacio.
+				- Ejemplo: comunidad latina en Londres que se ha ido origanizando en colectivos
 
 
   
 
-Si hay gente que migra, la vida social siempre tiene lugar en un espacio. Los inmigrantes inevitablemente reterritorializan el espacio.
+
 
 Fundamentales las redes sociales y canales virtuales 
 
