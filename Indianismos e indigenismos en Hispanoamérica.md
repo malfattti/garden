@@ -502,13 +502,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal
 					- No solo el virreinato explotó al indio sino que la república tb siguió explotándolo.
 					- la situación del indígena ha empeorado
-				- Hay otro texto que expone y detalla estas ideas: “Nuestros indios” de 1904 “Horas de lucha” 1924, una etapa muy distinta. Esboza el problema: la república es la continuación del virreinato y el indio es el ciervo abusado aún 
-
-Rechaza la idea de que acusen al indio como refractarios a la civilización y considera que es una campaña de desprestigio inaceptable. El indio, dice el, recibe lo que le dan, fanatismo y aguardiente
-
-  
-
-Una vez que el movimiento indigenista ya está formalizado como movimiento político y pero tb cultural. (falta mariátegui, 192x). En González Prada encontramos una exposición y acusación, pero faltan soluciones o propuestas específicas 
+				- Hay otro texto que expone y detalla estas ideas: “Nuestros indios” de 1904 “Horas de lucha” 1924, una etapa muy distinta. 
+					- Esboza el problema: la república es la continuación del virreinato y el indio es el ciervo abusado aún 
+					- Rechaza la idea de que acusen al indio como refractarios a la civilización y considera que es una campaña de desprestigio inaceptable. 
+					- El indio, dice el, recibe lo que le dan, fanatismo y aguardiente
+				- Una vez que el movimiento indigenista ya está formalizado como movimiento político y pero tb cultural. (falta mariátegui, 192x). 
+				- En González Prada encontramos una exposición y acusación, pero faltan soluciones o propuestas específicas 
 
 Se pasa de la idea de que al indio hay que educarlo a la idea de que la cuestión indígena más que pedagógica es una cuestión económica/social.
 
