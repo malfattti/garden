@@ -847,7 +847,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Si hay gente que migra, la vida social siempre tiene lugar en un espacio. Los inmigrantes inevitablemente reterritorializan el espacio.
 				- Ejemplo: comunidad latina en Londres que se ha ido origanizando en colectivos sociales cívicos como el proyecto "Latine Elephant" para:
 					- Darle más visibilidad al barrio latino en Londres
-					- mejorar la integración del barrio
+					- mejorar la integración del barrio al paisaje urbano y cultural de Londres
+					- mejorar la infraestructura urbana del barrio
+					- 
 
 
   
