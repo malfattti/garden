@@ -811,13 +811,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
   
-El tercero: aquí si hay una diferencia con Lefebvre. Mientras que para Lefebvre este es el espacio de las prácticas sociales y la interacción y vida social. Para Soja es un espacio de choque o confrontación entre dos espacios: el percibido, geográfico. El tercero es un espacio alternativo que nace del choque. “Thirding as othering. Espacios periféricos que no entraban en la concepción de esa ciudad. Esto tiene que ver con las migraciones que tienen efectos sobre las configuraciones originales de los espacios. Espacios de resistencia de orden dominante y nacimiento de órdenes alternativos. Rompen con los espacios concebidos. Espacio metafórico que nace de lo nuevo, choque, desencuentro. 
 
-  
-
-Tercer espacio
-
-  
 
 Espacios alternativos, fuera de la cultura hegemónica
 
