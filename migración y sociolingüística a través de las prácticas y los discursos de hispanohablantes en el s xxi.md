@@ -669,138 +669,86 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- estas categorías no son siempre claras en la práctica
 		- la identidad individual siempre forma parte de una identidad social, y son varias
 	- el concepto de identidad lingüística ha ido evolucionando en el tiempo:
-		- 
-  
-**
-
-Cómo ha evolucionado el concepto de identidad ling. a lo largo de los años?
-
-Edad antigua: concepciones dicotómicas
-
-Para aristóteles no hay relación entre las lenguas que hablamos y nuestra naturaleza. Para el todas las mentes son iguales. Las lenguas son algo superficial, porque la esencia del ser humano es la misma. 
-
-  
-
-Idea epicurista y platónica: las lenguas que hablan afectan la identidad de las personas. Epicuro ya decía que la constitución física es parte de la identidad grupal de las personas. Aspectos materiales del individuo como conformantes de grupos sociales. 
-
-  
-
-Renacimiento: se retoman las ideas de epicuro y platón: 
-
--   La lengua tiene un papel pragmático. Compartir una lengua une a un pueblo
-    
--   La forma particular o genio de la lengua compartida refleja lo que distingue a las personas de las demás (la lengua es la consecuencia de la distinción)
-    
--   La lengua es la causa de que me separe de otros grupos (causa)
-    
-
-  
-
-Siglo XIX: constructo de estado-nación: a partir de una idea de identidad de la nación.  Se retoman las ideas que ya circulaban en el renacimiento
-
--   Visión romántica: espíritu compartido que se proyecta en la lengua es la base de la constitución del estado
-    
--   Visión política: ilustración: la lengua compartida es un elemento fundamental. Muchas ideologías nacionales se construyen a partir de la identidad social
-    
-
-  
-
-Repercusiones en la lingüística moderna:
-
--   Comunidades lingüísticas homogéneas: 
-    
--   Clasificaciones binarias
-    
--   Clasificaciones discretas 
-    
--     
-    
--   (concepciones, identidades discretas, contrastivas, y cerradas, tal como las expone el estado nación)
-    
--   Las epistemes son hijas de su tiempo y se nutren de las ideas de ese tiempo
-    
-
-  
-Mediados del s. XX
-
--   Vuelta de tuerca en la filosofía y la psicología 
-    
--   Pensadores post-estructuralistas
-    
--   Los vinculos entre lenguaje e identidad se forman iontersubjetivamente y en contexto. Ya no hay identidades discretas y cerradas, son más bien prismáticas (depende de la situación expongo una detemrinada cara)
-    
--   Tb hay corrientes construccionistas. Pero esto no es así, hay una parte de mí que no es construcción. Nosotros no estamos en el mundo del construccionismo radical
-    
--   Depende de con quien interactúa expongo una cara y cambio, salvo las cosas que no puedo cambiar
-    
--   Por eso la identidad semiótica es situada
-    
--   Tajfel:
-    
-
--   La identidad social se refiere a un individuo más que a un grupo. Es una cuestión de autoconcepto, yo me incluyo en determinado grupo y me adjudico rasgos que me unen a ese grupo
-    
--   Como individuo me siento ligado a un determinado grupo de gente. Estos vínculos son tb emotivos
-    
--   El otro surge precisamente en esta teoría social. Siempre construyo mi identidad en alteridad con el otro que no quiero ser. Relación dialéctica con el otro
-    
--   Solo me puedo distinguir del otro en determinadas situaciones
-    
--   Por eso es importante la situación, la autopercepción y el hecho de que sea una auto-categorización. Cuestión subjetiva, es histórico, tengo que poder percibir los rasgos históricos que identifican a este grupo
-    
-
--   Esta es la postura teórica que se refleja en las teorías de la superdiversidad. Teorías postestructuralistas de la identidad: transnacionalismo, medios de comunicación
-    
--   Se prefiere hablar de prácticas, redes y repertorios en vez de lenguas y comunidades. Toda esta terminología se vuelca en torno a lo situacional y se deja de lado lo que tiende a homogeneizar a los grupos. 
-    
-
-  
-
-LO CENTRÍFUGO: DIVERSIFICAR
-
-Prácticas heterocéntrias: reticular / se mueven entre varios centros. Por ejemplo, mandar a un chico a la escuela española. No solo mezclar lenguas sino hacer parte de prácticas culturales distintas. 
-
-  
-  
-
-heteroglósicas: bottom up : la lengua. Si alguien dice: me fui a la post y no encontré márkli. Mezcla de lenguas
-
-  
-
-LO CENTRÍPETO; HOMOGENEIZAR
-
-PERO: CÓMO FUNCIONAN las cabezas? En sus cabezas siguen presentando en sus cabezas la idea de que solo hablan una lengua y son muy fieles a su cultura de origen (movimiento centrípeto) . 
-
-Los países en los que estas personas están, quieren que las personas se integren (por ejemplo, regalar cursos de alemán). Estos movimientos tiran hacia las prácticas del estado nación
-
-  
-
-MODELO IDEOLÓGICO IDENTITARIO DEL ESTADO NACIÓN ES MUY importante en la autopercepción de las personas
-
-  
-
-Franzé Mudanó: los individuos tienen muy interiorizada la idea de pertenencia a un colectivo nacional. Sobre todo las generaciones que han migrado en el s. XX
-
-  
-
-Investigación
-
-  
-
--   Quiénes son estas personas, qué hacen en Berna
-    
--   Analizar la práctica es muy difícil, primero hay que establecer vínculos
-    
--   Empezó por la autopercepción de los inmigrantes y ver cuáles eran sus ideologías ling\\ú;isticas 
-    
-
-  
-
-1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
-
-2: hijos de dos latinxs
-
-2.5: madre latina, padre suiza (mayormente)
+		- edad antigua: dos concepciones dicotómicas
+			- Aristóteles: las lenguas que hablan las personas no están conectadas con la naturaleza de las personas que las hablan. La esencia del ser humano es la misma, las lenguas son algo superficial
+			- Epicuro y Platón: las lenguas que hablan las personas están fuertemente conectadas con sus identidades
+		- Renacimiento: se retoman las ideas de Epicuro y Platón: 
+			- La lengua tiene un papel pragmático. Compartir una lengua une a un pueblo
+				- La forma particular o 'genio' de la lengua compartida refleja lo que distingue a las personas que la hablan de las demás (la lengua es la consecuencia de la distinción)
+				- La lengua es la causa de que me separe de otros grupos (causa)
+		- Siglo XIX: construcción de la identidad colectiva en el modelo de estado-nación. Se retoman las ideas que ya circulaban en el renacimiento.
+			- Visión romántica (Herder): la nación en forma de un espíritu compartido que se proyecta en la lengua es la base de la constitución del estado
+			- Visión política: ilustración: la lengua compartida es un elemento fundamental para constituir el Estado-nación. 
+				- Muchas ideologías nacionales se construyen a partir de la identidad social
+		- siglo XIX:
+			- concepción esencialista, fija y estática de la identidad
+			- repercusiones en la lingüística moderna
+				- concepto de comunidad lingüística o comunidad de habla (basados en la homogeneidad)
+				- clasificaciones binarias
+				- clasificaciones discretas
+		- siglo XX:
+			- pensadores postestructuralistas (Derrida, Foucault)
+			- las relaciones entre lenguaje e identidad se construyen de forma intersubjetiva y en función del contexto
+				- ya no identidades discretas y cerradas sino prismáticas
+				- igualmente, hay cosas que no puedo cambiar (no es un construccionismo radical)
+			- la identidad (semiótica) es situada
+		- Teoría de la identidad desarrollada en la psicolingüística social por Tajfel (1978)
+				- La identidad social: parte del autoconcepto de un individuo que se deriva de su conocimiento a grupo/s social/es + el valor y significado emocional que se le atribuyo a esa pertenencia
+					-  se forma mediante la autopercepción y en contraste con el otro
+					-  El otro surge precisamente en esta teoría social. Siempre construyo mi identidad en alteridad con el otro que no quiero ser. Relación dialéctica con el otro
+    	- Esta es la postura teórica que se refleja en las teorías de la superdiversidad y la movilidad. 
+			- Transnacionalismo: proceso mediante el que inmigrantes construyen espacios sociales que vinculan en diferentes medidas los espacios del país de proveniencia y el país de acogida
+			- influencia de la tecnología y los medios de comunicación masiva
+		- Influencias en la concepción y el estudio del lenguaje:
+			- en la sociolingüística se cuestionan las categorias y los métodos de análisis tradicionales que ya no son adecuados para dar cuenta de la forma en que la comunicación tiene lugar y para la creación y gestión de las identidades en la modernidad tardía
+			- nuevos términos: heteroglosia, polylanguaging, translanguaging, etc.
+				- vinculación con recursos multilingües y modelos culturales diferentes en las prácticas comunicativas diarias
+				- Se prefiere hablar de prácticas, redes y repertorios en vez de lenguas y comunidades. Toda esta terminología se vuelca en torno a lo situacional y se deja de lado lo que tiende a homogeneizar a los grupos. 
+		- Lo que ocurre en contextos reales de migración:
+			- NIVEL MACRO 
+				- dos realidades distintas:
+					- por una parte, globalización, transnacionalismo y diásporas
+					- que devienen... superdiversidad, multiculturalidad y multilingüismo
+				- choque entre dos movimientos distintos:
+					- movimiento centrífugo "que huye del centro'":
+						- Prácticas heterocéntricas: reticular / prácticas sociales diarias / movimiento entre varios centros. Por ejemplo, mandar a un chico a la escuela española. No solo mezclar lenguas sino hacer parte de prácticas culturales diferentes.
+						- Prácticas heteroglósicas: bottom up. Prácticas domésticas. Mezcla de lenguas, por ejemplo: si alguien dice "me fui a la post y no encontré márkli"
+					- movimiento centrípeto (que va hacia el centro): homogeinización
+						- ideología monocéntrica: top-down, políticas estados-nación
+						- ideología monoglósica: reticular, prácticas sociales diarias
+					- CÓMO FUNCIONAN las cabezas? En sus cabezas siguen presentando la idea de que solo hablan una lengua y son muy fieles a su cultura de origen (movimiento centrípeto) . 
+						- Los países en los que estas personas están, quieren que las personas se integren (por ejemplo, regalar cursos de alemán). Estos movimientos tiran hacia las prácticas del estado nación
+					- El nosotros nacional: 
+						- Bordieu dice que el pensamiento de estado es un modo que va más allá de la esfera de los actos jurídicos
+						- afecta a las formas de categorización y cognición ordinarias a través de las que se le da sentido al mundo social y la relación entre el nosotros nacional en su relación con la alteridad no nacional -inmigrante-.
+						- EL MODELO IDEOLÓGICO IDENTITARIO DEL ESTADO NACIÓN ES MUY importante en la autopercepción de las personas
+						- Franzé Mudanó: los individuos tienen muy interiorizada la idea de pertenencia a un colectivo nacional. Sobre todo las generaciones que han migrado en el s. XX
+			- NIVEL MICRO
+				- cuáles son las **ideologias lingüísticas** que impactan en las **interacciones diarias, las prácticas sociales y las lingüísticas**de los **individuos con trayectorias de migración**?
+				- para hacer una investigación, es necesario diseñarla teniendo en cuenta la producción de las prácticas lingüísticas en los diferentes espacios y la autopercepcoón de las prácticas lingüística
+				- Es necesario preguntarse quiénes son estas personas, qué hacen en el lugar donde están (por ejemplo, Berna)
+				- Analizar la práctica es muy difícil, primero hay que establecer vínculos
+				- **Empezar por la autopercepción de los inmigrantes y ver cuáles eran sus ideologías lingüísticas **
+				- A partir de la percepción: creencias, evaluaciones y actitudes se estudiarán:
+					- las ideologías lingüísticas
+					- las identidades lingüísticas
+			- Latinoamericanxs en Suiza como representantes de las nuevas diásporas:
+				- desde finales de los años **1960** Suiza ha recibido **migración española**.
+					- las cifras disminuyeron en el s. XXi y el tipo de población que emigra es distinta
+				- en los **60** la **inmigración latinoamericana en Europa** aún está conformada por la **elite** económica y los intelectuales
+				- en los **70** comienza la **inmigración masculina** por razones **políticas**
+				- en los **90s** la **inmigración latinoamericana** en Suiza **aumenta y se diversifica**
+				- en **2010 ocurre el pico de migración latinoamericana**, desde el cual hay un descenso en los números. Tendencia a la estabilización
+			- la mayoría de la migración a Suiza viene de Europa, seguida por Asia y África
+			- Un estudio de 2017 muestra que el colectivo de inmigrantes latinoamericanos se destaca por el gran porcetntaje de mujeres (64%)
+		- Metodos para desarrollar una investigación
+			- entrevista semi-estructurada
+				- total de 78 entrevistadxs, 42 mujeres y 36 hombres
+				- franjas etarias de la generación 1: entre 25-34 años / entre 35 y 54 años
+				- franjas etarias de la generación 1.5, 2 y 2.5: 17 a 24 años / 25 a 34 años
+					- 1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
+					- 2: hijos de dos latinxs
+					- 2.5: madre latina, padre suizo (mayormente)
 
   
 
