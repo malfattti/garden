@@ -873,8 +873,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - miedo a la xenofobia y a la exclusión
 				  - miedo al aprendizaje deficitario del inglés
 				- a pesar de que el español sea una lengua valorada a nivel internacional y mismo dentro de Estados Unidos (cuando no es el inglés de los inmigrantes), poco se hace para mantener el español nativo de los estudiantes inmigrantes
-	- Clase 13.04: Escalas sociolingüísticas
-		- **
+	- Clase 13.04: Escalas 
+- Theory World System --> Immanuel Wallenstein --> escalas sociolingüísticas (Blommaert)
+- 
 
 Varias capas
 
