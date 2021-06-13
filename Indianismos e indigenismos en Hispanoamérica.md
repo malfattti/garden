@@ -355,7 +355,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Después de las independiencias, los proyectos de nación empezaron a construirse, y se discutieron cuestiones referidaas a la cultura, entre ellas la cuestión de los orígenes de las literaturas nacionales. Cada país respondió a esta pregunta influenciado por su perspectiva histórica. Por ejemplo, México evoca las siguientes procedencias de las literaturas nacionales: cantos escritos en lengua indígena, literatura medieval española (a pesar de posición antiespañola dominante), las inmediatas academias literarias que surgían tras la independencia (ruptura con pasado colonial)
 - Clase 23.03
 	- Literatura romántica de referente indígena en Argentina
-		- La cautiva
+		- *La cautiva*
 			- 9 cantos, refiere la historia de una pareja: María y Brian. Caen prisioneros de los indios de la Pampa argentina.
 			- María es obligada a ser la concubina de un jefe indio. Y después logran huir
 			- Brian muere en el camino.
@@ -366,14 +366,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Casada con un inglés de quien está encinta, rechaza el mestizaje sexual con el indio. Ella rechaza la función que le quieren asignar de concubina del indio.
 			- Circunstancia del momento: se proyecta un futuro que no va a acontecer porque en vez de ingleses y alemanes que “mejorarían” la conformación de los argentinos, entran los italianos y españoles
 			- Románticos europeos: el buen salvaje, naturaleza armoniosa. Aquí no hay eso
-
-  
-
-María y Brian son débiles e impotentes frente a su contexto.
-
-Dialéctica de civilización y barbarie.
-
-Martín fierro de josé hernández: cierra la dicotomía de civilización y barbarie y cobra un valor continental la idea de civilización y barbarie/ se difunde como una metáfora de muchos contextos americanos
+			- María y Brian son débiles e impotentes frente a su contexto.
+			- Dialéctica de civilización y barbarie.
+	- *Martín Fierro* de José Hernández: cierra la dicotomía de *Civilización y barbarie* y cobra un valor continental la idea de civilización y barbarie/ se difunde como una metáfora de muchos contextos americanos
 
   
 
