@@ -624,40 +624,15 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- **Cornejo Polar: valores puestos en cuestión, la ausencia nos presenta la novela como un callejón sin salida. Al terminar de leer lo que vemos es que la presión y la expoliación son tan grandes que terminan deshumanizando los indígenas**
 		- March y Martul: se le exige a la obra literaria que contenga lo que se supone políticamente más correcto: casi pidiendo que relate lo que no relata. 
 		- Reproche de limitarse a presentar una novela indigenista y no neoindigenista. La novela se presta a múltiples interpretaciones, ella nos va a subir tres. 
-
-  
-  
-  
-  
-  
-
-El mundo es ancho y ajeno de Ciro Alegría (1941)
-
-Huasipungo: negatividad, determinismo. La novela de Alegría presenta un referente indígena y un universo imbuído de poesía. 
-
-  
-
-La serpiente de oro, los perros hambrientos 
-
-Renueva legado y lo conduce a sus máximas consecuencias. Novela amplia que le permite englobar una amplísima visión de la problemática andina
-
-La comunidad indígena como único espacio en el que indio puede realizarse humana y socialmente
-
-  
-
-Toma partido por un sistema de cohabitación social que se da en las comunidades andinas, alegría postula la supremacía del orden comunitario por sobre cualquier otro sistema de organización social que pudieran existir en el mundo andino
-
-  
-
-Espacio donde se puede vivir con dignidad, al amparo de valores que rigen esas comunidades como la fraternidad, la justicia entre pares y la sabiduría tradicional con la que todos cuentan
-
-  
-
-Narra y condena la explotación indígena poniéndo énfasis en el despojo de sus tierras
-
-  
-
-Tensión entre ese orden social y el mundo moderno.
+		- El mundo es ancho y ajeno de Ciro Alegría (1941)
+		- Huasipungo: negatividad, determinismo. La novela de Alegría presenta un referente indígena y un universo imbuído de poesía. 
+		- La serpiente de oro, los perros hambrientos 
+		- Renueva legado y lo conduce a sus máximas consecuencias. Novela amplia que le permite englobar una amplísima visión de la problemática andina
+		- La comunidad indígena como único espacio en el que indio puede realizarse humana y socialmente
+		- Toma partido por un sistema de cohabitación social que se da en las comunidades andinas, Alegría postula la supremacía del orden comunitario por sobre cualquier otro sistema de organización social que pudieran existir en el mundo andino
+		- Espacio donde se puede vivir con dignidad, al amparo de valores que rigen esas comunidades como la fraternidad, la justicia entre pares y la sabiduría tradicional con la que todos cuentan
+		- Narra y condena la explotación indígena poniendo énfasis en el despojo de sus tierras
+		- Tensión entre ese orden social y el mundo moderno.
 
 Transición de un tipo de mundo a otro.
 
