@@ -768,7 +768,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Ana: polarización extrema
 	- Luciana: entre prácticas reales e ideologías monoglosicas
 	- Carmen: el poder de la ideologá
-
+- Ejemplos de segunda generaci\on:
+	- Natalie: La mezcla soy yo
+	- Manuela: mezclar es cool
 
 
 Español caribeño: mezcla entre suizo alemán y alemán
