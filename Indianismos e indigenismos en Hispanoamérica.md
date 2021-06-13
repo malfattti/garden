@@ -623,10 +623,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Diálogos sin emisores nombrados (aptos para des-subjetivizar la problemática andina), no sabemos quién está hablando más allá de que son ‘los indios” —> emanación del colectivo
 		- **Cornejo Polar: valores puestos en cuestión, la ausencia nos presenta la novela como un callejón sin salida. Al terminar de leer lo que vemos es que la presión y la expoliación son tan grandes que terminan deshumanizando los indígenas**
 		- March y Martul: se le exige a la obra literaria que contenga lo que se supone políticamente más correcto: casi pidiendo que relate lo que no relata. 
-
-  
-
-Reproche de limitarse a presentar una novela indigenista y no neoindigenista. La novela se presta a múltiples interpretaciones, ella nos va a subir tres. 
+		- Reproche de limitarse a presentar una novela indigenista y no neoindigenista. La novela se presta a múltiples interpretaciones, ella nos va a subir tres. 
 
   
   
