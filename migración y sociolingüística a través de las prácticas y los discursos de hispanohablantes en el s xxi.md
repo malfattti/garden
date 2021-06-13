@@ -780,5 +780,227 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- las primeras generaciones muestra ideologías claramente monolingües que reflejan una fuerte conexión entre la lengua nacional y la identidad
 				- en otros casos si bien se observan prácticas heteroglósicas, las ideologías siguien siendo monolingües
 			- en las segundas generaciones hay mayor congruencia entre ideologías y prácticas heteroglósicas. valoración positiva de estas prácticas y asociación de ellas con las identidades
-Clase 6 
+- Clase 6 30.03: Espacio
+	- E
+
+
+**
+
+
+
+El giro espacial: se da dentro de la geografía humana. Se llama giro espacial porque a partir de los 70 se entiende en la geografía solo en su dimensión física sino tb en relación al ser humano y en su dimensión social (geografía humana). Como el espacio se entiende en su dimensión social va a estar en continuo movimiento porque son las personas y sus actividades las que cambian el espacio. Sobre todo tb en relación a las migraciones.
+
+  
+
+Entonces: dinámica social en la reconfiguración del espacio.
+
+Y una de las grandes fuerzas en la reconfiguración de los espacios sociales está en la migración
+
+  
+  
+
+2 teorías: Lefebvre: la producción del espacio y De Certeau (texto de la antropología social)
+
+  
+
+Deleuze y Guattari: Territorialización, Desterritorializaci;on y reterritorialización (reconfigurada por Appaduray > estudios culturales DESDE AQUÍ SALTA A LA SOCIOLINGÚÍSTICA CULTURAL)
+
+Escalas y poloicentrismo Blommaert/ esta es la única teoría que nace en la sociolingúística
+
+ (esto lo veremos bien el 13.04)
+
+  
+
+La primera teoría entonces es la de Lefebvre:
+
+Rompe con las teorías dicotómicas estructuralistas
+
+Propone en vez de una visión dicotómida del espacio una teoría tripartita.
+
+El espacio puede estudiarse desde tres perspectivas complementarias:
+
+-   El espacio percibido (físico): empíricamente observable, cuantificable. Producido por la actividad del hombre (pero no solamente)
+    
+-   El concebido (mental): el representado. De la planificación urbana. Es creativo porque da lugar a visiones utópicas (planificación ambiental y urbana) 
+    
+-   El vivido (social): micromundos, barrios, manzanas, en el que nosotros hacemos nuestra vida social (Melanie Würth hizo un trabajo sobre estos barrios en Buenos Aires).
+    
+
+  
+
+Soja: a partir de Lefebvre presenta tres espacios: primero, segundo y tercero.
+
+A nosotros nos interesa sobre todo el tercero.
+
+  
+
+El primer espacio de Soja es bastante parecido al de Lefebvre: cuantificable a partir de los sentidos
+
+El segundo tb es equiparable al concebido de Lefebvre. El de las ideas de las proyecciones de futuro, utópicas. 
+
+El tercero: aquí si hay una diferencia con Lefebvre. Mientras que para Lefebvre este es el espacio de las prácticas sociales y la interacción y vida social. Para Soja es un espacio de choque o confrontación entre dos espacios: el percibido, geográfico. El tercero es un espacio alternativo que nace del choque. “Thirding as othering. Espacios periféricos que no entraban en la concepción de esa ciudad. Esto tiene que ver con las migraciones que tienen efectos sobre las configuraciones originales de los espacios. Espacios de resistencia de orden dominante y nacimiento de órdenes alternativos. Rompen con los espacios concebidos. Espacio metafórico que nace de lo nuevo, choque, desencuentro. 
+
+  
+
+Tercer espacio
+
+  
+
+Espacios alternativos, fuera de la cultura hegemónica
+
+Hay ciertos espacios a los que Suiza les ha dado un reconocimiento legal, por ejemplo las escuelas que surgen como espacios alternativos a la educación formal, pública, oficial. Pero ahora por ejemplo los chicos pueden poner esas notas en su boletín.
+
+O sea que estos espacios se van desarrollando, son dinámicos. La vida social no es estática.
+
+  
+
+De Certeau: “Walk in the city”
+
+el espacio físico urbano existe en tanto es corporeizado a través de la experiencia de los individuos. Las construcciones tienen una historia / ligada a la historia. Por ejemplo el centro viejo de berna: los edificios nos cuentan una historia y a la vez cumplen una serie de funciones: públicas, turísticas. Etc.
+
+El espacio se construye como un texto, un libro abierto
+
+  
+
+Por eso las ciudades son distintas. Cuentan historias distintas.
+
+A una ciudad la percibo con toda su experiencia humana
+
+“Walk in the city”
+
+: implica un giro en la subdisciplina del paisaje lingüística. La idea del paisaje lingüístico era describir en el paisaje cuan seguido aparecían determinadas lenguas (vitalidad lingüística urbana). A partir de “Walk in the city” cambia porque adquiere una dimensión etnográfica
+
+  
+
+Teorías sociales nutre la sociolingüística 
+
+  
+
+Como encajan estas teorías entonces en la socioling. De la migración?
+
+-   Concepción etnográfica del paisaje ling (el foco ya no está en la vitalidad sino en la estratifícación 
+    
+
+Mónica Castillo Luch: texto que muestra cómo ha ido cambiado la fisonomía de Lausana debido a la migración hispana
+
+  
+  
+
+Pico de la migración 70s: igración sedentaria, no transnacional
+
+A partir de los 90s es distinTA: migrantes españoles altamente calificados
+
+  
+
+Los centros culturales donde la migración sedentaria se encontraba ya no tiene razón de ser. Las migraciones transnacionales tienen otros modos de vida: por ejemplo, viajan mucho más y no necesitan tener tantas comunidades fijas locales, pueden tener ese contacto cultural por otros lados
+
+  
+
+Centro asturiano español: estrategia de supervivencia. Porque el nuevo cartel evoca un público más amplio, que más se sientan invitados
+
+  
+
+PACO SERVICES: Las eses en la escritura muestra que el emisor es seseante o sea hispanoamericano. Nueva ola migratoria no española
+
+  
+
+Ejemplos de cómo una ciudad puede ser un libro abierto, configuración de espacio social que muestra la historia de una migración 9en este caso dos colectivos de hispanohablantes distintos)
+
+  
+
+Deleuze y Guattari, reconfigurada por Appadurai 1996 
+
+A través de los procesos de terri, reterri y desterritorialización, choques y reajustes 
+
+  
+
+TERRITORIALIZACIÓN
+
+Maryland: colectivos que luchan por adquirir un espacio simbólico. Luchas étnicas por posicionarse en un territorio. Frederik, Maryland, 2012. Es el primer condado en declarar el inglés como lengua única oficial. Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
+
+Acto simbólico.
+
+Cuando maryland empieza a tener la migración latina fuerte (antes no había tanta presencia), hacen esto.
+
+Aquí se moviliza un imaginario colectivo de temor del avance del otro. La ley simboliza la lucha que existe entre estos espacios étnicos. Se moviliza la lengua como símbolo de inclusión/exclusión.
+
+  
+
+Esto desata un contra movimiento, en el que se dice que los anglos No eran los verdaderos poseedores de ese espacio sino los pueblos originarios
+
+  
+
+A partir de las lenguas se lucha por el espacio.
+
+Otro ejemplo: australia hizo una campaña anti inmigración cuando recibió muchos inmigrantes de medio oriente
+
+  
+
+Pero la terri. Conlleva tb la DESTERRITORALIZACIÓN Y LA RETERRITORALIZACIÓN
+
+  
+
+Si hay gente que migra, la vida social siempre tiene lugar en un espacio. Los inmigrantes inevitablemente reterritorializan el espacio.
+
+Fundamentales las redes sociales y canales virtuales 
+
+  
+
+Ejemplo de reterritorialización
+
+Comunidad de latinxs en Londres. 
+
+Elephant and Castle: reterritorialización de la comunidad latina: restaurantes, espacios, psicólogos, etc
+
+Aquí tb se ve que la migración es secundaria, a través de puntos donde hay redes sociales que permiten la circulación en el resto de europa
+
+Elephant and castle es un centro comercial que se quiere derrumbar porque está en muy mal estado, por eso es que se está luechando por su supervivencia.
+
+  
+  
+
+El costurero y la bodeguita: diminutivo ito
+
+  
+
+La inmigración latina en Londres tiene una historia muy parecida a la que hay en Suiza/ Y la configuración tb es parecida.
+
+  
+
+Es muy importante la lengua: por qué podemos hablar de reterritorialización>
+
+Por qué es importante el español como lengua en Londres para poder conseguir trabajo.
+
+  
+
+Fragmento 1: su mercado es latino y así sus empleados tb.
+
+Fragmento 3: no necesita hablar inglés practicamente porque consigue trabajo a partir de su red latina. Empleada doméstica. En el trabajo solo necesita ocasionalmente un nivel de inglés muy básico. Pero su red para conseguir trabajo es latina. 
+
+El español entonces es una forma de conseguir trabajo en estas redes.
+
+  
+  
+
+El español entonce sno solo es elemento de identidad étnica, sino que facilita el acceso a las fuentes de trabajo
+
+  
+
+DESTERRITORIALIZACIÓN
+
+Desterritorialización de espacio simbólico cultural muy importante con la pérdida de la lengua en el caso de los latinxs en estados unidos
+
+Choque entre generaciones 9los padres se prientan hacia el español, los hijos no)
+
+O los padres adrede desterritorializan el espacio al no pasar la lengua (ideologías instrumentalistas). El inglés sirve pero el español no, como instrumento de movilidad social
+
+Como no se pasa la lengua hay una desterritorialización lingúística.
+
+  
+
+Desde los 80 hay estudios de como se desplaza el español pro el inglés por causas instrumentalistas
+
+La estigmatización del colectivo hispano sigue siendo enorme en estados unidos
+
+**
 - 
