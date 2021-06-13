@@ -833,7 +833,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- en contextos de migración este proceso puede implicar los procesos conflictivos mediante los que un colectivo reclama para sí un determinado espacio instrumentalizando para ello la lengua
 			- Ejemplo: Frederik, Maryland es el primer condado que declara el inglés como única lengua oficial en 2012 
 			- Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
-			- El movimi
+			- Esto desató un contramovimiento que reclamaba el espacio para los pueblos originarios americanos
+				- llamado a deportar a los primeros y reales inmigrante silegales: los descendientes de los ingleses que invadieron Norteamérica en 
 
 Acto simbólico.
 
