@@ -405,16 +405,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Evolución de la sociedad ecuatoriana
 					- Se escribe apenas terminada la dictadura ultra conservadora y católica de Gabriel García Moreno (entre 1860 y 1875)
 					- Mera emprende camino de reafirmación de este régimen
-					- Abogar por una modernidad que está en el pasado (s. XIX)
-    
--   Consdiera que se ha cometido un error como consecuencia de la expulsión de los jesuitas de los territorios (1877)
-    
--   Etapa post colonial: llamado a los jesuitas para que dirijan la educación secundari ay universitaria del pa’si
-    
--   Cumand;a narra el amor imposible
-    
-
--   Mujer raptada por los jíbaros cuando niña, se la promete a un cacique jíbaro y al morir este tiene que morir ella por la muerte ritual al que eran sometidas las viudas, ser enterradas con el cacique. 
+					- Aboga por una modernidad que está en el pasado (s. XIX)
+					- Considera que se ha cometido un error como consecuencia de la expulsión de los jesuitas de los territorios (1877)
+					- Etapa post colonial: llamado a los jesuitas para que dirijan la educación secundaria y universitaria del país
+				- Cumandá narra el amor imposible
+				-  Mujer raptada por los jíbaros cuando niña, se la promete a un cacique jíbaro y al morir este tiene que morir ella por la muerte ritual al que eran sometidas las viudas, ser enterradas con el cacique. 
     
 -   Indígenas buenos: cristianizados
     
