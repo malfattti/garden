@@ -801,26 +801,16 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- redefine el orden tripartito de Lefebvre:
 			- primer espacio: físico, cuantificable y explicable
 			- segundo espacio: ideacional, proyecciones hacia el espacio físico
-			- tercer espacio: encuentro y choque entre el primer y el segundo espacio
+		**- tercer espacio: encuentro y choque entre el primer y el segundo espacio
 				- espacios experimentados por los individuos con sus experiencias previas, sus creencias e ideologías
 				- espacios alternativos, de des-encuentro entre centros y perfierias,
-				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes
+				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes**
+				- este espacio es 
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
   
-
-Soja: a partir de Lefebvre presenta tres espacios: primero, segundo y tercero.
-
-A nosotros nos interesa sobre todo el tercero.
-
-  
-
-El primer espacio de Soja es bastante parecido al de Lefebvre: cuantificable a partir de los sentidos
-
-El segundo tb es equiparable al concebido de Lefebvre. El de las ideas de las proyecciones de futuro, utópicas. 
-
 El tercero: aquí si hay una diferencia con Lefebvre. Mientras que para Lefebvre este es el espacio de las prácticas sociales y la interacción y vida social. Para Soja es un espacio de choque o confrontación entre dos espacios: el percibido, geográfico. El tercero es un espacio alternativo que nace del choque. “Thirding as othering. Espacios periféricos que no entraban en la concepción de esa ciudad. Esto tiene que ver con las migraciones que tienen efectos sobre las configuraciones originales de los espacios. Espacios de resistencia de orden dominante y nacimiento de órdenes alternativos. Rompen con los espacios concebidos. Espacio metafórico que nace de lo nuevo, choque, desencuentro. 
 
   
