@@ -550,8 +550,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- **Mariátegui: primer pensador indigenista peruano**.
 		- La figura fundadora del marxismo latinoamericano: funda en 1928 el Partido Socialista del Perú 
 		- Recorre Perú y eso lo lleva a defender el derecho de autodeterminación de los indígenas
-
-Crea un socialismo indigenista: prácticas comunitarias de lo incas lo lleva a ver una posible coherencia con la propuesta marxista 
+		- Crea un socialismo indigenista: prácticas comunitarias de los incas lo lleva a ver una posible coherencia con la propuesta marxista 
 
   
 
