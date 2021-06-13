@@ -808,6 +808,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- este espacio establece una difeencia importante con el tercer espacio de Lefebvre
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 		- el espacio físico urbano existe en tanto es corporeizado a través de las experiencias de los individuos y contruido en las narrativas de esos individuos día a día
+		- la agentividad humana hace del espacio físico uno social
+		- el espacio urbano funciona como un texto que se construye de forma dinámica a través d eu
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
