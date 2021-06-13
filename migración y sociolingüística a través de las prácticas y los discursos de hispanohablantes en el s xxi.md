@@ -849,35 +849,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Darle más visibilidad al barrio latino en Londres
 					- mejorar la integración del barrio al paisaje urbano y cultural de Londres
 					- mejorar la infraestructura urbana del barrio
-					- 
-
-
-  
-
-
-
-Fundamentales las redes sociales y canales virtuales 
-
-  
-
-Ejemplo de reterritorialización
-
-Comunidad de latinxs en Londres. 
-
-Elephant and Castle: reterritorialización de la comunidad latina: restaurantes, espacios, psicólogos, etc
-
-Aquí tb se ve que la migración es secundaria, a través de puntos donde hay redes sociales que permiten la circulación en el resto de europa
-
-Elephant and castle es un centro comercial que se quiere derrumbar porque está en muy mal estado, por eso es que se está luechando por su supervivencia.
-
-  
-  
-
-El costurero y la bodeguita: diminutivo ito
-
-  
-
-La inmigración latina en Londres tiene una historia muy parecida a la que hay en Suiza/ Y la configuración tb es parecida.
+				- Elephant and castle es un centro comercial que se quiere derrumbar porque está en muy mal estado, por eso es que se está luchando por su supervivencia.
+				- La inmigración latina en Londres tiene una historia muy parecida a la que hay en Suiza/ Y la configuración tb es parecida:
+					- es la comunidad latina más grande después de España e Italia
+					- Fase 1: en
 
   
 
