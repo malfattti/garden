@@ -641,22 +641,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. 
 			- Equilibrio, actitud que nos distancia de lo mágico. 
 			- A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
-
-  
-
-El indigenismo literario va a ser objeto de muchísimas críticas. Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
-
-  
-  
-  
-
-ESCRIBIR EL ENFOQUE QUE SE DESTACA DE LA LECTURA DE ESTOS TRES LECTURAS
-
-Una frase o dos, palabras clave
-
-  
-
-Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de arguedas no resuelve que sigue siendo literatura de origen no indígena
+	- El indigenismo literario va a ser objeto de muchísimas críticas:
+		- Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
+	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de arguedas no resuelve que sigue siendo literatura de origen no indígena
 
   
 
