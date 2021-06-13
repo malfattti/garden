@@ -818,6 +818,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	  - Relación entre estas teorías y la sociolingüística de migración
 	  - Estudios de pasaije lingüístico y semiótico de perspectiva etnográfica
 		  - Nueva concepción etnográfica en los estudios de paisaje lingüístico: el foco se mueve de la vitalidad de las lenguas hacia la estratificación histórica en el PLyS y en la manera en que los cambios sociales se muestran en el PLyS
+		  - Ejemplo de Mónica Castillo Luch:
+			  - comparacion en
 
 
 
