@@ -458,19 +458,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Dar la dirección de lo que tiene que asumir la nación
 			- Los criollos asumen como propia la historia incaica o de las poblaciones indígenas locales
 			- Ven la llegada de los españoles como una invasión y la independencia como liberación. La identificación con lo indio y lo andino (Jorge Basadre, historiador) era histórica y simbólica
-				- El indígena real contemporáneo recibe muy poca atención
-				- Entonces los primeros años de la república no van a ver ningún cambio sustancial durante estos primeros años de independencia
-				- Lo evalúan así los historiadores .
-
-Es el momento en que ocurren los arrebatos de tierras
-
-  
-
-Proyectos de movimientos románticos que buscan en américa y europa regresar a raíces ancestrales, recuperación de lo nuestro. 
-
-Lit romántica europea: medioevo, dioses paganos
-
-Entonces por qué no remontarse en la lit romántica andina al incanato. Lo que pasa aquí es que hay una ruptura por la conquista. Hay que crear la continuidad
+			- El indígena real contemporáneo recibe muy poca atención
+			- Entonces los primeros años de la república no van a ver ningún cambio sustancial durante estos primeros años de independencia
+			- Lo evalúan así los historiadores .
+			- Es el momento en que ocurren los arrebatos de tierras
+			- Proyectos de movimientos románticos que buscan en América y Europa regresar a raíces ancestrales, recuperación de lo nuestro. 
+			- Lit romántica europea: medioevo, dioses paganos
+			- Entonces por qué no remontarse en la lit romántica andina al incanato. Lo que pasa aquí es que hay una ruptura por la conquista. Hay que crear la continuidad
 
 Transición del indianismo hacia el indigenismo.
 
