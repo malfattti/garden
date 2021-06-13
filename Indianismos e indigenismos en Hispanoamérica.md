@@ -495,10 +495,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- 2 ensayos en particular
 				- Lo conocemos por ser voz ppal en la ensayística y crítica literaria
 				- Es la voz ppal del período de reconstrucción de la posguerra. MOMENTO de pausa, reflexión, diagnóstico 
-
-“Discurso en el teatro politeama” 1888. Expresa ansia de regeneración moral, combate por la creación de un auténtico patriotismo periano, explica su opinión sobre la derrota de la guerra del pacífico y en su tonalidad se expresa acentro revanchista
-
-Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal 
+				- “Discurso en el Teatro Politeama” 1888.
+					- Expresa ansia de regeneración moral, 
+					- combate por la creación de un auténtico patriotismo peruano, 
+					- explica su opinión sobre la derrota de la Guerra del Pacífico y en su tonalidad se expresa acento revanchista
+					- Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal 
 
   
 
