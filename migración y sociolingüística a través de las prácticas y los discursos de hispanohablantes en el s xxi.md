@@ -747,6 +747,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- el discurso de lxs entrivistadxs es un proceso de elicitación externo e interno
 					- externo: las preguntas o pautas son un estímulo, ya que las respuestas están vinculadas a estas. Pero no es un estímulo sensorial
 					- interno: la entrevista etnográfica semi-guiada da mucho margen de acción al individuo entrevstado, que puede expresar creencias y actitudes que vayan más allá de las que el entrevistador podría haber divisado al diseñar las preguntas
+			- 
 		- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
@@ -762,8 +763,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- franjas etarias de la generación 1.5, 2 y 2.5: 17 a 24 años / 25 a 34 años
 			- 1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
 			- 2: hijos de dos latinxs
-			
-			
 			- 2.5: madre latina, padre suizo (mayormente)
 Español caribeño: mezcla entre suizo alemán y alemán
 
