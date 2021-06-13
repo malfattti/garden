@@ -582,14 +582,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Tomás Escajadillo se pregunta qué es una obra indigenista:
 			- sentimiento de reinvindicación social:
 			- narrativa auténticamente indigenista (a pesar de que el término indigenista implica la no autenticidad)
-
-Para el quien mejor supo subrayar este requisito fue Mariátegui, porque dijo que el indigenismo no es solo una escuela lit., sino que está motivado por el referente del mundo real
-
-  
-
-\- superación de ciertos lastres del pasado, de la visión romántica del mundo andino
-
-\- Exigir de esa obra suficiente proximidad (mundo novelado, indígena, paisaje, etc): es una lit indigenista y no indigena, la indigena vendrá a su tiempo. Distancia versus cercanía? En la novela indianista, desde q postura y cómo se trata o representa el referente? Visión exotizante de las producciones indianistas / la que abre una distancia entre el referente y el destinatario de la obra.
+			- Para el quien mejor supo subrayar este requisito fue Mariátegui, porque dijo que el indigenismo no es solo una escuela lit., sino que está motivado por el referente del mundo real
+			- superación de ciertos lastres del pasado, de la visión romántica del mundo andino
+			- Exigir de esa obra suficiente proximidad (mundo novelado, indígena, paisaje, etc): es una lit indigenista y no indigena,**la indigena vendrá a su tiempo**. Distancia versus cercanía? En la novela indianista, desde q postura y cómo se trata o representa el referente? Visión exotizante de las producciones indianistas / la que abre una distancia entre el referente y el destinatario de la obra.
 
 Autor implícito:narrautor, que se dice a través de la voz del narrador, 3ra persona, omnisciente (no puede en rigo presentar juicios de valor, ironía etc
 
