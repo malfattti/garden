@@ -512,16 +512,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Todo este discurso lo encontramos en Aves sin nido
 				- Tiranía embrutecedora: la ejercen los que se ocupan de las leyes, los que gobiernan y los curas. La Trinidad embrutecedora (así la llama Matto de Turner tb)
 				- La iglesia es tb aliada de esos poderes usurpados
-				- onzález prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
-
-Los indios no tiene derechos, solo obligaciones
-
-Y por lo tanto no merece llamarse república democrática un estado como perú donde una cantidad millonaria de individuos viven por fuera de la ley
-
-  
-  
-
-En González Parad el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos
+				- González Prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). 
+				- Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
+				- Los indios no tiene derechos, solo obligaciones
+				- Y por lo tanto no merece llamarse República democrática un estado como Perú donde una cantidad millonaria de individuos viven por fuera de la ley
+				- En González Prada el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos
 
   
 
