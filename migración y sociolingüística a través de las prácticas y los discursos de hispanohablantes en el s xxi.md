@@ -823,18 +823,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			  -  Pico de la migración 70s: migración sedentaria, no transnacional
 			  -  A partir de los 90s es distinta: migrantes españoles altamente calificados
 			  -  Los centros culturales donde la migración sedentaria se encontraba ya no tiene razón de ser. Las migraciones transnacionales tienen otros modos de vida: por ejemplo, viajan mucho más y no necesitan tener tantas comunidades fijas locales, pueden tener ese contacto cultural por otros lados
-
-  
-
-Centro asturiano español: estrategia de supervivencia. Porque el nuevo cartel evoca un público más amplio, que más se sientan invitados
-
-  
-
-PACO SERVICES: Las eses en la escritura muestra que el emisor es seseante o sea hispanoamericano. Nueva ola migratoria no española
-
-  
-
-Ejemplos de cómo una ciudad puede ser un libro abierto, configuración de espacio social que muestra la historia de una migración 9en este caso dos colectivos de hispanohablantes distintos)
+			  -  Centro asturiano español: estrategia de supervivencia. Porque el nuevo cartel evoca un público más amplio, que más se sientan invitados
+			  -  PACO SERVICES: Las eses en la escritura muestra que el emisor es seseante o sea hispanoamericano. Nueva ola migratoria no española
+			  -  Ejemplos de cómo una ciudad puede ser un libro abierto, configuración de espacio social que muestra la historia de una migración (en este caso dos colectivos de hispanohablantes distintos)
 
   
 
