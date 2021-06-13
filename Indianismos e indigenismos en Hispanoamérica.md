@@ -516,27 +516,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
 				- Los indios no tiene derechos, solo obligaciones
 				- Y por lo tanto no merece llamarse República democrática un estado como Perú donde una cantidad millonaria de individuos viven por fuera de la ley
-				- En González Prada el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos
-
-  
-
-El problema de la tierra y el indígena están vinculados: Mariátegui tb comparte esta idea.pero la formula con más claridad
-
-  
-
-Cómo se mejora la condición del inxígena?
-
-O sea ablanda el corazón a los opresores y mejoran las condiciones de los oprimidos (pero esto no va a pasar)
-
-O el indio tiene que tener orgullo y rebeldía. Llamado poco práctico. Ideas, esbozos, aforismos. Pero a nivel práctico no es tan claro.
-
-  
-
-El que tenga mayor implicación política será Mariátegui
-
-  
-
-La crítica más común que se le dirige a Parada es que en esa época no tiene una visión sistemática sino ideas sueltas y que además no es un hombre de acción sino de pensamiento.
+				- **En González Prada el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos**
+				- **El problema de la tierra y el indígena están vinculados: Mariátegui tb comparte esta idea, pero la formula con más claridad**
+				- Cómo se mejora la condición del indígena?
+					- O sea ablanda el corazón a los opresores y mejoran las condiciones de los oprimidos (pero esto no va a pasar)
+					- O el indio tiene que tener orgullo y rebeldía. Llamado poco práctico. Ideas, esbozos, aforismos. Pero a nivel práctico no es tan claro.
+					- El que tenga mayor implicación política será Mariátegui
+					- La crítica más común que se le dirige a Parada es que en esa época no tiene una visión sistemática sino ideas sueltas y que además no es un hombre de acción sino de pensamiento.
 
 Basadre expone diferencia entre pRada y Mariátegui: 
 
