@@ -604,27 +604,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - Así tenemos una fusión entre el yo del narrador y el ellos de los indígenas.
 		  - El logro está en la representación del mundo andino “desde dentro” 
 		  - PERO (se mezclan criterios que tienen que ver con el ser indígena con la capacidad de recrear el mundo indígena desde dentro): A Arguedas se lo considera “indio a medias” pero lo que se considera es su proximidad, no su pertenencia, y sobre todo su conocimiento del quechua desde la infancia. Ese bilingüismo va a generar la posibilidad de una traducción cultural mayor en Arguedas.
-
-  
-  
-
-Indigenismo ortodoxo: cuando todas las características se ven dadas.
-
-  
-
-Huasi: puerta
-
-Pungo: casa
-
-Esta palabra hace referencia a la parcela de tierra que se les concedía a los indígenas en el sistema de haciendas o latifundios
-
-  
-
-Explotación de tierra:
-
-Sistem de hacienda: lo central es el concertaje, término usado para referir el contrato de servicios personales en el que la parte contratante paga el trabajo por adelantado y crea una deuda de parte del trabajador. Inseguridad laboral, no es que haya libertad por más que parezca. Inexistencia de horario laboral, imposibilidad del trabajador de romper el acuerdo y la amenaza de ser encarcelado en caso de no cumplir el compromiso. Y la herencia de la deuda. Pobreza y explotación eternas
-
-Una variante del concertaje es el huasipungo, precisamente.
+		  - Indigenismo ortodoxo: cuando todas las características se ven dadas.
+		  - Huasi: puerta / Pungo: casa: Esta palabra hace referencia a la parcela de tierra que se les concedía a los indígenas en el sistema de haciendas o latifundios
+		  - Explotación de tierra:
+			  - Sistem de hacienda: lo central es el concertaje, término usado para referir el contrato de servicios personales en el que la parte contratante paga el trabajo por adelantado y crea una deuda de parte del trabajador. Inseguridad laboral, no es que haya libertad por más que parezca. Inexistencia de horario laboral, imposibilidad del trabajador de romper el acuerdo y la amenaza de ser encarcelado en caso de no cumplir el compromiso. Y la herencia de la deuda. Pobreza y explotación eternas
+			- Una variante del concertaje es el Huasipungo, precisamente.
 
 Designa la porción de la tierra entregada al indígena y a su familia. El huasipunguero trabaja para el dueño 5 días a la semana sin recibir salario. Los días restantes los usa para trabajar su propio terreno, que generalmente se caracteriza por su baja productividad.
 
