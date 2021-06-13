@@ -528,22 +528,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Mariátegui: rtas y soluciones.
 					- Prada escribe, suscita controversia, provoca, etc. pero no presenta una ideología (sistema de ideas coherente)
 					- Pero su intervención en el campo cultural es decisiva y motiva a una escritora como Matto de Turner 
-- Clase 13.04.2021: 
-	- **  
-
-Aves sin nido, primera novela indigenista de reivindicación social
-
-  
-
-A partir de 1980: ya nadie habla de Aves sin nido sin pensar en la problemática de género, feminismo crítico aplicado a la literatura
-
-  
-
-Novela que bebe aún del romanticismo y el realismo
-
-Pero supera el indianismo romántico
-
-Y anuncia por las tesis igualitarias sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
+- **Clase 13.04.2021**: 
+	- ***Aves sin nido*, primera novela indigenista de reivindicación social**
+	- A partir de 1980: ya nadie habla de *Aves sin nido* sin pensar en la problemática de género, feminismo crítico aplicado a la literatura
+	- Novela que bebe aún del romanticismo y el realismo
+	- Pero supera el indianismo romántico
+	- Y anuncia por las tesis igualitarias sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
 
   
   
