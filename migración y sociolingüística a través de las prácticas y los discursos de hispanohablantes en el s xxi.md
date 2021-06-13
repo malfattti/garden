@@ -831,9 +831,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- A través de estos procesos: choques y reajustes 
 		- TERRITORIALIZACIÓN: proceso mediante el que se corporeiza un espacio a través de una lengua.
 			- en contextos de migración este proceso puede implicar los procesos conflictivos mediante los que un colectivo reclama para sí un determinado espacio instrumentalizando para ello la lengua
-			- Ejemplo: 
-
-Maryland: colectivos que luchan por adquirir un espacio simbólico. Luchas étnicas por posicionarse en un territorio. Frederik, Maryland, 2012. Es el primer condado en declarar el inglés como lengua única oficial. Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
+			- Ejemplo: Frederik, Maryland es el primer condado que declara el inglés como única lengua oficial en 2012 
+			- Esto después de experimentar un boom inmigratorio latino que dio mayor visibilidad al español en el espacio público.
+			- El movimi
 
 Acto simbólico.
 
