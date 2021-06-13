@@ -803,7 +803,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- segundo espacio: ideacional, proyecciones hacia el espacio físico
 			- tercer espacio: encuentro y choque entre el primer y el segundo espacio
 				- espacios experimentados por los individuos con sus experiencias previas, sus creencias e ideologías
-				- espacios alternativos, de des-encuentro entre centros y perfierias, espacios de resistencia de órde
+				- espacios alternativos, de des-encuentro entre centros y perfierias,
+				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
 	- Escalas y policentrismo (Blommaert 2007; 2015)
