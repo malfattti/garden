@@ -144,4 +144,226 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Influjo del Siglo de Oro 
 							- en la oposición naturaleza/cultura
 						- Influjo del romanticismo:
-							- en las ideas de patria y naturaleza, que organizan los dos grandes campos semánticos centrales del romanticismo en H
+							- en las ideas de patria y naturaleza, que organizan los dos grandes campos semánticos centrales del romanticismo en HA
+						- Presencia de lo indígena:
+							- para construir una imagen del mundo americano que contrasta con el europeo 
+							- como los independentistas, usa el referente indígena para condenar la Conquista española y exaltar la independencia 
+								- nombres de importantes figuras del pueblo indígena para designar a los pueblos víctima
+								- la independencia como reparación de los males causados a América
+								- lo indígena como recurso que legitima el carácter americano de los criollos: equivalencia entre pueblos originarios y colonias independizadas
+									-es decir que se hace extensiva la independiencia política conseguida por las colonias a los pueblos originarios, aunque para los indígenas la independecia no representó una liberación
+							- Imagen de América como espacio de regeneración: no el opuesto de Europa, sino su continuador y superador
+								- naturaleza virgen + buen salvaje: estado de inocencia primigenia que da el sustrato para sobreponerse a la tragedia de la conquista y construir a partir de sus cenizas 
+							- Uso de los elementos geográficos e históricos de los pueblos de América para darle una impronta americana a su poesía y un mínimo de originalidad. Bello se rige por modelos clásicos (esp. Virgilio)
+							- El elemento indígena más relevante y auténtico en las silvas podría ser, en "Alocución..", la narración del relato mítico que proviene de la tradición oral sobre el derrumbamiento del Tequedendama y del nuevo pueblo de los muiscas:
+								- Bello lo narra como si fuera un elemento histórico más, sin mencionar el cambio de punto de vista (las demás descripciones se ciñen a hechos históricos y descripción de la naturaleza, (poesía cientíifica")
+								- da cuenta de su cientificidad al mencionar la fuente de donde extrae el mito (Humboldt)
+								- además, Bello usa el modelo europeo que recurre a la mitología (Virgilio) y cambia su contenido, reemplazándolo por lo americano. "se trata de crear una imagen poética el mundo americano"
+									- el uso de la mitología se justifica en su contribución a crear una imagen del mundo americano siguiendo el modelo europeo
+									- usualmente este mecanismo sirve para marcar diferencias, aunque en este caso particular lo indígena se configura como lo semejante
+									- la identidad varía de acuerdo con el contexto en que se construye
+		- **Manuel González Prada** (Perú, 1844-1918):
+			- algunos hablan de su poesía como indigenista
+			- En "El mitayo", denuncia –recreando la perspectiva "indígena" del hablante lírico– la injusticia de su explotación y opresión.
+	
+- 09.03: El indianismo literario: antecedentes y modelos (siglos XVI-XIX)
+	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
+	- Ejemplos:
+	  - **La brevísima (Bartolomé de las Casas** / 1474-1566):  
+		  - *Brevísima relación de la destruición de las Indias *(1552)
+		  - descripción de la destrucción de las Indias. 
+		  - Descripción de episodios de crueldad por parte de los colonizadores.
+		  - crónica moderna o de sucesos. 
+		  - Recuerda secuestros, mutilaciones, torturas y violaciones perpetradas contra los nativos de todos los rincones de América. 
+		  - Hilo de relatos atroces / de genocidios. 
+		  - La obra de Bartolomé de las Casas alimenta la leyenda negra de España. 
+		  - Se apoyan en textos que denuncia lo que está pasando.
+	- Fray Bernardino de Sahagún (c.1500-1590)
+		- *Códice florentino o Historia general de las cosas de Nueva España*: 1579 pero se publica mucho después, en 1793
+		- códice: cuadernos plegados, cosidos y encuadernados
+		- LIBRO XII y último del *Códice Florentino*. Titulado: “De la Conquista de la Nueva España que es la ciudad de México”.
+		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
+		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
+		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
+	- **Felipe Huamán Poma de Ayala** (Ayacucho 1534-Lima 1615)
+		- *Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
+		- Restituye una visión catastrófica de la experiencia andina
+		- Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro
+	-**Inca Garcilaso de la Vega** (Perú, 1540-1616) con los *Comentarios reales* (parte 1: Lisboa 1605, parte 2 póstuma 1616 con el título de Historia del Perú) 
+		- Es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
+		- Hijo de una Princesa Inca y de un español
+- Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la vida primitiva al extremo. 
+- El buen salvaje roussoniano no sale de la nada sino de estos relatos
+- Michelle de Montaigne, que conocía las obras de algunos cronistas (Guevara, López de Gómara), publica en 1580 en Burdeos la primera edición de sus ensayos “De los caníbales”. 
+	- En este ensayo compara el mundo europeo (los portugueses) y el nuevo mundo. 
+	- Describe los que en el texto se llama horrores bárbaros, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
+	- A través de este texto llegamos a la formulación de la pregunta, quién es el bárbaro?
+	- Naturaleza versus ciudad. La naturaleza parece ser perfecta pero cuando se cruzan intereses de los hombres, empezamos a destruir ese equilibrio.
+	- De de Montaigne entonces se deriva un modelo de América ingenua y con una Edad Dorada
+- De de Montaigne a Shakespeare: 
+	- Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne (parodia?)
+- Concha Meléndez (1934) señala que **no se encuentran influencias directas de De Montaigne en literatura indianista americana. Más bien se recuperan otros textos de los que se nutre esa literatura**. O sea que es posible que su influencia se haya diluido 
+- En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los **textos del s. XVI y XVII**
+	- O sea, a mediados del s. XVIII estamos con un **corpus francés que celebra ese primitivismo de signo positivo**
+	- **Voltaire** recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
+	- También se destaca **Rousseau**, que aporta a la teoría del buen salvaje. 
+		- En su obra *Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755), desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
+		- Libros leídos por una  minoría. 
+		- En s. XIX se traduce al español
+		- Actitud del hombre compenetrado con la naturaleza
+		- A Rousseau se le atribuye la originalidad de los planteamientos que acompañan la celebración de la vida primitiva. 
+		- Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. 
+		- Para esto se remonta al hombre en su estado natural. 
+		- Entonces no hay explícitamente una afirmación de que la vida primitiva es superior a la civilizada. Pero es lo que nos llega 
+- **Resurgimiento romántico a mediados de s. XVII hasta finales del XIX**
+	- Ocurrencia de la designación de buen salvaje en una tragedia de un dramaturgo inglés: John Dryden. *The conquest of Granada* de 1670 (mucha lit inglesa se interesa por los paisajes del sur de España)
+		- *El salvaje artificial* recupera esta cita de Dryden
+- Todo se remonta a esos textos iniciales, en particular Las Casas
+	- +Comentarios reales del Inca Garcilaso
+- Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
+	- Novela que copia casi literalmente los *Comentarios reales* del Inca Garcilaso.
+	- Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso
+	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un ida y vuelta.
+	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
+	- Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
+	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español en 1822
+	- Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca Garcilaso y de las casas vuelven a tener influencia en América.
+	- Recepción de Garcilaso filtrada / prestigiada a través de Marmontel.
+		- Si le ha interesado a él entonces es interesante. 
+		- Como Europa y América no pueden desvincularse, vemos que hay un prestigio de lo que son productos locales, pero como eran coloniales tampoco se podían tener como fuentes después de las independencias. 
+		- Lo francés versus lo globalmente antiespañolista
+		- La recepción se facilita tb a que se simplifica y se novela unos relatos que son cronicas que deleitan menos que una novela
+- **Françoise de Graffigny** (1695-1758, *Lettres d’une Péruvienne* (1747):
+	- Relato de a través de una serie de cartas de una Virgen del Sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
+	- Indianismo francés exótico. Todas estas historias pasan en un lugar alejando y beben fuentes que se prestan para desarrollar el indianismo literario
+	- crítica a la educación españnola que podría haber sido si no hubiera caído en las manos de la flia francesa
+- **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie* (1789):
+	- Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la Isla Mauricio, paisaje tropical fácilmente pasa por el paisaje americano
+	- María de Jorge Isaacs: Colombia, 1867, recibe *Paul et Virginie* haciendo que los personajes lean pasajes de la novela
+- **François-René de Chateaubriand**, *Atala, ou Les Amours de deux sauvages dans le désert* (1801)
+	- Primera traducción al español: Atala o Los amores de dos salvages en el desierto, París, 1801, realizada el mismo año por el fraile mexicano Fray Servando Teresa de Mier, junto con Simón Rodríguez
+	- Novela que exalta la naturaleza 
+	- Los estudiosos de esta novela subrayaron la filiación adánica de su protagonista indígena, arquetipo de la inocencia primigenia de la humanidad
+	- La primera edición sale en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido)
+	- Por qué tiene tanta resonancia esta novela? Es una novela lírica y su imaginario lo encontramos en algunas novelas indianistas como Cumandá
+	- Un episodio se titula Los Natchez. Episodio integrado en otro libro de Chateaubriand que es *El genio del cristianismo*
+		- En la novela nos encontramos en los Estados Unidos a finales del s. XVII y asistimos a cómo el indio de la tribu Natchez va a ser apresado por una tribu enemiga en Louisiana. Atrapado por una tribu enemiga y salvado por una joven india ya secretamente cristianizada. Fondo bueno de su cristianización
+	- Atala se suicida ante amor imposible y el padre lo ayuda a enterrarlo a la manera cristiana
+- **James Fenimore Cooper**, *The Last of The Mohicans* (1826)
+	- Revisitar novela indianista de cara a la estadounidense (UN TRABAJO QUE NO SE HA HECHO MUCHO!)
+	- Autor estadounidense muy leído en hispanoamérica.	
+	- Cita de **Domingo Faustino Sarmiento** (en *Facundo. Civilización y barbarie*, 1845): "El único romancista norteamericano que haya logrado hacerse *un nombre europeo* es Fenimore Cooper, y eso porque transportó la escena de sus descripciones **fuera del círculo ocupado por los plantadores**, **al límite entre la vida bárbara y la civilizada**, **al teatro de la guerra en que las razas indígenas y la raza sajona** están combatiendo por la **posesión del terreno**. El procedimiento para asar una cabeza de búfalo en el desierto es el mismo que nosotros usamos para batear una cabeza de vaca o un lomo de ternera. En fin, otros mil accidentes que omito prueban la verdad de que **modificaciones análogas del suelo traen análogas costumbres, recursos y expedientes**. No es otra la razón de hallar en Fenimore Cooper descripciones de usos y costumbres que parecen **plagiadas de la pampa**." 
+	- Sarmiento lo elogia, vemos cómo Cooper le sirve de estímulo para el desarrollo de su tema fundamental de civilización y barbarie. Sarmiento celebra que se haya movido el foco desde la esclavitud en Estados Unidos a la guerra por la lucha del territorio entre indios y europeos
+	- No es solo una inspiración mecánica sino procedimientos de refuncionalización de motivos, temas
+**- 16.03: Especificidad hispanoamericana respecto de los “antecedentes y modelos” (los proyectos de nación)**
+	- Recuperación de los textos de la época colonial
+	- Para acotar un poco la producción hispanoamericana respecto de los antecedentes y modelos, veremos ahora lo que serán después de las independencias con los proyectos de nación: el romanticismo y sus escritos. 
+	- **Proyectos de nación como los pone en marcha literariamente la literatura hispanoamericana**
+	Proyectos de nación: algunas diferencias
+	- se produce a partir de la industrialización
+	- romanticismo: a partir de lo que Tulio Halperin Donghi llama el pacto neocolonial: post colonialismo pero tb llamado con mucha perspicacia y lucidez, neocolonialista
+	- Los criterios económicos van a ser muy decisivos
+	- Implican una asimetría entre América, Europa y los Estados Unidos
+	- Formación y consolidación de la burguesía
+	- O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
+	- A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
+	- Corresponde a una serie de rasgos:
+		- La liberación de la autoridad literaria peninsular
+		- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
+		- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
+			- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
+		- Qué es lo que señalamos cuando hablamos de nuestra tradición?
+			- Romanticismo: proyectos de nación ahí donde se carece de una literatura doméstica 
+			- cuestión de los orígenes de las literaturas nacionales: gran debate de la época
+			- Depende de la perspectiva histórica / cultural que se adopte
+			- Ejemplo: México
+				- Cantos escritos en lengua indígena: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
+				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a España: deseo de romper incluso la lógica del idioma y la cultura que conlleva
+				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
+				- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
+				- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
+	- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
+	- Alcances culturales de estas discusiones literarias fueron:
+		- Conflicto entre tradición y progreso: España
+		- Conflicto entre masas y minorías
+		- Caso del Río de la Plata: Pasado colonial pobre relativamente
+			- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
+			- Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge. En argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
+			- Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
+			- Los argentinos románticos fueron más europeizantes que hispanizantes. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
+		- En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
+		- El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indígena remoto
+		- En el s. XIX: balance. Hasta *Aves sin nido* (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
+		- En el contexto caribeño la idealización se da con las personas negras
+		- La representación es mediatizada, puesta al servicio de quienes perciben al indígena como otro
+		- Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude a la corriente exotista romántica de representación del buen salvaje (de Europa)
+		- Los referentes presentados en la lit romántica (paratextos: lo propio, lo nuestro, lo local), constantemente giran en torno a lo nacional
+		- La realidad étnica con sus variantes quiere servir de elemento distintivo de la construcción de una identidad autóctona propia pero está puesta al servicio de / a los propósitos sociopolíticos de los autores. 
+		- La gran mayoría de los autores románticos apuntan a una homogeneización de lo heterogéneo. 
+			- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
+			- Todo individuo debe reconocerse como perteneciente a una nación. 
+			- Pero la homogeneización conlleva necesariamente la exclusión.
+			- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
+		- Hay proyecciones nacionales conciliadoras que llamaríamos de inclusión versus proyecciones no conciliadoras que diríamos que son de exclusión
+		- El proceso de aculturación provee esa posibilidad: la renuncia para entrar
+		- Escritores ambiciosos del romanticismo que quieren medirse frente a las elites criollas
+		- Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
+		- Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
+		- Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía
+		- En conclusión,** con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES**. O sea: responden a...
+			- No es un interés puesto en el esparcimiento o deleite
+			- Es un deleite que aprovecha
+			- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
+			- no son imitación sino mejor una operatividad cultural, ideológica y política de los modelos y antecedentes, esas representaciones del buen salvaje que se aplican al contexto local
+		- Conceptos actuales : traducción cultural
+		- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de américa
+			- Cambios significativos para los indígenas
+			- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
+			- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
+			- Gesto que se deriva de la situación poscolonial e intento de romper con España
+			- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América. 
+				- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
+				- Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad
+				- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
+	- Todo esto acontece en el ámbito de la literatura.
+	- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
+	- Afán no inconciente de comunicar mis propias ansias de libertad / independencia
+	- Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así el criollo se pone a dialogar con esa tradición
+	- **PROYECTOS DE EXCLUSIÓN**
+		- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
+		- Salvaje que no se puede salvar
+		- El insalvable salvaje (eso no es indianismo)
+		- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
+		- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
+			- Progreso no implica diálogo
+		- Lo encontramos en:
+			- El poema de E. Echeverria: *La cautiva* (1837)
+			- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
+		- El proceso de modernización comienza en Argentina muy rápido y muy pronto
+		-  Indígena como núcleo de barbarie
+		-  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
+			-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
+		- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
+		- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
+		- El aborigen es amansado como una llama en la vasta extensión del Perú
+		- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
+	- ** Entonces...**
+		- Especificidad hispanoamericana: los proyectos de nación. 
+		- Sería erróneo hablar de una imitación a secas. 
+		- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
+		- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 	
+		- Después de las independiencias, los proyectos de nación empezaron a constuirse, y se discutieron cuestiones referidaas a la cultura, entre ellas la cuestión de los orígenes de las literaturas nacionales. Cada país respondió a esta pregunta influenciado por su perspectiva histórica. Por ejemplo, México evoca las siguientes procedencias de las literaturas nacionales:
+- Clase 23.03
+	- Literatura romántica de referente indígena en Argentina
+El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
+Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
+Del indigenismo al neoindigenismo (años 30-finales años 70); Mariátegui; la literatura indigenista; Icaza;
+Alegría; recepción crítica del indigenismo; Arguedas; Scorza
+Debates literarios e ideológicos:
+La “polémica” entre Arguedas y Cortázar (1967-1969)
+Mario Vargas Llosa: La utopía arcáica (1996)
+M. Á. Huamán: “En defensa del indigenismo” (2009)
+“Literaturas andinas”: desmultiplicación de tendencias (años 80-2000); literatura testimonial; narrativa
+peruana “de la guerra interna”
+Narrativas actuales indígenas y de referente indígena en contexto global
+
