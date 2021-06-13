@@ -751,6 +751,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- 2.5: madre latina, padre suizo (mayormente)
 			- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
+				- metáfora visual
+				- autoperceptiva de 
   
 
 Español caribeño: mezcla entre suizo alemán y alemán
