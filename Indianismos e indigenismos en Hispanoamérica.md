@@ -445,14 +445,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
 				- Organiza un centro de resistencia y rebelión indígena.
 				- Por qué resiste y se indigna? Porque el español para el que trabaja le roba su propiedad y le da una paliza a su mujer por negarse a sus peticiones sexuales. 
-
-Esto lo enfurece y organiza resistencia frente a los españoles
-
-Perro la historia tb narra que sería perdonado por el emperador Carlos V y compensado con el derecho de fundar su propio pueblo. Episodio conocido por de las casas y romantizado por Manuel de jesús galván en su novela.
-
-  
-
-En la rep/ dominicana a pesar de que gran parte de la población es mulata, descendiente de negros, en la población indígena.
+				- Esto lo enfurece y organiza resistencia frente a los españoles
+				- Pero la historia tb narra que sería perdonado por el emperador Carlos V y compensado con el derecho de fundar su propio pueblo. Episodio conocido por De las casas y romantizado por Manuel de Jesús Galván en su novela.
+				- En la Rep. Dominicana a pesar de que gran parte de la población es mulata, descendiente de negros, en la población indígena.
 
   
 
