@@ -557,16 +557,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- La concentración de la tierra en los latifundios despoja a los indios, los hace dependientes y según Mariátegui la solución no es fraccionar latifundios en parcelas (solución liberal) sino la protección de las tierras comunitarias
 		- **Comunismo incáico histórico: propiedad de la tierra cultivable por el ayllu (conjunto de familias emparentadas)**, es una palabra que reaparece en muchas obras indigenistas y neoindigenistas
 		- Publica en la Editorial Amauta vinculada a la revista vanguardista peruana del mismo nombre, fundada por Mariátegui en 1926
-
-El título que le da mariátegui
-
-Una de las vanguardias más originales de HA son las que cifran sus propuestas en rasgos locales y reincorporan lo popular (indigenismo)
-
-Vínculo de las vanguardias con el indigenismo y el negrismo (poesía de Guillén en Cuba)
-
-  
-
-Amauta: maestro, filósofo. El sabio capaz de predecir del antiguo imperio inca
+		- Una de las **vanguardias** más originales de HA son las que **cifran sus propuestas en rasgos locales y reincorporan lo popular** (indigenismo)
+		- Vínculo de las vanguardias con el indigenismo y el negrismo (poesía de Guillén en Cuba)
+		- Amauta: maestro, filósofo. El sabio capaz de predecir del Antiguo mperio inca
 
   
 
