@@ -787,7 +787,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- concepción del espacio como socialmente construido y dinámico
 			- Como el espacio se entiende en su dimensión social va a estar en continuo movimiento porque son las personas y sus actividades las que cambian el espacio. 
 			- Sobre todo tb en relación a las migraciones
-- Teorías del giro espacial y cómo se aplican 
+- Teorías del giro espacial y cómo se aplican en el estudio de la intersección entre lenguaje, movilidad y migración:
+	- La teoría de Henry Lefebvre (La production de l‘espace, 1974)
+	- La reinterpretación de la teoría de Lefebre por parte de Edward Soja (Thirdspace, 1996)
+	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
+	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
+> Escalas y policentrismo (Blommaert 2007; 2015)
   
   
 
