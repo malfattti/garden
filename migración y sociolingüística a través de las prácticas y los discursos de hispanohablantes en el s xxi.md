@@ -816,7 +816,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
 	  - Relación entre estas teorías y la sociolingüística de migración
-	  - Estudios de pasaije lingüístico y semiótico de pers
+	  - Estudios de pasaije lingüístico y semiótico de perspectiva etnográfica
+		  - Nueva concepción etnográfica en los estudios de paisaje lingüístico: el foco se mueve de la vitalidad de las lenguas hacia 
 
 
 
