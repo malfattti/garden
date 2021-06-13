@@ -534,28 +534,15 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Novela que bebe aún del romanticismo y el realismo
 	- Pero supera el indianismo romántico
 	- Y anuncia las **tesis igualitarias** sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
-	- Parejas de jóvenes casados que encarnan a todas luces la modernida
-	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
-
-  
-
-Raza, clase, educación y género problematizados
-
-  
-
-Se distinguen entonces tres grupos principales:
-
-Indios, notables y forasteros, tres grupos que deben buscar articulación.
-
-Inmoralidad de los notables, falta de educación: factores que hacen posible la explotaciOn de los indios
-
-Adoptan dos huérfanas 
-
-Cohesión social propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
-
-  
-
-Cornejo Polar: Matto de T propone la integración de la raza desheredada a través de ;a adopción e integracón
+	- Parejas de jóvenes casados que encarnan a todas luces la modernidad
+	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “Trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
+	- Raza, clase, educación y género problematizados
+	- Se distinguen entonces tres grupos principales:
+		- Indios, notables y forasteros, tres grupos que deben buscar articulación.
+		- Inmoralidad de los notables, falta de educación: factores que hacen posible la explotación de los indios
+	- Adoptan dos huérfanas 
+	- Cohesión social: propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
+	- Cornejo Polar: Matto de Turner propone la integración de la raza desheredada a través de la adopción e integracón
 
   
 
