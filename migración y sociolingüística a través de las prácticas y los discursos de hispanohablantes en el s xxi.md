@@ -801,6 +801,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- redefine el orden tripartito de Lefebvre:
 			- primer espacio: físico, cuantificable y explicable
 			- segundo espacio: ideacional, proyecciones hacia el espacio físico
+			- tercer espacio: 
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
 	- Escalas y policentrismo (Blommaert 2007; 2015)
