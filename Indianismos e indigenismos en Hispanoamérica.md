@@ -255,104 +255,103 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Cita de **Domingo Faustino Sarmiento** (en *Facundo. Civilización y barbarie*, 1845): "El único romancista norteamericano que haya logrado hacerse *un nombre europeo* es Fenimore Cooper, y eso porque transportó la escena de sus descripciones **fuera del círculo ocupado por los plantadores**, **al límite entre la vida bárbara y la civilizada**, **al teatro de la guerra en que las razas indígenas y la raza sajona** están combatiendo por la **posesión del terreno**. El procedimiento para asar una cabeza de búfalo en el desierto es el mismo que nosotros usamos para batear una cabeza de vaca o un lomo de ternera. En fin, otros mil accidentes que omito prueban la verdad de que **modificaciones análogas del suelo traen análogas costumbres, recursos y expedientes**. No es otra la razón de hallar en Fenimore Cooper descripciones de usos y costumbres que parecen **plagiadas de la pampa**." 
 	- Sarmiento lo elogia, vemos cómo Cooper le sirve de estímulo para el desarrollo de su tema fundamental de civilización y barbarie. Sarmiento celebra que se haya movido el foco desde la esclavitud en Estados Unidos a la guerra por la lucha del territorio entre indios y europeos
 	- No es solo una inspiración mecánica sino procedimientos de refuncionalización de motivos, temas
-- 16.03: Especificidad hispanoamericana respecto de los “antecedentes y modelos” (los proyectos de nación)
-- Recuperación de los textos de la época colonial
-- Para acotar un poco la producción hispanoamericana respecto de los antecedentes y modelos, veremos ahora lo que serán después de las independencias con los proyectos de nación: el romanticismo y sus escritos. 
-- **Proyectos de nación como los pone en marcha literariamente la literatura hispanoamericana**
-Proyectos de nación: algunas diferencias
-- se produce a partir de la industrialización
-- romanticismo: a partir de lo que Tulio Halperin Donghi llama el pacto neocolonial: post colonialismo pero tb llamado con mucha perspicacia y lucidez, neocolonialista
-- Los criterios económicos van a ser muy decisivos
-- Implican una asimetría entre América, Europa y los Estados Unidos
-- Formación y consolidación de la burguesía
-- O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
-- A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
-- Corresponde a una serie de rasgos:
-	- La liberación de la autoridad literaria peninsular
-	- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
-	- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
-		- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
-	- Qué es lo que señalamos cuando hablamos de nuestra tradición?
-		- Romanticismo: proyectos de nación ahí donde se carece de una literatura doméstica 
-		- cuestión de los orígenes de las literaturas nacionales: gran debate de la época
-		- Depende de la perspectiva histórica / cultural que se adopte
-		- Ejemplo: México
-			- Cantos escritos en lengua indígena: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
-			- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a España: deseo de romper incluso la lógica del idioma y la cultura que conlleva
-			- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
-			- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
-			- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
-- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
-- Alcances culturales de estas discusiones literarias fueron:
-	- Conflicto entre tradición y progreso: España
-	- Conflicto entre masas y minorías
-	- Caso del Río de la Plata: Pasado colonial pobre relativamente
-		- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
-		- Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge. En argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
-		- Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
-		- Los argentinos románticos fueron más europeizantes que hispanizantes. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
-	- En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
-	- El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indígena remoto
-	- En el s. XIX: balance. Hasta *Aves sin nido* (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
-	- En el contexto caribeño la idealización se da con las personas negras
-	- La representación es mediatizada, puesta al servicio de quienes perciben al indígena como otro
-	- Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude a la corriente exotista romántica de representación del buen salvaje (de Europa)
-	- Los referentes presentados en la lit romántica (paratextos: lo propio, lo nuestro, lo local), constantemente giran en torno a lo nacional
-	- La realidad étnica con sus variantes quiere servir de elemento distintivo de la construcción de una identidad autóctona propia pero está puesta al servicio de / a los propósitos sociopolíticos de los autores. 
-	- La gran mayoría de los autores románticos apuntan a una homogeneización de lo heterogéneo. 
-		- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
-		- Todo individuo debe reconocerse como perteneciente a una nación. 
-		- Pero la homogeneización conlleva necesariamente la exclusión.
-		- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
-	- Hay proyecciones nacionales conciliadoras que llamaríamos de inclusión versus proyecciones no conciliadoras que diríamos que son de exclusión
-	- El proceso de aculturación provee esa posibilidad: la renuncia para entrar
-	- Escritores ambiciosos del romanticismo que quieren medirse frente a las elites criollas
-	- Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
-	- Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
-	- Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía
-	- En conclusión,** con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES**. O sea: responden a...
-		- No es un interés puesto en el esparcimiento o deleite
-		- Es un deleite que aprovecha
-		- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
-		- no son imitación sino mejor una operatividad cultural, ideológica y política de los modelos y antecedentes, esas representaciones del buen salvaje que se aplican al contexto local
-	- Conceptos actuales : traducción cultural
-	- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de américa
-		- Cambios significativos para los indígenas
-		- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
-		- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
-		- Gesto que se deriva de la situación poscolonial e intento de romper con España
-		- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América. 
-			- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
-			- Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad
-			- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
-- Todo esto acontece en el ámbito de la literatura.
-- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
-- Afán no inconciente de comunicar mis propias ansias de libertad / independencia
-- Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así el criollo se pone a dialogar con esa tradición
-
-- **PROYECTOS DE EXCLUSIÓN**
-	- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
-	- Salvaje que no se puede salvar
-	- El insalvable salvaje (eso no es indianismo)
-	- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
-	- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
-		- Progreso no implica diálogo
-	- Lo encontramos en:
-		- El poema de E. Echeverria: *La cautiva* (1837)
-		- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
-	- El proceso de modernización comienza en Argentina muy rápido y muy pronto
-	-  Indígena como núcleo de barbarie
-	-  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
-		-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
-	- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
-	- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
-	- El aborigen es amansado como una llama en la vasta extensión del Perú
-	- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
-- ** Entonces...**
-	- Especificidad hispanoamericana: los proyectos de nación. 
-	- Sería erróneo hablar de una imitación a secas. 
-	- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
-	- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 
+**- 16.03: Especificidad hispanoamericana respecto de los “antecedentes y modelos” (los proyectos de nación)**
+	- Recuperación de los textos de la época colonial
+	- Para acotar un poco la producción hispanoamericana respecto de los antecedentes y modelos, veremos ahora lo que serán después de las independencias con los proyectos de nación: el romanticismo y sus escritos. 
+	- **Proyectos de nación como los pone en marcha literariamente la literatura hispanoamericana**
+	Proyectos de nación: algunas diferencias
+	- se produce a partir de la industrialización
+	- romanticismo: a partir de lo que Tulio Halperin Donghi llama el pacto neocolonial: post colonialismo pero tb llamado con mucha perspicacia y lucidez, neocolonialista
+	- Los criterios económicos van a ser muy decisivos
+	- Implican una asimetría entre América, Europa y los Estados Unidos
+	- Formación y consolidación de la burguesía
+	- O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
+	- A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
+	- Corresponde a una serie de rasgos:
+		- La liberación de la autoridad literaria peninsular
+		- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
+		- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
+			- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
+		- Qué es lo que señalamos cuando hablamos de nuestra tradición?
+			- Romanticismo: proyectos de nación ahí donde se carece de una literatura doméstica 
+			- cuestión de los orígenes de las literaturas nacionales: gran debate de la época
+			- Depende de la perspectiva histórica / cultural que se adopte
+			- Ejemplo: México
+				- Cantos escritos en lengua indígena: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
+				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a España: deseo de romper incluso la lógica del idioma y la cultura que conlleva
+				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
+				- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
+				- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
+	- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
+	- Alcances culturales de estas discusiones literarias fueron:
+		- Conflicto entre tradición y progreso: España
+		- Conflicto entre masas y minorías
+		- Caso del Río de la Plata: Pasado colonial pobre relativamente
+			- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
+			- Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge. En argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
+			- Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
+			- Los argentinos románticos fueron más europeizantes que hispanizantes. Se construyen una serie de tensiones. No tienen que rendir tantas cuentas ni pesa tanto ese pasado colonial.
+		- En otros países con grandes masas de indígenas hubo una idealización del indio y en esos casos observaremos el indianismo romántico
+		- El tema indianista se instrumentaliza en las culturas nacionales: cultura criolla. Es un uso instrumental del personaje del indígena remoto
+		- En el s. XIX: balance. Hasta *Aves sin nido* (novela aún romántica). Antes del s. XIX muy pocos escritores se interesan por la problemática indígena. 
+		- En el contexto caribeño la idealización se da con las personas negras
+		- La representación es mediatizada, puesta al servicio de quienes perciben al indígena como otro
+		- Se plantea una paradoja: una entre tantas. La paradoja de crear una literatura o expresión propia y para hacerlo se acude a la corriente exotista romántica de representación del buen salvaje (de Europa)
+		- Los referentes presentados en la lit romántica (paratextos: lo propio, lo nuestro, lo local), constantemente giran en torno a lo nacional
+		- La realidad étnica con sus variantes quiere servir de elemento distintivo de la construcción de una identidad autóctona propia pero está puesta al servicio de / a los propósitos sociopolíticos de los autores. 
+		- La gran mayoría de los autores románticos apuntan a una homogeneización de lo heterogéneo. 
+			- Es más fácil pedir la homogeneización cuando se habla desde un lugar de poder. 
+			- Todo individuo debe reconocerse como perteneciente a una nación. 
+			- Pero la homogeneización conlleva necesariamente la exclusión.
+			- Redención, evangelización y educación: acceso a la homogeneización / “salvación “del salvaje
+		- Hay proyecciones nacionales conciliadoras que llamaríamos de inclusión versus proyecciones no conciliadoras que diríamos que son de exclusión
+		- El proceso de aculturación provee esa posibilidad: la renuncia para entrar
+		- Escritores ambiciosos del romanticismo que quieren medirse frente a las elites criollas
+		- Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
+		- Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
+		- Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía
+		- En conclusión,** con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES**. O sea: responden a...
+			- No es un interés puesto en el esparcimiento o deleite
+			- Es un deleite que aprovecha
+			- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
+			- no son imitación sino mejor una operatividad cultural, ideológica y política de los modelos y antecedentes, esas representaciones del buen salvaje que se aplican al contexto local
+		- Conceptos actuales : traducción cultural
+		- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de américa
+			- Cambios significativos para los indígenas
+			- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
+			- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
+			- Gesto que se deriva de la situación poscolonial e intento de romper con España
+			- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América. 
+				- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
+				- Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad
+				- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
+	- Todo esto acontece en el ámbito de la literatura.
+	- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
+	- Afán no inconciente de comunicar mis propias ansias de libertad / independencia
+	- Analogías / alegorías y se explica el prestigio que goza en el exterior la novela exotista, así el criollo se pone a dialogar con esa tradición
+	- **PROYECTOS DE EXCLUSIÓN**
+		- **Literatura romántica de referente indígena en ARGENTINA (NO ES literatura indianista o idealizante)**
+		- Salvaje que no se puede salvar
+		- El insalvable salvaje (eso no es indianismo)
+		- Prosas y poemas del primer romanticismo en zonas donde empieza la modernización 
+		- Se pone en marcha políticamente su aniquilación  //   marginación radical en pos de una occidentalización que corresponde a la idea de progreso
+			- Progreso no implica diálogo
+		- Lo encontramos en:
+			- El poema de E. Echeverria: *La cautiva* (1837)
+			- Sarmiento: *Facundo, civilización y barbarie*, ensayo, autobiografía, discurso político 
+		- El proceso de modernización comienza en Argentina muy rápido y muy pronto
+		-  Indígena como núcleo de barbarie
+		-  Proceso de **idealización** (buscar designar nuestros héroes que nos representen) **ocurre con el gaucho**, héroe nacional
+			-  El gaucho se percibe, por la visión racista de impronta discriminatoria del sistema de castas y de Europa, más como blanco. Es **más asimilable** a la civilización
+		- Mario Vargas Llosa sobre la situación “atrasada” del área andina: afirmación que remite absurdamente a la dicotomía de civilización y barbarie
+		- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
+		- El aborigen es amansado como una llama en la vasta extensión del Perú
+		- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
+	- ** Entonces...**
+		- Especificidad hispanoamericana: los proyectos de nación. 
+		- Sería erróneo hablar de una imitación a secas. 
+		- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
+		- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 
 - Clase
 Literatura romántica de referente indígena en Argentina
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
