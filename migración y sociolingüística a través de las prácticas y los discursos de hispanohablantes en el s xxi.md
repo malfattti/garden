@@ -827,11 +827,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			  -  Ejemplos de cómo una ciudad puede ser un libro abierto, configuración de espacio social que muestra la historia de una migración (en este caso dos colectivos de hispanohablantes distintos)
 
 	- Conceptos de territorialización - deterritorialización - reterritorialización
-  
-
-Deleuze y Guattari, reconfigurada por Appadurai 1996 
-
-A través de los procesos de terri, reterri y desterritorialización, choques y reajustes 
+		- Deleuze y Guattari 1977, reconfigurada por Appadurai 1996 
+		- A través de estos procesos: choques y reajustes 
 
   
 
