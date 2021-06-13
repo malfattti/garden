@@ -380,24 +380,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Sarmiento va a contribuir a la avanzada de la causa romántica, pero muy pronto se ve que su empeño no es solo literario sino político. Literatura y política andaban muy juntas
 		- En Sarmiento el debate literario tiene una dimensión política muy fuerte
 		- Juan Manuel de Rosas no va a caer hasta la batalla de caseros en 1852
-
- Sarmiento va a ser senador, gobernador, embajador en los estados unidos. Y por fin presidente de 1868 al 74
-
-Sus ambiciones se manifiestan en un ensayo que puede considerarse el más importante del s. XIX: civ y barbarie, que se publica en Chile en 1845
-
-Es el más importante ensayo del s. XIX por la gran incitación sociológica, cultural etc que se genera a partir de él
-
-  
-
-Transformación étnica, educación, principios morales más elevados: los de europa y los de la américa anglosajona
-
-  
-
-Historia de esta transformación étnica 
-
-  
-
-Sarmiento: poética del racismo, vinculada con la Conquista del desierto, se iba a realizar en 1876 (con el presidente que sucede a Sarmiento, Alsina, y se lleva a cabo Roca -1879-) este proyecto no lo inventa sni sarmiento.
+		- Sarmiento va a ser senador, gobernador, embajador en los Estados Unidos. Y por fin presidente de 1868 al 74
+		- Sus ambiciones se manifiestan en un ensayo que puede considerarse el más importante del s. XIX: *Facundo*, que se publica en Chile en 1845
+		- Es el más importante ensayo del s. XIX por la gran incitación sociológica, cultural etc que se genera a partir de él
+		- Transformación étnica, educación, principios morales más elevados: los de europa y los de la américa anglosajona
+		- Historia de esta transformación étnica 
+		- Sarmiento: poética del racismo, vinculada con la Conquista del desierto, se iba a realizar en 1876 (con el presidente que sucede a Sarmiento, Alsina, y se lleva a cabo Roca -1879-) este proyecto no lo inventa sni sarmiento.
 
 Fomenta la inmigración  para reemplazar la población indígena que se considera inútil, improductiva
 
