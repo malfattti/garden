@@ -478,12 +478,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- No dejan de lado interés por realidades regionales, las ciudades no son todo
 			- **AVES SIN NIDO**: en el corazón de la sierra peruana, pero con muchas referencias a la ciudad. La autora es serrana 
 				- Es necesario fijar algunos factores sociopolíticos de estas décadas:
-				- Giro literario: el indianismo literario da un fruto novedoso con aves sin nido
-
-  
-  
-
-En 1879-1883: la guerra del pacífico o del salitre. Conduce a la derrota del perú frente a chile. Perú pierde la región sur de tarapacá (hoy norte de Chile) y bolivia pierde (bolivia y perú contra chile) su salida al mar
+				- Giro literario: el indianismo literario da un fruto novedoso con *Aves sin nido*
+				- En 1879-1883: la guerra del pacífico o del salitre. Conduce a la derrota del Perú frente a Chile. 
+					- Perú pierde la región sur de Tarapacá (hoy norte de Chile) y bolivia pierde (Bolivia y Perú contra Chile) su salida al mar
 
   
 
