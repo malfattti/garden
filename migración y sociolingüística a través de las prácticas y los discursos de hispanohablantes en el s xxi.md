@@ -776,7 +776,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- la ideología monoglósica y centrípeta del estado nación (hegemónica del s. XX)
 		- ideologías alternativas, heteroglósicas y centrífugas que nacen del flujo de personas y del impacto de las nuevas formas de comunicación electrónicas
 		- estas idoelogías se reflejan en las identidades y prácticas de lxs hablantes
-		- Las narrativas de 
+		- Las narrativas de mujeres latinas de primera y segunda generación muestran el impacto de estas ideologías y de las prácticas mismas en sus identidades lingüísticas
+			- las primeras generaciones muestra ideologías claramente monolingües
 
 
   
