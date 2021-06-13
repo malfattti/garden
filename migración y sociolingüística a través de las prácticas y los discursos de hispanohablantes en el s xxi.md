@@ -883,42 +883,19 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- más movilidad
 		- más uso de nuevas tecnologías para comunicación transnacional
 		- diversificación de conectividad de empresas multinacionales
+	- 
 	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros epistémicos
 		- el espacial (dimensión social)
 		- de la movilidad: personas y recursos simbólicos
 
   
 
-Wallenstein: teoría sociológica/sociopolítica: las diferencias socioeconómicas entre estados se pueden entender con la ayuda de escalas
 
   
 
-Países de acuerdo a tres escalas: centro - semi-periferia-perfiferia
-
-  
-  
-
-Qué ha creado esta jerarquía? Condicionamientos sociohistóricos / económicos
-
-Los del centro: jerárquicamente superiores y más acceso a recursos (sin necesariamente tenerlos ellos)
-
-Periferia: tienen recursos pero no pueden capitalizarlos, desigual
-
-Periferia: intermedio 
-
-Intercambio entre países: sujeto a jerarquía, históricamente condicionado
 
   
 
-La escala es una herramienta que sirve para entender cómo se mueven los recursos entre estos tres niveles jerárquicamente diferenciados
-
-  
-
-El elemento micro está conectado con elementos macro (ejemplo producción de droga en centroamérica - distribución mundial). Retroalimentación entre escala local y global 
-
-  
-
-Esta teoría del sistema mundo se ha utilizado para explicar por qué hay países que ofrecen mano de obra barata
 
   
 
