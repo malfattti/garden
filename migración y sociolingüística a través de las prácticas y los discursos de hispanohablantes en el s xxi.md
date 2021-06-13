@@ -809,26 +809,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 		- el espacio físico urbano existe en tanto es corporeizado a través de las experiencias de los individuos y contruido en las narrativas de esos individuos día a día
 		- la agentividad humana hace del espacio físico uno social
-		- el espacio urbano funciona como un texto que se construye de forma dinámica a través d eu
+		- el espacio urbano funciona como un texto que se construye de forma dinámica a través de un sistema de signos semióticos constituido por y en los lugares e intercambios que ocurren allí
+		- por eso las ciudades son distintas, porque cuentan histrorias distintas. A una 
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
   
   
 
 
-Espacios alternativos, fuera de la cultura hegemónica
 
-Hay ciertos espacios a los que Suiza les ha dado un reconocimiento legal, por ejemplo las escuelas que surgen como espacios alternativos a la educación formal, pública, oficial. Pero ahora por ejemplo los chicos pueden poner esas notas en su boletín.
-
-O sea que estos espacios se van desarrollando, son dinámicos. La vida social no es estática.
-
-  
-
-De Certeau: “Walk in the city”
-
-el espacio físico urbano existe en tanto es corporeizado a través de la experiencia de los individuos. Las construcciones tienen una historia / ligada a la historia. Por ejemplo el centro viejo de berna: los edificios nos cuentan una historia y a la vez cumplen una serie de funciones: públicas, turísticas. Etc.
-
-El espacio se construye como un texto, un libro abierto
 
   
 
