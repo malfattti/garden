@@ -533,14 +533,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- A partir de 1980: ya nadie habla de *Aves sin nido* sin pensar en la problemática de género, feminismo crítico aplicado a la literatura
 	- Novela que bebe aún del romanticismo y el realismo
 	- Pero supera el indianismo romántico
-	- Y anuncia por las tesis igualitarias sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
-
-  
-  
-
-Parejas de jóvenes casados que encarnan a todas luces la modernidad
-
-Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
+	- Y anuncia las **tesis igualitarias** sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
+	- Parejas de jóvenes casados que encarnan a todas luces la modernida
+	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
 
   
 
