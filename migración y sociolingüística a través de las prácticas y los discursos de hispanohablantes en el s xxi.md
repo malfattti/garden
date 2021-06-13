@@ -774,7 +774,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 - Conclusiones:
 	- a nivel sociohistórico y político vivimos en una época donde dos ideologías distintas conviven:
 		- la ideología monoglósica y centrípeta del estado nación (hegemónica del s. XX)
-		- ideologías 
+		- ideologías alternativas, heteroglósicas y centrífugas que nacen del flujo de personas y del impacto de las nuevas formas de comunicación electrónicas
+		- estas idoelogías se reflejan en las identidades y prácticas de lxs hablantes
+		- Las narrativas de 
 
 
   
