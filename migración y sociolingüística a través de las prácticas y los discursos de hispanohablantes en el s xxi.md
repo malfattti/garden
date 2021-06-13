@@ -861,6 +861,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					-  el inglés es importante pero el español es la lengua que facilita las relaciones sociales entre los grupos étnicos y mediante ellas el acceso a fuentes de trabajo
 					-  en Londres el español se corporeiza no solo en el PL sino en las redes sociales que son esenciales para conseguir trabajo
 		  - **DESTERRITORIALIZACIÓN: desvinculación entre el espacio, la lengua étnica y la actividad humana**
+			  - Ejemplo: pérdida de la lengua en los latinxs que han migrado a Estados Unidos
+			  - Choques intergeneraaci
 
 Desterritorialización de espacio simbólico cultural muy importante con la pérdida de la lengua en el caso de los latinxs en estados unidos
 
