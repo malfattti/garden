@@ -845,7 +845,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- En estos procesos las redes sociales son fundamentales
 			- Los individuos dislocados reestablecen sus identidades étnicas a través de canales reales y virtuales (nuevos medios)
 			- Si hay gente que migra, la vida social siempre tiene lugar en un espacio. Los inmigrantes inevitablemente reterritorializan el espacio.
-				- Ejemplo: comunidad latina en Londres que se ha ido origanizando en colectivos
+				- Ejemplo: comunidad latina en Londres que se ha ido origanizando en colectivos sociales cívicos como el proyecto "Latine Elephant" para:
+					- Darle más visibilidad al barrio latino en Londres
+					- mejorar la integración del barrio
 
 
   
