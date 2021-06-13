@@ -499,15 +499,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Expresa ansia de regeneración moral, 
 					- combate por la creación de un auténtico patriotismo peruano, 
 					- explica su opinión sobre la derrota de la Guerra del Pacífico y en su tonalidad se expresa acento revanchista
-					- Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal 
-
-  
-
-No solo el virreinato explotó al indio sino que la república tb siguió explotándolo.
-
-la situación del indígena ha empeorado
-
-Hay otro texto ue expone y detalla estas ideas: “nuestros indios” de 1904 “Horas de lucha” 1924, una etapa muy distinta. Esboza el problema: la república es la continuación del virreinato y el indio es el ciervo abusado aún 
+					- Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal
+					- No solo el virreinato explotó al indio sino que la república tb siguió explotándolo.
+					- la situación del indígena ha empeorado
+				- Hay otro texto que expone y detalla estas ideas: “Nuestros indios” de 1904 “Horas de lucha” 1924, una etapa muy distinta. Esboza el problema: la república es la continuación del virreinato y el indio es el ciervo abusado aún 
 
 Rechaza la idea de que acusen al indio como refractarios a la civilización y considera que es una campaña de desprestigio inaceptable. El indio, dice el, recibe lo que le dan, fanatismo y aguardiente
 
