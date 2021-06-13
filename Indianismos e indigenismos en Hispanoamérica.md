@@ -633,25 +633,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Espacio donde se puede vivir con dignidad, al amparo de valores que rigen esas comunidades como la fraternidad, la justicia entre pares y la sabiduría tradicional con la que todos cuentan
 		- Narra y condena la explotación indígena poniendo énfasis en el despojo de sus tierras
 		- Tensión entre ese orden social y el mundo moderno.
-
-Transición de un tipo de mundo a otro.
-
-  
-
-Episodio de la laguna: laguna que los ancianos consideran intocable y que los más jóvenes quieren aprovechar para regalar. 
-
-  
-
-Dejan plantearse en la conciencia del lector una visión crítica de la modernización
-
-A diferencia de huasipungo, donde la modernización es negativa pero tampoco hay nada positivo que haya venido antes
-
-De esta novela entonces salimos con menos clausura que de Huasipungo
-
-  
-  
-
-La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. Equilibrio, actitud que nos distancia de lo mágico. A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
+		- Transición de un tipo de mundo a otro.
+		- Episodio de la laguna: laguna que los ancianos consideran intocable y que los más jóvenes quieren aprovechar para regalar. 
+		- Dejan plantearse en la conciencia del lector una visión crítica de la modernización
+		- A diferencia de Huasipungo, donde la modernización es negativa pero tampoco hay nada positivo que haya venido antes
+		- De esta novela entonces salimos con menos clausura que de Huasipungo
+		- La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. Equilibrio, actitud que nos distancia de lo mágico. A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
 
   
 
