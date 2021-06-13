@@ -883,20 +883,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- más movilidad
 		- más uso de nuevas tecnologías para comunicación transnacional
 		- diversificación de conectividad de empresas multinacionales
-	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros episté
-Varias capas
-
-Cuestión espacial y cuestión vertical (social)
-
-  
-
-La escala es una metáfora, compuesta por dos ejes: vertical y horizontal
-
-  
-
-Conceptos que nacen en otras ciencias sociales
-
-La socioling. De la globalización es ampliamente interdisciplinaria
+	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros epistémicos
+		- el espacial (dimensión social)
+		- de la movilidad: personas y recursos simbólicos
 
   
 
