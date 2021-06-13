@@ -570,19 +570,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Para Mariátegui el negro y los peones chinos permanecen atrapados en las tramas de la colonia y no hay puerta de salida para esas otredades
 		- Se le reprocha alusiones al odio existente entre serranos y costeños. Se le reprocha el exclusivismo indigenista. 
 		- Diagnóstico fundamental pero tb simplificador y ambiguo
-		- Idea de que la emancipación o redención del indio debe ser obra suya y de nadie más. Idea muy clara en Mariátegui, cuando es trasladada al campo de la producción literaria, resulta en augurios y esperanzas que le dan un significado muy profundo al pensamiento de Mariátegui.
-
-  
-
-Fragmentos de ensayo que invita a releer la lit peruana y de su tiempo
-
-\-saber apreciar las obras indigenistas a pesar de que puedan considerarse oportunistas (críticas de este tipo habrá muchas, Mariátegui se anticipa a esto)
-
-\- La lit indigenista no puede no idealizar al indio /  la lit indígena será capaz de representar su propio mundo. La lit indigenista es de mestizos
-
-  
-
-A pesar de que Mariátegui ya está hablando de la lit indigenista, las obras más importantes se van a escribir más tardes, años 30-40
+		- Idea de que la emancipación o redención del indio debe ser obra suya y de nadie más. Idea muy clara en Mariátegui, 
+			- cuando es trasladada al campo de la producción literaria, resulta en augurios y esperanzas que le dan un significado muy profundo al pensamiento de Mariátegui.
+		- Fragmentos de ensayo que invita a releer la lit peruana y de su tiempo
+		- saber apreciar las obras indigenistas a pesar de que puedan considerarse oportunistas (críticas de este tipo habrá muchas, Mariátegui se anticipa a esto)
+		- La lit indigenista no puede no idealizar al indio 
+		- la lit indígena será capaz de representar su propio mundo. La lit indigenista es de mestizos
+		- A pesar de que Mariátegui ya está hablando de la lit indigenista, las obras más importantes se van a escribir más tardes, años 30-40
 
 Países andinos, relación entre ficción literaria y debate sociopolítico
 
