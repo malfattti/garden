@@ -450,13 +450,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- En la Rep. Dominicana a pesar de que gran parte de la población es mulata, descendiente de negros, en la población indígena.
 				- Una novel como *Enriquillo* viene a fortalecer esta idea. En este momento la literatura dominicana rechaza la cultura africana para sustituirlo por la del indio (+idealización)
 				- Entonces Galván hace remontar la identidad dominicana muy lejos. 
-				- En la lectura de esta novela se observa tb que Galván no adopta términos negativos en torno a la conquista de América de los españoles. Insiste en la crueldad y violencia de los españoles como elementos inevitables de cualquier conquista.
-
-Parece entender que una conquista mandada por la corona no puede no trabajar a favor de la corona
-
-La realización de los objetivos de la corona hacen evidente que la conquista es inevitable 
-
-Su tema entonces no sería la conquista sino la invención de unos orígenes heroicos idealizados. Vació que hay que llenar y que se va a llenar de formas diversas. Orígenes nacionales pero tb de la literatura 
+				- En la lectura de esta novela se observa tb que Galván no adopta términos negativos en torno a la conquista de América de los españoles. 
+					- Insiste en la crueldad y violencia de los españoles como elementos inevitables de cualquier conquista.
+					- Parece entender que una conquista mandada por la corona no puede no trabajar a favor de la corona
+					- La realización de los objetivos de la corona hacen evidente que la conquista es inevitable 
+				- Su tema entonces no sería la conquista sino la invención de unos orígenes heroicos idealizados. Vació que hay que llenar y que se va a llenar de formas diversas. Orígenes nacionales pero tb de la literatura 
 
 Dar la dirección de lo que tiene que asumir la nación
 
