@@ -528,7 +528,193 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Mariátegui: rtas y soluciones.
 					- Prada escribe, suscita controversia, provoca, etc. pero no presenta una ideología (sistema de ideas coherente)
 					- Pero su intervención en el campo cultural es decisiva y motiva a una escritora como Matto de Turner 
-- Clase 13.04.
+- Clase 13.04.2021: 
+	- **  
+
+Aves sin nido, primera novela indigenista de reivindicación social
+
+  
+
+A partir de 1980: ya nadie habla de Aves sin nido sin pensar en la problemática de género, feminismo crítico aplicado a la literatura
+
+  
+
+Novela que bebe aún del romanticismo y el realismo
+
+Pero supera el indianismo romántico
+
+Y anuncia por las tesis igualitarias sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
+
+  
+  
+
+Parejas de jóvenes casados que encarnan a todas luces la modernidad
+
+Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
+
+  
+
+Raza, clase, educación y género problematizados
+
+  
+
+Se distinguen entonces tres grupos principales:
+
+Indios, notables y forasteros, tres grupos que deben buscar articulación.
+
+Inmoralidad de los notables, falta de educación: factores que hacen posible la explotaciOn de los indios
+
+Adoptan dos huérfanas 
+
+Cohesión social propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
+
+  
+
+Cornejo Polar: Matto de T propone la integración de la raza desheredada a través de ;a adopción e integracón
+
+  
+
+La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
+
+Cornejo polar traduce el proyecto como modernizador de aculturación
+
+  
+
+Del indianismo al indigenismo
+
+S. XX: del indigenismo al neoindigenismo
+
+  
+
+En Perú y Ecuador la hacienda (corazón del régimen agrario feudal heredado del colonialismo) se constituyó no solo como sistema socioeconómico sino que constituye casi la cara olvidada de una modernidad que no resolvía los problemas de loa indígena
+
+  
+  
+  
+
+Mariátegui: primer pensador indigenista peruano.
+
+La figura fundadora del marxismo latinoamericano: funda en 1928 el partido socialista del perú 
+
+  
+
+Recorre Perú y eso lo lleva a defender el derecho de autodeterminación de los indígenas
+
+Crea un socialismo indigenista: prácticas comunitarias de lo incas lo lleva a ver una posible coherencia con la propuesta marxista 
+
+  
+
+Problema del indio: fundamentalmente económico, relacionado con el derecho a la tierra. Muy relacionado esto con temáticas actuales, donde los reclamos en torno a las tierras siguen siendo vigentes
+
+  
+
+Lo que se lee con el problema agrario corresponde con la necesidad de la liquidación del feudalismo y usos sde la feudalidad que hay aún en el perú
+
+  
+
+Raíces: Régimen de la propiedad de la tierra 
+
+La concentración de la tierra en los latifundios despoja a los indios, los hace dependientes y según Mariátegui la solución no es fraccionar latifundios en parcelas (solución liberal) sino la protección de las tierras comunitarias
+
+  
+
+Comunismo incáico histórico: propiedad de la tierra cultivable por el ayllu (conjunto de familias emparentadas), es una palabra que reaparece en muchas obras indigenistas y neoindigenistas
+
+  
+
+Publica en la editorial amauta vinculada a la revista vanguardista peruana del mismo nombre, fundada por Mariátegui en 1926
+
+El título que le da mariátegui
+
+Una de las vanguardias más originales de HA son las que cifran sus propuestas en rasgos locales y reincorporan lo popular (indigenismo)
+
+Vínculo de las vanguardias con el indigenismo y el negrismo (poesía de Guillén en Cuba)
+
+  
+
+Amauta: maestro, filósofo. El sabio capaz de predecir del antiguo imperio inca
+
+  
+
+Marxismo sui generis, readaptado, en clave socioeconómica no educativa.
+
+  
+
+Siete ensayos fue tomada como alternativa 
+
+A partir de la desilusión con el marxismo sus teorías son fuertemente criticadas, viendo en el indigenismo una forma de racismo invertido. Representación compleja de la alteridad que distingue  entre varios otros. El otro de la herencia colonial, el chino, el negro y el indio.
+
+  
+
+Valoración negativa de la herencia hispánica (económica y culturalmente). Lo que ha dejado España es el medioevo, la inquisición y la feudalidad.
+
+Aunque mariátegui no asuma supuestos de superioridad de razas, al intentar colocar lo autóctono como central y superior en su proyecto, subvalora las demás alteridades
+
+  
+
+Jornalero, peón chino: ocupa territorio cada vez mayor en términos de identidad
+
+Para Mariátegui el negro y los peones chinos permanecen atrapados en las tramas de la colonia y no hay puerta de salida para esas otredades
+
+  
+
+Se le reprocha alusiones al odio existente entre serranos y costeños. Se le reprocha el exclusivismo indigenista. 
+
+Diagnóstico fundamental pero tb simplificador y ambiguo
+
+  
+
+Idea de que la emancipación o redención del indio debe ser obra suya y de nadie más. Idea muy clara en Mariátegui, cuando es trasladada al campo de la producción literaria, resulta en augurios y esperanzas que le dan un significado muy profundo al pensamiento de Mariátegui.
+
+  
+
+Fragmentos de ensayo que invita a releer la lit peruana y de su tiempo
+
+\-saber apreciar las obras indigenistas a pesar de que puedan considerarse oportunistas (críticas de este tipo habrá muchas, Mariátegui se anticipa a esto)
+
+\- La lit indigenista no puede no idealizar al indio /  la lit indígena será capaz de representar su propio mundo. La lit indigenista es de mestizos
+
+  
+
+A pesar de que Mariátegui ya está hablando de la lit indigenista, las obras más importantes se van a escribir más tardes, años 30-40
+
+Países andinos, relación entre ficción literaria y debate sociopolítico
+
+  
+
+Obras cuyo referente es la realidad social inmediata.
+
+  
+  
+
+Tomás Escajadillo se pregunta qué es una obra indigenista:
+
+\-sentimiento de reinvindicación social:
+
+  
+
+\- narrativa auténticamente indigenista (a pesar de que el término indigenista implica la no autenticidad)
+
+Para el quien mejor supo subrayar este requisito fue Mariátegui, porque dijo que el indigenismo no es solo una escuela lit., sino que está motivado por el referente del mundo real
+
+  
+
+\- superación de ciertos lastres del pasado, de la visión romántica del mundo andino
+
+\- Exigir de esa obra suficiente proximidad (mundo novelado, indígena, paisaje, etc): es una lit indigenista y no indigena, la indigena vendrá a su tiempo. Distancia versus cercanía? En la novela indianista, desde q postura y cómo se trata o representa el referente? Visión exotizante de las producciones indianistas / la que abre una distancia entre el referente y el destinatario de la obra.
+
+Autor implícito:narrautor, que se dice a través de la voz del narrador, 3ra persona, omnisciente (no puede en rigo presentar juicios de valor, ironía etc
+
+Distancia entre referente y destinatario de la obra traduce en la narración en la distancia entre autor implícito y sujeto novelado 
+
+  
+  
+
+Es consciente de la imprecisión de la terminología
+
+  
+  
+**
   
   
 	
