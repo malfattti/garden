@@ -615,22 +615,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Concentración industria maderera
 		- Analogía entre el indio y el obrero: ilustrada en un fragmento de conversación en documento que entablan Alfonso Pereira y su tío en las primeras páginas de la novela
 		- El cholo: Gabriel Rodríguez: representa las tensiones del mestizaje, (cholo: indígena que ha adoptado cultura dominante), mal visto tanto dentro como fuera. Corporización del problema mismo del mestizaje 
-
-  
-
-Cholo blanqueado o hsipanizado
-
-  
-
-Reflexión entre clases sociales y construcciones raciales en Ecuador
-
-  
-
-Masa taimada, inmóvil, petrificada, muda: retrato en un conjunto donde no se distinguen los individuos pero puede verse “la furia congelada” de varios siglos 
-
-  
-
-Reactivación de los estereotipos, masa sujeta a la inacción, seres fuera de la historia. Estas críticas se le harán a muchas novelas indigenistas. Cual es el fin? Horror pero inacción.
+		- Cholo blanqueado o hispanizado
+		- Reflexión entre clases sociales y construcciones raciales en Ecuador
+		- Masa taimada, inmóvil, petrificada, muda: retrato en un conjunto donde no se distinguen los individuos pero puede verse “la furia congelada” de varios siglos
+		- Reactivación de los estereotipos, masa sujeta a la inacción, seres fuera de la historia. Estas críticas se le harán a muchas novelas indigenistas. Cual es el fin? Horror pero inacción.
 
   
 
