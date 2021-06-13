@@ -369,22 +369,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- María y Brian son débiles e impotentes frente a su contexto.
 			- Dialéctica de civilización y barbarie.
 	- *Martín Fierro* de José Hernández: cierra la dicotomía de *Civilización y barbarie* y cobra un valor continental la idea de civilización y barbarie/ se difunde como una metáfora de muchos contextos americanos
-
-  
-
-Sarmiento: la dicotomía de civilización y barbarie
-
-Luchas políticas entre progresistas y conservadores
-
-Federalistas y unitarios (la necesidad de que buenos aires como centro cumpla ese rol centralizador)
-
-Sarmiento está del lado de los unitarios contra el federalismo, en ese momento encarnado por el dictador Rosas
-
-Como está opuesto al gobierno federalista, el federalismo se declina de esta forma
-
-En cada núcleo federal de la confederación hay un gobierno de un hacendado que controla ese territorio. Rosas deja el control de las partes a los caudillos de provincias
-
-Sarmiento se enfrente a bello en un debate sobre cuestiones lingüísticas. Clasicismo de bello versus Romanticismo de sarmiento
+	- Sarmiento: la dicotomía de civilización y barbarie
+		- Luchas políticas entre progresistas y conservadores
+		- Federalistas y unitarios (la necesidad de que Buenos Aires como centro cumpla ese rol centralizador)
+		- Sarmiento está del lado de los unitarios contra el federalismo, en ese momento encarnado por el dictador Rosas
+		- En cada núcleo federal de la confederación hay un gobierno de un hacendado que controla ese territorio. Rosas deja el control de las partes a los caudillos de provincias
+		- Sarmiento se enfrenta a bello en un debate sobre cuestiones lingüísticas. Clasicismo de bello versus Romanticismo de sarmiento
 
 Lo que se tradujo ideológicamente entre una pugna de conservadores (|Bello) y el liberalismo representado por sarmiento 
 
