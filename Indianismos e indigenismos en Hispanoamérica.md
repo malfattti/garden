@@ -643,11 +643,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
 	- El indigenismo literario va a ser objeto de muchísimas críticas:
 		- Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
-	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de arguedas no resuelve que sigue siendo literatura de origen no indígena
-
-  
-
-Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
+	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de Arguedas no resuelve que sigue siendo literatura de origen no indígena
+	- Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
 
 **
   
