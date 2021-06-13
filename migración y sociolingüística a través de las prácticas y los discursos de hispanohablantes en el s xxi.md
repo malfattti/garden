@@ -806,16 +806,11 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- espacios alternativos, de des-encuentro entre centros y perfierias,
 				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
-	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996)
-	- Escalas y policentrismo (Blommaert 2007; 2015)
+	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
+	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en
   
   
 
-2 teorías: Lefebvre: la producción del espacio y De Certeau (texto de la antropología social)
-
-  
-
-Deleuze y Guattari: Territorialización, Desterritorializaci;on y reterritorialización (reconfigurada por Appaduray > estudios culturales DESDE AQUÍ SALTA A LA SOCIOLINGÚÍSTICA CULTURAL)
 
 Escalas y poloicentrismo Blommaert/ esta es la única teoría que nace en la sociolingúística
 
