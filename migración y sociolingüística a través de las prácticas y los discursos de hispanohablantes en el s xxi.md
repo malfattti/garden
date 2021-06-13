@@ -805,7 +805,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- espacios experimentados por los individuos con sus experiencias previas, sus creencias e ideologías
 				- espacios alternativos, de des-encuentro entre centros y perfierias,
 				- espacios de resistencia de órdenes dominantes y nacimiento de otros órdenes**
-				- este espacio es 
+				- este espacio establece una difeencia importante con el tercer espacio de Lefebvre
 	- La corporización del espacio de De Certeau (The Practice of Everyday Life, 1984).
 	- Territorialización, Desterritorialización, Reterritorialización (Deleuze & Guattari 1977; Appaduray 1996) --> estudios culturales --> sociolingüística cultural
 	- Escalas y policentrismo (Blommaert 2007; 2015) --> teoría que nade en la socionlingüística
