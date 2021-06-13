@@ -393,16 +393,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Racismo pseudocientífico del s. XIX. No pensar que sarmiento inventó el racismo 
 		- Conflicto y armonía de las razas: devela el desborde 
 		- Lo que leemos: la historia de la imaginación letrada y de lo que se establece como el uno (el pensamiento letrado) y el otro: todo lo excluido de lo propio
-
-Admisión o exclusión de determinados sujetos y espacios señala una cartografía que nos dice mucho más de los sectores que elaboran el mapa que del territorio que se intenta representar
-
-  
-
-Fechas señaladas por Concha Melédez: 
-
-1832: novela corta mexicana Netzula (indianista): atribuido a un escritor José María Lafragua, verdadero apellido: Lacunza 
-
-Inicio de indianismo literario con acentro idealizante y el ciclo termina en 1886 (89), con Aves sin nido
+		- **Admisión o exclusión de determinados sujetos y espacios señala una cartografía que nos dice mucho más de los sectores que elaboran el mapa que del territorio que se intenta representar**
+**- Fechas señaladas por Concha Melédez:**
+		- 1832: novela corta mexicana Netzula (indianista): atribuido a un escritor José María Lafragua, verdadero apellido: Lacunza
+		- Inicio de indianismo literario con acentro idealizante y el ciclo termina en 1886 (89), con *Aves sin nido*
 
   
 
