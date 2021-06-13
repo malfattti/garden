@@ -752,7 +752,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
-				- autopercepción en narra
+				- autopercepción en narrativas autobiográficas
   
 
 Español caribeño: mezcla entre suizo alemán y alemán
