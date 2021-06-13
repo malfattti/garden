@@ -440,7 +440,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Aquí se ve la dificultad de elaborar lo nacional. Pugna por estar o no estar o excluir
 				- En estas zonas aparecen obras indianistas e indigenistas
 				- Lo insólito es que hay novelas indianistas donde ya no encontramos indígenas en el s. XIX
-				- Este es el caso de Enriquillo. Toma como fuente explícita una obra de Bartolomé de las Casas (autor de la Brevísima relación, pero la que se cita en este caso es “la historia de las indias”, cuenta la historia de santo domingo entre 1503 y 1533) se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
+				- Este es el caso de *Enriquillo*. 
+					- Toma como fuente explícita una obra de Bartolomé de las Casas (autor de la *Brevísima relación*, pero la que se cita en este caso es “la historia de las indias”, cuenta la historia de santo domingo entre 1503 y 1533) se inspira en esta historia para contar la historia del cacique Guarocuya, que es el que después se bautiza como Enrique. Todos lo conocen por su diminutivo afectuoso (condecendencia puede tb estar implicada)
 
   
 
