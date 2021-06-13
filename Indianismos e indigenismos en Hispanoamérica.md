@@ -598,14 +598,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - Narrador extradiegético: omnisciente que ofrece relato en tercera persona y al que se le supone conocimiento total de la historia.
 		  - Extradiegético y heterodiegético en la medida en que no está en la historia y narra algo en lo que no ha participado. Distancia entre el autor implícito y el sujeto otro. 
 		  - El narrador suele usar el registro culto e imponerse en el relato con pasajes descriptivos desde la perspectiva exterior, dejando a los indígenas que se expresen en un español no normativo y en constante vaivén con su otro idioma (español asimilado de manera no formal)
-
-  
-
-Entonces la posición del narrador es un dato interesante en la novela indianista e indigenista, es exterior a la historia en estos dos casos. O sea que estas novelas no se diferencian en cuanto al narrador (por ej. Matto de Turner y Huasipungo)
-
-  
-
-Es probablemente José María Arguedas el único que hasta ahora haya superado la frontera aunque sea de manera problemática porque él mismo era culturalmente mitad indio, al menos.
+		  - Entonces la posición del narrador es un dato interesante en la novela indianista e indigenista, es exterior a la historia en estos dos casos. O sea que estas novelas no se diferencian en cuanto al narrador (por ej. Matto de Turner y Huasipungo)
+		  - Es probablemente José María Arguedas el único que hasta ahora haya superado la frontera aunque sea de manera problemática porque él mismo era culturalmente mitad indio, al menos.
 
   
 
