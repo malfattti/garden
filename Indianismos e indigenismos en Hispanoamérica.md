@@ -638,7 +638,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Dejan plantearse en la conciencia del lector una visión crítica de la modernización
 		- A diferencia de Huasipungo, donde la modernización es negativa pero tampoco hay nada positivo que haya venido antes
 		- De esta novela entonces salimos con menos clausura que de Huasipungo
-		- La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. Equilibrio, actitud que nos distancia de lo mágico. A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
+		- La voz del narrador omnisciente se queda dentro de los límites aceptados de la voz omnisciente. No deja espacio para la voz de un autor implícito que condicione la lectura, no opina frente a la presencia de la magia. 
+			- Equilibrio, actitud que nos distancia de lo mágico. 
+			- A pesar de control y tolerancia, no dejamos de observar la distancia que plantea un nosotros y un otro. No se resuelve la cuestión de la distancia, permanece abierta. 
 
   
 
