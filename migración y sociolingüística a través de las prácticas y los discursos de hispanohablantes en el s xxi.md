@@ -764,6 +764,13 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- 1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
 			- 2: hijos de dos latinxs
 			- 2.5: madre latina, padre suizo (mayormente)
+- Ejemplos de la primera generación:
+	- Ana: polarización extrema
+	- Luciana: entre prácticas reales e ideologías monoglosicas
+	- Carmen: el poder de la ideologá
+
+
+
 Español caribeño: mezcla entre suizo alemán y alemán
 
 
