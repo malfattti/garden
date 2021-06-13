@@ -353,9 +353,184 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
 		- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 	
 		- Después de las independiencias, los proyectos de nación empezaron a construirse, y se discutieron cuestiones referidaas a la cultura, entre ellas la cuestión de los orígenes de las literaturas nacionales. Cada país respondió a esta pregunta influenciado por su perspectiva histórica. Por ejemplo, México evoca las siguientes procedencias de las literaturas nacionales: cantos escritos en lengua indígena, literatura medieval española (a pesar de posición antiespañola dominante), las inmediatas academias literarias que surgían tras la independencia (ruptura con pasado colonial)
-
-	- Clase 23.03
+- Clase 23.03
 	- Literatura romántica de referente indígena en Argentina
+		- La cautiva
+			- 9 cantos, refiere la historia de una pareja: María y Brian. Caen prisioneros de los indios de la pampa argentina.
+
+María es obligada a ser la concubina de un jefe indio. Y después logran huir
+
+Brian muere en el camino.
+
+María tb muere al final del poema pero por un destiempo trágico: los soldados que venían a auxiliarla llegan tarde.
+
+Esta historia trágica no ahora detalles macabros. Por ejemplo, el hijo de la pareja es degollado por los indios
+
+Representación animalizada del indio / impresión del insalvable salvaje
+
+  
+
+María representa a la madre pura / luchadora frente a las fuerzas de la naturaleza, los indios, el destino.
+
+Casada con un inglés de quien está encinta, rechaza el mestizaje sexual con el indio. Ella rechaza la función que le quieren asignar de concubina del indio.
+
+  
+
+Cunrcunstancia del momento: se proyecta un futuro que no vsa a acontecer porque en vez de ingleses y alemanes que “mejorarían” la conformación de los argentinos, entran los italianos y españoles
+
+  
+
+Románticos europeos: el buen salvaje, naturaleza armoniosa. Aquí no hay eso
+
+  
+
+María y Brian son débiles e impotentes frente a su contexto.
+
+Dialéctica de civilización y barbarie.
+
+Martín fierro de josé hernández: cierra la dicotomía de civilización y barbarie y cobra un valor continental la idea de civilización y barbarie/ se difunde como una metáfora de muchos contextos americanos
+
+  
+
+Sarmiento: la dicotomía de civilización y barbarie
+
+Luchas políticas entre progresistas y conservadores
+
+Federalistas y unitarios (la necesidad de que buenos aires como centro cumpla ese rol centralizador)
+
+Sarmiento está del lado de los unitarios contra el federalismo, en ese momento encarnado por el dictador Rosas
+
+Como está opuesto al gobierno federalista, el federalismo se declina de esta forma
+
+En cada núcleo federal de la confederación hay un gobierno de un hacendado que controla ese territorio. Rosas deja el control de las partes a los caudillos de provincias
+
+Sarmiento se enfrente a bello en un debate sobre cuestiones lingüísticas. Clasicismo de bello versus Romanticismo de sarmiento
+
+Lo que se tradujo ideológicamente entre una pugna de conservadores (|Bello) y el liberalismo representado por sarmiento 
+
+  
+
+Sarmiento va a contribuir a la avanzada de la causa romántica, pero muy pronto se ve que su empeño no es solo literario sino político. Literatura y política andaban muy juntas
+
+En sarmiento el debate literario tiene una dimensión política muy fuerte
+
+  
+
+Juan manuel de Rosas no va a caer hasta la batalla de caseros en 1852
+
+  
+
+Sarmiento va a ser senador, gobernador, embajador en los estados unidos. Y por fin presidente de 1868 al 74
+
+Sus ambiciones se manifiestan en un ensayo que puede considerarse el más importante del s. XIX: civ y barbarie, que se publica en Chile en 1845
+
+Es el más importante ensayo del s. XIX por la gran incitación sociológica, cultural etc que se genera a partir de él
+
+  
+
+Transformación étnica, educación, principios morales más elevados: los de europa y los de la américa anglosajona
+
+  
+
+Historia de esta transformación étnica 
+
+  
+
+Sarmiento: poética del racismo, vinculada con la Conquista del desierto, se iba a realizar en 1876 (con el presidente que sucede a Sarmiento, Alsina, y se lleva a cabo Roca -1879-) este proyecto no lo inventa sni sarmiento.
+
+Fomenta la inmigración  para reemplazar la población indígena que se considera inútil, improductiva
+
+1810-1826 (Rivadavia): corta los lazos con España. Proyecto de transformación profunda de la Argentina,.
+
+Coronel alemán que contratan para eliminar a indios ranqueles sobre todo, que ocupaban la llanura pampeana.
+
+  
+
+Samiento está implicado en el proceso de la conquista del desierto que termina en 1879
+
+  
+
+Esto es una visión/línea que vemos en sarmiento
+
+Pero tener en cuenta que civilización y barbarie es un libro maniequeo, pero a la vez muy complejo, que usa muchos géneros literarios y tiene una inerpretación difícil: aspectos biográficos, históricos, sociológicos, comentarios políticos. Es un ensayo de muy diversos ingredientes.
+
+  
+
+Racismo pseudocientífico del s. xIX. No pensar que sarmiento inventó el racismo 
+
+  
+
+Conflicto y armonía de las razas: devela el desborde 
+
+  
+  
+
+Lo que leemos: la historia de la imaginación letrada y de lo que se establece como el uno (el pensamiento letrado) y el otro: todo lo excluido de lo propio
+
+Admisión o exclusión de determinados sujetos y espacios señala una cartografía que nos dice mucho más de los sectores que elaboran el mapa que del territorio que se intenta representar
+
+  
+
+Fechas señaladas por Concha Melédez: 
+
+1832: novela corta mexicana Netzula (indianista): atribuido a un escritor José María Lafragua, verdadero apellido: Lacunza 
+
+Inicio de indianismo literario con acentro idealizante y el ciclo termina en 1886 (89), con Aves sin nido
+
+  
+
+Aves sin nido de Clorinda Mato de Turner, escritora peruana , la primera novela indianista, muy cerca de la estética romántica de reivindicación social. Porque los indígenas que se representan en la novela pertenecen al presente de la autora y no al pasado. 
+
+  
+
+Dentro del panorama romántico indianista se destacan dos novelas, antes de llegar a Aves sin nido. 
+
+Son alas dos de mayor esfuerzo literario, las de mayor difusión. Indianistas con referente indígena. 
+
+Juan león Mera (Ecuador): Cumandá o un drama entre salvajes (1879):
+
+-   Novela muy representativa de las narrativas de la época porque en ella lo literario y el proyecto político se entretejen. Puesta al servicio de lo político, medida de discurrir sobre un proyecto político. Cual es el proyecto de nación que presenta?
+    
+
+-   Evolución de la sociedad ecuatoriana
+    
+-   Se escribe apenas terminada la dictadura ultra conservadora y católica de gabriel garcía Moreno (entre 1860 y 1875)
+    
+-   Mra emprende camino de reafirmación de este régimen
+    
+-   Abogar por una modernidad que está en el pasado (s. XIX)
+    
+-   Consdiera que se ha cometido un error como consecuencia de la expulsión de los jesuitas de los territorios (1877)
+    
+-   Etapa post colonial: llamado a los jesuitas para que dirijan la educación secundari ay universitaria del pa’si
+    
+-   Cumand;a narra el amor imposible
+    
+
+-   Mujer raptada por los jíbaros cuando niña, se la promete a un cacique jíbaro y al morir este tiene que morir ella por la muerte ritual al que eran sometidas las viudas, ser enterradas con el cacique. 
+    
+-   Indígenas buenos: cristianizados
+    
+-   La otredad surge no en términos raciales sino culturales. Lo que separa a los amantes no es la raza. No hay acá discurso del mestizaje
+    
+-   En esta novela Mera quiere reavivar la utopía jesuita, intento de promover la unidad nacional a través del catolicismo como agente de cohesión
+    
+-   Reaviva la idea de que una religión que no fuera común sería la mejor garantiá de una unidad nacional por encima de las diferencias
+    
+-   Cumandá viene a ser la víctima de la cultura en la que ha vivo y entonces queda excluida de la nación. Condena a una muerte trágica
+    
+-   Concha meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo  que le falta a la distancia es cifrar el paternalismo con el que canta la belleza de los salvajes. 
+    
+-   Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatroiana hay que ser católico.
+    
+
+  
+
+La otra novela…
+
+**
+	
+	
 El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
 Del indigenismo al neoindigenismo (años 30-finales años 70); Mariátegui; la literatura indigenista; Icaza;
