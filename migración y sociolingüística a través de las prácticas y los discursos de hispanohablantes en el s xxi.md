@@ -855,7 +855,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- Fase 1: entre 1970 y 1990: refugiados políticos desde Chile, Argentina y Uruguay a los que se ofrece clases de inglés gratuitas para facilitar su integración 
 					- Fase 2: después de 1990: jóvenes latinos con vida de estudiantes:
 						- diferentes niveles de inglés y posibilidades de trabajo en pequeños porcentajes
-					- Fase 3: a partir de finales de 1990: la
+					- Fase 3: a partir de finales de 1990: latinoamericanos sin conocimientos de inglés, provienen de diásporas secundarias, básicamente de España y entran a Londres por sus redes socioculturales trtnsnacionales
 	
 
   
