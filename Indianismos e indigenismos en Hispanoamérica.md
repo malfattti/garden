@@ -528,12 +528,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 						- Mariátegui: rtas y soluciones.
 					- Prada escribe, suscita controversia, provoca, etc. pero no presenta una ideología (sistema de ideas coherente)
 					- Pero su intervención en el campo cultural es decisiva y motiva a una escritora como Matto de Turner 
-
+- Clase 13.04.
   
   
 	
 	
-
+El indianismo literario romántico (1832-1889); casos especiales (México y cuenca caribeña)
 Del indianismo al indigenismo (finales del XIX-inicios del XX); González Prada y Matto de Turner
 Del indigenismo al neoindigenismo (años 30-finales años 70); Mariátegui; la literatura indigenista; Icaza;
 Alegría; recepción crítica del indigenismo; Arguedas; Scorza
