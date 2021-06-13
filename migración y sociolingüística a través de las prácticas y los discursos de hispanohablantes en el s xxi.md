@@ -867,13 +867,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - El inglés sirve pero el español no, como instrumento de movilidad social
 			  - Como no se pasa la lengua hay una desterritorialización lingúística.
 			  - desplazamiento intergeneracional hacia el inglés en tres generaciones
-			  - el mantenimiento del español no se debe a su conservación
-
-  
-
-Desde los 80 hay estudios de como se desplaza el español pro el inglés por causas instrumentalistas
-
-La estigmatización del colectivo hispano sigue siendo enorme en estados unidos
-
-**
-- 
+			  - el mantenimiento del español no se debe a su conservación sino a la inmigración constante
+			  - Los padres no pasan la lengua a los hijos por miedo a la estigmatización social
+				  - español como síbolo de pobreza y desventaja social
+				  - miedo
