@@ -786,14 +786,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- Se llama giro espacial porque a partir de los 70 se entiende el espacio en la geografía no solo en su dimensión física sino tb en relación al ser humano y en su dimensión social (geografía humana). 
 		- concepción del espacio como socialmente construido y dinámico
 			- Como el espacio se entiende en su dimensión social va a estar en continuo movimiento porque son las personas y sus actividades las que cambian el espacio. 
-			- Sobre todo tb en relación a las migraciones.
-
-  
-
-Entonces: dinámica social en la reconfiguración del espacio.
-
-Y una de las grandes fuerzas en la reconfiguración de los espacios sociales está en la migración
-
+			- Sobre todo tb en relación a las migraciones
+- Teorías del giro espacial y cómo se aplican 
   
   
 
