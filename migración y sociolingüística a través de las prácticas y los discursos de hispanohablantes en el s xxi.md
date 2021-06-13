@@ -778,7 +778,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- estas idoelogías se reflejan en las identidades y prácticas de lxs hablantes
 		- Las narrativas de mujeres latinas de primera y segunda generación muestran el impacto de estas ideologías y de las prácticas mismas en sus identidades lingüísticas
 			- las primeras generaciones muestra ideologías claramente monolingües que reflejan una fuerte conexión entre la lengua nacional y la identidad
-				- en otros casos si bien se observan prácticas heteroglósicas, las 
+				- en otros casos si bien se observan prácticas heteroglósicas, las ideologías siguien siendo monolingües
+			- en las segundas generaciones hay mayor congruencia entre ideologías y prácticas heteroglósicas
 
 
   
