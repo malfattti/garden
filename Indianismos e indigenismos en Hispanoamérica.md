@@ -645,9 +645,157 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
 	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de Arguedas no resuelve que sigue siendo literatura de origen no indígena
 	- Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
+- **
 
-**
+Huasipungo no logra la proximidad?
+
+Pero es una obra prototípica del indigenismo pero al mismo tiempo 
+
   
+
+Indigenismo ortodoxo: documento con algunos propósitos que ayudan a clarificar lo que podría parecer una contradicción. Explicación de Escajadillo de indigenismo
+
+  
+
+El indigenismo político arranca sobre todo a ppios de s. XX (por eso hablamos de protoindigenismo con estas novelas)
+
+Escajadillo busca contesta el problema de calificación de Aves sin nido
+
+Indigenismo ortodoxo: Huasipungo
+
+Neoindigenismo: Arguedas (recreación del universo andino desde dentro. Trabaja dentro de una tradición indigenista, que evoluciona y pasa por proceso de mutaciones y cambios)
+
+  
+
+El indigenismo no es un discurso esencialmente literario. Las raíces se alimentan de otras corrientes históricas. Los indigenistas auténticos colaboran en una obra política y económica de reivindicación. La autenticidad proviene de toda la implicación política. No hay desconexión entre arte, economía, política, etc.
+
+Para él el auténtico indigenismo es el NEOindigenismo. El ortodoxo NO, es puesto en duda. 
+
+  
+
+Recepción crítica del indigenismo.
+
+El indigenismo refiere a cuestiones relacionadas con producción literaria, cultura y discurso político
+
+Crítica: intenta definir su estructura y sus límites discursivos, su naturaleza como forma de resistencia cultural y tb se ha trabajado sobre las relaciones del indigenismo con las vanguardias culturales de los 20 
+
+  
+
+El alcance y los límites
+
+Lugar que se le asigna en la historia cultural de la nación, incluso como capital cultural de lo nacional
+
+La conceptualización dominante considera que el indigenismo literario es regionalista al interior de la nación peruana y que está determinado por la representación de u mundo particular (andino o indígena) (esta es la posición de Arguedas tb)
+
+Su función sería entonces moral, política porque subraya los valores humanos excelsos de la población nativa (Arguedas). Deber de representar estos valores. La literatura indigenista denuncia entonces el estado de injusticia social, presenta promesas de lucha y de reivindicación social.
+
+El indigenismo literario está determinado por la naturaleza particular del referente (el mundo andino como espacio regional y la función político-moral misma que la representación cumple en el universo Literario)
+
+La reflexión crítica tb ha comentado la capacidad de representación de ese referente (indio y mundo andino): el grado de proximidad entre la representación que hace la lit. indigenista y la realidad.
+
+Riqueza psicológica de la representación (caso de la propuesta de arguedas, logra darla a conocer)
+
+  
+
+Valoraciones relacionadas con dos nociones planteadas en relación con representaciones de espacio social y cultural y la psicología del indio: 
+
+la autenticidad
+
+La veracidad
+
+  
+
+Cuestiones normalmente planteadas no en caso de literatura de creación sino textos testimoniales. Pero se plantea a esta literatura como su tuviera esa imensión testimonial
+
+  
+
+En 1970s Ángel Rama (UY) observa la presencia en un texto narrativo dado de determinados elementos o formas discursivas propias del universo del referente. No específicamente andino sino otros mundos (afroamericano por ejemplo). Elementos como canciones o leyendas orales.
+
+Para Rama la presencia de estos componentes nos informan del carácter transculturado de esa narración
+
+  
+
+Cornejo polar (Perú) profundiza esta reflexión diciendo que ni el autor ni el lector participan en el mundo del referente. El autor escribe la novela en castellano que no es la lengua del referente, en la que vive y se expresa el referente.
+
+Para Cornejo esta estructura revela la heterogeneidad , la contradicción de naciones que no pueden decirse a sí mismas por su condición desgarrada, heterogénea
+
+  
+
+Estas narrativas presentan reflexiones y ficciones que al intentar resolver el problema nacional lo repiten. Reproducen conflicto irresuelto. El indigenismo es revelador de esa condición. No es una condena de Cornejo Polar, es considerar que son reveladoras de esas condiciones.
+
+  
+
+1997: Mirko Lauer: diferencia entre indigenismo sociopolítico del artístico literario (este es el 2). La unión entre los dos es un correlato ideológico
+
+Elabora concepto referido a la producción del 2: dice que es una reversión ejecutada por las clases medias y dominantes
+
+Reversión: fenómeno por el cual un conjunto de miembros del sector más moderno de una cultura intenta apartarse del avance de la modernización inter o transnacional trasladando el foco de interés a la parte más tradicional de la cultura.
+
+  
+
+Sesgo local a la modernidad que llega. Disuelve las especificidades
+
+REVERSIÓN: Presentación criolla de raíces ajenas (autóctonas) como si fueran propias. No es un retorno a lo andino original. Los creadores del indigenismo 2 no estaban volviendo a sus raíces sino presentando raíces en buena medida ajenas como si fueran propias.
+
+No reestablecen lo autóctono, sino que amplían la esfera de la cultura dominante (capital cultural, c0ntrol de lo simbólico) en dirección de lo que percibían como lo tradicional no hispano (lo no dominante)
+
+  
+
+El resultado concreto del indigenismo 2 no es el retorno de lo autóctono sino que el ámbito de lo criollo se expande. Este tipo de análisis se puede aplicar a muchas demandas que proceden de ámbitos sociales marginados
+
+  
+
+Capacidad de lo criollo para hacerse cargo de la cultura nacional
+
+  
+
+Indigenismo 2: poética criolla de apropiación de lo autóctono
+
+  
+
+Asimilar la resistencia ajena a la propia (por ejemplo contra el español en la independencia)
+
+  
+
+Práctica que plantea no pocos problemas (autenticidad veracidad)
+
+  
+
+Los ríos profundos (1958), Arguedas
+
+Arguedas
+
+  
+
+A partir de la década del 50 lo que profundiza la creación de arguedas es lo que permite a Escajadillo optar una deonominación que indica cambio en el indigenismo de una forma prometedora, neoindigenismo.
+
+  
+
+Qué es el neoindigenismo?
+
+Convergencia en los neoindigenistas de unas características
+
+  
+
+Temas:
+
+El mismo, pero el tema del personaje indígena es radicalmente diferente. Según Cornejo Polar los autores indigenistas aprendieron mucho de los escritores del boom (o es al revés?). Arguedas es uno de los grandes olvidados del boom
+
+Cornejo Polar se±nala un momento de gran experimentación narrativa
+
+  
+
+Formas no canonizadas de la literatura en la narrativa (las novelas neoindigenistas emplean una serie de perspectivas narrativas diferentes)
+
+El narrador extradiegético así como el uso del registro culto cede lugar a una variedad de narradores focalizados en diferentes personajes, cuyo resultado es: riqueza de voces, múltiples perspectivas, que pueden representar un mismo evento
+
+Uso de discurso oral, pero ya no reducido en su expresividad sino el autor neoindigenista construye un auténtico universo diglósico que conserva oralidad inígena y lenguaje propio de los letras. Totalmente en fase con lo que Rama llama lit. transculturada o heterogénea y que revela condición de incluir rasgos sobresalientes de la oralidad en un texto literario 
+
+  
+  
+
+Huasipungo: en una sola palabra, manera de dirigirse que apunta a una fórmula de subordinación (XXXXsumercé)
+
 **
   
   
