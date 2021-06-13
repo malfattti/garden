@@ -600,10 +600,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - El narrador suele usar el registro culto e imponerse en el relato con pasajes descriptivos desde la perspectiva exterior, dejando a los indígenas que se expresen en un español no normativo y en constante vaivén con su otro idioma (español asimilado de manera no formal)
 		  - Entonces la posición del narrador es un dato interesante en la novela indianista e indigenista, es exterior a la historia en estos dos casos. O sea que estas novelas no se diferencian en cuanto al narrador (por ej. Matto de Turner y Huasipungo)
 		  - Es probablemente José María Arguedas el único que hasta ahora haya superado la frontera aunque sea de manera problemática porque él mismo era culturalmente mitad indio, al menos.
-
-  
-
-Una novela como Huasipungo, realista, no logra esta proximidad. Los ríos profundos, al desplegar una estructura narrativa muy lírica, prosa poética, donde los valores temporales se ven alterados/ desdibujados. Restitución de un tempo (ritmo) propiamente poético. Es a través del uso de esta virtud lírica de esta novela que Arguedas logra un acceso más profundo al alma indígena
+		  - Una novela como Huasipungo, realista, no logra esta proximidad. ***Los ríos profundos*, al desplegar una estructura narrativa muy lírica, prosa poética, donde los valores temporales se ven alterados/ desdibujados. Restitución de un tempo (ritmo) propiamente poético. Es a través del uso de esta virtud lírica de esta novela que Arguedas logra un acceso más profundo al alma indígena**
 
 Así tenemos una fusión entre el yo del narrador y el ellos de los indígenas.
 
