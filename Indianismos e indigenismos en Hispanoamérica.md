@@ -490,18 +490,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresión en Clorinda Matto de Turner, su contemporánea
 			- Entonces en su obra se ve esta influencia.
 			- Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la literatura que cree en el poder de la representación (por eso realista y naturalista)
-
-Y sigue creyendo en el poder de la intervención a partir de la literatura
-
-  
-
-MANUEL GONZÁLEZ PRADA: 
-
-2 ensayos en particular
-
-Lo conocemos por ser voz ppal en la ensayística y crítica literaria
-
-Es la voy ppal del período de reconstrucción de la posguerra. MOMENTO de pausa, reflexión, diagnóstico 
+			- Y sigue creyendo en el poder de la intervención a partir de la literatura
+			- **MANUEL GONZÁLEZ PRADA**: 
+				- 2 ensayos en particular
+				- Lo conocemos por ser voz ppal en la ensayística y crítica literaria
+				- Es la voz ppal del período de reconstrucción de la posguerra. MOMENTO de pausa, reflexión, diagnóstico 
 
 “Discurso en el teatro politeama” 1888. Expresa ansia de regeneración moral, combate por la creación de un auténtico patriotismo periano, explica su opinión sobre la derrota de la guerra del pacífico y en su tonalidad se expresa acentro revanchista
 
