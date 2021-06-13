@@ -387,32 +387,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Historia de esta transformación étnica 
 		- Sarmiento: poética del racismo, vinculada con la Conquista del desierto, se iba a realizar en 1876 (con el presidente que sucede a Sarmiento, Alsina, y se lleva a cabo Roca -1879-) este proyecto no lo inventa sni sarmiento.
 		- Fomenta la inmigración  para reemplazar la población indígena que se considera inútil, improductiva
-		- 1810-1826 (Rivadavia): corta los lazos con España. Proyecto de transformación profunda de la Argentina,.
-
-Coronel alemán que contratan para eliminar a indios ranqueles sobre todo, que ocupaban la llanura pampeana.
-
-  
-
-Samiento está implicado en el proceso de la conquista del desierto que termina en 1879
-
-  
-
-Esto es una visión/línea que vemos en sarmiento
-
-Pero tener en cuenta que civilización y barbarie es un libro maniequeo, pero a la vez muy complejo, que usa muchos géneros literarios y tiene una inerpretación difícil: aspectos biográficos, históricos, sociológicos, comentarios políticos. Es un ensayo de muy diversos ingredientes.
-
-  
-
-Racismo pseudocientífico del s. xIX. No pensar que sarmiento inventó el racismo 
-
-  
-
-Conflicto y armonía de las razas: devela el desborde 
-
-  
-  
-
-Lo que leemos: la historia de la imaginación letrada y de lo que se establece como el uno (el pensamiento letrado) y el otro: todo lo excluido de lo propio
+		- 1810-1826 (Rivadavia): corta los lazos con España. Proyecto de transformación profunda de la Argentina
+		- Coronel alemán que contratan para eliminar a indios ranqueles sobre todo, que ocupaban la llanura pampeana.
+		- Pero tener en cuenta que *Civilización y barbarie* es un libro maniequeo, pero a la vez muy complejo, que usa muchos géneros literarios y tiene una inerpretación difícil: aspectos biográficos, históricos, sociológicos, comentarios políticos. Es un ensayo de muy diversos ingredientes.
+		- Racismo pseudocientífico del s. XIX. No pensar que sarmiento inventó el racismo 
+		- Conflicto y armonía de las razas: devela el desborde 
+		- Lo que leemos: la historia de la imaginación letrada y de lo que se establece como el uno (el pensamiento letrado) y el otro: todo lo excluido de lo propio
 
 Admisión o exclusión de determinados sujetos y espacios señala una cartografía que nos dice mucho más de los sectores que elaboran el mapa que del territorio que se intenta representar
 
