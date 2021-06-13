@@ -559,21 +559,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Publica en la Editorial Amauta vinculada a la revista vanguardista peruana del mismo nombre, fundada por Mariátegui en 1926
 		- Una de las **vanguardias** más originales de HA son las que **cifran sus propuestas en rasgos locales y reincorporan lo popular** (indigenismo)
 		- Vínculo de las vanguardias con el indigenismo y el negrismo (poesía de Guillén en Cuba)
-		- Amauta: maestro, filósofo. El sabio capaz de predecir del Antiguo mperio inca
-
-  
-
-Marxismo sui generis, readaptado, en clave socioeconómica no educativa.
-
-  
-
-Siete ensayos fue tomada como alternativa 
-
-A partir de la desilusión con el marxismo sus teorías son fuertemente criticadas, viendo en el indigenismo una forma de racismo invertido. Representación compleja de la alteridad que distingue  entre varios otros. El otro de la herencia colonial, el chino, el negro y el indio.
-
-  
-
-Valoración negativa de la herencia hispánica (económica y culturalmente). Lo que ha dejado España es el medioevo, la inquisición y la feudalidad.
+		- Amauta: maestro, filósofo. El sabio capaz de predecir del Antiguo Imperio Inca
+		- Marxismo sui generis, readaptado, en clave socioeconómica no educativa.
+		- *Siete ensayos* fue tomada como alternativa 
+		- **A partir de la desilusión con el marxismo sus teorías son fuertemente criticadas, viendo en el indigenismo una forma de racismo invertido**. Representación compleja de la alteridad que distingue  entre varios otros. El otro de la herencia colonial, el chino, el negro y el indio.
+		- Valoración negativa de la herencia hispánica (económica y culturalmente). Lo que ha dejado España es el medioevo, la inquisición y la feudalidad.
 
 Aunque mariátegui no asuma supuestos de superioridad de razas, al intentar colocar lo autóctono como central y superior en su proyecto, subvalora las demás alteridades
 
