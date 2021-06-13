@@ -487,13 +487,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- La literatura que brota es indianista de reivindicación social. *Aves sin nido* entra en este momento. 
 				- Entonces por eso es considerada un punto de arranque en la literatura indigenista. Ella no es indígena, algo que caracteriza la narrativa indigenista (el hablar por los demás)
 			- Decadas finales del s. XIX en que se va a centrar la atención la propuesta del peruano Manuel González Prada (1849-1910) predomina su figura en el escenario progresista
-			- Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresión en Clorinda matto de turner, su contemporánea
-
-Entonces en  su obra se ve esta influencia.
-
-  
-
-Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la literatura que cree en el poder de la representación (por eso realista y naturalista)
+			- Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresión en Clorinda Matto de Turner, su contemporánea
+			- Entonces en su obra se ve esta influencia.
+			- Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la literatura que cree en el poder de la representación (por eso realista y naturalista)
 
 Y sigue creyendo en el poder de la intervención a partir de la literatura
 
