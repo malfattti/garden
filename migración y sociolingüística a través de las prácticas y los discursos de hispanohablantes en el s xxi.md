@@ -881,8 +881,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- retroalimentación entre escala global y local
 	- la globalización ha transformado las relaciones entre las regiones (flujos migratorios e interconectividad  transnacional de personas, recursos)
 		- más movilidad
-		- más uso de nuevas tecnologías para comunicación
-
+		- más uso de nuevas tecnologías para comunicación transnacional
+		- diversificación de conectividad de empresas multinacionales
+	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros episté
 Varias capas
 
 Cuestión espacial y cuestión vertical (social)
