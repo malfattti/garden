@@ -876,7 +876,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Clase 13.04: Escalas 
 - Theory World System --> Immanuel Wallenstein --> escalas sociolingüísticas (Blommaert)
 	- Para Wallenstein las dinámicas de jerarquización entre las regiones globales perpetúan y acentúan las desigualdades económicas y sociales a nivel mundial
-	- las dinámicas se dan en diferentes escalas (regionales y soci)
+	- las dinámicas se dan en diferentes escalas (regionales y sociales) ordenadas en un continuum
+		- procesos micro y macro con diferentes formas de intersección de escalas
+	- retroalimentación entre escala global y local
+- 
 
 Varias capas
 
