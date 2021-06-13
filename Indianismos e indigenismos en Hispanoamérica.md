@@ -421,33 +421,16 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- 1882. Galván: escritor de la República Dominicana, lugar sorprendente en relación a los países andinos que venimos viendo
 				- Novela histórica romántica y teatro histórico romántico
 				- **Pretende contribuir a la legitimación del sentimiento de nación. Esta literatura asume al indio a sus tradiciones**
-				- Los escritores liberales asumen la misión de reflejar una realidad que en esos países andinos representaban una minoría marginada por el poder conservador
-				- No va a ser el caso de México ni de las naciones de la cuenca caribeña,
-
-Escapa de lo que se da en los países andinos
-
-  
-  
-
-Benito Juarez: liberal, indígena, primer presidente indíigena de América latina 
-
-México, contexto liberal 
-
-  
-
-Novelas con acento antiespañolista muy marcado: los mártires de Anahuac
-
-  
-
-Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador
-
-  
-
-El indio había desaparecido , se parte de un contexto nacional donde no hay indígenas.
-
-Esta presencia no plantea problemas de homogeneidad. “n o molesta” si es que llega a darse.
-
-El tema del indio tuvo una fucnión muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
+				- Los escritores liberales asumen la misión de reflejar una realidad que en **esos países andinos** representaban una minoría marginada por el poder conservador
+				- No va a ser el caso de México ni de las naciones de la cuenca caribeña
+				- Escapa de lo que se da en los países andinos
+				- Benito Juarez: liberal, indígena, primer presidente indíigena de América latina 
+				- México, contexto liberal 
+				- Novelas con acento antiespañolista muy marcado: Los mártires de Anahuac
+				- Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador
+				- El indio había desaparecido, se parte de un contexto nacional donde no hay indígenas.
+				- Esta presencia no plantea problemas de homogeneidad. “no molesta” si es que llega a darse.
+				- El tema del indio tuvo una fucnión muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
 
 Presencia negra/presencia indígena
 
