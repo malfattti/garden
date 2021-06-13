@@ -781,14 +781,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- en otros casos si bien se observan prácticas heteroglósicas, las ideologías siguien siendo monolingües
 			- en las segundas generaciones hay mayor congruencia entre ideologías y prácticas heteroglósicas. valoración positiva de estas prácticas y asociación de ellas con las identidades
 - Clase 6 30.03: Espacio
-	- E
-
-
-**
-
-
-
-El giro espacial: se da dentro de la geografía humana. Se llama giro espacial porque a partir de los 70 se entiende en la geografía solo en su dimensión física sino tb en relación al ser humano y en su dimensión social (geografía humana). Como el espacio se entiende en su dimensión social va a estar en continuo movimiento porque son las personas y sus actividades las que cambian el espacio. Sobre todo tb en relación a las migraciones.
+	- El giro espacial: 
+		- se da dentro de la geografía humana (--> humanidades + ciencias sociales). Se llama giro espacial porque a partir de los 70 se entiende en la geografía solo en su dimensión física sino tb en relación al ser humano y en su dimensión social (geografía humana). Como el espacio se entiende en su dimensión social va a estar en continuo movimiento porque son las personas y sus actividades las que cambian el espacio. Sobre todo tb en relación a las migraciones.
 
   
 
