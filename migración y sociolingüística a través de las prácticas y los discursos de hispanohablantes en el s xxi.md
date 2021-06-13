@@ -754,8 +754,9 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- metáfora visual
 				- autopercepción en narrativas autobiográficas
 				- --> Métodos de estudio de la percepción de Dennis Preston
-					- línea de invetsigación integral:
-						- percepción et
+					- línea de invetstigación integral: percepción en sentido amplio (regard)
+						- percepción directa a partir de un estímulo sensorial
+						- el mundo conceptual de los hablantes SIn 
 
 Español caribeño: mezcla entre suizo alemán y alemán
 
