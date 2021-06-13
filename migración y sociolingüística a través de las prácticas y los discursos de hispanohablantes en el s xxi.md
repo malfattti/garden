@@ -743,12 +743,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- Un estudio de 2017 muestra que el colectivo de inmigrantes latinoamericanos se destaca por el gran porcetntaje de mujeres (64%)
 		- Metodos para desarrollar una investigación
 			- entrevista semi-estructurada
-				- total de 78 entrevistadxs, 42 mujeres y 36 hombres
-				- franjas etarias de la generación 1: entre 25-34 años / entre 35 y 54 años
-				- franjas etarias de la generación 1.5, 2 y 2.5: 17 a 24 años / 25 a 34 años
-					- 1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
-					- 2: hijos de dos latinxs
-					- 2.5: madre latina, padre suizo (mayormente)
 			- pruebas perceptivas:
 				- reconocimiento de variedad bilingüe mediante estímulo auditivio
 				- metáfora visual
@@ -757,7 +751,15 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- línea de invetstigación integral: percepción en sentido amplio (regard)
 						- percepción directa a partir de un estímulo sensorial
 						- el mundo conceptual de los hablantes SIN acudir a un estímulo
-
+- Características de los participantes
+	- total de 78 entrevistadxs, 42 mujeres y 36 hombres
+		- franjas etarias de la generación 1: entre 25-34 años / entre 35 y 54 años
+		- franjas etarias de la generación 1.5, 2 y 2.5: 17 a 24 años / 25 a 34 años
+			- 1.5: personas que vienen a suiza escolarizadas pero solo los primeros años (6-7 años o un poquito más)
+			- 2: hijos de dos latinxs
+			
+			
+			- 2.5: madre latina, padre suizo (mayormente)
 Español caribeño: mezcla entre suizo alemán y alemán
 
 Autopercepción: trabajo de introspección mediante estímulo auditivo y como ellas ven y perciben las prácticas heterogósicas
