@@ -944,5 +944,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- esta pregunta es fundamental para entender cuáles son los valores (cognitivos y emotivos) y capitales (económicos y simbólicos) que una familia asocia con als lenguas, pero además permite que vinculemos estas asociaciones con contextos sociopolíticos y eonómicos de las distintas escalas en los que las políticas gubernamentales, los discursos hegemónicos, los sentimientos de identidad y las presiones por la integración y asimilación desempeñan distintos papeles o impactan de distinta forma en las decisiones lingüísticas tomadas y las práctias llevads a cabo, o no,  por una familia
 			- en las  PLF se ve de qué manera se negocian esas fuerzas internas y externas
 		- Identidad e instrumentalización:
-			- los diferentes: 
+			- dos valores esenciales que se le da a los recursos lingüísticos y que 
  
