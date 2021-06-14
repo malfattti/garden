@@ -925,6 +925,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- No solo  estoy dentro de prácticas policéntricas, sino de prácticas complejas
 				- Para cada práctica se cómo debo moverme, discursivamente hablando.
 
-  - Clase 20.04: El español como lengua de
-	  - 
+  - Clase 20.04: El español como lengua de herencia
+	  - El estudio de lenguas de herencia se inscribe dentro de las políticas lingüísticas familiares
+		  - estas PLF son tanto explícitas y 
  
