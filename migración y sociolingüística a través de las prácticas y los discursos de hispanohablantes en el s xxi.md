@@ -972,4 +972,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- desde los 1960's en adelante la CH aconsejó a las direcciones cantonales de educación incluir dos horas de HL como parte de la oferta curricular
 						- los colectivos de trabajadores se hicieron más permanentes y con este cambio también cambiaron los objetivos
 							- hoy por hoy: más de 40% de matrimonios binacionales en Siza
-							- el objetivo es promover las lenguas que se hablan en las casas de los chicos que crecen de forma multilingüe para que las competencian traspasen el ámbito 
+							- el objetivo es promover las lenguas que se hablan en las casas de los chicos que crecen de forma multilingüe para que las competencian traspasen el ámbito cotidiano oral
+							- las lecciones de HSK: apoyo lingüístico en general
