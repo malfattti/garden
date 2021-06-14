@@ -971,4 +971,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- Se empiezan a cultivar en escuelas complementarias en Suiza de los 1950s --> Gastarbeiter, para ayudar a los hijos de estos a poder reintegrarse fácilmente a las escuelas de su país de origen en el regreso
 						- desde los 1960's en adelante la CH aconsejó a las direcciones cantonales de educación incluir dos horas de HL como parte de la oferta curricular
 						- los colectivos de trabajadores se hicieron más permanentes y con este cambio también cambiaron los objetivos
-							- hoy por hoy: más de 40% de matrimonio
+							- hoy por hoy: más de 40% de matrimonios binacionales en Siza
+							- el objetivo es promover las lenguas que se hablan en las casas de los chicos que crecen de forma multilingüe para que las competencian traspasen el ámbito 
