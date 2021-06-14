@@ -973,5 +973,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- los colectivos de trabajadores se hicieron más permanentes y con este cambio también cambiaron los objetivos
 							- hoy por hoy: más de 40% de matrimonios binacionales en Siza
 							- el objetivo es promover las lenguas que se hablan en las casas de los chicos que crecen de forma multilingüe para que las competencian traspasen el ámbito cotidiano oral
-							- las lecciones de HSK: apoyo lingüístico en general
-							- promoción de
+							- las lecciones de HSK: 
+								- reconocidas e incentivadas por el estado Suizo (oficialmente multilingüe)
+								- apoyo lingüístico en general
+								- promoción de las destrezas multil
