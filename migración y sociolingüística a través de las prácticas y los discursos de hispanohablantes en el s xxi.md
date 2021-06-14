@@ -916,27 +916,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		- estos centros no tienen el mismo rango ni impacto: en algunos es estrecho (por ejemplo, la familia y grupos de pares), en otros es amplio (las instituciones educativas, la iglesia, los movimientos políticos)
 			- normatividad: cada centro tiene su sistema de normatividades
 			- complejidad: ese sistema de normatividades está en acción y en concurso
-
-  
-
-
-  
-
-PLURICENTRISMO
-
-Los actores sociales se puede regir por diferentes centros
-
-No es exactamente lo mismo que las escalas
-
-Nosotros dependiendo de con quiénes nos comunicamos o qué objetivos tiene nuestra comunicación, tomamos determinadas decisiones / movilizamos determinados recursos/variedades
-
-Diferentes prácticas orientadas dependiendo de los centros.
-
-Las prácticas SON policéntricas
-
-  
-
-Como hablante, se qué práctica utilizo, para qué evento. Hay prácticas muy locales y puntuales, otras menos (rango de impacto mayor)
+		- Los actores sociales se puede regir por diferentes centros
+		- No es exactamente lo mismo que las escalas
+		- osotros dependiendo de con quiénes nos comunicamos o qué objetivos tiene nuestra comunicación, tomamos determinadas decisiones / movilizamos determinados recursos/variedades
+		- Diferentes prácticas orientadas dependiendo de los centros.
+		- Las prácticas SON policéntricas
+		- Como hablante, se qué práctica utilizo, para qué evento. Hay prácticas muy locales y puntuales, otras menos (rango de impacto mayor)
 
   
 
