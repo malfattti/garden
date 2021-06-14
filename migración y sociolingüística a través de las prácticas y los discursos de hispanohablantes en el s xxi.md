@@ -945,6 +945,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- en las  PLF se ve de qué manera se negocian esas fuerzas internas y externas
 		- Identidad e instrumentalización:
 			- dos valores esenciales que se le da a los recursos lingüísticos y que tienen origen en los discursos imperantes relacionados con las lenguas:
-				- de acuerdo con la ideología de los estados nacionales la lengua es un emblema de identidad, componente fuertemente emotivo
+				- de acuerdo con la ideología de los estados nacionales la lengua es un **emblema de identidad**, componente fuertemente emotivo
 				- en la era postindustrial del capitalismo tardío (globalización, neoliberalismo), las lenguas contribuyen como capital económico y social a la mayor flexibilidad de los individuos: acceso a mercados laborales y movilidad socioeconómica
  
