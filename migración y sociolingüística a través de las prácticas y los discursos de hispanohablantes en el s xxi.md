@@ -978,4 +978,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- apoyo lingüístico en general
 								- promoción de las destrezas multilingües
 								- aprovechas las sinergias jultilingües para desarrollar las competencias lingüísticas de los niños
-								- siguen las directivas de la Comisión Europea y del Consejo Europeo 
+								- siguen las directivas de la Comisión Europea y del Consejo Europeo que promocionan el plurilingüismo
+								-  
