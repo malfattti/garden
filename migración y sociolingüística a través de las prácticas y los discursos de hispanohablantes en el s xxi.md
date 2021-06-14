@@ -948,6 +948,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- de acuerdo con la ideología de los estados nacionales la lengua es un **emblema de identidad**, componente fuertemente emotivo
 				- en la era postindustrial del capitalismo tardío (globalización, neoliberalismo), las lenguas contribuyen como capital económico y social a la mayor flexibilidad de los individuos: acceso a mercados laborales y movilidad socioeconómica: **componente instrumental**, valor no identitario sino comercial.
 					- cuando las lenguas tienen valor instrumental, pueden llegar a comodificarse --> algo que no tiene valor comercial llega a tenerlo, sirven como commodities: se adquieren a través del dinero y luevo este saber se intercambia por dinero
+					- así las lenguas son entendidas como destrezas: se desplaza su significado de facultad natural y pasa a denotar una forma de conocimiento
 				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
 				
  
