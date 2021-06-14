@@ -952,7 +952,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- en su aspecto de "destreza", una lengua puede segmentarse, comprobarse y medirse por tests / certificarse por diplomas institucionales
 					- en la economía contemporánea, marcada por la terciarización, las lenguas son parte de los soft skills comunicativos y fundamentales para producir bienes materiales y servicios
 					- esta idea de que el multilingüismo ofrece más flexibilidad en el ambiente laboral socava la ideología monoglósica del estado nación + fetichiza el valor del aprendizaje y perfeccionamiento de lenguas "globales"
-						- 
+						- fetichismo lingüístico: las lenguas se cosifican y adquieren valor social (cosmopolitanismo, modernidad, etc) que se consideran inherentes, naturalizados
 				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
 				
  
