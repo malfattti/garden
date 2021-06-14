@@ -927,5 +927,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
   - Clase 20.04: El español como lengua de herencia
 	  - El estudio de lenguas de herencia se inscribe dentro de las políticas lingüísticas familiares
-		  - estas PLF son planificaciones lingüísticas, tanto explícitas y abiertas como implícitas y encubiertas en torno a la elección de lengua y a las prácticas de alfabetización en el dominio hogareño y entre miembros
+		  - estas PLF son planificaciones lingüísticas, tanto explícitas y abiertas como implícitas y encubiertas en torno a la elección de lengua y a las prácticas de alfabetización en el dominio hogareño y entre miembros de la familia
+		  - el estudio de estas es reciente
+		  - empieza a finales de los 1990s al interior de la lingüística aplicada para estudiar la transmisión intergeneracional de lenguas en
  
