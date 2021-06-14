@@ -961,4 +961,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						 - en esta lógica los individuos son responsables por su propio éxito y deben maximizar su rendimiento para hacerse competitivo en el mercado ya no local sino global
 							 - más flexibilidad
 							 - más individualismo
-					- esta lógica también alcanza a las instituciones dedicadas a la enseñanza de lenguas de herenciz
+					- esta lógica también alcanza a las instituciones dedicadas a la enseñanza de lenguas de herencia
