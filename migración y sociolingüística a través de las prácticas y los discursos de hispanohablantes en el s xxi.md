@@ -976,4 +976,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- las lecciones de HSK: 
 								- reconocidas e incentivadas por el estado Suizo (oficialmente multilingüe)
 								- apoyo lingüístico en general
-								- promoción de las destrezas multil
+								- promoción de las destrezas multilingües
+								- aprovechas las sinergias jultilingües para desarrollar las competencias lingüísticas de los niños
+								- siguen las directivas de la Comisión Europea y del Consejo Europeo 
