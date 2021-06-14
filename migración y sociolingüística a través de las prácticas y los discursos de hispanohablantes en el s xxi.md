@@ -955,4 +955,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- en la economía contemporánea, marcada por la terciarización, las lenguas son parte de los soft skills comunicativos y fundamentales para producir bienes materiales y servicios
 					- esta idea de que el multilingüismo ofrece más flexibilidad en el ambiente laboral socava la ideología monoglósica del estado nación + fetichiza el valor del aprendizaje y perfeccionamiento de lenguas "globales"
 						- fetichismo lingüístico: las lenguas se cosifican y adquieren valor social (cosmopolitanismo, modernidad, etc) que se consideran inherentes, naturalizados
-					 - El neoliberalismo implica la desregularización y reducción de la influencia del Estado en la economía
+					 - El neoliberalismo implica la desregularización y reducción de la influencia del Estado en la economía (privatización y austeridad fiscal)
+						 - en esta lógica los individuos son responsables por su propio éxito y deben maximizar su rendimiento para hacerse competitivo en el mercado ya no local sino global
+							 - más flexibilidad
+							 - más indivi
