@@ -963,4 +963,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							 - más individualismo
 					- esta lógica también alcanza a las instituciones dedicadas a la enseñanza de lenguas de herencia (inicialmente su objetivo estaba más vinculado con la identidad étnica)
 						- los padres ya no cultivan la lengua de herencia solo por lealtad a la cultura de origen y a los vínculos afectivos
-						- estas lenguas amplian las destrezas ling
+						- estas lenguas amplian las destrezas lingüísticas y comunicativas de los hijos
+					- Las lenguas de herencia en la política sociolingüística 
