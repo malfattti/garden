@@ -958,4 +958,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					 - El neoliberalismo implica la desregularización y reducción de la influencia del Estado en la economía (privatización y austeridad fiscal)
 						 - en esta lógica los individuos son responsables por su propio éxito y deben maximizar su rendimiento para hacerse competitivo en el mercado ya no local sino global
 							 - más flexibilidad
-							 - más indivi
+							 - más individualismo
+					- esta lógica también alcanza 
