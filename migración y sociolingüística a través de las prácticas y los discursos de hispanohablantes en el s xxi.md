@@ -914,7 +914,7 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- POLICENTRISMO:
 		- los valores indexicales varían. La jerarquización se produce de acuerdo al centro hacia el que se orienten los actores sociales
 		- estos centros no tienen el mismo rango ni impacto: en algunos es estrecho (por ejemplo, la familia y grupos de pares), en otros es amplio (las instituciones educativas, la iglesia, los movimientos políticos)
-			- normativid
+			- normatividad: cada centro tiene su sistema de normatovod
 
   
 
