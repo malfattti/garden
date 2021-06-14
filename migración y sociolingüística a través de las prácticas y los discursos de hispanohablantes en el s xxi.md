@@ -965,4 +965,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 						- los padres ya no cultivan la lengua de herencia solo por lealtad a la cultura de origen y a los vínculos afectivos
 						- estas lenguas amplian las destrezas lingüísticas y comunicativas de los hijos
 					- Las lenguas de herencia en la política sociolingüística suiza:
-						- lenguas habladas por colectivos inmigrantes que no coinciden con las lenguas nacionales y dominantes del país de acogida y que se cultivan en las casas o en otro tipo de asociación comunitarias con el fin de preservalas y transmitirlas generaci
+						- lenguas habladas por colectivos inmigrantes que no coinciden con las lenguas nacionales y dominantes del país de acogida y que se cultivan en las casas o en otro tipo de asociación comunitarias con el fin de preservalas y transmitirlas generacionalmente
+						- En Europa no existe una tradición de estudios sobre estas lenguas, la etiqueta varía de lugar a lugar
+						- En Suiza se llaman Herkunftsprache
