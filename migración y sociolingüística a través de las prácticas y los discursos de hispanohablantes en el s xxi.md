@@ -926,4 +926,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- Para cada práctica se cómo debo moverme, discursivamente hablando.
 
   - Clase 20.04: 
+	  - 
  
