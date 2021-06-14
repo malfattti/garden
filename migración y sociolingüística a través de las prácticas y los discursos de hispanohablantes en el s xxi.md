@@ -950,7 +950,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 					- cuando las lenguas tienen valor instrumental, pueden llegar a comodificarse --> algo que no tiene valor comercial llega a tenerlo, sirven como commodities: se adquieren a través del dinero y luevo este saber se intercambia por dinero
 					- así las lenguas son entendidas como destrezas: se desplaza su significado de facultad natural y pasa a denotar una forma de conocimiento susceptible de aprenderse y de convertirse en una herramienta productiva en el ámbito laboral
 					- en su aspecto de "destreza", una lengua puede segmentarse, comprobarse y medirse por tests / certificarse por diplomas institucionales
-					- en la economía contemporánea, marcada por la
+					- en la economía contemporánea, marcada por la terciarización, las lenguas son parte de los soft skills comunicativos y fundamentales para producir bienes materiales y servicios
+					- esta idea de que el multilingüismo ofrece más flexibilidad en el ambiente laboral socava la ideol
 				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
 				
  
