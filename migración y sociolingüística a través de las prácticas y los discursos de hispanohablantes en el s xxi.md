@@ -982,3 +982,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- sin embargo, las escuelas de LH no reciben subvención estatal por parte de la CH ni son obligatorias
 							- existen escuelas subvencionadas por el país de origen como las españolas, protuguesas e italianas que ya habían abierto en los 60s (Gastarbeiter)
 							- en el caso del colectivo latinoamericano no existe ninguna subvención por parte de los estados
+								- los proyectos para incentivar la LH como la Escuela Latinoamericana de Berna o grupos de juego como Rayo de Sol surgen de inciiativas colectivas y son soportados económicamente por los padres de familia
+								- 
