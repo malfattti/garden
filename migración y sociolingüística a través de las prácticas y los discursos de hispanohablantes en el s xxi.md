@@ -932,5 +932,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		  - empieza a finales de los 1990s al interior de la lingüística aplicada para estudiar la transmisión intergeneracional de lenguas en contextos familiares multilingües
 		  - input lingüístico y estrategias para criar a hijos bilingües
 		  - más prominentes desde s. XXI: se evidencia el sesgo ideológico de los estudios de política lingüística (contextos decoloniales)
-		  - a partir de entonces las PLF se entienden como una cristalización a nivel micro de lo que ocurre a nivel macro con las políticas lingúísticas y las ideolo
+		  - a partir de entonces las PLF se entienden como una cristalización a nivel micro de lo que ocurre a nivel macro con las políticas lingüísticas y las ideologías que divulgan
  
