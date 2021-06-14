@@ -949,7 +949,8 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- en la era postindustrial del capitalismo tardío (globalización, neoliberalismo), las lenguas contribuyen como capital económico y social a la mayor flexibilidad de los individuos: acceso a mercados laborales y movilidad socioeconómica: **componente instrumental**, valor no identitario sino comercial.
 					- cuando las lenguas tienen valor instrumental, pueden llegar a comodificarse --> algo que no tiene valor comercial llega a tenerlo, sirven como commodities: se adquieren a través del dinero y luevo este saber se intercambia por dinero
 					- así las lenguas son entendidas como destrezas: se desplaza su significado de facultad natural y pasa a denotar una forma de conocimiento susceptible de aprenderse y de convertirse en una herramienta productiva en el ámbito laboral
-					- en su aspecto de "destreza", una lengua puede segmentarse, comprobarse y medirse por tests
+					- en su aspecto de "destreza", una lengua puede segmentarse, comprobarse y medirse por tests / certificarse por diplomas institucionales
+					- en la economía contemporánea, marcada por la
 				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
 				
  
