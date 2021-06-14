@@ -934,4 +934,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		  - más prominentes desde s. XXI: se evidencia el sesgo ideológico de los estudios de política lingüística (contextos decoloniales)
 		  - a partir de entonces las PLF se entienden como una cristalización a nivel micro de lo que ocurre a nivel macro con las políticas lingüísticas y las ideologías que divulgan
 			  - sin embargo, son mucho más que eso
+			  - en ellas actúan fuerzas internas y externas --> importantes para entender las relaciones e in
  
