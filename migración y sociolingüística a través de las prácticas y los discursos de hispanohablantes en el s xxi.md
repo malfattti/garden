@@ -939,5 +939,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - externas: presiones y demandas sociales
 				  - debido a la globalización no solo las ideologías y políticas nacionales repercuten en las PLF, sino otras ideologías provenientes de otros espacios, dinámicas propias en diferentes escalas
 				  - las PLF son multiescalares y policéntricas
-	- 
+		- los estudios sobre PLF suelen preguntarse por qué se transmiten y mantienen algunas lenguas y otras no
+			- crucial en contextos de lenguas minoritarias y minorizadas
  
