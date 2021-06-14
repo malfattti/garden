@@ -941,5 +941,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				  - las PLF son multiescalares y policéntricas
 		- los estudios sobre PLF suelen preguntarse por qué se transmiten y mantienen algunas lenguas y otras no
 			- crucial en contextos de lenguas minoritarias y minorizadas
-			- esta pregunta es fundamental para entender cuáles son los valores (cognitivos y emotivos) y capitales (económicos y simbólicos) que una familia asocia con als lenguas, sin
+			- esta pregunta es fundamental para entender cuáles son los valores (cognitivos y emotivos) y capitales (económicos y simbólicos) que una familia asocia con als lenguas, pero además permite que vinculemos estas asociaciones con contextos sociopolíticos y eonómicos de las distintas escalas 
  
