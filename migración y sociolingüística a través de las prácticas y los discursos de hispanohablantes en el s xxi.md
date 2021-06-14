@@ -984,9 +984,10 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 							- en el caso del colectivo latinoamericano no existe ninguna subvención por parte de los estados
 								- los proyectos para incentivar la LH como la Escuela Latinoamericana de Berna o grupos de juego como Rayo de Sol surgen de inciiativas colectivas y son soportados económicamente por los padres de familia
 								- implica que este esfuerzo personal se compense de alguna manera
-							- Etnografía de la Escuela Latinoamericana de Berna 
+							- Etnografía de la Escuela Latinoamericana de Berna: busca entender por qué los padres hacen este esfuerzo
 								- entrevistas con familia, profesorxs, autoridades
 								- participación en la junta de padres de familia
 								- visitas al café escolar
 								- actividades con los alumnos
 								- otros artefactos como la revista de la escuela y la página web
+								- testimonios de los niños. 
