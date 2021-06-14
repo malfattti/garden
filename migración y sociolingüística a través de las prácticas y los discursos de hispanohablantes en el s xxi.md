@@ -886,40 +886,37 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 	- Descapitalización humana: fuga de cerebros, personas que se desplazan espacialmente desde zonas periféricas a centrales. Esto implica para estas personas un desplazamiento vertical (sus recursos se desplazan hacia abajo o arriba desde el viejo al nuevo contexto)
 	- En la sociolingüística el concepto de escala nace en el marco de una sociolingüística cualitativa y crítica con la influencia de varios giros epistémicos
 		- el espacial (dimensión social)
-		- de la movilidad: personas y recursos simbólicos
+		- de la movilidad: no solo transnacionalismo sino movilidad de personas y recursos simbólicos
+
+	- Para qué sirve el concepto de escala en sociolingüística?
+		- para anlizar el valor o desvalorización de las lenguas en diferentes espacios sociales y geográficos, teniendo en cuenta que los espacios están jerarquizados social y espacialmente
+		- se le da un foco sociocultural o económico a las lenguas
+		- estos recursos permite mayor o menor movilidad, ya sea horizontal o vertical
+		- Los valores de las lenguas como recursos no son objetivos. Cambian cuando nos movemos de un lado al otro, del centro a periferia
+
+	 - Ejemplo de la carta citada por Blommaert: 
+		 - Indexicalidad: asociar rasgos lingüísticos a contexto social. 
+		 - La indexicalidad **depende de los valores** que tengo y cuál es mi centro. Si se juzgara la carta con valores de Tanzania, seguramente sería una carta excelente
+		 - Pero de acuerdo a las normas epistolares europeas y del inglés, no es del todo correcto
+		 - O sea que los valores sociales que yo le doy a las prácticas varían
+		 - dependiendo del centro, la indexicalidad varía
+		 - el inglés permite la movilidad espacial (horizontal --> scope), pero no le permitiría mucha movilidad vertical (--> calidad) fuera de África
+	- la movilidad de recursos lingüísticos de un contexto a otro puede producir desigualdades sociales
+	- un recurso puede ser más o menos "transportable" de un contexto a otro
+	- los recursos lingüísticos que funcionan como índices sociales (valor indexical) opera en diferentes niveles: fónico, prosódico, gramatical, léxico, elecciones lingüísticas, pragmáticas o nivel paralingüístico
+	- cada contexto tiene sus propios órdenes indéxicos que asignan significados sociales y valores sociocomunicativos e ideológicos a los recursos comunicativos. Estos valores se organizan de manera global o local.
+	- las escalas establecen una relación metafórica entre la jerarquización vertical de los procesos sociales, los procesos sociolingüísticos y su distribución en el espacio social
+	- **esta herramienta es útil para explicar procesos de (des)valorización lingüística en los desplazamientos translocales y transnacionales y de qué manera se construyen las relaciones centro-periferia**
+		- los acontecimientos y procesos sociales se mueven y se desarrollan en un continuo de escalas estratificadas 
+		- desde lo local a lo global
+		- como extremos y con varias escalas intermedias
+		- las relaciones de escala tienen fuentes diversas: estructuras y fuerzas políticas y económicas // otras más bien cultural-discursivas: clasificaciones y formas lingüísticas
+	- POLICENTRISMO:
+		- los valores indexicales varían. La jerarquización se produce de acuerdo al centro hacia el que se orienten los actores sociales
+		- estos centros no tienen el mismo rango ni impacto: en algunos es estrecho (por ejemplo, la familia y grupos de pares), en otros es amplio (las instituciones educativas, la iglesia, los movimientos políticos)
 
   
 
-
-  
-
-
-  
-
-
-  
-
-
-
-Relación entre jerarquías
-
-Giro de la movilidad: Salazar en año 2016: no solo hay transnacionalismo sino movilidad de personas, quienes consigo movilizan recursos
-
-Las lenguas se convierten en un recurso central de la movilidad de las personas. Por ejemplo: suizos tienen amplia movilidad espacial y vertical. Sin recursos uno se puede movilizar tal vez en el espacio pero no en la jerarquía
-
-Los valores de las lenguas como recursos no son objetivos. Cambian cuando nos movemos de un lado al otro, del centro a periferia
-
-  
-
-Indexicalidad: asociar rasgos lingüísticos a contexto social. La indexicalidad depende de los valores que tengo y cuál es mi centro. Si se juzgara la carta con valores de tanzania, seguramente sería una carta excelente
-
-Pero de acuerdo a las normas epistolares europeas y del inglés, no es del todo correcto
-
-O sea que los valores sociales que yo le doy a las prácticas varían
-
-  
-
-Variedad seseante en Madrid. Esto tb pasa en movimientos translocales
 
   
 
