@@ -925,6 +925,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 				- No solo  estoy dentro de prácticas policéntricas, sino de prácticas complejas
 				- Para cada práctica se cómo debo moverme, discursivamente hablando.
 
-  - Clase 20.04: 
+  - Clase 20.04: El español como lengua de
 	  - 
  
