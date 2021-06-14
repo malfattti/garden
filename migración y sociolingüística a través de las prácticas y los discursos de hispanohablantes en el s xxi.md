@@ -995,4 +995,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 									- valoración de lo cultural e identitario
 									- valoración de tener un idioma más, un título más, de cara al futuro, apertura a un mundo mayor, el español es mundial, enriquecimiento de un curriculum lingüístico, idea de otorgar un certificado DELE, idea de "producto"
 									- en el testimonio de un niño tb se ve esta valoración
-									- 
+								
