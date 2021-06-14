@@ -927,5 +927,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 
   - Clase 20.04: El español como lengua de herencia
 	  - El estudio de lenguas de herencia se inscribe dentro de las políticas lingüísticas familiares
-		  - estas PLF son tanto explícitas y 
+		  - estas PLF son planificaciones lingúísticas, tanto explícitas y abiertas como implícitas y encubiertas en torno a 
  
