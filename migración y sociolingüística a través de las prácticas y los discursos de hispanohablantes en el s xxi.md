@@ -937,5 +937,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			  - en ellas actúan fuerzas internas y externas que moldean la ideología de las elecciones, prácticas y gestión lingüísticas--> importantes para entender las relaciones e interacciones entre lengua y diversas escalas sociales
 				  - fuerzas internas: intimidad y afectos
 				  - externas: presiones y demandas sociales
+				  - debido a la globalización no solo las ideologías y políticas nacionales repercuten en las PLF, s
 		- 
  
