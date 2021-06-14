@@ -990,4 +990,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- visitas al café escolar
 								- actividades con los alumnos
 								- otros artefactos como la revista de la escuela y la página web
-								- testimonios de los niños. 
+								- testimonios de los niños: cuestión de identidad
+								- testimonios de los padres: va;oración de lo cultural e identitario
