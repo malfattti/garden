@@ -947,12 +947,12 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 			- dos valores esenciales que se le da a los recursos lingüísticos y que tienen origen en los discursos imperantes relacionados con las lenguas:
 				- de acuerdo con la ideología de los estados nacionales la lengua es un **emblema de identidad**, componente fuertemente emotivo
 				- en la era postindustrial del capitalismo tardío (globalización, neoliberalismo), las lenguas contribuyen como capital económico y social a la mayor flexibilidad de los individuos: acceso a mercados laborales y movilidad socioeconómica: **componente instrumental**, valor no identitario sino comercial.
-					- cuando las lenguas tienen valor instrumental, pueden llegar a comodificarse --> algo que no tiene valor comercial llega a tenerlo, sirven como commodities: se adquieren a través del dinero y luevo este saber se intercambia por dinero
+				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
+			- Las lenguas como destrezas comercializables:
+				- cuando las lenguas tienen valor instrumental, pueden llegar a comodificarse --> algo que no tiene valor comercial llega a tenerlo, sirven como commodities: se adquieren a través del dinero y luevo este saber se intercambia por dinero
 					- así las lenguas son entendidas como destrezas: se desplaza su significado de facultad natural y pasa a denotar una forma de conocimiento susceptible de aprenderse y de convertirse en una herramienta productiva en el ámbito laboral
 					- en su aspecto de "destreza", una lengua puede segmentarse, comprobarse y medirse por tests / certificarse por diplomas institucionales
 					- en la economía contemporánea, marcada por la terciarización, las lenguas son parte de los soft skills comunicativos y fundamentales para producir bienes materiales y servicios
 					- esta idea de que el multilingüismo ofrece más flexibilidad en el ambiente laboral socava la ideología monoglósica del estado nación + fetichiza el valor del aprendizaje y perfeccionamiento de lenguas "globales"
 						- fetichismo lingüístico: las lenguas se cosifican y adquieren valor social (cosmopolitanismo, modernidad, etc) que se consideran inherentes, naturalizados
-				- estos valores no son excluyentes, coexisten y se negocian dentro de las PLF
-				
  
