@@ -981,4 +981,4 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- siguen las directivas de la Comisión Europea y del Consejo Europeo que promocionan el plurilingüismo
 							- sin embargo, las escuelas de LH no reciben subvención estatal por parte de la CH ni son obligatorias
 							- existen escuelas subvencionadas por el país de origen como las españolas, protuguesas e italianas que ya habían abierto en los 60s (Gastarbeiter)
-							- en el caso del colectico latinoamericano no existe  
+							- en el caso del colectivo latinoamericano no existe ninguna subvención por parte de los estados
