@@ -931,5 +931,6 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 		  - el estudio de estas es reciente
 		  - empieza a finales de los 1990s al interior de la lingüística aplicada para estudiar la transmisión intergeneracional de lenguas en contextos familiares multilingües
 		  - input lingüístico y estrategias para criar a hijos bilingües
-		  - más prominentes desde s. XXI
+		  - más prominentes desde s. XXI: se evidencia el sesgo ideológico de los estudios de política lingüística (contextos decoloniales)
+		  - a partir de entonces las PLF se entienden como 
  
