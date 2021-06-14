@@ -993,5 +993,5 @@ El curso está dividido en dos partes: una primera parte dedicada a cuestiones c
 								- testimonios de los niños: cuestión de identidad
 								- testimonios de los padres: 
 									- valoración de lo cultural e identitario
-									- valoración de tener un idioma más, un título más, de cara al futuro, apertura a un mundo mayor, el español es mundial, enriquecimiento de un curriculum lingüístico
+									- valoración de tener un idioma más, un título más, de cara al futuro, apertura a un mundo mayor, el español es mundial, enriquecimiento de un curriculum lingüístico, idea de otorgar un certificado DELE, idea de "producto"
 									- 
