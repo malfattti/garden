@@ -669,16 +669,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Cuestiones normalmente planteadas no en caso de literatura de creación sino textos testimoniales. Pero se plantea a esta literatura como su tuviera esa imensión testimonial
 	-  En 1970s Ángel Rama (UY) observa la presencia en un texto narrativo dado de determinados elementos o formas discursivas propias del universo del referente. No específicamente andino sino otros mundos (afroamericano por ejemplo). Elementos como canciones o leyendas orales.
 	-  Para Rama la presencia de estos componentes nos informan del carácter **transculturado** de esa narración
-
-  
-
-Cornejo polar (Perú) profundiza esta reflexión diciendo que ni el autor ni el lector participan en el mundo del referente. El autor escribe la novela en castellano que no es la lengua del referente, en la que vive y se expresa el referente.
-
-Para Cornejo esta estructura revela la heterogeneidad , la contradicción de naciones que no pueden decirse a sí mismas por su condición desgarrada, heterogénea
-
-  
-
-Estas narrativas presentan reflexiones y ficciones que al intentar resolver el problema nacional lo repiten. Reproducen conflicto irresuelto. El indigenismo es revelador de esa condición. No es una condena de Cornejo Polar, es considerar que son reveladoras de esas condiciones.
+	-  Cornejo Polar (Perú) profundiza esta reflexión diciendo que **ni el autor ni el lector participan en el mundo del referente. El autor escribe la novela en castellano que no es la lengua del referente, en la que vive y se expresa el referente**.
+	-  Para Cornejo esta estructura revela la **heterogeneidad**, la contradicción de naciones que no pueden decirse a sí mismas por su condición desgarrada, heterogénea
+	-  Estas narrativas presentan reflexiones y ficciones que al intentar resolver el problema nacional lo repiten. Reproducen conflicto irresuelto. El indigenismo es revelador de esa condición. No es una condena de Cornejo Polar, es considerar que son reveladoras de esas condiciones.
 
   
 
