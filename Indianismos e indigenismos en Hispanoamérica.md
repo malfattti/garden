@@ -819,11 +819,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
 				- Tierras acaparadas por grandes empresas
 				- Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
-
-  
-  
-
-Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
+				- Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
 
 Se oponen a la modernidad creada por el capitalismo e incluso por el socialismo.
 
