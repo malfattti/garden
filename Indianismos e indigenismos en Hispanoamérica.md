@@ -736,15 +736,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Aquí se despierta en Ernesto una **conciencia política** en un orden muy amplio. Esto le ayuda a encontrar su camino. 
 			- Episodio muy significativo: **revuelta de las chicheras** para protestar y Ernesto se solidariza con su demanda. Cuestionan a los señores el aumento de precio de sal y la escasez. 
 			- Abancay es una etapa muy grande. Parece haberse invertido la simetría de lo bueno y lo malo (colegio, central versus la periferia: barrios donde hay alcohol, solaz, donde se genera "lo malo"). 
-			- Colegio: juego con trompo que va a ser la única manera de distensión que encuentra en ese lugar del mal. Le ayuda esto tb a liberar, construir su mente
-
-Gesta o peregrinaje?
-
-Última etapa: camino que lo integra con sierras, ríos y el pasado. Paradójicamente es el futuro que él elige persuadido de estar así mucho más cerca del bien cuando espiritualmente 
-
-No es una vida materialmente atractiva (gran miseria)
-
-Al adherirse espiritualmente al universo andino el quiere seguir el camino de la rebelión de las chicheras - donde vale la pena luchar
+			- **Colegio: juego con trompo**que va a ser la única manera de distensión que encuentra en ese lugar del mal. Le ayuda esto tb a liberar, construir su mente
+			- Gesta o peregrinaje?
+		- **Última etapa**: camino que lo integra con **sierras, ríos y el pasado**. Paradójicamente es el futuro que él elige persuadido de estar así mucho más cerca del bien espiritualmente 
+		- No es una vida materialmente atractiva (gran miseria)
+		- Al adherirse espiritualmente al universo andino el quiere seguir el camino de la rebelión de las chicheras - donde vale la pena luchar
 
   
 
