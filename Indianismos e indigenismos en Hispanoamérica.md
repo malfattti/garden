@@ -758,12 +758,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- 1952: nueva traducción de una pieza llamada *Ollantay* (drama de un naturalista y explorador suizo que circuló de forma oral). Se publica por primera vez en 1857 en quechua y en alemán (!) y en castellano se publica en 1868
 			- Disyuntiva: no es que esté en contra de la traducción, pero lo lleva a pensar que todo esto tiene un límite. Forjar un modo de expresión que de alguna manera forme traducción de un universo mental, memorial, mítico, etc
 			- Hay muchos textos de Arguedas que pueden entenderse en relación con reflexiones sobre la lengua y las traducciones.
-
-  
-
-Tb: texto de un discurso de arguedas cuando recibe el premio inca Garcilaso de la Vega en 1968. Arguedas muere un mes después de recibir el premio. "No soy un aculturado" : yo no soy un aculturado, yo soy un peruano que orgullosamente como un demonio feliz..."”
-
-Último libro donde hay fragmentos de diario íntimo de los últimos meses de Arguedas. Depresión y suicidio. Después de haber escrito las últimas líneas de ese libro se suicida en un aula de universidad de Lima donde él era profesor de quechua.
+			- Tb: texto de un discurso de Arguedas cuando recibe el premio Inca Garcilaso de la Vega en 1968. Arguedas muere un mes después de recibir el premio. "No soy un aculturado" : yo no soy un aculturado, yo soy un peruano que orgullosamente como un demonio feliz...”
+			- Último libro donde hay fragmentos de diario íntimo de los últimos meses de Arguedas. Depresión y suicidio. Después de haber escrito las últimas líneas de ese libro se suicida en un aula de universidad de Lima donde él era profesor de quechua.
 
 Polémica con Cortázar
 
