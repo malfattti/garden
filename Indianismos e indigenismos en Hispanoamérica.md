@@ -870,15 +870,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- El nombre de Burgos aparece casi escondido y la obra aparece como un contradocumento oficial. Límites de la documentación?
 	- Literatura? Documento?
 	- Muy raramente tenemos en estos textos un testimonio de una persona que es la que lo escribe, la mayoría de las veces se trata de un **testimonio con un mediador** 
-	- Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denomianciones remiten más o menos a la misma etapa.
-
-  
-
-2 etapas:
-
-1.  Desde los años iniciales del conflicto (o sea contemporáneas al conflicto armado interno) 1980-2000
-    
-2.  2003 (cierre del conflicto)- nuestros días: auténtica inflación de lit peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
+- Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denominaciones remiten más o menos a la misma etapa.
+	- 2 etapas:
+		-  Desde los años iniciales del conflicto (o sea contemporáneas al conflicto armado interno) 1980-2000
+		-  2003 (cierre del conflicto)- nuestros días: auténtica inflación de lit peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
     
 
   
