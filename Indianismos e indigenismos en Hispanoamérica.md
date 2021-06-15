@@ -708,10 +708,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- exploración del **universo mítico** del habitante andino
 			- Intensificación del **lirismo**, que implica además mayor subjetivismo en la narrativa
 			- **Ampliación, complejización y perfeccionamiento** del arsenal **técnico de la narrativa**, mediante proceso de **experimentación que supera **el indigenismo ortodoxo
-
-\-ampliación del problema/temas indígenas. Ya no es la visión de un pto de vista racial, zonal, etc, sino que hay mayor complejidad. No se restringe a una sola categoría en las que suele encasillarse el referente indígena
-
-Crecimiento del espacio de la representación narrativa en consonancia con transformaciones reales/concretas. Ya no es solo el gamonal. El indígena aparece cada vez menos independiente de lo que sucede en la sociedad nacional como conjunto.
+			- **ampliación del problema/temas indígenas**. Ya no es la visión de un pto de vista racial, zonal, etc, sino que hay **mayor complejidad**. No se restringe a una sola categoría en las que suele encasillarse el referente indígena
+			- **Crecimiento del espacio** de la representación narrativa **en consonancia con transformaciones reales/concretas**. Ya no es solo el gamonal. El indígena aparece cada vez menos independiente de lo que sucede en la sociedad nacional como conjunto.
 
   
 
