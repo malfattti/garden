@@ -851,18 +851,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Modo de registrar las vivencias desde dentro de comunidades secularmente excluidas
 	- **Domitila Barrios de Chungara: *Si me permiten hablar*…  1977**
 		- Trabajadora de las minas de estaño bolivianas.
-
-  
-
-Cómo adaptar el habla a la novela, trabajo de edición: quitar repeticiones, organizar el discurso, etc
-
-  
-
-Miguel barnet ha reflexionado mucho sobre la necesaria organización del material que hace el mediador. De voz indígena? Gran parte de lo testimonial pertenece a la voz del hablante pero depsués están las reorganizaciones a las que somete  a su material
-
-  
-
-Moema Bietzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México.
+		- Cómo adaptar el habla a la novela, trabajo de edición: quitar repeticiones, organizar el discurso, etc
+	- Miguel Barnet ha reflexionado mucho sobre la**necesaria organización del material que hace el mediador**. De voz indígena? Gran parte de lo testimonial pertenece a la voz del hablante pero después están las reorganizaciones a las que se somete al material
+	- Moema Bietzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México.
 
 Reflexiones de genero y de clase. Iluminar parcela de proletariado minero que sobrevive en bolivia en pésimas condiciones.
 
