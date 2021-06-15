@@ -792,11 +792,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			-  **Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra**
 			-  Arguedas justo está escribiendo su novela mitad ficción mitad autobiográfica 
 			-  *Utopía arcaica* de Vargas Llosa
-    Vargas Llosa escribió una tesis sobre 100 años de soledad. 
-    
-2.  Utopía arcaica es una lectura muy interesante para complementar a Arguedas. Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-indigenismo
-    
-3.  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina fue una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
+				-  tesis sobre 100 años de soledad. 
+				-  *Utopía arcaica* es una lectura muy interesante para complementar a Arguedas. 
+				-  Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-**indigenismo**
+				-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina fue una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
     
 4.  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
     
