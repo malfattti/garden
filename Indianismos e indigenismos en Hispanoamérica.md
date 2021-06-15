@@ -875,10 +875,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		-  Desde los años iniciales del conflicto (o sea contemporáneas al conflicto armado interno) 1980-2000
 		-  2003 (cierre del conflicto)- nuestros días: auténtica inflación de literatura peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
 	  - Marc Cox: bibliografía peruana anotada…: se trata de un recuento bibliográfico de más de 30 pp. con títulos. Entre 7 y 8 títulos por página de literatura peruana sobre la guerra interna
-
-  
-
-Concientización de la clase media costeña limeña y todo el resto del Perú rural, de la sierra, y esa oposición. "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia crreación.
+	  - Concientización de la clase media costeña limeña y todo el resto del Perú rural, de la sierra, y esa oposición. 
+	  - "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia crreación.
 
 Escritores más alejados de estas realidades tb tomarán estos temas; realidad ineludible
 
