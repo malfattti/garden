@@ -808,13 +808,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-   Considera todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas
 				-   Vargas Llosa: indígena ha abrazado la modernidad ??
 				-   Sin embargo en las novela que leímos se muestra la falta de agencia de los indígenas. Es cínico? Sí, pero no deja de ser interesante.
-    Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas. 
-    
-
-5.  Artículo Ën defensa del indigenismo
-    
-
-Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
+				-   Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas.
+				-   Artículo "En defensa del indigenismo"
+				-   Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
 
   
 
