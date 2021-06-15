@@ -936,15 +936,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
 	- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de ***La divina comedia*** (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo*** (1955 - deambulación de Juan Preciado ocurre en un mundo de muertos)
 	- Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
-
--   Dos líneas de apreciación de las narrativas más recientes
-    
--   Literatura indigena (muchas, pero no todas, de referente indigena)
-    
-
--   Ante una noción muy amplia y cada vez más polisémica
-    
--   Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
+	- Dos líneas de apreciación de las narrativas más recientes
+	- Literatura indigena (muchas, pero no todas, de referente indigena)
+	- Ante una noción muy amplia y cada vez más polisémica
+	- Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
     
 -   Sobre, con y DE los indígenas (a veces llamada tb nativa)
     
