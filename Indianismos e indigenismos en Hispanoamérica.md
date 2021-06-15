@@ -763,22 +763,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 
 - **Clase 11.05.2021**
 	- 71: Zorro de arriba y zorro de abajo. Trozos de novela de ficción
-
-Autor peruano neoindigenista (de acuerdo con escajadillo y otros) - momento de inflexión y abandono 
-
-Scorza (Perú 1928). Poeta.
-
-  
-
-1970: obra amplia que queda algo marginalizada porque queda inacabada
-
-Muere en accidente de avión en Madrid con otros famosos intelectuales que acudieron a España para participar un congreso
-
-En este vuelo mueren tb Angel Rama y otro intelectual 
-
-  
-
-La forma escritural de Scorza colinda con el realismo mágico
+	- Scorza (Perú 1928). Poeta.
+		- 1970: obra amplia que queda algo marginalizada porque queda inacabada
+		- Muere en accidente de avión en Madrid con otros famosos intelectuales que acudieron a España para participar un congreso
+		- En este vuelo mueren tb Angel Rama y otro intelectual 
+		- La forma escritural de Scorza colinda con el realismo mágico
 
   
 
