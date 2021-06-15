@@ -645,7 +645,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
 	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de Arguedas no resuelve que sigue siendo literatura de origen no indígena
 	- Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
-- Clase 27.04: 
+- **Clase 27.04**: 
 	- Indigenismo ortodoxo: documento con algunos propósitos que ayudan a clarificar lo que podría parecer una contradicción. Explicación de Escajadillo de indigenismo
 	- El indigenismo político arranca sobre todo a ppios de s. XX (por eso hablamos de protoindigenismo con estas novelas)
 	- **Escajadillo** busca contesta el problema de calificación de *Aves sin nido*
