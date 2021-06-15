@@ -741,26 +741,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- **Última etapa**: camino que lo integra con **sierras, ríos y el pasado**. Paradójicamente es el futuro que él elige persuadido de estar así mucho más cerca del bien espiritualmente 
 		- No es una vida materialmente atractiva (gran miseria)
 		- Al adherirse espiritualmente al universo andino el quiere seguir el camino de la rebelión de las chicheras - donde vale la pena luchar
-
-  
-
-Fidelidad y adecuación lingüística que se manifiesta en Arguedas
-
-Arguedas asume como gran responsabilidad este gesto
-
-Se han estudiado mucho los mecanismos lingúísticos que usa para adecuar la lengua a su cosmovisión heterogénea. Transformación / quechuización del castellano (Arguedas)
-
-  
-
-Mestizaje / diglosia (Linar)
-
-  
-
-Transculturación lingüística (rama)
-
-  
-
-Quechuización del castellano: varios recursos entre ellos variación del orden gramatical (abudante uso de la asíndeton: omisión de nexos) y repeticiones. De la estructura gramatical del quechua proceden estos recursos. Conflicto lingüístico que planteaba su elaboración artística. 1939: "entre el quechua y el castellano, la angustia del mestizo". Esta dificultad la observa arguedas en Vallejo y en el cronista indígena De Ayala. Esta búsqueda formal deviene o está en relación con la no adecuación del castellano para narrar el mundo andino, cuya lengua genuina es el quechua. Narrar en quechua es algo que hay practicado Arguedas, escribir en quechua (lengua minorizada en contexto global) hubiera sido lo ideal, pero esto limita la difusión de la obra y la posibilidad de dar a conocer un universo que en ese momento hubiera quedado silenciado.
+	- Fidelidad y adecuación lingüística que se manifiesta en Arguedas
+	- Arguedas asume como gran responsabilidad este gesto
+	- Se han estudiado mucho los mecanismos lingúísticos que usa para adecuar la lengua a su cosmovisión heterogénea. 
+		- Transformación / quechuización del castellano (Arguedas)
+		- Mestizaje / diglosia (Linar)
+		- Transculturación lingüística (rama)
+	- **Quechuización del castellano**: varios recursos entre ellos variación del orden gramatical (abudante uso de la asíndeton: omisión de nexos) y repeticiones. De la estructura gramatical del quechua proceden estos recursos. Conflicto lingüístico que planteaba su elaboración artística. 1939: "entre el quechua y el castellano, la angustia del mestizo". Esta dificultad la observa arguedas en Vallejo y en el cronista indígena De Ayala. Esta búsqueda formal deviene o está en relación con la no adecuación del castellano para narrar el mundo andino, cuya lengua genuina es el quechua. Narrar en quechua es algo que hay practicado Arguedas, escribir en quechua (lengua minorizada en contexto global) hubiera sido lo ideal, pero esto limita la difusión de la obra y la posibilidad de dar a conocer un universo que en ese momento hubiera quedado silenciado.
 
   
 
