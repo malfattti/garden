@@ -854,24 +854,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Cómo adaptar el habla a la novela, trabajo de edición: quitar repeticiones, organizar el discurso, etc
 		- Miguel Barnet ha reflexionado mucho sobre la**necesaria organización del material que hace el mediador**. De voz indígena? Gran parte de lo testimonial pertenece a la voz del hablante pero después están las reorganizaciones a las que se somete al material
 		- Moema Viezzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México
-		- Reflexiones de género y de clase. Iluminar parcela de proletariado minero que sobrevive en Bolivia en pésimas condiciones.
+		- **Reflexiones de género y de clase. Iluminar parcela de proletariado minero que sobrevive en Bolivia en pésimas condiciones**.
 		- Palabra: fuente de sabiduría que se transforma
 		- Voz de la mujer: libertad condicionada por el patriarcado. Alcance de estos dos objetivos de inscribir memoria de un hablante indígena que ha conocido una vivencia particular y por otro lado, generar una visión desde una perspectiva feminista
-
-  
-  
-
-Segundo testimonio: Me llamo Rigoberta Menchú (1983). Doble autoría: Elizabeth Burgos, su nombre apenas aparecía
-
-Recibe el premio nobel en 1995 \*500 años del descubrimiento de Américo. Intereses mezclados.
-
-  
-
-Sobreviviente de la campaña de exterminio de la población indígena en Guatemala y exiloada en México
-
-  
-
-Su exilio a México tiene como contexto el conflicto armado de Guatemala que enfrentó el ejército contra los movimientos armados de liberación 
+	- **Segundo testimonio: Me llamo Rigoberta Menchú (1983). Doble autoría: Elizabeth Burgos, su nombre apenas aparecía**
+	- Recibe el premio nobel en 1995, a 500 años del descubrimiento de América. Intereses mezclados.
+	- Sobreviviente de la campaña de exterminio de la población indígena en Guatemala y exiliada en México
+	- Su exilio a México tiene como contexto el conflicto armado de Guatemala que enfrentó el ejército contra los movimientos armados de liberación 
 
   
 
