@@ -879,19 +879,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	  - "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia creación.
 		  - **Escritores más alejados de estas realidades tb tomarán estos temas; realidad ineludible**
 	- La época conocida oficialmente (por el estado peruano) como "conflicto armado interno en el perú", no oficialmente como "terrorismo XXX"
-	- Sendero Luminoso: grupo fundado en 1960 por Abimael guzmán (camarada Gonzalo): por el sendero luminoso de mari\\ategui
-
-  
-
-El objetivo de este grupo fue sustituir (proyecto revolucionario) instituciones peruanas burguesas por régimen campesino comunista sui generis
-
-  
-
-1980: incendian urnas electorales en un pueblo del depto de Ayacucho (elecciones generales)
-
-El gobierno declara estado de emergencia y pone el depto bajo control militar
-
-Aparici'ón de otro movimiento guerrillero, el MRTA: movimiento revolucionario tupac amaru
+	- Sendero Luminoso: grupo fundado en 1960 por Abimael Guzmán (camarada Gonzalo): por el sendero luminoso de Mariátegui
+		- El objetivo de este grupo fue sustituir (proyecto revolucionario) instituciones peruanas burguesas por régimen campesino comunista sui generis
+		- 1980: incendian urnas electorales en un pueblo del depto de Ayacucho (elecciones generales)
+		- El gobierno declara estado de emergencia y pone el depto bajo control militar
+		- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac maru
 
   
 
