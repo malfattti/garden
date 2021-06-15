@@ -866,25 +866,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- REMH: informa de la recuperación de la memoria histórica. Más de 55000 violaciones durante el conflicto. Quien lo entregó fue desaparecido. Violaciones atribuibles al ejército y solo una porción la guerrilla.
 	- Figura que encarna las mujeres, el movimiento de liberación e independencia, y..?
 	- Esta fama le vale la entrega del Premio Nobel de la Paz
-	- Elizabeth Burgos: grabadora, redactora, editora de esta llamada biografía. Era venezolana, atropóloga y escritora, casada con el abogado y filosofo revolcuonario francés regis debray (?) seguidor del che y los sandinistas en nicaragua
-
-  
-
-El nombre de Burgos aparece casi escondido y la obra aparece como un contradocumento oficial. Límites de la documentación?
-
-  
-  
-
-Literatura? Documento?
-
-  
-
-Muy raramente tenemos en estos textos un testimonio de una persona que es la que lo escribe, la mayoría de las veces se trata de un testimonio con un mediador 
-
-  
-  
-
-Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denomianciones remiten más o menos a la misma etapa.
+	- Elizabeth Burgos: grabadora, redactora, editora de esta llamada biografía. Era venezolana, atropóloga y escritora, casada con el abogado y filosofo revolcionario francés Régis Debray, seguidor del che y los sandinistas en Nicaragua
+	- El nombre de Burgos aparece casi escondido y la obra aparece como un contradocumento oficial. Límites de la documentación?
+	- Literatura? Documento?
+	- Muy raramente tenemos en estos textos un testimonio de una persona que es la que lo escribe, la mayoría de las veces se trata de un **testimonio con un mediador** 
+	- Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denomianciones remiten más o menos a la misma etapa.
 
   
 
