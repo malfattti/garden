@@ -949,13 +949,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Auténtica riqueza, diversidad y pujanza creativa del mov. Literario indígena: finales del s. XX y ppios del XXI
 		- Proporción de la pujanza: gran trabajo de edición (promoción, venta, publicidad en torno a estas creaciones literarias), libros bilingües o no, labor de recopilación en antologías. Movimiento interesante en lo que supone rescatar, visibilizar, en una cultura tan dominante y diferente. Es un gran trabajo. Recopilación de antologías, trabajos historiográficos, estudios críticos, etc.
 		- Institucionalización de las literaturas indígenas.
-		- En 1993 se funda la Asociación civil de escritores indígenas de méxico. Se representan 22 lenguas. Nueva historia que comienza
+		- En 1993 se funda la Asociación civil de escritores indígenas de México. Se representan 22 lenguas. Nueva historia que comienza
 		- Desde 2008 en Ecuador shuar y quechua son lenguas oficiales en Ecuador junto con el español, inscritas como oficiales en la constitución
-		- En 2017 en Ecuador se organizaó el primer encuentro de escritores de las nacionalidades y pueblos de Ecuador
-    
--   Un escritor que acaba de ganar en 2020 un premio muy prestigioso con connotaciones políticas: Elicura Chihuailaf. Es un poeta mapuche que escribe en mapudungun y ha ganado el premio nacional de literatura. Traductor del castellano al mapudungun
-    
--   En Chile hay hoy por hoy un millón de mapuches
+			- En 2017 en Ecuador se organizaó el primer encuentro de escritores de las nacionalidades y pueblos de Ecuador
+		- Un escritor que acaba de ganar en 2020 un premio muy prestigioso con connotaciones políticas: Elicura Chihuailaf, de Chile. 
+			- Es un poeta mapuche que escribe en mapudungun y ha ganado el premio nacional de literatura. Traductor del castellano al mapudungunEn Chile hay hoy por hoy un millón de mapuches
     
 -   Poesía cultural u oraliteratura. Una de sus propuestas centrales es la oraliteratura como actividad propia de las culturas indígenas en Latinoamérica
     
