@@ -821,8 +821,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
 				- Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
 				- Se oponen a la modernidad creada por el capitalismo e incluso por el socialismo.
-
-Rechazo a occidente que le da un signo particular al indianismo actual, a diferencia del indigenismo en versión revolucionaria de mariátegui. Estamos realizando las promesas de Mariátegui? Pero no, porque M. no tenía esta postura anti occidental. En su discurso indigenista, revolucionario, se valoran las adquisiciones provenientes de occidente en especial de la modernidad en los campos de las libertades y derechos ciudadanos (ciencia, tecnología, momento de esplendor y carrera hacia la modernidad).
+				- Rechazo a occidente que le da un signo particular al indianismo actual, a diferencia del indigenismo en versión revolucionaria de Mariátegui. 
+					- Estamos realizando las promesas de Mariátegui? Pero no, porque Mariátegui. no tenía esta postura anti occidental. 
+					- En su discurso indigenista, revolucionario, se valoran las adquisiciones provenientes de occidente en especial de la modernidad en los campos de las libertades y derechos ciudadanos (ciencia, tecnología, momento de esplendor y carrera hacia la modernidad).
 
 Estos movimientos plantean un rechazo a los procesos de globalización porque estos no admiten ni se articulan con formas de vida comunitaria y apuntan a la desarticulación de grandes valores que sustentan la vida comunitaria (solidaridad, reciprocidad)
 
