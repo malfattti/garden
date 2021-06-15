@@ -939,12 +939,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Dos líneas de apreciación de las narrativas más recientes
 		- Literatura indigena (muchas, pero no todas, de referente indigena)
 		- Ante una noción muy amplia y cada vez más polisémica
-		- Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
-		- Sobre, con y DE los indígenas (a veces llamada tb nativa)
-    
--   A la lit indígena se refería Mariátegui 
-    
--   Ha habido producciones no en español, como encontramos en la obra de Arguedas. No hablamos de traducciones sino de escritos originalmente en quechua
+		- Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. 
+			- Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
+			- Sobre, con y DE los indígenas (a veces llamada tb nativa)
+		- A la lit indígena se refería Mariátegui
+		- Ha habido producciones no en español, como encontramos en la obra de Arguedas. No hablamos de traducciones sino de escritos originalmente en quechua
     
 -   Nada impide que la lit indígena no sea autorreferencial
     
