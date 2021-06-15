@@ -984,18 +984,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   **Descubre que el punto de vista de Icaza es rebatible. Discusión sobre los puntos que habíamos subrayado. Mirada ajena sobre un mundo que no deja de representarse en su otredad**
 	-   Discusiones con María Clara Pereira, tb ecuatoriana, que se acerca a Chiliquinga
 	-   Pereira es el apellido del dueño de la hacienda que rige el destino de los huasipungueros
-	-   Intercambio con joven muchacha, le da consejos 
-  Critica a la novela de Icaza: muchos paréntesis que interrumpen el fluir de la novela y que fue muy criticado. Ella le dice que debe prestarle atención a esos incisos
-    
--   Releemos Huasipungo tal como la lee y la entiende Chiliquinga músico. Leer las dos en espejo es muy interesante
-    
--   Él descubre que el personaje es su tocayo, no lo interpreta más allá
-    
--   Empieza a soñar y lo visita Icaza y le da consejos. Tb lo visita el personaje. No es lit. fantástica sino que refleja su obsesión / idea de antepasados
-    
--   Realiza lectura correctiva de la novela cuando prepara los resúmenes. Y en sus discusiones con María Clara se presenta una cuestión fundamental que es qué tiene que decir un indígena moderno frente a un libro con perspectiva mestiza
-    
--   El personaje de Icaza (chiliquinga) le habla al Chiliquinga de Arcos Cabrera
+	-   Intercambio con joven muchacha, le da consejos
+	-   **Critica a la novela de Icaza: muchos paréntesis que interrumpen el fluir de la novela y que fue muy criticado. Ella le dice que debe prestarle atención a esos incisos**
+	-   Releemos Huasipungo tal como la lee y la entiende Chiliquinga músico. Leer las dos en espejo es muy interesante
+	-   Él descubre que el personaje es su tocayo, no lo interpreta más allá
+	-   Empieza a soñar y lo visita Icaza y le da consejos. Tb lo visita el personaje. No es lit. fantástica sino que refleja su obsesión / idea de antepasados
+	-   Realiza lectura correctiva de la novela cuando prepara los resúmenes. Y en sus discusiones con María Clara se presenta una cuestión fundamental que es **qué tiene que decir un indígena moderno frente a un libro con perspectiva mestiza**
+	-   El personaje de Icaza (chiliquinga) le habla al Chiliquinga de Arcos Cabrera
     
 -   Diálogos metaficcionales entre María Clara y Chiliquinga del 2000. Al comienzo ella le dice que podría ser el suyo el primer artículo sobre Icaza y sobre esta novela escrito por un quichuahablante. Cómo los describió a "ustedes"?
     
