@@ -996,14 +996,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   Tipografías con las que juega Arcos Cabrera
 	-    Artículo de Arcos Cabrera: 
 	-    Reto inusual
-    
--   Leer a Leonardo Valencia (ensayista muy brillante y novelista, es ecuatoriano y trabajó en la u. De Barcelona)
-    
--   Neoindigenismo o apropiación cultural?
-    
--   Reemprende un ejercicio desde el mismo posicionamiento / relacionado con una etnia. Posibilidad de escribir sobre los personajes que nos plazcan mas que nuestra propia identidad.
-    
--   Lucha interior de un joven que descubre a través de la literatura lo que otros han dicho de sus antepasados. Lleno de contradicciones. Arcos Cabrera pone el dedo sobre un debate que cualquier escritor o lector podemos comentar. La autenticidad de una experiencia ficcional pero que remite a referente real? Cómo me sitúo y qué es para mí una auténtica novela indigenista/neoindigenista? Tiene o no que ver? Arguedas se posiciona de forma muy crítica. 
+	-    Leer a Leonardo Valencia (ensayista muy brillante y novelista, es ecuatoriano y trabajó en la u. De Barcelona)
+	-    Neoindigenismo o apropiación cultural?
+	-    Reemprende un ejercicio desde el mismo posicionamiento / relacionado con una etnia. Posibilidad de escribir sobre los personajes que nos plazcan mas que nuestra propia identidad.
+	-    Lucha interior de un joven que descubre a través de la literatura lo que otros han dicho de sus antepasados. Lleno de contradicciones. Arcos Cabrera pone el dedo sobre un debate que cualquier escritor o lector podemos comentar. La autenticidad de una experiencia ficcional pero que remite a referente real? Cómo me sitúo y qué es para mí una auténtica novela indigenista/neoindigenista? Tiene o no que ver? Arguedas se posiciona de forma muy crítica. 
     
 -   Literatura de referente indigena versus indigena (etno poesía, posicionamiento uatoafirmación de sí desde parámetros delimitativos, estamos ahí leyendo y ibservaod ests debates entre literarios y con dimensión de discusión identitaria-ética)
     
