@@ -903,19 +903,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
 		- La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
 		- Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
-		- Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia 
-    
--   Mundo cultural que se ve aún más degradado por estas circunstancias.
-    
--   Impacto muy directo, cifras oficiales de este conflicto.
-    
--   Rosa cuchillo articula diversas perspectivas. Es una novela polifónica.
-    
--   Estas perspectivas se articulan de manera muy fluida
-    
--   No hay voluntad de darle mayor peso a una perspectiva que a otra
-    
--   La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela
+		- **Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia** 
+		- Mundo cultural que se ve aún más degradado por estas circunstancias.
+		- Impacto muy directo, cifras oficiales de este conflicto.
+		- *Rosa cuchillo* articula diversas perspectivas. Es una novela polifónica.
+		- Estas perspectivas se articulan de manera muy fluida
+		- No hay voluntad de darle mayor peso a una perspectiva que a otra
+		- **La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela**
     
 -   Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
     
