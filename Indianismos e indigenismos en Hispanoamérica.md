@@ -922,13 +922,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Pachacutec: emperador del s. XV llamado "el reformador", el que cambia el rumbo de la tierra
 					- La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxista europeo
 					- Liborio descubre que al final ese marxismo es un concepto colonial.
-    
--   Entonces, liberación que consiste en cambiar por una vía que es propia
-    
--   Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
-    
--   Reflexión contemporánea sobre el carácter discursivo de la historia. No son los hechos históricos, sino discursos sobre los mismos. No existe una versión única. Si queremos acercarnos más bien cifrar estos matices. Pluriperspectivismo o estructura plurifónica
-    
+					- Entonces, liberación que consiste en cambiar por una vía que es propia
+			- Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
+			- Reflexión contemporánea sobre el carácter discursivo de la historia. **No son los hechos históricos, sino discursos sobre los mismos**. No existe una versión única. Si queremos acercarnos más bien **cifrar estos matices**. 
+				- **POR ESO... Pluriperspectivismo o estructura plurifónica**
+ 
 -   Diferentes o varias versionas de la violencia representan resistencias múltiples, cada cual desde su posición en la estructura social: el militar, el senderista, la mujer, el campesino, etc
     
 -   Colchado intenta así no establecer jerarquías entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
