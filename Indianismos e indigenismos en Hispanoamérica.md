@@ -976,14 +976,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- *María* de Jorge Isaacs: reescritura desde el pto de vista de la esclava
 - **Clase: 01.06.2021**
 	-   Arcos Cabrera: Memorias de A. Chiliquinga. Una novela bastante amena
-    
-
--   Es el protagonista, indígena de Otavalo, la sierra norte de Ecuador, que en verano del 2000 asiste en la u. De Columbia a un curso doctoral sobre literaturas andinas 
-    
--   Ensayo que nos va a poner en una carpeta tiene muchos detalles sobre esta novela. Artículo de Alicia Ortega Caicedo:
-    
-
--   Dirigente de la CONAIE (agrupación existente que se sublevó terminando la presidencia del 2000 - circunstancias económicas desastrosas, esta agrupación de indígenas van a levantarse e incluso ocupar la corte suprema de justifica y entraron en el palacio presidencia, el presidente es depuesto)
+	-   Es el protagonista, indígena de Otavalo, la sierra norte de Ecuador, que en verano del 2000 asiste en la Universidad de Columbia a un curso doctoral sobre literaturas andinas
+	-   Ensayo que nos va a poner en una carpeta tiene muchos detalles sobre esta novela. Artículo de Alicia Ortega Caicedo
+	-   Dirigente de la CONAIE (agrupación existente que se sublevó terminando la presidencia del 2000 - circunstancias económicas desastrosas, esta agrupación de indígenas van a levantarse e incluso ocupar la corte suprema de justicia y entraron en el palacio presidencia, el presidente es depuesto)
     
 -   A través de esta agrupación Andrés viaja a tmar este curso y tiene que preparar una conferencia sobre Huasipungo. 
     
