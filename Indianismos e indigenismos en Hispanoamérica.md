@@ -730,10 +730,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Identidad de Ernesto itinerante/desarraigo. Geografía a la vez que experiencia vital
 		- **Tercer momento**: **nueve de once capítulos se dedican a describir las vivencias de Ernesto como interno en colegio religioso de Abancay**. Decisión identitaria, identificaciones.
 			- Para el, un lugar de codicia, no se cumplen los valores cristianos de respeto mutuo. Personaje de una muchacha de quien abusan los compañeros de colegio.
-			- El colegio es un lugar en oposición con salidas de Ernesto. **Contrapunto moral: chicherías**, paradójico porque el se va a u lugar my connotado (de encuentro, interacción, convergencia de muchos habitantes, donde se representa mejor hibridación social y cultural. 
-			- Lugar donde vemos **interactuar grupos socioétnicos** (indiios, cholos, mestizos, forasteros, hombres y mujeres). Huanupata se llama este barrio. Aquí se despierta en Ernesto una conciencia político en un orden muy amplio. Esto le ayuda a encontrar su camino. Episodio muy significativo: revuelta de las chicheras para protestar y Ernesto se solidariza con su demanda. Cuestionan a los señores el aumento de precio de sal y la escasez. Abancay es una etapa muy grande. Parece haberse invertido la simetría de lo bueno y lo malo (colegio, central versus la periferia: barrios donde hay alcohol, solaz, donde se genera "lo malo"). 
-
-Colegio: juego con trompo que va a ser la única manera de distensión que encuentra en ese lugar del mal. Le ayuda esto tb a liberar, construir su mente
+			- El colegio es un lugar en oposición con salidas de Ernesto. *
+			- **Contrapunto moral: chicherías**, paradójico porque el se va a u lugar my connotado (de encuentro, interacción, convergencia de muchos habitantes, donde se representa mejor hibridación social y cultural. 
+			- Lugar donde vemos **interactuar grupos socioétnicos** (indiios, cholos, mestizos, forasteros, hombres y mujeres). Huanupata se llama este barrio. 
+			- Aquí se despierta en Ernesto una **conciencia política** en un orden muy amplio. Esto le ayuda a encontrar su camino. 
+			- Episodio muy significativo: **revuelta de las chicheras** para protestar y Ernesto se solidariza con su demanda. Cuestionan a los señores el aumento de precio de sal y la escasez. 
+			- Abancay es una etapa muy grande. Parece haberse invertido la simetría de lo bueno y lo malo (colegio, central versus la periferia: barrios donde hay alcohol, solaz, donde se genera "lo malo"). 
+			- Colegio: juego con trompo que va a ser la única manera de distensión que encuentra en ese lugar del mal. Le ayuda esto tb a liberar, construir su mente
 
 Gesta o peregrinaje?
 
