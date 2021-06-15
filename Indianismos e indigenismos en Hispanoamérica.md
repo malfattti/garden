@@ -930,11 +930,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   Colchado intenta así **no establecer jerarquías** entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
 		-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
 	- **Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltiple), a la que corresponde la realidad del Perú contemporáneo**
-	- Rechazar las lógicas verticales y las autoritarias, tanto de sendero luminoso como de los militares. Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. Mediación entre un punto de vista y el otro lo hace el lector.
-    
--   Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
-    
--   Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de la divina comedia (especialmente por el infierno - novela de la violencia) + Juan Rulfo: Pedro Páramo (1955 - deambulación de Juan preciado ocurre en un mundo de muertos)
+	- Rechazar las lógicas verticales y las autoritarias, tanto de Sendero luminoso como de los militares. 
+		- Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. 
+		- Mediación entre un punto de vista y el otro lo hace el lector.
+	- Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
+	- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de la Divina comedia (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo** (1955 - deambulación de Juan preciado ocurre en un mundo de muertos)
     
 
   
