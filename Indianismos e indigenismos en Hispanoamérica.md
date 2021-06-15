@@ -676,22 +676,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Elabora concepto referido a la producción del 2: dice que es una **reversión ejecutada por las clases medias y dominantes**
 		- Reversión: fenómeno por el cual un conjunto de miembros del sector más moderno de una cultura intenta apartarse del avance de la modernización inter- o transnacional **trasladando el foco de interés a la parte más tradicional de la cultura**.
 		- Sesgo local a la modernidad que llega. Disuelve las especificidades
-
-REVERSIÓN: Presentación criolla de raíces ajenas (autóctonas) como si fueran propias. No es un retorno a lo andino original. Los creadores del indigenismo 2 no estaban volviendo a sus raíces sino presentando raíces en buena medida ajenas como si fueran propias.
-
-No reestablecen lo autóctono, sino que amplían la esfera de la cultura dominante (capital cultural, c0ntrol de lo simbólico) en dirección de lo que percibían como lo tradicional no hispano (lo no dominante)
-
-  
-
-El resultado concreto del indigenismo 2 no es el retorno de lo autóctono sino que el ámbito de lo criollo se expande. Este tipo de análisis se puede aplicar a muchas demandas que proceden de ámbitos sociales marginados
-
-  
-
-Capacidad de lo criollo para hacerse cargo de la cultura nacional
-
-  
-
-Indigenismo 2: poética criolla de apropiación de lo autóctono
+		- REVERSIÓN: Presentación criolla de raíces ajenas (autóctonas) como si fueran propias. No es un retorno a lo andino original. Los creadores del indigenismo 2 no estaban volviendo a sus raíces sino **presentando raíces en buena medida ajenas como si fueran propias**.
+		- No reestablecen lo autóctono, sino que **amplían la esfera de la cultura dominante** (capital cultural, control de lo simbólico) en dirección de lo que percibían como lo tradicional no hispano (lo no dominante)
+		- El resultado concreto del indigenismo 2 no es el retorno de lo autóctono sino que el ámbito de lo criollo se expande. Este tipo de análisis se puede aplicar a muchas demandas que proceden de ámbitos sociales marginados
+		- Capacidad de lo criollo para hacerse cargo de la cultura nacional
+		- Indigenismo 2: poética criolla de apropiación de lo autóctono
 
   
 
