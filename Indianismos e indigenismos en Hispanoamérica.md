@@ -873,12 +873,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denominaciones remiten más o menos a la misma etapa.
 	- 2 etapas:
 		-  Desde los años iniciales del conflicto (o sea contemporáneas al conflicto armado interno) 1980-2000
-		-  2003 (cierre del conflicto)- nuestros días: auténtica inflación de lit peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
-    
-
-  
-
-Marc Cox: bibliografía peruana anotada…: se trata de un recuento bibliográfico de más de 30 pp. Con títulos. Entre 7 y 8 títulos por página. Lit. peruana sobre la guerra interna
+		-  2003 (cierre del conflicto)- nuestros días: auténtica inflación de literatura peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
+	  - Marc Cox: bibliografía peruana anotada…: se trata de un recuento bibliográfico de más de 30 pp. con títulos. Entre 7 y 8 títulos por página de literatura peruana sobre la guerra interna
 
   
 
