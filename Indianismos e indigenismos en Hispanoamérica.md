@@ -795,9 +795,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  tesis sobre 100 años de soledad. 
 				-  *Utopía arcaica* es una lectura muy interesante para complementar a Arguedas. 
 				-  Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-**indigenismo**
-				-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina fue una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
-    
-4.  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
+				-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina, una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
+				-  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
     
 5.  Muerte de arguedas, muerte del indigenismo como ideología, utopía, etc
     
