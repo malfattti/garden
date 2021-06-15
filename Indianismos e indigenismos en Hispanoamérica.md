@@ -896,25 +896,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- 2000: se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
 		- Telón de fondo sobre el que se desarrolla la trama narrativa.
 	- Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio Ortega titulada *Adiós ayacucho*.
-	- Mario Vargas Llosa: *Lituma en los aAndes*
-
-  
-
-Rosa Cuchillo: 1997 de Óscar Colchado.
-
-  
-
-Óscar Colchado es peruano, nace en Guayanca, en la cordillera andina
-
-"Imaginario del trauma"”
-
--   Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
-    
--   La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
-    
--   Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
-    
--   Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia 
+	- Mario Vargas Llosa: *Lituma en los Andes*
+	- *Rosa Cuchillo*: 1997 de Óscar Colchado.
+		- Óscar Colchado es peruano, nace en Guayanca, en la cordillera andina
+		- "Imaginario del trauma”
+		- Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
+		- La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
+		- Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
+		- Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia 
     
 -   Mundo cultural que se ve aún más degradado por estas circunstancias.
     
