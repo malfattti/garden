@@ -805,14 +805,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
 				-  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
 				-   La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
-    
-13.  Considera que todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas.
-    
-14.  Vargas Llosa: indígena ha abrazado la modernidad ??
-    
-15.  Sin embargo en las novela que leímos se muestra la falta de agencia d elos indígenas. Es cínico? Sí, pero no deja de ser interesante.
-    
-16.  Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas. 
+				-   Considera todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas
+				-   Vargas Llosa: indígena ha abrazado la modernidad ??
+				-   Sin embargo en las novela que leímos se muestra la falta de agencia de los indígenas. Es cínico? Sí, pero no deja de ser interesante.
+    Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas. 
     
 
 5.  Artículo Ën defensa del indigenismo
