@@ -645,39 +645,17 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Estereotipos, literatura que se presenta como una que viene al rescate de, pero no hace más que reforzar esa otredad y separación de mundos que no parece poder resolverse
 	- Mitad indio: “desperfecto” >> tiene en mente una literatura donde se ha borrado la distancia porque sale de los indígenas mismos (Mariátegui): capacidad de los indígenas de expresarse libremente. El neoindigenismo de Arguedas no resuelve que sigue siendo literatura de origen no indígena
 	- Problema: qué es escribir como indio? qué es escribir como criollo? Legitimidad mayor a Arguedas porque está muy cerca culturalmente del mundo indígena.
-- **
-
-Huasipungo no logra la proximidad?
-
-Pero es una obra prototípica del indigenismo pero al mismo tiempo 
-
-  
-
-Indigenismo ortodoxo: documento con algunos propósitos que ayudan a clarificar lo que podría parecer una contradicción. Explicación de Escajadillo de indigenismo
-
-  
-
-El indigenismo político arranca sobre todo a ppios de s. XX (por eso hablamos de protoindigenismo con estas novelas)
-
-Escajadillo busca contesta el problema de calificación de Aves sin nido
-
-Indigenismo ortodoxo: Huasipungo
-
-Neoindigenismo: Arguedas (recreación del universo andino desde dentro. Trabaja dentro de una tradición indigenista, que evoluciona y pasa por proceso de mutaciones y cambios)
-
-  
-
-El indigenismo no es un discurso esencialmente literario. Las raíces se alimentan de otras corrientes históricas. Los indigenistas auténticos colaboran en una obra política y económica de reivindicación. La autenticidad proviene de toda la implicación política. No hay desconexión entre arte, economía, política, etc.
-
-Para él el auténtico indigenismo es el NEOindigenismo. El ortodoxo NO, es puesto en duda. 
-
-  
-
-Recepción crítica del indigenismo.
-
-El indigenismo refiere a cuestiones relacionadas con producción literaria, cultura y discurso político
-
-Crítica: intenta definir su estructura y sus límites discursivos, su naturaleza como forma de resistencia cultural y tb se ha trabajado sobre las relaciones del indigenismo con las vanguardias culturales de los 20 
+- 27.04: 
+	- Indigenismo ortodoxo: documento con algunos propósitos que ayudan a clarificar lo que podría parecer una contradicción. Explicación de Escajadillo de indigenismo
+	- El indigenismo político arranca sobre todo a ppios de s. XX (por eso hablamos de protoindigenismo con estas novelas)
+	- **Escajadillo** busca contesta el problema de calificación de *Aves sin nido*
+	- Indigenismo ortodoxo: Huasipungo
+	- **Neoindigenismo: Arguedas (recreación del universo andino desde dentro. Trabaja dentro de una tradición indigenista, que evoluciona y pasa por proceso de mutaciones y cambios)**
+	- El indigenismo no es un discurso esencialmente literario. Las raíces se alimentan de otras corrientes históricas. Los indigenistas auténticos colaboran en una obra política y económica de reivindicación. La autenticidad proviene de toda la implicación política. No hay desconexión entre arte, economía, política, etc.
+	- **Para él el auténtico indigenismo es el NEOindigenismo. El ortodoxo NO, es puesto en duda. **
+	- Recepción crítica del indigenismo.
+		- El indigenismo refiere a cuestiones relacionadas con producción literaria, cultura y discurso político
+		- Crítica: intenta definir su estructura y sus límites discursivos, su naturaleza como forma de resistencia cultural y tb se ha trabajado sobre las relaciones del indigenismo con las vanguardias culturales de los 20 
 
   
 
