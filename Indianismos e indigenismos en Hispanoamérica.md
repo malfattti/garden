@@ -787,19 +787,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Líneas tendenciales muy famosas de las etapas (incluso anteriores) de la literatura
 			-  Fernádez Retamar pide a Cortázar que escribiera algo para Casa de las Américas
 			-  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de **intelectual instalado en Europa**
-			-  Alusión al telurismo - localismo - nacionalismo (y rechazo a todo lo que no sea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son las falencias de quienes trabajan una zona
-    
-7.  Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra
-    
-8.  Telurismo:  Influencia del suelo de una comarca sobre sus habitantes.
-    
-9.  Arguedas justo está escribiendo su novela mitad ficción mitad autobiográfica 
-    
-
-3.  Utopía arcaica de Vargas Llosa
-    
-
-1.  Vargas Llosa escribió una tesis sobre 100 años de soledad. 
+			-  Alusión al **telurismo - localismo - nacionalismo** (y rechazo a todo lo que no sea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son **las falencias de quienes trabajan una zona**
+				-   Telurismo:  Influencia del suelo de una comarca sobre sus habitantes.
+			-  **Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra**
+			-  Arguedas justo está escribiendo su novela mitad ficción mitad autobiográfica 
+			-  *Utopía arcaica* de Vargas Llosa
+    Vargas Llosa escribió una tesis sobre 100 años de soledad. 
     
 2.  Utopía arcaica es una lectura muy interesante para complementar a Arguedas. Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-indigenismo
     
