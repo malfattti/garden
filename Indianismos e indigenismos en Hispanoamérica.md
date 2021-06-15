@@ -768,30 +768,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Muere en accidente de avión en Madrid con otros famosos intelectuales que acudieron a España para participar un congreso
 		- En este vuelo mueren tb Angel Rama y otro intelectual 
 		- La forma escritural de Scorza colinda con el realismo mágico
+		- 5 obras que forman lo más importante de su obra. Se llaman en conjunto "La guerra silenciosa": sublevaciones campesinas entre 1956 y 1963 en los andes peruanos.
+		- Sublevaciones se dan de cara a un sistema que perdura y que no cambia en su represión
+		- Historia de resistencias contra ataques
+		- Uso muy frecuente del humorismo y tb entra la dimensión de lo grotesco (instrumentos expresivos adecuados para traducir - interpretar la realidad trastornada)
+		- En la última novela: desmitificación / ruptura.
 
-  
-
-5 obras que forman lo más importante de su obra. Se llaman en conjunto "La guerra silenciosa": sublevaciones campesinas entre 1956 y 1963 en los andes peruanos.
-
-  
-
-Sublevaciones se dan de cara a un sistema que perdura y que no cambia en su represión
-
-  
-
-Historia de resistencias contra ataques
-
-  
-
-Uso muy frecuente del humorismo y tb entra la dimensión de lo grotesco (instrumentos expresivos adecuados para traducir - interpretar la realidad trastornada)
-
-  
-
-En la última novela: desmitificación / ruptura.
-
-  
-
-Agotamiento de la estética magico-realista y de la estética indigenista. Necesidad de salir de perpetuación del universo que revivifica mitos. Entrando en otro período histórico (década de 1980). Nuevas problemáticas e inquietudes de las poblaciones rurales. Este ciclo está evolucionando a la par que la evolución social
+  Agotamiento de la estética magico-realista y de la estética indigenista. Necesidad de salir de perpetuación del universo que revivifica mitos. Entrando en otro período histórico (década de 1980). Nuevas problemáticas e inquietudes de las poblaciones rurales. Este ciclo está evolucionando a la par que la evolución social
 
   
 
