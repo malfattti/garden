@@ -710,14 +710,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- **Ampliación, complejización y perfeccionamiento** del arsenal **técnico de la narrativa**, mediante proceso de **experimentación que supera **el indigenismo ortodoxo
 			- **ampliación del problema/temas indígenas**. Ya no es la visión de un pto de vista racial, zonal, etc, sino que hay **mayor complejidad**. No se restringe a una sola categoría en las que suele encasillarse el referente indígena
 			- **Crecimiento del espacio** de la representación narrativa **en consonancia con transformaciones reales/concretas**. Ya no es solo el gamonal. El indígena aparece cada vez menos independiente de lo que sucede en la sociedad nacional como conjunto.
-
-  
-
-Arguedas: Perú 1911-1968
-
-No es un creador aislado, sino que trabaja dentro y desde una tradición literaria/cultural indigenista que evoluciona. 
-
-Uno de los rasgos que explica o caracteriza este proceso es su cada vez mayor penetración en el mundo total del habitante andino. A través del acceso profundo a las almas indígenas, mundo anímico e íntimo que se logra a través de la fusión del yo del narrador con el ellos. La cosmovisión se recrea a través de maniobras expresivas y representativas desde dentro 
+		- Arguedas: Perú 1911-1968
+			- No es un creador aislado, sino que trabaja dentro y desde una tradición literaria/cultural indigenista que evoluciona. 
+			- Uno de los rasgos que explica o caracteriza este proceso es su cada vez mayor penetración en el mundo total del habitante andino. A través del acceso profundo a las almas indígenas, mundo anímico e íntimo que se logra a través de la **fusión del yo del narrador con el ellos**. La cosmovisión se recrea a través de maniobras expresivas y representativas desde dentro 
 
 Novela compleja que da muestra del conocimiento del mundo peruano en su peculiar y difícil heterogeneidad.
 
