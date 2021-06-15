@@ -962,16 +962,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- En Chile hay dos literaturas: la mapuche, rapanui, aymara entre otras, y la chilena, aunque entre ellas haya varios referentes comunes. Voluntad de desmarcarse 
 			- Labor del traductor del español al mapudungun (Chihualilaf ha traducido a Neruda, La Araucana -crónica de la conquista de Chile por los españoles) (escritor - traductor, labores que van de la mano)
 	- Narrativas actuales 
-		- reescritura de Huasipungo a través de Andrés Chiliquinga
+		- reescritura de Huasipungo a través de *Memorias de Andrés Chilquinga*
 		- Parodia? Seriedad? Sacralización?
-    
--   Desmontaje paródico 
-    
--   Esta novela se deja leer como algo relativamente ligero pero que a la vez plantea releer toda la tradición
-    
--   Diálogo explícito con una novela faro del Indigenismo: Huasipungo de Jorge Icaza
-    
--   Reaparece Andrés Chiliquinga. Ya no es el trabajador miserable y violento que vive sometido a vejaciones en Huasipungo. Ahora es un músico que encabeza la revuelta con la que se cierra Huasipungo. 
+		- Desmontaje paródico
+		- Esta novela se deja leer como algo relativamente ligero pero que a la vez plantea releer toda la tradición
+		- Diálogo explícito con una novela faro del Indigenismo: *Huasipungo* de Jorge Icaza
+		- Reaparece Andrés Chiliquinga. Ya no es el trabajador miserable y violento que vive sometido a vejaciones en Huasipungo. Ahora es un músico que encabeza la revuelta con la que se cierra Huasipungo. 
     
 -   Si lo repensamos en la obra de Arcos cabrera: no hay heroicidad como está presentada anteriormente. Es un héroe porque descubre lo que no conocía y su estatuto, fuera del Ecuador y viéndose con los ojos de los demás. Así como nosotros como lectores de Huasipungo veíamos a los ojos ajenos.
     
