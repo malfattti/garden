@@ -833,25 +833,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Literatura testimonial de referente indígena: 
 	- Estatuto de la voz indígena?
 		- Ni en la lit indianista romántica ni en la indigenista teníamos esa entrada en esa visión "desde adentro" que sí tenemos en Arguedas, por ejemplo.
-
-Ahora se plantea de manera crucial la voz
-
-  
-
-Una vez que se extingue. 
-
-  
-
-Extinción o agotamiento? Caen en repetición. Plumas femeninas: realismo mágico cobra otras significaciones. Agotamiento desde los años setenta. 
-
-  
-
-Desde los setentas: se instaura escritura que tiende a mayor verismo y que cuestiona la autenticidad y veracidad d ela historia oficial hispanoamericana
-
-  
-
-Comienza a imponerse a partir de los setenta sobre todo la novela testimonial o novela de referente 
-
+		- Ahora se plantea de manera crucial la voz
+	- Extinción o agotamiento? Caen en repetición. Plumas femeninas: realismo mágico cobra otras significaciones. Agotamiento desde los años setenta. 
+	- **Desde los setentas: se instaura escritura que tiende a mayor verismo** y que **cuestiona la autenticidad y veracidad de la historia oficial** hispanoamericana
+	- **Comienza a imponerse a partir de los setenta sobre todo la novela testimonial o novela de referente 
+**
   
 
 Para finales de los 70 y ppios de los 80 la crítica empieza a hablar d euna nueva orientación o inflexión de toda la producción literaria en una novelística que privilegia el referente. Llo incorpora ya sea de manera documental o más imaginativa. La línea más ficcional
