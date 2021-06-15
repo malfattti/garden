@@ -825,9 +825,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- Estamos realizando las promesas de Mariátegui? Pero no, porque Mariátegui. no tenía esta postura anti occidental. 
 					- En su discurso indigenista, revolucionario, se valoran las adquisiciones provenientes de occidente en especial de la modernidad en los campos de las libertades y derechos ciudadanos (ciencia, tecnología, momento de esplendor y carrera hacia la modernidad).
 					- Estos movimientos plantean un rechazo a los procesos de globalización porque estos no admiten ni se articulan con formas de vida comunitaria y apuntan a la desarticulación de grandes valores que sustentan la vida comunitaria (solidaridad, reciprocidad)
-					- Lo más concreto es el rechazo a la implantación para la explotación agrícola - que los estados nacionales admitan ese acaparamiento de zonas que son propiedad nacional;
-
-En esta lucha consiste lo que hoy llamaríamos indianismo. Concepto que tb se aplica al campo social entonces
+					- Lo más concreto es el rechazo a la implantación para la explotación agrícola - que los estados nacionales admitan ese acaparamiento de zonas que son propiedad nacional
+					- En esta lucha consiste lo que hoy llamaríamos indianismo. Concepto que tb se aplica al campo social entonces
 
   
   
