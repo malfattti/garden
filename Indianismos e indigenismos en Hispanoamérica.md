@@ -804,25 +804,25 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			-  Negarse a enfocar el indígena como un ser histórico
 			-  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
 			-  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
-				-   La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
-				-   Considera todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas
-				-   Vargas Llosa: indígena ha abrazado la modernidad ??
-				-   Sin embargo en las novela que leímos se muestra la falta de agencia de los indígenas. Es cínico? Sí, pero no deja de ser interesante.
-				-   Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas.
-			- Artículo "En defensa del indigenismo"
-				- Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
-			- El giro multicultural: 
-				- últimas décadas del s. XX, reformas constitucionales de diversos países. 
-				- Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. 
-				- Se vienen a llamar **movimientos indianistas** (no confundir con nuestra categoría para la lit.)
-				- Desde finales de los 70.
-				- Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
-				- Tierras acaparadas por grandes empresas
-				- Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
-				- Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
-				- Se oponen a la modernidad creada por el capitalismo e incluso por el socialismo.
-				- Rechazo a occidente que le da un signo particular al indianismo actual, a diferencia del indigenismo en versión revolucionaria de Mariátegui. 
-					- Estamos realizando las promesas de Mariátegui? Pero no, porque Mariátegui. no tenía esta postura anti occidental. 
+			-   La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
+			-   Considera todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas
+			-   Vargas Llosa: indígena ha abrazado la modernidad ??
+			-   Sin embargo en las novela que leímos se muestra la falta de agencia de los indígenas. Es cínico? Sí, pero no deja de ser interesante.
+			-   Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas.
+		- Artículo "En defensa del indigenismo"
+			- Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
+	- El giro multicultural: 
+		- últimas décadas del s. XX, reformas constitucionales de diversos países. 
+		- Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. 
+		- Se vienen a llamar **movimientos indianistas** (no confundir con nuestra categoría para la lit.)
+		- Desde finales de los 70.
+		- Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
+		- Tierras acaparadas por grandes empresas
+		- Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
+		- Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
+		- Se oponen a la modernidad creada por el capitalismo e incluso por el socialismo.
+		- Rechazo a occidente que le da un signo particular al indianismo actual, a diferencia del indigenismo en versión revolucionaria de Mariátegui. 
+			- Estamos realizando las promesas de Mariátegui? Pero no, porque Mariátegui. no tenía esta postura anti occidental. 
 					- En su discurso indigenista, revolucionario, se valoran las adquisiciones provenientes de occidente en especial de la modernidad en los campos de las libertades y derechos ciudadanos (ciencia, tecnología, momento de esplendor y carrera hacia la modernidad).
 					- Estos movimientos plantean un rechazo a los procesos de globalización porque estos no admiten ni se articulan con formas de vida comunitaria y apuntan a la desarticulación de grandes valores que sustentan la vida comunitaria (solidaridad, reciprocidad)
 					- Lo más concreto es el rechazo a la implantación para la explotación agrícola - que los estados nacionales admitan ese acaparamiento de zonas que son propiedad nacional
