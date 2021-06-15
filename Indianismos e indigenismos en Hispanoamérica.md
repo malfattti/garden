@@ -659,14 +659,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- El alcance y los límites
 		- Lugar que se le asigna en la historia cultural de la nación, incluso como capital cultural de lo nacional
 		- La conceptualización dominante considera que el indigenismo literario es regionalista al interior de la nación peruana y que está determinado por la representación de un mundo particular (andino o indígena) (esta es la posición de Arguedas tb)
-
-Su función sería entonces moral, política porque subraya los valores humanos excelsos de la población nativa (Arguedas). Deber de representar estos valores. La literatura indigenista denuncia entonces el estado de injusticia social, presenta promesas de lucha y de reivindicación social.
-
-El indigenismo literario está determinado por la naturaleza particular del referente (el mundo andino como espacio regional y la función político-moral misma que la representación cumple en el universo Literario)
-
-La reflexión crítica tb ha comentado la capacidad de representación de ese referente (indio y mundo andino): el grado de proximidad entre la representación que hace la lit. indigenista y la realidad.
-
-Riqueza psicológica de la representación (caso de la propuesta de arguedas, logra darla a conocer)
+		- Su función sería entonces moral, política porque subraya los valores humanos excelsos de la población nativa (Arguedas). Deber de representar estos valores. La literatura indigenista denuncia entonces el estado de injusticia social, presenta promesas de lucha y de reivindicación social.
+		- El indigenismo literario está determinado por la naturaleza particular del referente (el mundo andino como espacio regional y la función político-moral misma que la representación cumple en el universo Literario)
+	- La reflexión crítica tb ha comentado la capacidad de representación de ese referente (indio y mundo andino): el grado de proximidad entre la representación que hace la lit. indigenista y la realidad.
+		- Riqueza psicológica de la representación (caso de la propuesta de arguedas, logra darla a conocer)
 
   
 
