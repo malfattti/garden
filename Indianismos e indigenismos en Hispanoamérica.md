@@ -697,16 +697,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - Clase: 04.05.2021
 	- Posición privilegiada de Arguedas: el horizonte del indigenismo se ve muy modificado
 	- Sus relatos consiguen llamar la atención del lector a una alteridad más cercana a la del indio y **acercarse a una cosmovisión diversa**
-
-Otro conocimiento que se va abriendo al lector a través del develamiento de una lógica diferente, pero no incomprensible
-
-  
-
-Es la manera como los autores abordan los temas y referentes indigenas o andinos donde se puede dar la distancia entre los autores. (indigenismo ortodoxo de Escajadillo es lo que nosotros llamamos indigenismo a secas)
-
-  
-
-Wilham Rowe: mito e ideología en la obra de Arguedas (1979): tres rasgos fundamentales para desmarcar la obra de Arguedas del indigenismo clásico u ortodoxo. La obra de Arguedas va a rebasarlo ampliamente
+	- Otro conocimiento que se va abriendo al lector a través del develamiento de una lógica diferente, pero no incomprensible
+	- Es la manera como los autores abordan los temas y referentes indigenas o andinos donde se puede dar la distancia entre los autores. (indigenismo ortodoxo de Escajadillo es lo que nosotros llamamos indigenismo a secas)
+	- Wilham Rowe: mito e ideología en la obra de Arguedas (1979): tres rasgos fundamentales para desmarcar la obra de Arguedas del indigenismo clásico u ortodoxo. La obra de Arguedas va a rebasarlo ampliamente
 
 El destaca:
 
