@@ -895,53 +895,52 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- lit. Testimonial de referente indígena
 		- 2000: se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
 		- Telón de fondo sobre el que se desarrolla la trama narrativa.
-	- Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio Ortega titulada *Adiós ayacucho*.
-	- Mario Vargas Llosa: *Lituma en los Andes*
-	- *Rosa Cuchillo*: 1997 de Óscar Colchado.
-		- Óscar Colchado es peruano, nace en Guayanca, en la cordillera andina
-		- "Imaginario del trauma”
-		- Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
-		- La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
-		- Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
-		- **Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia** 
-		- Mundo cultural que se ve aún más degradado por estas circunstancias.
-		- Impacto muy directo, cifras oficiales de este conflicto.
-		- *Rosa cuchillo* articula diversas perspectivas. Es una novela polifónica.
-		- Estas perspectivas se articulan de manera muy fluida
-		- No hay voluntad de darle mayor peso a una perspectiva que a otra
-		- **La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela**
-			- Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
-			- Rosa Wanca va en búsqueda de su hijo, Liborio, desaparecido en el conflicto armado
-			- Se alternan después 
-			- **Otras perspectivas importantes: **
-				- Anficha (dirige un grupo de senderistas)
-				- Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
-				- Livorio (miembro de Sendero luminoso, tb indígena. 
-					- En ppio activo y luego se va alejando de la ideología de Sendero luminoso porque descubre el peso de la violencia que conlleva esa postura. 
-					- Idea una variante de la emancipación, un Pachacutec: voltear el mundo al revés
-					- Pachacutec: emperador del s. XV llamado "el reformador", el que cambia el rumbo de la tierra
-					- La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxista europeo
-					- Liborio descubre que al final ese marxismo es un concepto colonial.
-					- Entonces, liberación que consiste en cambiar por una vía que es propia
-			- Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
-			- Reflexión contemporánea sobre el carácter discursivo de la historia. **No son los hechos históricos, sino discursos sobre los mismos**. No existe una versión única. Si queremos acercarnos más bien **cifrar estos matices**. 
-				- **POR ESO... Pluriperspectivismo o estructura plurifónica**
-	-   Diferentes o varias versionas de la violencia representan **resistencias múltiples, cada cual desde su posición en la estructura social**: el militar, el senderista, la mujer, el campesino, etc.
-	-   Colchado intenta así **no establecer jerarquías** entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
-		-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
-	- **Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltiple), a la que corresponde la realidad del Perú contemporáneo**
-	- Rechazar las lógicas verticales y las autoritarias, tanto de Sendero luminoso como de los militares. 
-		- Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. 
-		- Mediación entre un punto de vista y el otro lo hace el lector.
-	- Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
-	- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de ***La divina comedia*** (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo*** (1955 - deambulación de Juan Preciado ocurre en un mundo de muertos)
-	- Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
-	- Dos líneas de apreciación de las narrativas más recientes
-	- Literatura indigena (muchas, pero no todas, de referente indigena)
-	- Ante una noción muy amplia y cada vez más polisémica
-	- Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
-    
--   Sobre, con y DE los indígenas (a veces llamada tb nativa)
+		- Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio Ortega titulada *Adiós ayacucho*.
+		- Mario Vargas Llosa: *Lituma en los Andes*
+		- *Rosa Cuchillo*: 1997 de Óscar Colchado.
+			- Óscar Colchado es peruano, nace en Guayanca, en la cordillera andina
+			- "Imaginario del trauma”
+			- Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
+			- La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
+			- Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
+			- **Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia** 
+			- Mundo cultural que se ve aún más degradado por estas circunstancias.
+			- Impacto muy directo, cifras oficiales de este conflicto.
+			- *Rosa cuchillo* articula diversas perspectivas. Es una novela polifónica.
+			- Estas perspectivas se articulan de manera muy fluida
+			- No hay voluntad de darle mayor peso a una perspectiva que a otra
+			- **La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela**
+				- Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
+				- Rosa Wanca va en búsqueda de su hijo, Liborio, desaparecido en el conflicto armado
+				- Se alternan después 
+				- **Otras perspectivas importantes: **
+					- Anficha (dirige un grupo de senderistas)
+					- Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
+					- Livorio (miembro de Sendero luminoso, tb indígena. 
+						- En ppio activo y luego se va alejando de la ideología de Sendero luminoso porque descubre el peso de la violencia que conlleva esa postura. 
+						- Idea una variante de la emancipación, un Pachacutec: voltear el mundo al revés
+						- Pachacutec: emperador del s. XV llamado "el reformador", el que cambia el rumbo de la tierra
+						- La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxista europeo
+						- Liborio descubre que al final ese marxismo es un concepto colonial.
+						- Entonces, liberación que consiste en cambiar por una vía que es propia
+				- Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
+				- Reflexión contemporánea sobre el carácter discursivo de la historia. **No son los hechos históricos, sino discursos sobre los mismos**. No existe una versión única. Si queremos acercarnos más bien **cifrar estos matices**. 
+					- **POR ESO... Pluriperspectivismo o estructura plurifónica**
+		-   Diferentes o varias versionas de la violencia representan **resistencias múltiples, cada cual desde su posición en la estructura social**: el militar, el senderista, la mujer, el campesino, etc.
+		-   Colchado intenta así **no establecer jerarquías** entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
+			-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
+		- **Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltiple), a la que corresponde la realidad del Perú contemporáneo**
+		- Rechazar las lógicas verticales y las autoritarias, tanto de Sendero luminoso como de los militares. 
+			- Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. 
+			- Mediación entre un punto de vista y el otro lo hace el lector.
+		- Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
+		- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de ***La divina comedia*** (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo*** (1955 - deambulación de Juan Preciado ocurre en un mundo de muertos)
+		- Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
+		- Dos líneas de apreciación de las narrativas más recientes
+		- Literatura indigena (muchas, pero no todas, de referente indigena)
+		- Ante una noción muy amplia y cada vez más polisémica
+		- Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
+		- Sobre, con y DE los indígenas (a veces llamada tb nativa)
     
 -   A la lit indígena se refería Mariátegui 
     
