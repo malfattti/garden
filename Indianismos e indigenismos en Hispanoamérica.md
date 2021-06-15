@@ -810,16 +810,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-   Sin embargo en las novela que leímos se muestra la falta de agencia de los indígenas. Es cínico? Sí, pero no deja de ser interesante.
 				-   Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas.
 			- Artículo "En defensa del indigenismo"
-				-   Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
-				-   El giro multicultural: últimas décadas del s. XX, reformas constitucionales de diversos países. Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. Se vienen a llamar movimientos indianistas (no confundir con nuestra categoría para la lit.)
-
-Desde inales de los 70.
-
-Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
-
-Tierras acaparadas por grandes empresas
-
-Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
+				- Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
+			- El giro multicultural: 
+				- últimas décadas del s. XX, reformas constitucionales de diversos países. Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. Se vienen a llamar movimientos indianistas (no confundir con nuestra categoría para la lit.)
+				- Desde finales de los 70.
+				- Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
+				- Tierras acaparadas por grandes empresas
+				- Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
 
   
   
