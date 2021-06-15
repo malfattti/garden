@@ -861,23 +861,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Recibe el premio nobel en 1995, a 500 años del descubrimiento de América. Intereses mezclados.
 	- Sobreviviente de la campaña de exterminio de la población indígena en Guatemala y exiliada en México
 	- **Su exilio a México tiene como contexto el conflicto armado de Guatemala que enfrentó el ejército contra los movimientos armados de liberación** 
-	- La comisión de esclarecimiento histórico presenta en 1999 un informe en que Guatemala reconoce 200.000 muertos durante guerra civi.
+	- **La comisión de esclarecimiento histórico presenta en 1999 un informe en que Guatemala reconoce 200.000 muertos durante guerra civil.**
 	- Entre muertos y desapariciones: 626 matanzas atribuidas a fuerzas del Estado - reconocimiento del carácter étnico, genocidio
-
-  
-
-REMH: informa de la recuperación de la memoria histórica. Más de 55000 violaciones durante el conflicto. Quien lo entregó fue desaparecido. Violaciones atribuibles al ejército y solo una porción la guerrilla.
-
-  
-
-Ovieda: figura que encarna las mujeres, el movimiento de liberación e independencia, y..?
-
-Esta fama le vale la entrega del premio nobel de la paz/
-
-  
-  
-
-Elizabeth Burgos: grabadora, redactora, editora de esta llamada biografía. Era venezolanba, atropóloga y escritora, casada con el abogado y filosofo revolcuonario francés regis debray (?) seguidor del che y los sandinistas en nicaragua
+	- REMH: informa de la recuperación de la memoria histórica. Más de 55000 violaciones durante el conflicto. Quien lo entregó fue desaparecido. Violaciones atribuibles al ejército y solo una porción la guerrilla.
+	- Figura que encarna las mujeres, el movimiento de liberación e independencia, y..?
+	- Esta fama le vale la entrega del Premio Nobel de la Paz
+	- Elizabeth Burgos: grabadora, redactora, editora de esta llamada biografía. Era venezolana, atropóloga y escritora, casada con el abogado y filosofo revolcuonario francés regis debray (?) seguidor del che y los sandinistas en nicaragua
 
   
 
