@@ -721,14 +721,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Ernesto: 
 		- el protagonista adolescente que sigue un camino iniciático hacia la madurez (novela de formación).Búsqueda que se abre paso entre los elementos culturalmente antagónicos (heterogeneidad)
 	- Proceso de maduración se encuentra ritmado por etapas fundamentales relacionados con zonas y estancias más o menos duraderas:
-		- Al inicio: Cuzco. Breve estancia pero inicial, significativa. Con el padre. Cuzco en mitología inca: ombligo del mundo en que se unen el cielo con la tierra. El episodio más memorable en esta etapa es el **encuentro con la muralla del palacio del inca Roca**. Unión de ideas que tenía y la experiencia de encontrarse y traducir / comprender la relación de esas piedras con los ríos.
-		- Personaje transculturado en un lugar transculturado. Después de ver el muro escuche el ruido de la campanada de la ciudad.
-
-Los sonidos le permiten recordar su infancia cuando fue criado por los indios.
-
-  
-
-La segunda etapa no se restringe a un cap. Particular pero corresponde al peregrinaje del protagonista siguiendo los pasos de su padre a través de una serie de pueblos de Perú a resolver problemas jurídicos/legales. Identidad de Ernesto itinerante/desarraigo. Geografía a la vez que experiencia vital
+		- Al inicio: Cuzco. Breve estancia pero inicial, significativa. Con el padre. 
+			- Cuzco en mitología inca: ombligo del mundo en que se unen el cielo con la tierra. 
+			- El episodio más memorable en esta etapa es el **encuentro con la muralla del palacio del inca Roca**. Unión de ideas que tenía y la experiencia de encontrarse y traducir / comprender la relación de esas piedras con los ríos.
+			- Personaje transculturado en un lugar transculturado. Después de ver el muro escuche el ruido de la campanada de la ciudad.
+			- Los sonidos le permiten recordar su infancia cuando fue criado por los indios.
+		- La segunda etapa no se restringe a un cap. Particular pero corresponde al peregrinaje del protagonista siguiendo los pasos de su padre a través de una serie de pueblos de Perú a resolver problemas jurídicos/legales. Identidad de Ernesto itinerante/desarraigo. Geografía a la vez que experiencia vital
 
   
 
