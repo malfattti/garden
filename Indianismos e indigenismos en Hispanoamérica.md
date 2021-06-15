@@ -701,15 +701,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Es la manera como los autores abordan los temas y referentes indigenas o andinos donde se puede dar la distancia entre los autores. (indigenismo ortodoxo de Escajadillo es lo que nosotros llamamos indigenismo a secas)
 	- Wilham Rowe: mito e ideología en la obra de Arguedas (1979): tres rasgos fundamentales para desmarcar la obra de Arguedas del indigenismo clásico u ortodoxo. La obra de Arguedas va a rebasarlo ampliamente:
 		- **La amplitud del enfoque**: imagen interna o internalizada del conjunto de sectores que integran la sociedad andina. No sólo del enfrentamiento entre el indio y el gamonal. Se rebasa la clásica dicotomía y se amplia la serie de personajes que están en otros niveles y con otras relaciones. En las dos últimas novelas de Arguedas hay aún mayor ampliación en el enfoque porque se representa a la sociedad peruana en su conjunto: problemática urbana 
-		- Modo en que se aborda el problema del lenguaje: dimensión lingüística y artística. Léxico, sintaxis de la prosa castellana. Idioma propio que combina elementos procedentes de la proximidad con otros idiomas y formación de expresión que se presenta propia, sui generes
-
-  
-
-Percepción  profunda e interna de la población indígena (infancia de Arguedas relacionada con este mundo)
-
-  
-
-Escajadillo: narradores peruanos del s. XX, 3 etapas: indianismo, indigenismo ortodoxo y neoindigenismo
+		- **Modo en que se aborda el problema del lenguaje**: dimensión lingüística y artística. Léxico, sintaxis de la prosa castellana. Idioma propio que combina elementos procedentes de la proximidad con otros idiomas y formación de expresión que se presenta propia, sui generis
+		- Percepción  profunda e interna de la población indígena (infancia de Arguedas relacionada con este mundo)
+	- Escajadillo: narradores peruanos del s. XX, 3 etapas: indianismo, indigenismo ortodoxo y neoindigenismo
 
 Categoría de neoindigenismo: centrado en lo que se desenvuelve en términos literarios y que presenta estos rasgos (algunos se solapan con Rowe, otros van en otra dirección):
 
