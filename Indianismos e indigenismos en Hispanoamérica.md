@@ -694,7 +694,140 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- El narrador extradiegético así como el uso del registro culto cede lugar a una **variedad de narradores focalizados en diferentes personajes**, cuyo resultado es: **riqueza de voces, múltiples perspectivas**, que pueden representar un mismo evento
 				- Uso de discurso oral, pero ya no reducido en su expresividad sino el autor neoindigenista construye un **auténtico universo diglósico** que conserva oralidad inígena y lenguaje propio de los letras. Totalmente en fase con lo que Rama llama lit. transculturada o heterogénea y que revela condición de incluir **rasgos sobresalientes de la oralidad en un texto literario** 
 
+- Clase: 04.05.2021
+	- Posición privilegiada de Arguedas: el horizonte del indigenismo se ve muy modificado
+	- Sus relatos consiguen llamar la atención del lector a una alteridad más cercana a la del indio y **acercarse a una cosmovisión diversa**
+
+Otro conocimiento que se va abriendo al lector a través del develamiento de una lógica diferente, pero no incomprensible
+
   
+
+Es la manera como los autores abordan los temas y referentes indigenas o andinos donde se puede dar la distancia entre los autores. (indigenismo ortodoxo de Escajadillo es lo que nosotros llamamos indigenismo a secas)
+
+  
+
+Wilham Rowe: mito e ideología en la obra de Arguedas (1979): tres rasgos fundamentales para desmarcar la obra de Arguedas del indigenismo clásico u ortodoxo. La obra de Arguedas va a rebasarlo ampliamente
+
+El destaca:
+
+La amplitud del enfoque: imagen interna o internalizada del conjunto de sectores que integran la sociedad andina. No sólo del enfrentamiento entre el indio y el gamonal. Se rebasa la clásica dicomía y se amplia la serie de personajes que están en otros niveles y con otras relaciones. No se trata solo del enfrentamiento entre indio y gamonal. en las dos últimas novelas de Arguedas hay mayor ampliación en el enfoque porque se representa a la sociedad peruana en su conjunto: problemática urbana 
+
+Obras situadas en ciudades. 
+
+Modo en que se aborda el problema del lenguaje: dimensión lingüística y artística. Léxico, sintaxis de la prosa castellana. Idioma propio que combina elementos procedentes de la proximidad con otros idiomas y formación de expresión que se presenta propia, sui generes
+
+  
+
+Percepción  profunda e interna de la población indígena (infancia de Arguedas relacionada con este mundo)
+
+  
+
+Escajadillo: narradores peruanos del s. XX, 3 etapas: indianismo, indigenismo ortodoxo y neoindigenismo
+
+Categoría de neoindigenismo: centrado en lo que se desenvuelve en términos literarios y que presenta estos rasgos (algunos se solapan con Rowe, otros van en otra dirección):
+
+\-exploración del universo mítico del habitante andino
+
+\-Intensificación del lirismo, que implica además mayor subjetivismo en la narrativa
+
+\-Ampliación, complejización y perfeccionamiento del arsenal técnico de la narrativa, mediante proceso de experimentación que supera el indigenismo ortodoxo
+
+\-ampliación del problema/temas indígenas. Ya no es la visión de un pto de vista racial, zonal, etc, sino que hay mayor complejidad. No se restringe a una sola categoría en las que suele encasillarse el referente indígena
+
+Crecimiento del espacio de la representación narrativa en consonancia con transformaciones reales/concretas. Ya no es solo el gamonal. El indígena aparece cada vez menos independiente de lo que sucede en la sociedad nacional como conjunto.
+
+  
+
+Arguedas: Perú 1911-1968
+
+No es un creador aislado, sino que trabaja dentro y desde una tradición literaria/cultural indigenista que evoluciona. 
+
+Uno de los rasgos que explica o caracteriza este proceso es su cada vez mayor penetración en el mundo total del habitante andino. A través del acceso profundo a las almas indígenas, mundo anímico e íntimo que se logra a través de la fusión del yo del narrador con el ellos. La cosmovisión se recrea a través de maniobras expresivas y representativas desde dentro 
+
+Novela compleja que da muestra del conocimiento del mundo peruano en su peculiar y difícil heterogeneidad.
+
+Cornejo Polar dice que las lit. heterogéneas: zona de ambigüedad y conflicto. Asumir conflictividad de signos
+
+Los ríos profundos logra representar y traducir mediante expresión realista y lírico mítica el difícil encuentro de las vertientes culturales andinas y criollas en un país múltiple y fragmentado
+
+Ernesto: el protagonista adolescente que sigue un camino iniciático hacia la madurez  (novela de formación). Búsqueda que se abre paso entre los elementos culturalmente antagónicos (heterogeneidad)
+
+Proceso de maduración se encuentra ritmado por etapas fundamentales relacionados con zonas y estancias más o menos duraderas
+
+Al inicio: Cuzco. Breve estancia pero inicial, significativa. Con el padre. Cuzco en mitología inca: ombligo del mundo en que se unen el cielo con la tierra. El episodio más memorable en esta etapa es el encuentro con la muralla del palacio del inca roca. Unión de ideas que tenía y la experiencia de encontrarse y traducir / comprender la relación de esas piedras con los ríos.
+
+  
+
+Personaje transculturado en un lugar transculturado. Después de ver el muro escuche el ruido de la campanada de la ciudad.
+
+Los sonidos le permiten recordar su infancia cuando fue criado por los indios.
+
+  
+
+La segunda etapa no se restringe a un cap. Particular pero corresponde al peregrinaje del protagonista siguiendo los pasos de su padre a través de una serie de pueblos de Perú a resolver problemas jurídicos/legales. Identidad de Ernesto itinerante/desarraigo. Geografía a la vez que experiencia vital
+
+  
+
+Tercer momento: nueve de once capítulos se dedican a describir las vivencias de Ernesto como interno en colegio religioso de Abancay. Decisión identitaria, identificaciones.
+
+Para el, un lugar de codicia, no se cumplen los valores cristianos de respeto mutuo. Personaje de una muchacha de quien abusan los compañeros de colegio.
+
+El colegio es un lugar en oposición con salidas de Ernesto. Contrapunto moral: chicherías, paradójico porque el se va a u lugar my connotado (de encuentro, interacción, convergencia de muchos habitantes, donde se representa mejor hibridación social y cultural. Lugar donde vemos interactuar grupos socioétnicos (indiios, cholos, mestizos, forasteros, hombres y mujeres). Huanupata se llama este barrio. Aquí se despierta en Ernesto una conciencia político en un orden muy amplio. Esto le ayuda a encontrar su camino. Episodio muy significativo: revuelta de las chicheras para protestar y Ernesto se solidariza con su demanda. Cuestionan a los señores el aumento de precio de sal y la escasez. Abancay es una etapa muy grande. Parece haberse invertido la simetría de lo bueno y lo malo (colegio, central versus la periferia: barrios donde hay alcohol, solaz, donde se genera "lo malo"). 
+
+Colegio: juego con trompo que va a ser la única manera de distensión que encuentra en ese lugar del mal. Le ayuda esto tb a liberar, construir su mente
+
+Gesta o peregrinaje?
+
+Última etapa: camino que lo integra con sierras, ríos y el pasado. Paradójicamente es el futuro que él elige persuadido de estar así mucho más cerca del bien cuando espiritualmente 
+
+No es una vida materialmente atractiva (gran miseria)
+
+Al adherirse espiritualmente al universo andino el quiere seguir el camino de la rebelión de las chicheras - donde vale la pena luchar
+
+  
+
+Fidelidad y adecuación lingüística que se manifiesta en Arguedas
+
+Arguedas asume como gran responsabilidad este gesto
+
+Se han estudiado mucho los mecanismos lingúísticos que usa para adecuar la lengua a su cosmovisión heterogénea. Transformación / quechuización del castellano (Arguedas)
+
+  
+
+Mestizaje / diglosia (Linar)
+
+  
+
+Transculturación lingüística (rama)
+
+  
+
+Quechuización del castellano: varios recursos entre ellos variación del orden gramatical (abudante uso de la asíndeton: omisión de nexos) y repeticiones. De la estructura gramatical del quechua proceden estos recursos. Conflicto lingüístico que planteaba su elaboración artística. 1939: "entre el quechua y el castellano, la angustia del mestizo". Esta dificultad la observa arguedas en Vallejo y en el cronista indígena De Ayala. Esta búsqueda formal deviene o está en relación con la no adecuación del castellano para narrar el mundo andino, cuya lengua genuina es el quechua. Narrar en quechua es algo que hay practicado Arguedas, escribir en quechua (lengua minorizada en contexto global) hubiera sido lo ideal, pero esto limita la difusión de la obra y la posibilidad de dar a conocer un universo que en ese momento hubiera quedado silenciado.
+
+  
+
+Artículo completo de Arguedas: La novela y el problema de la expresión literaria en el Perú (va a estar entero en ILIAS)
+
+Tiene que optar por una vía que no corresponde a la realidad pero que restituye una forma de hablar comprensible, que no sea ininteligible y que tampoco sea como esas formulaciones de Huasipungo
+
+  
+
+1952: nueva traducción de una pieza llamada Ollantay (drama de un naturalista y explorador suizo que circuló de forma oral. De publica por primera vez en 1857 en quechua y en alemán (!) y en castellano se publica en 1868
+
+Disyuntiva: no es que esté en contra de la traducción, pero lo lleva a pensar que todo esto tiene un límite. Forjar un modo de expresión que de alguna manera forme traducción de un universo mental, memorial, mítico, etc
+
+Hay muchos textos de Arguedas que pueden entenderse en relación con reflexiones sobre la lengua y las traducciones.
+
+  
+
+Tb: texto de un discurso de arguedas cuando recibe el premio inca Garcilaso de la Vega en 1968. Arguedas muere un mes después de recibir el premio. "No soy un aculturado" : yo no soy un aculturado, yo soy un peruano que orgullosamente como un demonio feliz..."”
+
+Último libro donde hay fragmentos de diario íntimo de los últimos meses de Arguedas. Depresión y suicidio. Después de haber escrito las últimas líneas de ese libro se suicida en un aula de universidad de Lima donde él era profesor de quechua.
+
+Polémica con Cortázar
+
+  
+**
   
 
 Huasipungo: en una sola palabra, manera de dirigirse que apunta a una fórmula de subordinación (XXXXsumercé)
