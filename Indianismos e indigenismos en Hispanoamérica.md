@@ -883,7 +883,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- El objetivo de este grupo fue sustituir (proyecto revolucionario) instituciones peruanas burguesas por régimen campesino comunista sui generis
 		- 1980: incendian urnas electorales en un pueblo del depto de Ayacucho (elecciones generales)
 		- El gobierno declara estado de emergencia y pone el depto bajo control militar
-		- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac maru
+		- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac Amaru
 
   
 
