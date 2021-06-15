@@ -918,13 +918,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
 				- Livorio (miembro de Sendero luminoso, tb indígena. 
 					- En ppio activo y luego se va alejando de la ideología de Sendero luminoso porque descubre el peso de la violencia que conlleva esa postura. 
-					- Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés
-					- Pachacutec: emperador del s. XV ? llamado "el reformador", el que cambia el rumbo de la tierra
-    
-
--   La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxiste europeo
-    
--   Liborio descubre que al final ese marxismo es un concepto colonial.
+					- Idea una variante de la emancipación, un Pachacutec: voltear el mundo al revés
+					- Pachacutec: emperador del s. XV llamado "el reformador", el que cambia el rumbo de la tierra
+					- La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxista europeo
+					- Liborio descubre que al final ese marxismo es un concepto colonial.
     
 -   Entonces, liberación que consiste en cambiar por una vía que es propia
     
