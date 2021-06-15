@@ -981,19 +981,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   Dirigente de la CONAIE (agrupación existente que se sublevó terminando la presidencia del 2000 - circunstancias económicas desastrosas, esta agrupación de indígenas van a levantarse e incluso ocupar la corte suprema de justicia y entraron en el palacio presidencia, el presidente es depuesto)
 	-   A través de esta agrupación Andrés viaja a tomar este curso y tiene que preparar una conferencia sobre *Huasipungo*. 
 	-   Su posición es interesante para ver si el libro de Icaza refleja verdaderamente la situación indígena. El no es especialista en literatura ni en la sociedad o historia indígenas, el es músico y artesano
-	-   Descubre que el punto de vista de Icaza es rebatible. Discusión sobre los puntos que habíamos subrayado. Mirada ajena sobre un mundo que no deja de representarse en su otredad
-	-   Discusiones con María Clara Pereyra, tb ecuatotriana, que se acerca a Chiliquinga
-    
-
--   Pereira es el apellido del dueño de la hacienda que rige el destino de los huasipungueros
-    
-
-  
-  
-
--   Intercambio con joven muchacha, le da consejos 
-    
--   Critica a la novela de Icaza: muchos paréntesis que interrumpen el fluir de la novela y que fue muy criticado. Ella le dice que debe prestarle atención a esos incisos
+	-   **Descubre que el punto de vista de Icaza es rebatible. Discusión sobre los puntos que habíamos subrayado. Mirada ajena sobre un mundo que no deja de representarse en su otredad**
+	-   Discusiones con María Clara Pereira, tb ecuatoriana, que se acerca a Chiliquinga
+	-   Pereira es el apellido del dueño de la hacienda que rige el destino de los huasipungueros
+	-   Intercambio con joven muchacha, le da consejos 
+  Critica a la novela de Icaza: muchos paréntesis que interrumpen el fluir de la novela y que fue muy criticado. Ella le dice que debe prestarle atención a esos incisos
     
 -   Releemos Huasipungo tal como la lee y la entiende Chiliquinga músico. Leer las dos en espejo es muy interesante
     
