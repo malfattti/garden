@@ -990,18 +990,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   Él descubre que el personaje es su tocayo, no lo interpreta más allá
 	-   Empieza a soñar y lo visita Icaza y le da consejos. Tb lo visita el personaje. No es lit. fantástica sino que refleja su obsesión / idea de antepasados
 	-   Realiza lectura correctiva de la novela cuando prepara los resúmenes. Y en sus discusiones con María Clara se presenta una cuestión fundamental que es **qué tiene que decir un indígena moderno frente a un libro con perspectiva mestiza**
-	-   El personaje de Icaza (chiliquinga) le habla al Chiliquinga de Arcos Cabrera
-    
--   Diálogos metaficcionales entre María Clara y Chiliquinga del 2000. Al comienzo ella le dice que podría ser el suyo el primer artículo sobre Icaza y sobre esta novela escrito por un quichuahablante. Cómo los describió a "ustedes"?
-    
--   Lector ajeno: mucha exposición sobre algunas cuestiones de América Latina, explicaación de la CONAIE por ejemplo.
-    
--   Tipografías con las que juega Arcos Cabrera
-    
--   Artículo de Arcos Cabrera: 
-    
-
--   Reto inusual
+	-   El personaje de Icaza (Chiliquinga) le habla al Chiliquinga de Arcos Cabrera
+	-   Diálogos metaficcionales entre María Clara y Chiliquinga del 2000. **Al comienzo ella le dice que podría ser el suyo el primer artículo sobre Icaza y sobre esta novela escrito por un quichuahablante**. Cómo los describió a "ustedes"?
+	-   Lector ajeno: mucha exposición sobre algunas cuestiones de América Latina, explicación de la CONAIE por ejemplo.
+	-   Tipografías con las que juega Arcos Cabrera
+	-    Artículo de Arcos Cabrera: 
+	-    Reto inusual
     
 -   Leer a Leonardo Valencia (ensayista muy brillante y novelista, es ecuatoriano y trabajó en la u. De Barcelona)
     
