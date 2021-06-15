@@ -971,20 +971,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Si lo repensamos en la obra de Arcos Cabrera: no hay heroicidad como está presentada anteriormente. Es un héroe porque descubre lo que no conocía y su estatuto, fuera del Ecuador y viéndose con los ojos de los demás. Así como nosotros como lectores de *Huasipungo* veíamos a los ojos ajenos.
 		- Pérdida de heroicidad en el sentido propagandístico de las novelas indigenistas
 		- Pero no por esto el héroe se pierde del todo
-		- Aparece María Clara Pereira, la hija de Alfonso Pereira. Tb en otra novela: Saber lo que es olvido. Aquí tb se alude a su madre que se llama Dolores 
-    
--   En Huasipungo la esposa de pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
-    
-
-  
-  
-
-María de Jorge isaacs: reescritura desde el; pto de vista de la esclava
-
-  
-  
-
-01.06.2021
+		- Aparece María Clara Pereira, la hija de Alfonso Pereira. Tb en otra novela: *Saber lo que es olvido*. Aquí tb se alude a su madre que se llama Dolores 
+			- En *Huasipungo* la esposa de Pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
+	- *María* de Jorge Isaacs: reescritura desde el pto de vista de la esclava
+- Clase: 01.06.2021
 
   
 
