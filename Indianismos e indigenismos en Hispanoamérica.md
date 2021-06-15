@@ -959,19 +959,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- La poesía etnocultural que forma parte de la oraliteratura: manifestaciones textuales (nuestras categorías de referente occidental a veces no encajan con géneros y formas indígenas) que cumplen diversas funciones en la vida de las comunidades. Tradición oral y metalengua específica y situaciones pragmáticas determinadas
 			- Lo llamamos poesía para entenderlo pero… encaja con las formas de estas producciones?
 			- Forma de escritura fundada en la oralidad. El término oraliteratura permite problematizar los problemas e inconvenientes que provoca la oralidad en los sistemas de conocimiento basados en la letra escrita
-    
--   En chile hay dos literaturas: mapuche, rapanui, aymara entre otras, y la chilena, aunque entre ellas haya varios referentes comunes. Voluntad de desmarcarse 
-    
--   Labor del traductor del español al mapudungun (Chihualilaf ha traducido a Neruda, La Araucana -crónica de la conquista de Chile por los españoles) (escritor - traductor, labores que van de la mano)
-    
-
-  
-
-Narrativas actuales 
-
--   reescritura de Huasipungo a través de Andrés Chiliquinga
-    
--   Parodia? Seriedad? Sacralización?
+			- En Chile hay dos literaturas: la mapuche, rapanui, aymara entre otras, y la chilena, aunque entre ellas haya varios referentes comunes. Voluntad de desmarcarse 
+			- Labor del traductor del español al mapudungun (Chihualilaf ha traducido a Neruda, La Araucana -crónica de la conquista de Chile por los españoles) (escritor - traductor, labores que van de la mano)
+	- Narrativas actuales 
+		- reescritura de Huasipungo a través de Andrés Chiliquinga
+		- Parodia? Seriedad? Sacralización?
     
 -   Desmontaje paródico 
     
