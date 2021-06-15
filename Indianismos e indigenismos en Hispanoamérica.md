@@ -836,33 +836,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Ahora se plantea de manera crucial la voz
 	- Extinción o agotamiento? Caen en repetición. Plumas femeninas: realismo mágico cobra otras significaciones. Agotamiento desde los años setenta. 
 	- **Desde los setentas: se instaura escritura que tiende a mayor verismo** y que **cuestiona la autenticidad y veracidad de la historia oficial** hispanoamericana
-	- **Comienza a imponerse a partir de los setenta sobre todo la novela testimonial o novela de referente 
-**
-  
-
-Para finales de los 70 y ppios de los 80 la crítica empieza a hablar d euna nueva orientación o inflexión de toda la producción literaria en una novelística que privilegia el referente. Llo incorpora ya sea de manera documental o más imaginativa. La línea más ficcional
-
-  
-  
-
-Novelas situadas en realidades verificables con personajes de la vida diaria
-
-  
-
-Ejemplo, intención didáctica, aleccionadora. Deseo de rescatar memorias perdidas
-
-  
-  
-
-Aquí se inscribe la primera novela de Miguel Barnet, Biografía de un cimarrón
-
-  
-
-Relata la vida de un esclavo que vivió en cuba - lo interroga cuando tiene 104 años.
-
-  
-
-Elena Poniatowska: "prestar voz a quien no la tiene"”
+	- **Comienza a imponerse a partir de los setenta sobre todo la novela testimonial o novela de referente**
+	- Para finales de los 70 y ppios de los 80 la crítica empieza a hablar de una nueva orientación o inflexión de toda la producción literaria en una novelística que privilegia **el referente**. Lo incorpora ya sea de manera documental o más imaginativa. 
+	- Novelas situadas en realidades verificables con personajes de la vida diaria
+	- Ejemplo, intención didáctica, aleccionadora. Deseo de rescatar memorias perdidas
+	- Aquí se inscribe la primera novela de Miguel Barnet, *Biografía de un cimarrón*
+		- Relata la vida de un esclavo que vivió en Cuba - lo interroga cuando tiene 104 años.
+		- Elena Poniatowska: "prestar voz a quien no la tiene"”
 
   
 
