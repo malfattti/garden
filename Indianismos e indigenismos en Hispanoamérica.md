@@ -953,15 +953,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Desde 2008 en Ecuador shuar y quechua son lenguas oficiales en Ecuador junto con el español, inscritas como oficiales en la constitución
 			- En 2017 en Ecuador se organizaó el primer encuentro de escritores de las nacionalidades y pueblos de Ecuador
 		- Un escritor que acaba de ganar en 2020 un premio muy prestigioso con connotaciones políticas: Elicura Chihuailaf, de Chile. 
-			- Es un poeta mapuche que escribe en mapudungun y ha ganado el premio nacional de literatura. Traductor del castellano al mapudungunEn Chile hay hoy por hoy un millón de mapuches
-    
--   Poesía cultural u oraliteratura. Una de sus propuestas centrales es la oraliteratura como actividad propia de las culturas indígenas en Latinoamérica
-    
--   La poesía etnocultural que forma parte de la oraliteratura: manifestaciones textuales (nuestras categorías de referente occidental a veces no encajan con géneros y formas indígenas) que cumplen diversas funciones en la vida de las comunidades. Tradición oral y metalengua específica y situaciones pragmáticas determinadas
-    
--   Lo llamamos poesía para entenderlo pero… encaja con las formas de estas producciones?
-    
--   Forma de escritura fundada en la oralidad. El término oraliteratura permitte problematizar los problemas e inconvenientes que provoca la oralidad en los sistemas de conocimiento basados en la letra escrita
+			- Es un poeta mapuche que escribe en mapudungun y ha ganado el premio nacional de literatura. Traductor del castellano al mapudungun
+			- En Chile hay hoy por hoy un millón de mapuches
+			- Poesía cultural u oraliteratura. Una de sus propuestas centrales es la oraliteratura como actividad propia de las culturas indígenas en Latinoamérica
+			- La poesía etnocultural que forma parte de la oraliteratura: manifestaciones textuales (nuestras categorías de referente occidental a veces no encajan con géneros y formas indígenas) que cumplen diversas funciones en la vida de las comunidades. Tradición oral y metalengua específica y situaciones pragmáticas determinadas
+			- Lo llamamos poesía para entenderlo pero… encaja con las formas de estas producciones?
+			- Forma de escritura fundada en la oralidad. El término oraliteratura permite problematizar los problemas e inconvenientes que provoca la oralidad en los sistemas de conocimiento basados en la letra escrita
     
 -   En chile hay dos literaturas: mapuche, rapanui, aymara entre otras, y la chilena, aunque entre ellas haya varios referentes comunes. Voluntad de desmarcarse 
     
