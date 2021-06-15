@@ -791,19 +791,19 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-   Telurismo:  Influencia del suelo de una comarca sobre sus habitantes.
 			-  **Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra**
 			-  Arguedas justo está escribiendo su novela mitad ficción mitad autobiográfica 
-			-  *Utopía arcaica* de Vargas Llosa
-				-  tesis sobre 100 años de soledad. 
-				-  *Utopía arcaica* es una lectura muy interesante para complementar a Arguedas. 
-				-  Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-**indigenismo**
-				-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina, una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
-				-  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
-				-  Muerte de Arguedas, muerte del indigenismo como ideología, utopía, etc.
-				-  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
-				-  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
-				-  El indigenismo ha falseado la historia pq ha reconstruido ficcionalmente una cosmovisión incaica que se aparece como inamovible
-				-  Negarse a enfocar el indígena como un ser histórico
-				-  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
-				-  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
+		- *Utopía arcaica* de Vargas Llosa
+			-  tesis sobre 100 años de soledad. 
+			-  *Utopía arcaica* es una lectura muy interesante para complementar a Arguedas. 
+			-  Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-**indigenismo**
+			-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina, una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
+			-  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
+			-  Muerte de Arguedas, muerte del indigenismo como ideología, utopía, etc.
+			-  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
+			-  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
+			-  El indigenismo ha falseado la historia pq ha reconstruido ficcionalmente una cosmovisión incaica que se aparece como inamovible
+			-  Negarse a enfocar el indígena como un ser histórico
+			-  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
+			-  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
 				-   La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
 				-   Considera todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas
 				-   Vargas Llosa: indígena ha abrazado la modernidad ??
