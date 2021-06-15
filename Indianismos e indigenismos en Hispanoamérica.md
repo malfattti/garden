@@ -656,14 +656,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Recepción crítica del indigenismo.
 		- El indigenismo refiere a cuestiones relacionadas con producción literaria, cultura y discurso político
 		- Crítica: intenta definir su estructura y sus límites discursivos, su naturaleza como forma de resistencia cultural y tb se ha trabajado sobre las relaciones del indigenismo con las vanguardias culturales de los 20 
-
-  
-
-El alcance y los límites
-
-Lugar que se le asigna en la historia cultural de la nación, incluso como capital cultural de lo nacional
-
-La conceptualización dominante considera que el indigenismo literario es regionalista al interior de la nación peruana y que está determinado por la representación de u mundo particular (andino o indígena) (esta es la posición de Arguedas tb)
+	- El alcance y los límites
+		- Lugar que se le asigna en la historia cultural de la nación, incluso como capital cultural de lo nacional
+		- La conceptualización dominante considera que el indigenismo literario es regionalista al interior de la nación peruana y que está determinado por la representación de un mundo particular (andino o indígena) (esta es la posición de Arguedas tb)
 
 Su función sería entonces moral, política porque subraya los valores humanos excelsos de la población nativa (Arguedas). Deber de representar estos valores. La literatura indigenista denuncia entonces el estado de injusticia social, presenta promesas de lucha y de reivindicación social.
 
