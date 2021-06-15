@@ -974,18 +974,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Aparece María Clara Pereira, la hija de Alfonso Pereira. Tb en otra novela: *Saber lo que es olvido*. Aquí tb se alude a su madre que se llama Dolores 
 			- En *Huasipungo* la esposa de Pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
 	- *María* de Jorge Isaacs: reescritura desde el pto de vista de la esclava
-- Clase: 01.06.2021
-
-  
-
-Examen: preguntas sobre las lecturas, pero será un examen general. No va a proponer un fragmento de texto. La idea es hablar de forma amplia sobre lo que sabemos, pregunta que permita desarrollo y que no tiene que descolgarse de propósitos generales
-
-  
-
-La primera parte del examen son preguntas sobre los contenidos del curso. No va a entrar en particularidades porque no todos hemos leído lo mismo. Relación cona lgún texto de las 5 novelas que hemos leído, tendrá que ser algo muy general 
-
-  
-
+- **Clase: 01.06.2021**
 -   Arcos Cabrera: Memorias de A. Chiliquinga. Una novela bastante amena
     
 
