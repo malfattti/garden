@@ -773,28 +773,16 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Historia de resistencias contra ataques
 		- Uso muy frecuente del humorismo y tb entra la dimensión de lo grotesco (instrumentos expresivos adecuados para traducir - interpretar la realidad trastornada)
 		- En la última novela: desmitificación / ruptura.
-
-  Agotamiento de la estética magico-realista y de la estética indigenista. Necesidad de salir de perpetuación del universo que revivifica mitos. Entrando en otro período histórico (década de 1980). Nuevas problemáticas e inquietudes de las poblaciones rurales. Este ciclo está evolucionando a la par que la evolución social
-
-  
-
-Término de ciclo de narrativa indigenista que representan las novelas del neoindigenismo
-
-  
-  
-
-Debate literario-ideológico frente al indigenismo: balance
-
-  
-
-Se condena más su ideología que el ejercicio artístico-literario
-
-3 hitos: 
-
-1.  polémica entre Arguedas y Cortázar
-    
-
-1.  Polémica que nació de una forma curiosa y torcida sobre el ejercicio de la literatura y los compromisos del intelectual latinoamericano
+		- Agotamiento de la estética magico-realista y de la estética indigenista. 
+		- Necesidad de salir de perpetuación del universo que revivifica mitos. 
+		- Entrando en otro período histórico (década de 1980). 
+		- Nuevas problemáticas e inquietudes de las poblaciones rurales. Este ciclo está evolucionando a la par que la evolución social
+	- Término de ciclo de narrativa indigenista que representan las novelas del neoindigenismo
+		- Debate literario-ideológico frente al indigenismo: balance
+		- Se condena más su ideología que el ejercicio artístico-literario
+	- 3 hitos:
+		- polémica entre Arguedas y Cortázar:
+			- Polémica que nació de una forma curiosa y torcida sobre el ejercicio de la literatura y los compromisos del intelectual latinoamericano
     
 2.  Discusiones en las que se opone una visión más cosmopolita a una más localista, regionalista
     
