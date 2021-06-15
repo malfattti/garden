@@ -705,10 +705,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Percepción  profunda e interna de la población indígena (infancia de Arguedas relacionada con este mundo)
 	- **Escajadillo**: narradores peruanos del s. XX, 3 etapas: indianismo, indigenismo ortodoxo y neoindigenismo
 		- Categoría de neoindigenismo: centrado en lo que se desenvuelve en términos literarios y que presenta estos rasgos (algunos se solapan con Rowe, otros van en otra dirección):
-			- exploración del universo mítico del habitante andino
-			- Intensificación del lirismo, que implica además mayor subjetivismo en la narrativa
-
-\-Ampliación, complejización y perfeccionamiento del arsenal técnico de la narrativa, mediante proceso de experimentación que supera el indigenismo ortodoxo
+			- exploración del **universo mítico** del habitante andino
+			- Intensificación del **lirismo**, que implica además mayor subjetivismo en la narrativa
+			- **Ampliación, complejización y perfeccionamiento** del arsenal **técnico de la narrativa**, mediante proceso de **experimentación que supera **el indigenismo ortodoxo
 
 \-ampliación del problema/temas indígenas. Ya no es la visión de un pto de vista racial, zonal, etc, sino que hay mayor complejidad. No se restringe a una sola categoría en las que suele encasillarse el referente indígena
 
