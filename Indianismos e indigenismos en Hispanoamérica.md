@@ -947,10 +947,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Nada impide que la lit indígena no sea autorreferencial
 		- Temas sentimentales, vida y muerte, condiciones de vida 
 		- Auténtica riqueza, diversidad y pujanza creativa del mov. Literario indígena: finales del s. XX y ppios del XXI
+		- Proporción de la pujanza: gran trabajo de edición (promoción, venta, publicidad en torno a estas creaciones literarias), libros bilingües o no, labor de recopilación en antologías. Movimiento interesante en lo que supone rescatar, visibilizar, en una cultura tan dominante y diferente. Es un gran trabajo. Recopilación de antologías, trabajos historiográficos, estudios críticos, etc.
     
--   Proporción de la pujanza: gran trabajo de edición (promoción, venta, publicidad en torno a estas creaciones literarias), libros bilingües o no, labor de recopilación en antologías. Movimiento interesante en lo que supone rescatar, visibilizar, en una cultura tan dominante y diferente. Es un gran trabajo. Recopilación de antologías, trabajos historiográficos, estudios críticos, etc.
-    
--   Institucionalización de las literaturas indígenas.
+-  
+-Institucionalización de las literaturas indígenas.
     
 -   En 1993 se funda la asociación civil de escritores indígenas de méxico. Se representan 22 lenguas. Nueva historia que comienza
     
