@@ -926,14 +926,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
 			- Reflexión contemporánea sobre el carácter discursivo de la historia. **No son los hechos históricos, sino discursos sobre los mismos**. No existe una versión única. Si queremos acercarnos más bien **cifrar estos matices**. 
 				- **POR ESO... Pluriperspectivismo o estructura plurifónica**
- 
--   Diferentes o varias versionas de la violencia representan resistencias múltiples, cada cual desde su posición en la estructura social: el militar, el senderista, la mujer, el campesino, etc
-    
--   Colchado intenta así no establecer jerarquías entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
-    
--   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
-    
--   Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltpiple), a la que corresponde la realidad del Perú contemporáneo
+	-   Diferentes o varias versionas de la violencia representan **resistencias múltiples, cada cual desde su posición en la estructura social**: el militar, el senderista, la mujer, el campesino, etc.
+	-   Colchado intenta así **no establecer jerarquías** entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
+		-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
+		- Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltpiple), a la que corresponde la realidad del Perú contemporáneo
     
 -   Rechazar las lógicas verticales y las autoritarias, tanto de sendero luminoso como de los militares. Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. Mediación entre un punto de vista y el otro lo hace el lector.
     
