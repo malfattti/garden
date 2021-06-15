@@ -883,15 +883,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- El objetivo de este grupo fue sustituir (proyecto revolucionario) instituciones peruanas burguesas por régimen campesino comunista sui generis
 		- 1980: incendian urnas electorales en un pueblo del depto de Ayacucho (elecciones generales)
 		- El gobierno declara estado de emergencia y pone el depto bajo control militar
-		- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac Amaru
-
-  
-
-Tupac Amaru II: 1780 logra organizar a los indígenas para combatir a los españoles. Personaje devenido mítico. Mata al gobernador Arriaga y es sometisod a tortura 
-
-  
-
-Comisión de la verdad y reconciliación: CWR: 2003. Después de conocerse el contenido de este informe, nueva camada de producción literaria. 
+	- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac Amaru
+		- Tupac Amaru II: 1780 logra organizar a los indígenas para combatir a los españoles. Personaje devenido mítico. Mata al gobernador Arriaga y es sometido a tortura 
+	- Comisión de la verdad y reconciliación: CVR: 2003. Después de conocerse el contenido de este informe, nueva camada de producción literaria. 
 
 Cruce de intereses entre esta lit y la indigensta, porque es precisamente la población indígena la que más duramente es castigada en este conflicto 9una vez más).
 
