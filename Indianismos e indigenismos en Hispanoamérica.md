@@ -934,12 +934,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. 
 		- Mediación entre un punto de vista y el otro lo hace el lector.
 	- Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
-	- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de la Divina comedia (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo** (1955 - deambulación de Juan preciado ocurre en un mundo de muertos)
-    
-
-  
-
-Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
+	- Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de ***La divina comedia*** (especialmente por el infierno - novela de la violencia) + **Juan Rulfo: ***Pedro Páramo*** (1955 - deambulación de Juan Preciado ocurre en un mundo de muertos)
+	- Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
 
 -   Dos líneas de apreciación de las narrativas más recientes
     
