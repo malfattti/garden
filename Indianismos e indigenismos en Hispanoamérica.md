@@ -967,15 +967,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Desmontaje paródico
 		- Esta novela se deja leer como algo relativamente ligero pero que a la vez plantea releer toda la tradición
 		- Diálogo explícito con una novela faro del Indigenismo: *Huasipungo* de Jorge Icaza
-		- Reaparece Andrés Chiliquinga. Ya no es el trabajador miserable y violento que vive sometido a vejaciones en Huasipungo. Ahora es un músico que encabeza la revuelta con la que se cierra Huasipungo. 
-    
--   Si lo repensamos en la obra de Arcos cabrera: no hay heroicidad como está presentada anteriormente. Es un héroe porque descubre lo que no conocía y su estatuto, fuera del Ecuador y viéndose con los ojos de los demás. Así como nosotros como lectores de Huasipungo veíamos a los ojos ajenos.
-    
--   Pérdida de heroicidad en el sentido propagandístico de las novelas indigenistas 
-    
--   Pero no por esto el héroe se pierde del todo
-    
--   Aparece María Clara preira, la hija de Alfonso Pereira. Tb en otra novela: Saber lo que es olvido. Aquí tb se alude a su madre que se llama Dolores 
+		- Reaparece Andrés Chiliquinga. Ya no es el trabajador miserable y violento que vive sometido a vejaciones en Huasipungo. Ahora es un músico que encabeza la revuelta con la que se cierra Huasipungo.
+		- Si lo repensamos en la obra de Arcos Cabrera: no hay heroicidad como está presentada anteriormente. Es un héroe porque descubre lo que no conocía y su estatuto, fuera del Ecuador y viéndose con los ojos de los demás. Así como nosotros como lectores de *Huasipungo* veíamos a los ojos ajenos.
+		- Pérdida de heroicidad en el sentido propagandístico de las novelas indigenistas
+		- Pero no por esto el héroe se pierde del todo
+		- Aparece María Clara Pereira, la hija de Alfonso Pereira. Tb en otra novela: Saber lo que es olvido. Aquí tb se alude a su madre que se llama Dolores 
     
 -   En Huasipungo la esposa de pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
     
