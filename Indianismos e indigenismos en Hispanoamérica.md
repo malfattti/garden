@@ -828,7 +828,483 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Lo más concreto es el rechazo a la implantación para la explotación agrícola - que los estados nacionales admitan ese acaparamiento de zonas que son propiedad nacional
 		- En esta lucha consiste lo que hoy llamaríamos indianismo. Concepto que tb se aplica al campo social entonces
 
+- Clase: 18.05: Literaturas andinas
+	- Concentraremos en los años que van de los 80 a los 2000: narrativa que concierne al caso peruano y que tiene relación con la narrativa de la llamada guerra interna
+	- Literatura testimonial de referente indígena: 
+	- Estatuto de la voz indígena?
+		- Ni en la lit indianista romántica ni en la indigenista teníamos esa entrada en esa visión "desde adentro" que sí tenemos en Arguedas, por ejemplo.
+
+Ahora se plantea de manera crucial la voz
+
   
+
+Una vez que se extingue. 
+
+  
+
+Extinción o agotamiento? Caen en repetición. Plumas femeninas: realismo mágico cobra otras significaciones. Agotamiento desde los años setenta. 
+
+  
+
+Desde los setentas: se instaura escritura que tiende a mayor verismo y que cuestiona la autenticidad y veracidad d ela historia oficial hispanoamericana
+
+  
+
+Comienza a imponerse a partir de los setenta sobre todo la novela testimonial o novela de referente 
+
+  
+
+Para finales de los 70 y ppios de los 80 la crítica empieza a hablar d euna nueva orientación o inflexión de toda la producción literaria en una novelística que privilegia el referente. Llo incorpora ya sea de manera documental o más imaginativa. La línea más ficcional
+
+  
+  
+
+Novelas situadas en realidades verificables con personajes de la vida diaria
+
+  
+
+Ejemplo, intención didáctica, aleccionadora. Deseo de rescatar memorias perdidas
+
+  
+  
+
+Aquí se inscribe la primera novela de Miguel Barnet, Biografía de un cimarrón
+
+  
+
+Relata la vida de un esclavo que vivió en cuba - lo interroga cuando tiene 104 años.
+
+  
+
+Elena Poniatowska: "prestar voz a quien no la tiene"”
+
+  
+
+Discurso disidente de cierta manera, frente al der oficial, a la hegemonía, que dictamina lo que es válido y lo que va a caracterizar gran parte de los discursos literarios que van a suceder al boom
+
+  
+
+Llamar la atención sobre las injusticias que no tienen voz. Sectores marginales o más desfavorecidos.
+
+El testimonio aspira a cumplir varios objetivos o faenas: concebir una ética renovada que exponga las inmoralidades de las opresiones (discrimnación, totura, etc). Examen contracultural.
+
+  
+  
+
+Hugo Achugar: un examen de lo real espantoso (versus lo real maravilloso). Tendencia subversiva: se apoya en evidencia no suministrada por la historiografía oficial sino por los auténticos testigos marginales al gran acontecer histórico.
+
+  
+
+Trabajo interdisciplinario en la medida en que aprovecha técnicas de plasmación y representación que procede de campos de diversas disciplinas como antropología (sobre todo etnografía), literatura realista
+
+  
+
+Modo de registrar las vivencias desde dentro de comunidades secularmente excluidas
+
+  
+  
+
+Domitila Barrios de Chungara 
+
+Si me permiten hablar…  1977
+
+  
+
+Trabajadora de las minas de estaño bolivianas.
+
+  
+
+Cómo adaptar el habla a la novela, trabajo de edición: quitar repeticiones, organizar el discurso, etc
+
+  
+
+Miguel barnet ha reflexionado mucho sobre la necesaria organización del material que hace el mediador. De voz indígena? Gran parte de lo testimonial pertenece a la voz del hablante pero depsués están las reorganizaciones a las que somete  a su material
+
+  
+
+Moema Bietzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México.
+
+Reflexiones de genero y de clase. Iluminar parcela de proletariado minero que sobrevive en bolivia en pésimas condiciones.
+
+Palabra: fuente de sabiduría que se transforma
+
+  
+  
+
+Voz de la mujer: libertad condicionada por el patriarcado. Alcance de estos dos objetivos de inscribir memoria de un hablante indígena que ha conocido una vivencia particular y por otro lado, generar una viisión desd una perspectiva feminista
+
+  
+  
+
+Segundo testimonio: Me llamo Rigoberta Menchú (1983). Doble autoría: Elizabeth Burgos, su nombre apenas aparecía
+
+Recibe el premio nobel en 1995 \*500 años del descubrimiento de Américo. Intereses mezclados.
+
+  
+
+Sobreviviente de la campaña de exterminio de la población indígena en Guatemala y exiloada en México
+
+  
+
+Su exilio a México tiene como contexto el conflicto armado de Guatemala que enfrentó el ejército contra los movimientos armados de liberación 
+
+  
+
+La comisión de esclarecimiento histórico presenta en 1999 un informe en que Guatemala reconoce 200.000 muertos durante guerra civi.
+
+Entre muertos y desapariciones: 626 matanzas atribuidas a fuerzas del estado - reconocimiento del carácter étnico, genocidio
+
+  
+
+REMH: informa de la recuperación de la memoria histórica. Más de 55000 violaciones durante el conflicto. Quien lo entregó fue desaparecido. Violaciones atribuibles al ejército y solo una porción la guerrilla.
+
+  
+
+Ovieda: figura que encarna las mujeres, el movimiento de liberación e independencia, y..?
+
+Esta fama le vale la entrega del premio nobel de la paz/
+
+  
+  
+
+Elizabeth Burgos: grabadora, redactora, editora de esta llamada biografía. Era venezolanba, atropóloga y escritora, casada con el abogado y filosofo revolcuonario francés regis debray (?) seguidor del che y los sandinistas en nicaragua
+
+  
+
+El nombre de Burgos aparece casi escondido y la obra aparece como un contradocumento oficial. Límites de la documentación?
+
+  
+  
+
+Literatura? Documento?
+
+  
+
+Muy raramente tenemos en estos textos un testimonio de una persona que es la que lo escribe, la mayoría de las veces se trata de un testimonio con un mediador 
+
+  
+  
+
+Literatura de la violencia, de la memoria de la violencia, novelas de violencia política… o de narrativa de la guerra interna. Todas estas denomianciones remiten más o menos a la misma etapa.
+
+  
+
+2 etapas:
+
+1.  Desde los años iniciales del conflicto (o sea contemporáneas al conflicto armado interno) 1980-2000
+    
+2.  2003 (cierre del conflicto)- nuestros días: auténtica inflación de lit peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
+    
+
+  
+
+Marc Cox: bibliografía peruana anotada…: se trata de un recuento bibliográfico de más de 30 pp. Con títulos. Entre 7 y 8 títulos por página. Lit. peruana sobre la guerra interna
+
+  
+
+Concientización de la clase media costeña limeña y todo el resto del Perú rural, de la sierra, y esa oposición. "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia crreación.
+
+Escritores más alejados de estas realidades tb tomarán estos temas; realidad ineludible
+
+  
+  
+
+La época conocida oficialmente (porel estado peruano) como "cnflicto armado interno en el perú", no oficialmente como "terrorismo XXX"
+
+  
+
+Sendero Luminoso: grupo fundado en 1960 por abimael guzmán (camarada Gonzalo): por el sendero luminoso de mari\\ategui
+
+  
+
+El objetivo de este grupo fue sustituir (proyecto revolucionario) instituciones peruanas burguesas por régimen campesino comunista sui generis
+
+  
+
+1980: incendian urnas electorales en un pueblo del depto de Ayacucho (elecciones generales)
+
+El gobierno declara estado de emergencia y pone el depto bajo control militar
+
+Aparici'ón de otro movimiento guerrillero, el MRTA: movimiento revolucionario tupac amaru
+
+  
+
+Tupac Amaru II: 1780 logra organizar a los indígenas para combatir a los españoles. Personaje devenido mítico. Mata al gobernador Arriaga y es sometisod a tortura 
+
+  
+
+Comisión de la verdad y reconciliación: CWR: 2003. Después de conocerse el contenido de este informe, nueva camada de producción literaria. 
+
+Cruce de intereses entre esta lit y la indigensta, porque es precisamente la población indígena la que más duramente es castigada en este conflicto 9una vez más).
+
+Y son muchos los historiadores de la lit que defienden una "coherente continuidad" entre el indigenismo literario y la narrativa más recuente de la guerra interna
+
+  
+
+El informe dice que de 4 víctimas 3 eran campesinos con lengua materna quechua, pero a la vez niega la idea de que el conflicto haya tenido un carácter racial (a diferencia del conflicto guatemalteco)
+
+  
+
+25.05.2021
+
+  
+
+2 líneas principales:
+
+\-lit. Testimonial de referente indígena
+
+  
+  
+
+ 2000"se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
+
+Telón de fondo sobre el que se desarrolla la trama narrativa.
+
+Obras que esquiven del todo este contexto político / histórico reciente
+
+  
+
+Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio ortega titulada adiós ayacucho.
+
+Mario vargas llosa: Lituma en los andes
+
+  
+
+Rosa Cuchillo: 1997 de Óscar Colchado.
+
+  
+
+Óscar Colchado es peruano, nace en Guayanca, en la cordillera andina
+
+"Imaginario del trauma"”
+
+-   Parte del enfoque de un drama personal que se quiere representativo de un drama colectivo.
+    
+-   La historia que se nos narra y que ocurre en un más allá andino pertenece a una mujer y su hijo, ambos han sido afectados por la guerra.
+    
+-   Colchado relata el sombrío destino: tratamiento mítico de los afectados por el conflicto bélico
+    
+-   Tanto la representación del indígena como la interpretación del origen de la violencia se conforman en relación a una lectura utópica y a una lectura andina de la historia cuyo propósito u ocupación central es reafirmar la identidad indígena y reparar las injusticias asociadas con esta pertenencia 
+    
+-   Mundo cultural que se ve aún más degradado por estas circunstancias.
+    
+-   Impacto muy directo, cifras oficiales de este conflicto.
+    
+-   Rosa cuchillo articula diversas perspectivas. Es una novela polifónica.
+    
+-   Estas perspectivas se articulan de manera muy fluida
+    
+-   No hay voluntad de darle mayor peso a una perspectiva que a otra
+    
+-   La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela
+    
+-   Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
+    
+-   Rosa Wanca va en búsqueda de su hijo, Liborio, desaparecido en el conflicto armado
+    
+-   Se alternan después 
+    
+-   Otras perspectivas importantes: 
+    
+
+-   Anficha (dirige un grupo de senderistas), 
+    
+-   Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
+    
+-   Livorio (miembro de sendero luminoso, tb indígena. En ppio activo y luego se va alejando de la ideología de sendero luminoso porque descubre el peos de la violencia que conlleva esa postura. Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés)
+    
+
+-   Pachacutec: emperador del s. XV ? llamado "el reformador", el que cambia el rumbo de la tierra
+    
+
+-   La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxiste europeo
+    
+-   Liborio descubre que al final ese marxismo es un concepto colonial.
+    
+-   Entonces, liberación que consiste en cambiar por una vía que es propia
+    
+-   Diferentes versiones de la violencia y del enfrentamiento (no existe una visión única de este)
+    
+-   Reflexión contemporánea sobre el carácter discursivo de la historia. No son los hechos históricos, sino discursos sobre los mismos. No existe una versión única. Si queremos acercarnos más bien cifrar estos matices. Pluriperspectivismo o estructura plurifónica
+    
+-   Diferentes o varias versionas de la violencia representan resistencias múltiples, cada cual desde su posición en la estructura social: el militar, el senderista, la mujer, el campesino, etc
+    
+-   Colchado intenta así no establecer jerarquías entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
+    
+-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
+    
+-   Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltpiple), a la que corresponde la realidad del Perú contemporáneo
+    
+-   Rechazar las lógicas verticales y las autoritarias, tanto de sendero luminoso como de los militares. Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. Mediación entre un punto de vista y el otro lo hace el lector.
+    
+-   Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
+    
+-   Camino a traés del mundo de los muertos: paralelo andino a través de un imaginario y referencias culturales. Viaje por antonomasia a través del más allá es el de la divina comedia (especialmente por el infierno - novela de la violencia) + Juan Rulfo: Pedro Páramo (1955 - deambulación de Juan preciado ocurre en un mundo de muertos)
+    
+
+  
+
+Doble dirección de narrativas actuales indígenas y narrativas actuales de referente indígena - Ahora en contexto globalizado y posmoderno (llamado a una hiperactualidad)
+
+-   Dos líneas de apreciación de las narrativas más recientes
+    
+-   Literatura indigena (muchas, pero no todas, de referente indigena)
+    
+
+-   Ante una noción muy amplia y cada vez más polisémica
+    
+-   Decir de referente indígena a finales del s. XX es hablar de algo que se dispara a muchos sentidos. Lit. sobre el indianismo y el indigenismo, con el neoindigenismo y el testimonio. 
+    
+-   Sobre, con y DE los indígenas (a veces llamada tb nativa)
+    
+-   A la lit indígena se refería Mariátegui 
+    
+-   Ha habido producciones no en español, como encontramos en la obra de Arguedas. No hablamos de traducciones sino de escritos originalmente en quechua
+    
+-   Nada impide que la lit indígena no sea autorreferencial
+    
+-   Temas sentimentales, vida y muerte, condiciones de vida 
+    
+-   Auténtica riqueza, diversidad y pujanza creativa del mov. Literario indígena: finales del s. XX y ppios del XXI
+    
+-   Proporción de la pujanza: gran trabajo de edición (promoción, venta, publicidad en torno a estas creaciones literarias), libros bilingües o no, labor de recopilación en antologías. Movimiento interesante en lo que supone rescatar, visibilizar, en una cultura tan dominante y diferente. Es un gran trabajo. Recopilación de antologías, trabajos historiográficos, estudios críticos, etc.
+    
+-   Institucionalización de las literaturas indígenas.
+    
+-   En 1993 se funda la asociación civil de escritores indígenas de méxico. Se representan 22 lenguas. Nueva historia que comienza
+    
+-   Desde 2008 en Ecuador schwarz y quechua son lenguas oficiales en Ecuador junto con el español, inscritas como oficiales en la constitución
+    
+-   En 2017 en Ecuador se organizaó el primer encuentro de escritores de las nacionalidades y pueblos de Ecuador
+    
+-   Un escritor que acaba de ganar en 2020 un premio muy prestigioso con connotaciones políticas: Elicura Chihuailaf. Es un poeta mapuche que escribe en mapudungun y ha ganado el premio nacional de literatura. Traductor del castellano al mapudungun
+    
+-   En Chile hay hoy por hoy un millón de mapuches
+    
+-   Poesía cultural u oraliteratura. Una de sus propuestas centrales es la oraliteratura como actividad propia de las culturas indígenas en Latinoamérica
+    
+-   La poesía etnocultural que forma parte de la oraliteratura: manifestaciones textuales (nuestras categorías de referente occidental a veces no encajan con géneros y formas indígenas) que cumplen diversas funciones en la vida de las comunidades. Tradición oral y metalengua específica y situaciones pragmáticas determinadas
+    
+-   Lo llamamos poesía para entenderlo pero… encaja con las formas de estas producciones?
+    
+-   Forma de escritura fundada en la oralidad. El término oraliteratura permitte problematizar los problemas e inconvenientes que provoca la oralidad en los sistemas de conocimiento basados en la letra escrita
+    
+-   En chile hay dos literaturas: mapuche, rapanui, aymara entre otras, y la chilena, aunque entre ellas haya varios referentes comunes. Voluntad de desmarcarse 
+    
+-   Labor del traductor del español al mapudungun (Chihualilaf ha traducido a Neruda, La Araucana -crónica de la conquista de Chile por los españoles) (escritor - traductor, labores que van de la mano)
+    
+
+  
+
+Narrativas actuales 
+
+-   reescritura de Huasipungo a través de Andrés Chiliquinga
+    
+-   Parodia? Seriedad? Sacralización?
+    
+-   Desmontaje paródico 
+    
+-   Esta novela se deja leer como algo relativamente ligero pero que a la vez plantea releer toda la tradición
+    
+-   Diálogo explícito con una novela faro del Indigenismo: Huasipungo de Jorge Icaza
+    
+-   Reaparece Andrés Chiliquinga. Ya no es el trabajador miserable y violento que vive sometido a vejaciones en Huasipungo. Ahora es un músico que encabeza la revuelta con la que se cierra Huasipungo. 
+    
+-   Si lo repensamos en la obra de Arcos cabrera: no hay heroicidad como está presentada anteriormente. Es un héroe porque descubre lo que no conocía y su estatuto, fuera del Ecuador y viéndose con los ojos de los demás. Así como nosotros como lectores de Huasipungo veíamos a los ojos ajenos.
+    
+-   Pérdida de heroicidad en el sentido propagandístico de las novelas indigenistas 
+    
+-   Pero no por esto el héroe se pierde del todo
+    
+-   Aparece María Clara preira, la hija de Alfonso Pereira. Tb en otra novela: Saber lo que es olvido. Aquí tb se alude a su madre que se llama Dolores 
+    
+-   En Huasipungo la esposa de pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
+    
+
+  
+  
+
+María de Jorge isaacs: reescritura desde el; pto de vista de la esclava
+
+  
+  
+
+01.06.2021
+
+  
+
+Examen: preguntas sobre las lecturas, pero será un examen general. No va a proponer un fragmento de texto. La idea es hablar de forma amplia sobre lo que sabemos, pregunta que permita desarrollo y que no tiene que descolgarse de propósitos generales
+
+  
+
+La primera parte del examen son preguntas sobre los contenidos del curso. No va a entrar en particularidades porque no todos hemos leído lo mismo. Relación cona lgún texto de las 5 novelas que hemos leído, tendrá que ser algo muy general 
+
+  
+
+-   Arcos Cabrera: Memorias de A. Chiliquinga. Una novela bastante amena
+    
+
+-   Es el protagonista, indígena de Otavalo, la sierra norte de Ecuador, que en verano del 2000 asiste en la u. De Columbia a un curso doctoral sobre literaturas andinas 
+    
+-   Ensayo que nos va a poner en una carpeta tiene muchos detalles sobre esta novela. Artículo de Alicia Ortega Caicedo:
+    
+
+-   Dirigente de la CONAIE (agrupación existente que se sublevó terminando la presidencia del 2000 - circunstancias económicas desastrosas, esta agrupación de indígenas van a levantarse e incluso ocupar la corte suprema de justifica y entraron en el palacio presidencia, el presidente es depuesto)
+    
+-   A través de esta agrupación Andrés viaja a tmar este curso y tiene que preparar una conferencia sobre Huasipungo. 
+    
+-   Su posición es interesante para ver si el libro de Icaza refleja verdaderamente la situaciónindígena. El no es especialista en literatura ni en la sociedad o historia indígenas, el es músico y artesano
+    
+-   Descubre que el punto de vista de Icaza es rebatible. Discusión sobre los puntos que habíamos subrayado. Mirada ajena sobre un mundo que no deja de representarse en su otredad
+    
+-   Discusiones con María Clara Pereyra, tb ecuatroiana, que se acerca a Chiliquinga
+    
+
+-   Pereira es el apellido del dueño de la hacienda que rige el destino de los huasipungueros
+    
+
+  
+  
+
+-   Intercambio con joven muchacha, le da consejos 
+    
+-   Critica a la novela de Icaza: muchos paréntesis que interrumpen el fluir de la novela y que fue muy criticado. Ella le dice que debe prestarle atención a esos incisos
+    
+-   Releemos Huasipungo tal como la lee y la entiende Chiliquinga músico. Leer las dos en espejo es muy interesante
+    
+-   Él descubre que el personaje es su tocayo, no lo interpreta más allá
+    
+-   Empieza a soñar y lo visita Icaza y le da consejos. Tb lo visita el personaje. No es lit. fantástica sino que refleja su obsesión / idea de antepasados
+    
+-   Realiza lectura correctiva de la novela cuando prepara los resúmenes. Y en sus discusiones con María Clara se presenta una cuestión fundamental que es qué tiene que decir un indígena moderno frente a un libro con perspectiva mestiza
+    
+-   El personaje de Icaza (chiliquinga) le habla al Chiliquinga de Arcos Cabrera
+    
+-   Diálogos metaficcionales entre María Clara y Chiliquinga del 2000. Al comienzo ella le dice que podría ser el suyo el primer artículo sobre Icaza y sobre esta novela escrito por un quichuahablante. Cómo los describió a "ustedes"?
+    
+-   Lector ajeno: mucha exposición sobre algunas cuestiones de América Latina, explicaación de la CONAIE por ejemplo.
+    
+-   Tipografías con las que juega Arcos Cabrera
+    
+-   Artículo de Arcos Cabrera: 
+    
+
+-   Reto inusual
+    
+-   Leer a Leonardo Valencia (ensayista muy brillante y novelista, es ecuatoriano y trabajó en la u. De Barcelona)
+    
+-   Neoindigenismo o apropiación cultural?
+    
+-   Reemprende un ejercicio desde el mismo posicionamiento / relacionado con una etnia. Posibilidad de escribir sobre los personajes que nos plazcan mas que nuestra propia identidad.
+    
+-   Lucha interior de un joven que descubre a través de la literatura lo que otros han dicho de sus antepasados. Lleno de contradicciones. Arcos Cabrera pone el dedo sobre un debate que cualquier escritor o lector podemos comentar. La autenticidad de una experiencia ficcional pero que remite a referente real? Cómo me sitúo y qué es para mí una auténtica novela indigenista/neoindigenista? Tiene o no que ver? Arguedas se posiciona de forma muy crítica. 
+    
+-   Literatura de referente indigena versus indigena (etno poesía, posicionamiento uatoafirmación de sí desde parámetros delimitativos, estamos ahí leyendo y ibservaod ests debates entre literarios y con dimensión de discusión identitaria-ética)
+    
+
+
+
+**
   
   
 **
