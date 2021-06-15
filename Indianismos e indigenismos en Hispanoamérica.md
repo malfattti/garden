@@ -916,10 +916,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- **Otras perspectivas importantes: **
 				- Anficha (dirige un grupo de senderistas)
 				- Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
-				- Livorio (miembro de sendero luminoso, tb indígena. En ppio activo y luego se va alejando de la ideología de sendero luminoso porque descubre el peos de la violencia que conlleva esa postura. Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés)
-    
-
--   Pachacutec: emperador del s. XV ? llamado "el reformador", el que cambia el rumbo de la tierra
+				- Livorio (miembro de Sendero luminoso, tb indígena. 
+					- En ppio activo y luego se va alejando de la ideología de Sendero luminoso porque descubre el peso de la violencia que conlleva esa postura. 
+					- Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés
+					- Pachacutec: emperador del s. XV ? llamado "el reformador", el que cambia el rumbo de la tierra
     
 
 -   La novela propone a partir del cambio de mentalidad de Liborio el pachacuti como un paradigma otro, que si bien tiende a la liberación es distinto del de origen marxiste europeo
