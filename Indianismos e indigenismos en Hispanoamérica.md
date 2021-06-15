@@ -671,13 +671,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-  Para Rama la presencia de estos componentes nos informan del carácter **transculturado** de esa narración
 	-  Cornejo Polar (Perú) profundiza esta reflexión diciendo que **ni el autor ni el lector participan en el mundo del referente. El autor escribe la novela en castellano que no es la lengua del referente, en la que vive y se expresa el referente**.
 	-  Para Cornejo esta estructura revela la **heterogeneidad**, la contradicción de naciones que no pueden decirse a sí mismas por su condición desgarrada, heterogénea
-	-  Estas narrativas presentan reflexiones y ficciones que al intentar resolver el problema nacional lo repiten. Reproducen conflicto irresuelto. El indigenismo es revelador de esa condición. No es una condena de Cornejo Polar, es considerar que son reveladoras de esas condiciones.
-
-  
-
-1997: Mirko Lauer: diferencia entre indigenismo sociopolítico del artístico literario (este es el 2). La unión entre los dos es un correlato ideológico
-
-Elabora concepto referido a la producción del 2: dice que es una reversión ejecutada por las clases medias y dominantes
+	-  **Estas narrativas presentan reflexiones y ficciones que al intentar resolver el problema nacional lo repiten**. Reproducen conflicto irresuelto. El indigenismo es revelador de esa condición. No es una condena de Cornejo Polar, es considerar que son reveladoras de esas condiciones.
+	- 1997: Mirko Lauer:**diferencia entre indigenismo sociopolítico del artístico literario** (este es el 2). La unión entre los dos es un correlato ideológico
+		- Elabora concepto referido a la producción del 2: dice que es una reversión ejecutada por las clases medias y dominantes
 
 Reversión: fenómeno por el cual un conjunto de miembros del sector más moderno de una cultura intenta apartarse del avance de la modernización inter o transnacional trasladando el foco de interés a la parte más tradicional de la cultura.
 
