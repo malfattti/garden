@@ -845,27 +845,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Elena Poniatowska: "prestar voz a quien no la tiene"”
 	- **Discurso disidente** de cierta manera, **frente al oficial, a la hegemonía**, que dictamina lo que es válido y lo que va a caracterizar gran parte de los discursos literarios que van a suceder al boom
 	- Llamar la atención sobre las injusticias que no tienen voz. Sectores **marginales** o más desfavorecidos.
-	- El testimonio aspira a cumplir varios objetivos o faenas: concebir una ética renovada que exponga las inmoralidades de las opresiones (discrimnación, tortura, etc). Examen contracultural.
+	- El testimonio aspira a cumplir varios objetivos o faenas: concebir una **ética renovada** que exponga las **inmoralidades de las opresiones** (discrimnación, tortura, etc). Examen contracultural.
 	- Hugo Achugar: un examen de lo real espantoso (versus lo real maravilloso). Tendencia subversiva: se apoya en evidencia no suministrada por la historiografía oficial sino por los auténticos testigos marginales al gran acontecer histórico.
-
-  
-
-Trabajo interdisciplinario en la medida en que aprovecha técnicas de plasmación y representación que procede de campos de diversas disciplinas como antropología (sobre todo etnografía), literatura realista
-
-  
-
-Modo de registrar las vivencias desde dentro de comunidades secularmente excluidas
-
-  
-  
-
-Domitila Barrios de Chungara 
-
-Si me permiten hablar…  1977
-
-  
-
-Trabajadora de las minas de estaño bolivianas.
+	- Trabajo interdisciplinario en la medida en que aprovecha técnicas de plasmación y representación que proceden de campos de diversas disciplinas como antropología (sobre todo etnografía), literatura realista
+	- Modo de registrar las vivencias desde dentro de comunidades secularmente excluidas
+	- **Domitila Barrios de Chungara: *Si me permiten hablar*…  1977**
+		- Trabajadora de las minas de estaño bolivianas.
 
   
 
