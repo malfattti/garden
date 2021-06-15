@@ -890,24 +890,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Y son muchos los historiadores de la literatura que defienden una "coherente continuidad" entre el indigenismo literario y la narrativa más recuente de la guerra interna
 	- **El informe dice que de 4 víctimas 3 eran campesinos con lengua materna quechua, pero a la vez niega la idea de que el conflicto haya tenido un carácter racial (a diferencia del conflicto guatemalteco)**
 
-  
-
-25.05.2021
-
-  
-
-2 líneas principales:
-
-\-lit. Testimonial de referente indígena
-
-  
-  
-
- 2000"se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
-
-Telón de fondo sobre el que se desarrolla la trama narrativa.
-
-Obras que esquiven del todo este contexto político / histórico reciente
+- **Clase: 25.05.2021**
+- 2 líneas principales:
+	- lit. Testimonial de referente indígena
+	- 2000: se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
+	- Telón de fondo sobre el que se desarrolla la trama narrativa.
+	- Obras que esquiven del todo este contexto político / histórico reciente
 
   
 
