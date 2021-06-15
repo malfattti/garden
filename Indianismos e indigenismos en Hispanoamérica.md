@@ -929,9 +929,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   Diferentes o varias versionas de la violencia representan **resistencias múltiples, cada cual desde su posición en la estructura social**: el militar, el senderista, la mujer, el campesino, etc.
 	-   Colchado intenta así **no establecer jerarquías** entre esos diferentes discursos que equivalen a posicionamientos condicionados por parámetros
 		-   Desjerarquizadamente, pero cada versión es atendible desde un enfoque dado
-		- Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltpiple), a la que corresponde la realidad del Perú contemporáneo
-    
--   Rechazar las lógicas verticales y las autoritarias, tanto de sendero luminoso como de los militares. Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. Mediación entre un punto de vista y el otro lo hace el lector.
+	- **Pretender que se asuma de cierto modo la heterogeneidad (concepto que venimos arrastrando hace ya tiempo), y una heterogeneidad conflictiva (múltiple), a la que corresponde la realidad del Perú contemporáneo**
+	- Rechazar las lógicas verticales y las autoritarias, tanto de sendero luminoso como de los militares. Cohabitar puntos de vista opuestos que han generado la violencia. Reto y ambición muy grandes. Mediación entre un punto de vista y el otro lo hace el lector.
     
 -   Dos caras de una misma deriva autoritaria en tiempos de violencia extrema 
     
