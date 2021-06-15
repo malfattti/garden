@@ -799,18 +799,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
 				-  Muerte de Arguedas, muerte del indigenismo como ideología, utopía, etc.
 				-  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
-    
-7.  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
-    
-8.  El indigenismo ha falseado la historia pq ha reconstruido ficcionalmente una cosmovisión incaica que se aparece como inamovible
-    
-9.  Negarse a enfocar el indígena como un ser histórico, 
-    
-10.  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
-    
-11.  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
-    
-12.  La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
+				-  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
+				-  El indigenismo ha falseado la historia pq ha reconstruido ficcionalmente una cosmovisión incaica que se aparece como inamovible
+				-  Negarse a enfocar el indígena como un ser histórico
+				-  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
+				-  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
+				-   La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
     
 13.  Considera que todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas.
     
