@@ -680,37 +680,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- No reestablecen lo autóctono, sino que **amplían la esfera de la cultura dominante** (capital cultural, control de lo simbólico) en dirección de lo que percibían como lo tradicional no hispano (lo no dominante)
 		- El resultado concreto del indigenismo 2 no es el retorno de lo autóctono sino que el ámbito de lo criollo se expande. Este tipo de análisis se puede aplicar a muchas demandas que proceden de ámbitos sociales marginados
 		- Capacidad de lo criollo para hacerse cargo de la cultura nacional
-		- Indigenismo 2: poética criolla de apropiación de lo autóctono
-
-  
-
-Asimilar la resistencia ajena a la propia (por ejemplo contra el español en la independencia)
-
-  
-
-Práctica que plantea no pocos problemas (autenticidad veracidad)
-
-  
-
-Los ríos profundos (1958), Arguedas
-
-Arguedas
-
-  
-
-A partir de la década del 50 lo que profundiza la creación de arguedas es lo que permite a Escajadillo optar una deonominación que indica cambio en el indigenismo de una forma prometedora, neoindigenismo.
-
-  
-
-Qué es el neoindigenismo?
-
-Convergencia en los neoindigenistas de unas características
-
-  
-
-Temas:
-
-El mismo, pero el tema del personaje indígena es radicalmente diferente. Según Cornejo Polar los autores indigenistas aprendieron mucho de los escritores del boom (o es al revés?). Arguedas es uno de los grandes olvidados del boom
+		- Indigenismo 2: poética criolla de apropiación de lo autócton
+		- Asimilar la resistencia ajena a la propia (por ejemplo contra el español en la independencia)
+		- Práctica que plantea no pocos problemas (autenticidad veracidad)
+	- **Los ríos profundos (1958), Arguedas**
+		- A partir de la década del 50 lo que profundiza la creación de Arguedas es lo que permite a Escajadillo optar una deonominación que indica **cambio en el indigenismo de una forma prometedora, neoindigenismo**.
+		- Qué es el neoindigenismo?
+			- Temas:
+				- El mismo, pero el tema del personaje indígena es radicalmente diferente. Según Cornejo Polar los autores indigenistas aprendieron mucho de los escritores del boom (o es al revés?). Arguedas es uno de los grandes olvidados del boom
 
 Cornejo Polar se±nala un momento de gran experimentación narrativa
 
