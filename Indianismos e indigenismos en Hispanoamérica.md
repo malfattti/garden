@@ -975,7 +975,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- En *Huasipungo* la esposa de Pereira es doña Blanca y la que se llama Dolores es una niña de 17 años embarazada de un cholo. Designación identitaria de connotación negativa.
 	- *María* de Jorge Isaacs: reescritura desde el pto de vista de la esclava
 - **Clase: 01.06.2021**
--   Arcos Cabrera: Memorias de A. Chiliquinga. Una novela bastante amena
+	-   Arcos Cabrera: Memorias de A. Chiliquinga. Una novela bastante amena
     
 
 -   Es el protagonista, indígena de Otavalo, la sierra norte de Ecuador, que en verano del 2000 asiste en la u. De Columbia a un curso doctoral sobre literaturas andinas 
