@@ -891,17 +891,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- **El informe dice que de 4 víctimas 3 eran campesinos con lengua materna quechua, pero a la vez niega la idea de que el conflicto haya tenido un carácter racial (a diferencia del conflicto guatemalteco)**
 
 - **Clase: 25.05.2021**
-- 2 líneas principales:
-	- lit. Testimonial de referente indígena
-	- 2000: se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
-	- Telón de fondo sobre el que se desarrolla la trama narrativa.
-	- Obras que esquiven del todo este contexto político / histórico reciente
-
-  
-
-Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio ortega titulada adiós ayacucho.
-
-Mario vargas llosa: Lituma en los andes
+	- 2 líneas principales:
+		- lit. Testimonial de referente indígena
+		- 2000: se cierra la etapa de la guerra pero la narrativa sigue proponiendo el imaginario del trauma, apocalipsis, experiencia de violencia extrema. Para referirse a este período de la historia peruana reciente
+		- Telón de fondo sobre el que se desarrolla la trama narrativa.
+	- Del 80 al 2000: clave de lectura con grados diferentes de violencia representada. Novela de Julio Ortega titulada *Adiós ayacucho*.
+	- Mario Vargas Llosa: *Lituma en los aAndes*
 
   
 
