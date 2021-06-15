@@ -797,10 +797,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-  Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-**indigenismo**
 				-  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina, una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
 				-  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
-    
-5.  Muerte de arguedas, muerte del indigenismo como ideología, utopía, etc
-    
-6.  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
+				-  Muerte de Arguedas, muerte del indigenismo como ideología, utopía, etc.
+				-  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
     
 7.  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
     
