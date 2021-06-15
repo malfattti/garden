@@ -850,19 +850,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Trabajo interdisciplinario en la medida en que aprovecha técnicas de plasmación y representación que proceden de campos de diversas disciplinas como antropología (sobre todo etnografía), literatura realista
 	- Modo de registrar las vivencias desde dentro de comunidades secularmente excluidas
 	- **Domitila Barrios de Chungara: *Si me permiten hablar*…  1977**
-		- Trabajadora de las minas de estaño bolivianas.
+		- **Trabajadora de las minas de estaño bolivianas**.
 		- Cómo adaptar el habla a la novela, trabajo de edición: quitar repeticiones, organizar el discurso, etc
 		- Miguel Barnet ha reflexionado mucho sobre la**necesaria organización del material que hace el mediador**. De voz indígena? Gran parte de lo testimonial pertenece a la voz del hablante pero después están las reorganizaciones a las que se somete al material
-		- Moema Bietzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México.
-
-Reflexiones de genero y de clase. Iluminar parcela de proletariado minero que sobrevive en bolivia en pésimas condiciones.
-
-Palabra: fuente de sabiduría que se transforma
-
-  
-  
-
-Voz de la mujer: libertad condicionada por el patriarcado. Alcance de estos dos objetivos de inscribir memoria de un hablante indígena que ha conocido una vivencia particular y por otro lado, generar una viisión desd una perspectiva feminista
+		- Moema Viezzer: se encontró con Domitila Barrios en un congreso de mujeres en 1975 en México
+		- Reflexiones de género y de clase. Iluminar parcela de proletariado minero que sobrevive en Bolivia en pésimas condiciones.
+		- Palabra: fuente de sabiduría que se transforma
+		- Voz de la mujer: libertad condicionada por el patriarcado. Alcance de estos dos objetivos de inscribir memoria de un hablante indígena que ha conocido una vivencia particular y por otro lado, generar una visión desde una perspectiva feminista
 
   
   
