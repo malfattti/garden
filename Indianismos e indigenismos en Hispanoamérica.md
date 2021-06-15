@@ -761,8 +761,158 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Tb: texto de un discurso de Arguedas cuando recibe el premio Inca Garcilaso de la Vega en 1968. Arguedas muere un mes después de recibir el premio. "No soy un aculturado" : yo no soy un aculturado, yo soy un peruano que orgullosamente como un demonio feliz...”
 			- Último libro donde hay fragmentos de diario íntimo de los últimos meses de Arguedas. Depresión y suicidio. Después de haber escrito las últimas líneas de ese libro se suicida en un aula de universidad de Lima donde él era profesor de quechua.
 
-Polémica con Cortázar
+- **Clase 11.05.2021**
+	- 71: Zorro de arriba y zorro de abajo. Trozos de novela de ficción
 
+Autor peruano neoindigenista (de acuerdo con escajadillo y otros) - momento de inflexión y abandono 
+
+Scorza (Perú 1928). Poeta.
+
+  
+
+1970: obra amplia que queda algo marginalizada porque queda inacabada
+
+Muere en accidente de avión en Madrid con otros famosos intelectuales que acudieron a España para participar un congreso
+
+En este vuelo mueren tb Angel Rama y otro intelectual 
+
+  
+
+La forma escritural de Scorza colinda con el realismo mágico
+
+  
+
+5 obras que forman lo más importante de su obra. Se llaman en conjunto "La guerra silenciosa": sublevaciones campesinas entre 1956 y 1963 en los andes peruanos.
+
+  
+
+Sublevaciones se dan de cara a un sistema que perdura y que no cambia en su represión
+
+  
+
+Historia de resistencias contra ataques
+
+  
+
+Uso muy frecuente del humorismo y tb entra la dimensión de lo grotesco (instrumentos expresivos adecuados para traducir - interpretar la realidad trastornada)
+
+  
+
+En la última novela: desmitificación / ruptura.
+
+  
+
+Agotamiento de la estética magico-realista y de la estética indigenista. Necesidad de salir de perpetuación del universo que revivifica mitos. Entrando en otro período histórico (década de 1980). Nuevas problemáticas e inquietudes de las poblaciones rurales. Este ciclo está evolucionando a la par que la evolución social
+
+  
+
+Término de ciclo de narrativa indigenista que representan las novelas del neoindigenismo
+
+  
+  
+
+Debate literario-ideológico frente al indigenismo: balance
+
+  
+
+Se condena más su ideología que el ejercicio artístico-literario
+
+3 hitos: 
+
+1.  polémica entre Arguedas y Cortázar
+    
+
+1.  Polémica que nació de una forma curiosa y torcida sobre el ejercicio de la literatura y los compromisos del intelectual latinoamericano
+    
+2.  Discusiones en las que se opone una visión más cosmopolita a una más localista, regionalista
+    
+3.  Líneas tendenciales muy famosas de las etapas (incluso anteriores) de la literatura
+    
+4.  Fernádez Retamar pide a Cortázar que escribiera algo para Casa de las Américas
+    
+5.  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de intelectual instalado en europa
+    
+6.  Alusión al telurismo - localismo - nacionalismo (y rechazo a todo lo que nos ea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son las falencias de quienes trabajan una zona
+    
+7.  Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra
+    
+8.  Telurismo:  Influencia del suelo de una comarca sobre sus habitantes.
+    
+9.  Arguedas justo está escribiendo su novela mitad ficción mitad autobiográfica 
+    
+
+3.  Utopía arcaica de Vargas Llosa
+    
+
+1.  Vargas Llosa escribió una tesis sobre 100 años de soledad. 
+    
+2.  Utopía arcaica es una lectura muy interesante para complementar a Arguedas. Tensión: buena interpretación de arguedas pero a la vez posicionamiento político-ideológico que se traduce como anti-indigenismo
+    
+3.  Tesis: el indigenismo es a la vez corriente literaria y estética artística y de reivindicación campesina fue una ficción ideológica, de corte pasadista y reaccionaria (reproches). Colectivista, mágica, irracionalista, anti-moderna y anti liberal
+    
+4.  Conclusión que apoya en un minucioso estudio. Tb estudia la vida de Arguedas que él sitúa a caballo entre la cultura mágico-religiosa de los quechuas  y la del Perú moderno occidentalizado
+    
+5.  Muerte de arguedas, muerte del indigenismo como ideología, utopía, etc
+    
+6.  Examina las contradictorias visiones del indio en diferentes ámbitos: sociología, antropología, etc
+    
+7.  Coteja mitos, estereotipos, etc., en torno al indio, y lo contrapone a los indígenas contemporáneos enfrentados en lucha por la supervivencia 
+    
+8.  El indigenismo ha falseado la historia pq ha reconstruido ficcionalmente una cosmovisión incaica que se aparece como inamovible
+    
+9.  Negarse a enfocar el indígena como un ser histórico, 
+    
+10.  Quiénes son los autores indigenistas? Criollos. Pertenecientes a la ciudad letrada
+    
+11.  Indigenismo: utopía de origen occidental. (Matto de Turner: los indígenas deben acceder a la educación)
+    
+12.  La tesis de Vargas Llosa es políticamente incorrecta. Pero su propuesta nos lleva a meditar nuestra propia fascinación de los propósitos de los novelistas indigenistas
+    
+13.  Considera que todo lo que ha promovido el indigenismo como ideología pero tb movimiento artístico-literario de compromiso con campesinos, obreros indígenas.
+    
+14.  Vargas Llosa: indígena ha abrazado la modernidad ??
+    
+15.  Sin embargo en las novela que leímos se muestra la falta de agencia d elos indígenas. Es cínico? Sí, pero no deja de ser interesante.
+    
+16.  Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas. 
+    
+
+5.  Artículo Ën defensa del indigenismo
+    
+
+Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
+
+  
+
+  
+
+El giro multicultural: últimas décadas del s. XX, reformas constitucionales de diversos países. Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. Se vienen a llamar movimientos indianistas (no confundir con nuestra categoría para la lit.)
+
+Desde inales de los 70.
+
+Reclamos: derechos a tierras ancestrales o comunales para promover uso ecológico
+
+Tierras acaparadas por grandes empresas
+
+Posibilidad de organizar sus vidas basándolas en una convivencia comunitaria tradicional. Voluntades que no van en la dirección de la ortodoxia política
+
+  
+  
+
+Discursos sobre la indianidad (concepto identitario) que emanan de estos movimientos campesinos comparten una concepción antagónica a la civilización occidental y a los diferentes proyectos de modernidad
+
+Se oponen a la modernidad creada por el capitalismo e incluso por el socialismo.
+
+Rechazo a occidente que le da un signo particular al indianismo actual, a diferencia del indigenismo en versión revolucionaria de mariátegui. Estamos realizando las promesas de Mariátegui? Pero no, porque M. no tenía esta postura anti occidental. En su discurso indigenista, revolucionario, se valoran las adquisiciones provenientes de occidente en especial de la modernidad en los campos de las libertades y derechos ciudadanos (ciencia, tecnología, momento de esplendor y carrera hacia la modernidad).
+
+Estos movimientos plantean un rechazo a los procesos de globalización porque estos no admiten ni se articulan con formas de vida comunitaria y apuntan a la desarticulación de grandes valores que sustentan la vida comunitaria (solidaridad, reciprocidad)
+
+Lo más concreto es el rechazo a la implantación para la explotación agrícola - que los estados nacionales admitan ese acaparamiento de zonas que son propiedad nacional;
+
+En esta lucha consiste lo que hoy llamaríamos indianismo. Concepto que tb se aplica al campo social entonces
+
+  
+  
   
 **
   
