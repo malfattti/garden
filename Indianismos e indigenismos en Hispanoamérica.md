@@ -944,12 +944,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Sobre, con y DE los indígenas (a veces llamada tb nativa)
 		- A la lit indígena se refería Mariátegui
 		- Ha habido producciones no en español, como encontramos en la obra de Arguedas. No hablamos de traducciones sino de escritos originalmente en quechua
-    
--   Nada impide que la lit indígena no sea autorreferencial
-    
--   Temas sentimentales, vida y muerte, condiciones de vida 
-    
--   Auténtica riqueza, diversidad y pujanza creativa del mov. Literario indígena: finales del s. XX y ppios del XXI
+		- Nada impide que la lit indígena no sea autorreferencial
+		- Temas sentimentales, vida y muerte, condiciones de vida 
+		- Auténtica riqueza, diversidad y pujanza creativa del mov. Literario indígena: finales del s. XX y ppios del XXI
     
 -   Proporción de la pujanza: gran trabajo de edición (promoción, venta, publicidad en torno a estas creaciones literarias), libros bilingües o no, labor de recopilación en antologías. Movimiento interesante en lo que supone rescatar, visibilizar, en una cultura tan dominante y diferente. Es un gran trabajo. Recopilación de antologías, trabajos historiográficos, estudios críticos, etc.
     
