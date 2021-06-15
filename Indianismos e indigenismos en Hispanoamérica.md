@@ -811,12 +811,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				-   Argumento de la idea de utopía arcaica: mantener a indígena dentro de un mundo que conviene más a la visión occidental que a los propios indígenas.
 				-   Artículo "En defensa del indigenismo"
 				-   Ejercicio de reconsideración de lo que representó el indigenismo en su alcance ideológico / manifestaciones literarias
-
-  
-
-  
-
-El giro multicultural: últimas décadas del s. XX, reformas constitucionales de diversos países. Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. Se vienen a llamar movimientos indianistas (no confundir con nuestra categoría para la lit.)
+				-   El giro multicultural: últimas décadas del s. XX, reformas constitucionales de diversos países. Se consolidan los movimientos indígenas que han reivindicado (desde instancia de pueblos autóctonos) reclamos,derechos, restituciones, protección. Se vienen a llamar movimientos indianistas (no confundir con nuestra categoría para la lit.)
 
 Desde inales de los 70.
 
