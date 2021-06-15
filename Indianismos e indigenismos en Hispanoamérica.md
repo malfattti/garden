@@ -662,25 +662,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Su función sería entonces moral, política porque subraya los valores humanos excelsos de la población nativa (Arguedas). Deber de representar estos valores. La literatura indigenista denuncia entonces el estado de injusticia social, presenta promesas de lucha y de reivindicación social.
 		- El indigenismo literario está determinado por la naturaleza particular del referente (el mundo andino como espacio regional y la función político-moral misma que la representación cumple en el universo Literario)
 	- La reflexión crítica tb ha comentado la capacidad de representación de ese referente (indio y mundo andino): el grado de proximidad entre la representación que hace la lit. indigenista y la realidad.
-		- Riqueza psicológica de la representación (caso de la propuesta de arguedas, logra darla a conocer)
-
-  
-
-Valoraciones relacionadas con dos nociones planteadas en relación con representaciones de espacio social y cultural y la psicología del indio: 
-
-la autenticidad
-
-La veracidad
-
-  
-
-Cuestiones normalmente planteadas no en caso de literatura de creación sino textos testimoniales. Pero se plantea a esta literatura como su tuviera esa imensión testimonial
-
-  
-
-En 1970s Ángel Rama (UY) observa la presencia en un texto narrativo dado de determinados elementos o formas discursivas propias del universo del referente. No específicamente andino sino otros mundos (afroamericano por ejemplo). Elementos como canciones o leyendas orales.
-
-Para Rama la presencia de estos componentes nos informan del carácter transculturado de esa narración
+		- Riqueza psicológica de la representación (caso de la propuesta de Arguedas, logra darla a conocer)
+		- Valoraciones relacionadas con dos nociones planteadas en relación con representaciones de espacio social y cultural y la psicología del indio: 
+			- la autenticidad
+			- La veracidad
+		- Cuestiones normalmente planteadas no en caso de literatura de creación sino textos testimoniales. Pero se plantea a esta literatura como su tuviera esa imensión testimonial
+	-  En 1970s Ángel Rama (UY) observa la presencia en un texto narrativo dado de determinados elementos o formas discursivas propias del universo del referente. No específicamente andino sino otros mundos (afroamericano por ejemplo). Elementos como canciones o leyendas orales.
+	-  Para Rama la presencia de estos componentes nos informan del carácter **transculturado** de esa narración
 
   
 
