@@ -843,14 +843,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Aquí se inscribe la primera novela de Miguel Barnet, *Biografía de un cimarrón*
 		- Relata la vida de un esclavo que vivió en Cuba - lo interroga cuando tiene 104 años.
 	- Elena Poniatowska: "prestar voz a quien no la tiene"”
-		- **Discurso disidente** de cierta manera, **frente al oficial, a la hegemonía**, que dictamina lo que es válido y lo que va a caracterizar gran parte de los discursos literarios que van a suceder al boom
-		- Llamar la atención sobre las injusticias que no tienen voz. Sectores **marginales** o más desfavorecidos.
-		- El testimonio aspira a cumplir varios objetivos o faenas: concebir una ética renovada que exponga las inmoralidades de las opresiones (discrimnación, totura, etc). Examen contracultural.
-
-  
-  
-
-Hugo Achugar: un examen de lo real espantoso (versus lo real maravilloso). Tendencia subversiva: se apoya en evidencia no suministrada por la historiografía oficial sino por los auténticos testigos marginales al gran acontecer histórico.
+	- **Discurso disidente** de cierta manera, **frente al oficial, a la hegemonía**, que dictamina lo que es válido y lo que va a caracterizar gran parte de los discursos literarios que van a suceder al boom
+	- Llamar la atención sobre las injusticias que no tienen voz. Sectores **marginales** o más desfavorecidos.
+	- El testimonio aspira a cumplir varios objetivos o faenas: concebir una ética renovada que exponga las inmoralidades de las opresiones (discrimnación, tortura, etc). Examen contracultural.
+	- Hugo Achugar: un examen de lo real espantoso (versus lo real maravilloso). Tendencia subversiva: se apoya en evidencia no suministrada por la historiografía oficial sino por los auténticos testigos marginales al gran acontecer histórico.
 
   
 
