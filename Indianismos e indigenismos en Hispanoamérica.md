@@ -876,18 +876,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		-  2003 (cierre del conflicto)- nuestros días: auténtica inflación de literatura peruana sobre la guerra interna y los alrededores que pueden generar este contexto: novedosas técnicas, escudriñan sobre las razones, lógicas y consecuencias de este conflicto.
 	  - Marc Cox: bibliografía peruana anotada…: se trata de un recuento bibliográfico de más de 30 pp. con títulos. Entre 7 y 8 títulos por página de literatura peruana sobre la guerra interna
 	  - Concientización de la clase media costeña limeña y todo el resto del Perú rural, de la sierra, y esa oposición. 
-	  - "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia crreación.
-
-Escritores más alejados de estas realidades tb tomarán estos temas; realidad ineludible
-
-  
-  
-
-La época conocida oficialmente (porel estado peruano) como "cnflicto armado interno en el perú", no oficialmente como "terrorismo XXX"
-
-  
-
-Sendero Luminoso: grupo fundado en 1960 por abimael guzmán (camarada Gonzalo): por el sendero luminoso de mari\\ategui
+	  - "La mancha india": además de lit andina de escritores de procedencia andina se suman autores y temas (andinos o criollos), dispuestos a integrar estos temas vinculados con el conflicto armado de su propia creación.
+		  - **Escritores más alejados de estas realidades tb tomarán estos temas; realidad ineludible**
+	- La época conocida oficialmente (por el estado peruano) como "conflicto armado interno en el perú", no oficialmente como "terrorismo XXX"
+	- Sendero Luminoso: grupo fundado en 1960 por Abimael guzmán (camarada Gonzalo): por el sendero luminoso de mari\\ategui
 
   
 
