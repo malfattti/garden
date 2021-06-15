@@ -781,16 +781,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Debate literario-ideológico frente al indigenismo: balance
 		- Se condena más su ideología que el ejercicio artístico-literario
 	- 3 hitos:
-		- polémica entre Arguedas y Cortázar:
-			- Polémica que nació de una forma curiosa y torcida sobre el ejercicio de la literatura y los compromisos del intelectual latinoamericano
-    
-2.  Discusiones en las que se opone una visión más cosmopolita a una más localista, regionalista
-    
-3.  Líneas tendenciales muy famosas de las etapas (incluso anteriores) de la literatura
-    
-4.  Fernádez Retamar pide a Cortázar que escribiera algo para Casa de las Américas
-    
-5.  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de intelectual instalado en europa
+		- polémica entre **Arguedas y Cortázar**:
+			- Polémica que nació de una forma curiosa y torcida sobre el **ejercicio de la literatura y los compromisos del intelectual latinoamericano**
+			- Discusiones en las que **se opone una visión más cosmopolita a una más localista**, regionalista
+			- Líneas tendenciales muy famosas de las etapas (incluso anteriores) de la literatura
+			-  Fernádez Retamar pide a Cortázar que escribiera algo para Casa de las Américas
+			-  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de intelectual instalado en europa
     
 6.  Alusión al telurismo - localismo - nacionalismo (y rechazo a todo lo que nos ea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son las falencias de quienes trabajan una zona
     
