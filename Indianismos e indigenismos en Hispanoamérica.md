@@ -692,7 +692,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Cornejo Polar señala un momento de gran experimentación narrativa
 				- Formas no canonizadas de la literatura en la narrativa (las novelas neoindigenistas emplean una serie de **perspectivas narrativas diferentes)**
 				- El narrador extradiegético así como el uso del registro culto cede lugar a una **variedad de narradores focalizados en diferentes personajes**, cuyo resultado es: **riqueza de voces, múltiples perspectivas**, que pueden representar un mismo evento
-				- Uso de discurso oral, pero ya no reducido en su expresividad sino el autor neoindigenista construye un **auténtico universo diglósico** que conserva oralidad inígena y lenguaje propio de los letras. Totalmente en fase con lo que Rama llama lit. transculturada o heterogénea y que revela condición de incluir rasgos sobresalientes de la oralidad en un texto literario 
+				- Uso de discurso oral, pero ya no reducido en su expresividad sino el autor neoindigenista construye un **auténtico universo diglósico** que conserva oralidad inígena y lenguaje propio de los letras. Totalmente en fase con lo que Rama llama lit. transculturada o heterogénea y que revela condición de incluir **rasgos sobresalientes de la oralidad en un texto literario** 
 
   
   
