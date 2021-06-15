@@ -910,21 +910,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Estas perspectivas se articulan de manera muy fluida
 		- No hay voluntad de darle mayor peso a una perspectiva que a otra
 		- **La central es una perspectiva que podemos llamar fantástico-mítica, que le da título a la novela**
-    
--   Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
-    
--   Rosa Wanca va en búsqueda de su hijo, Liborio, desaparecido en el conflicto armado
-    
--   Se alternan después 
-    
--   Otras perspectivas importantes: 
-    
-
--   Anficha (dirige un grupo de senderistas), 
-    
--   Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
-    
--   Livorio (miembro de sendero luminoso, tb indígena. En ppio activo y luego se va alejando de la ideología de sendero luminoso porque descubre el peos de la violencia que conlleva esa postura. Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés)
+			- Rosa cuchillo: Rosa Wanca, apodada Rosa Cuchillo, una mujer indígena que camina con su perro, Wayra, por Hanaq Pacha, en quechua: el mundo de arriba, el más allá
+			- Rosa Wanca va en búsqueda de su hijo, Liborio, desaparecido en el conflicto armado
+			- Se alternan después 
+			- **Otras perspectivas importantes: **
+				- Anficha (dirige un grupo de senderistas)
+				- Mariano Ochante (actúa en rondas campesinas para defenderse de los senderistas, lo acaban matando, víctima del conflicto) y
+				- Livorio (miembro de sendero luminoso, tb indígena. En ppio activo y luego se va alejando de la ideología de sendero luminoso porque descubre el peos de la violencia que conlleva esa postura. Idea una variante de la emancipación, un pachacuti: voltear el mundo al revés)
     
 
 -   Pachacutec: emperador del s. XV ? llamado "el reformador", el que cambia el rumbo de la tierra
