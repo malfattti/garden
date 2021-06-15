@@ -885,15 +885,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- El gobierno declara estado de emergencia y pone el depto bajo control militar
 	- Aparición de otro movimiento guerrillero, el MRTA: Movimiento Revolucionario Tupac Amaru
 		- Tupac Amaru II: 1780 logra organizar a los indígenas para combatir a los españoles. Personaje devenido mítico. Mata al gobernador Arriaga y es sometido a tortura 
-	- Comisión de la verdad y reconciliación: CVR: 2003. Después de conocerse el contenido de este informe, nueva camada de producción literaria. 
-
-Cruce de intereses entre esta lit y la indigensta, porque es precisamente la población indígena la que más duramente es castigada en este conflicto 9una vez más).
-
-Y son muchos los historiadores de la lit que defienden una "coherente continuidad" entre el indigenismo literario y la narrativa más recuente de la guerra interna
-
-  
-
-El informe dice que de 4 víctimas 3 eran campesinos con lengua materna quechua, pero a la vez niega la idea de que el conflicto haya tenido un carácter racial (a diferencia del conflicto guatemalteco)
+	- Comisión de la verdad y reconciliación: CVR: 2003. Después de conocerse el contenido de este informe, nueva camada de producción literaria.
+	- Cruce de intereses entre esta lit y la indigensta, porque es precisamente la población indígena la que más duramente es castigada en este conflicto (una vez más).
+	- Y son muchos los historiadores de la literatura que defienden una "coherente continuidad" entre el indigenismo literario y la narrativa más recuente de la guerra interna
+	- **El informe dice que de 4 víctimas 3 eran campesinos con lengua materna quechua, pero a la vez niega la idea de que el conflicto haya tenido un carácter racial (a diferencia del conflicto guatemalteco)**
 
   
 
