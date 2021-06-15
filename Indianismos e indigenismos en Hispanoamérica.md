@@ -786,9 +786,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Discusiones en las que **se opone una visión más cosmopolita a una más localista**, regionalista
 			- Líneas tendenciales muy famosas de las etapas (incluso anteriores) de la literatura
 			-  Fernádez Retamar pide a Cortázar que escribiera algo para Casa de las Américas
-			-  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de intelectual instalado en europa
-    
-6.  Alusión al telurismo - localismo - nacionalismo (y rechazo a todo lo que nos ea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son las falencias de quienes trabajan una zona
+			-  Cortázar intenta reflexionar sobre la condición de intelectual latinoamericano partiendo de su posición de **intelectual instalado en Europa**
+			-  Alusión al telurismo - localismo - nacionalismo (y rechazo a todo lo que no sea nacional), esto es lo que rechaza Cortázar. Ya hay un dejo despectivo cuando considera que son las falencias de quienes trabajan una zona
     
 7.  Cortázar argumenta a favor de una visión supranacional, Arguedas de nutrirse de la tierra
     
