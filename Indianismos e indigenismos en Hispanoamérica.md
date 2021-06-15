@@ -982,8 +982,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	-   A través de esta agrupación Andrés viaja a tomar este curso y tiene que preparar una conferencia sobre *Huasipungo*. 
 	-   Su posición es interesante para ver si el libro de Icaza refleja verdaderamente la situación indígena. El no es especialista en literatura ni en la sociedad o historia indígenas, el es músico y artesano
 	-   Descubre que el punto de vista de Icaza es rebatible. Discusión sobre los puntos que habíamos subrayado. Mirada ajena sobre un mundo que no deja de representarse en su otredad
-    
--   Discusiones con María Clara Pereyra, tb ecuatroiana, que se acerca a Chiliquinga
+	-   Discusiones con María Clara Pereyra, tb ecuatroiana, que se acerca a Chiliquinga
     
 
 -   Pereira es el apellido del dueño de la hacienda que rige el destino de los huasipungueros
