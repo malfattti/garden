@@ -508,11 +508,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- **Se pasa de la idea de que al indio hay que educarlo a la idea de que la cuestión indígena más que pedagógica es una cuestión económica/social**.
 				- Todo este discurso lo encontramos en *Aves sin nido*
 				- **Tiranía embrutecedora: la ejercen los que se ocupan de las leyes, los que gobiernan y los curas. La Trinidad embrutecedora (así la llama Matto de Turner tb)**
-				- La iglesia es tb aliada de esos poderes usurpados
-				- González Prada ve una alianza tácita entre el gamonal serrano (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). 
-				- Los señores limeños apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
+				- La **iglesia** es tb aliada de esos poderes usurpados
+				- González Prada ve una alianza tácita entre el **gamonal serrano** (propietario de una hacienda que expropiaron tierras pertenecientes a los indios organizados en comunas en las que cada individuo aportaba a la comunidad). 
+				- Los **señores limeños** apoyan y defienden al gamonal cuando estos abusan a los indios y el gamonal defiende a los señores limeños. O sea, convergencia de intereses
 				- Los indios no tiene derechos, solo obligaciones
-				- Y por lo tanto no merece llamarse República democrática un estado como Perú donde una cantidad millonaria de individuos viven por fuera de la ley
+				- Y por lo tanto **no merece llamarse República** democrática un estado como Perú donde una cantidad millonaria de individuos viven por fuera de la ley
 				- **En González Prada el planteamiento más original es el vínculo que el establece entre el elemento social y económico y los problemas que sufren los individuos**
 				- **El problema de la tierra y el indígena están vinculados: Mariátegui tb comparte esta idea, pero la formula con más claridad**
 				- Cómo se mejora la condición del indígena?
