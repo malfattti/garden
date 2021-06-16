@@ -344,12 +344,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- *Conflicto y armonías de las razas en América* (Sarmiento 1883): tesis de racismo pseudocientífico de europa
 		- El aborigen es amansado como una llama en la vasta extensión del Perú
 		- Rescate a partir del s. XX : movimiento político del indigenismo y la lit indigenista
-	- ** Entonces...**
+	- **Entonces...**
 		- Especificidad hispanoamericana: los proyectos de nación. 
-		- Sería erróneo hablar de una imitación a secas. 
-		- Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación. 
+		- **Sería erróneo hablar de una imitación a secas**. 
+		- **Se tomaban de los antecedentes y modelos aquellos elementos que podían ser útiles dentro de los proyectos de nación**. 
 		- apropiación/expropiación utilitaria para los usos de los proyectos nacionales específicos. 	
-		- Después de las independiencias, los proyectos de nación empezaron a construirse, y se discutieron cuestiones referidaas a la cultura, entre ellas la cuestión de los orígenes de las literaturas nacionales. Cada país respondió a esta pregunta influenciado por su perspectiva histórica. Por ejemplo, México evoca las siguientes procedencias de las literaturas nacionales: cantos escritos en lengua indígena, literatura medieval española (a pesar de posición antiespañola dominante), las inmediatas academias literarias que surgían tras la independencia (ruptura con pasado colonial)
+		- Después de las independiencias, los proyectos de nación empezaron a construirse, y se discutieron cuestiones referidas a la cultura, entre ellas la cuestión de los orígenes de las literaturas nacionales. Cada país respondió a esta pregunta influenciado por su perspectiva histórica. Por ejemplo, México evoca las siguientes procedencias de las literaturas nacionales: **cantos escritos en lengua indígena, literatura medieval española (a pesar de posición antiespañola dominante), las inmediatas academias literarias que surgían tras la independencia (ruptura con pasado colonial)**
 - Clase 23.03
 	- Literatura romántica de referente indígena en Argentina
 		- *La cautiva*
