@@ -532,8 +532,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Pero supera el indianismo romántico
 	- Y anuncia las **tesis igualitarias** sobre las condiciones de vida de los indígenas actuales la militancia y denuncia de las novelas indigenistas más actuales
 	- Parejas de jóvenes casados que encarnan a todas luces la modernidad
-	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la “Trinidad embrutecedora”. El juez, el gobernador y el cura. Con todo el peso de la instancia religiosa
-	- Raza, clase, educación y género problematizados
+	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la **“Trinidad embrutecedora”. El juez, el gobernador y el cura**. Con todo el peso de la instancia religiosa
+	- **Raza, clase, educación y género problematizados**
 	- Se distinguen entonces tres grupos principales:
 		- Indios, notables y forasteros, tres grupos que deben buscar articulación.
 		- Inmoralidad de los notables, falta de educación: factores que hacen posible la explotación de los indios
