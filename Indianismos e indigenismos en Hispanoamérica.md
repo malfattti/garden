@@ -466,10 +466,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Se desplaza un poco el interés y se dispone a un tiempo más contemporáneo. Ya no la cuestión de los orígenes sino una identidad social más concreta e inmediata
 			- **Hacia 1888 puede considerarse consumada la organización política y social de la mayoría de las repúblicas**
 			- A partir de ahora, **progreso y modernización** vertiginosos
-			- Así es que se trasplantan los modelos europeos de desarrollo industrial, de racionalización y explotación del trabajo y de las riquezas naturales
-			- Se necesita mano de obra para llevar adelante estas tareas. Se propicia la inmigración
+			- Así es que se trasplantan los **modelos europeos de desarrollo industrial, de racionalización y explotación del trabajo y de las riquezas naturales**
+			- Se necesita mano de obra para llevar adelante estas tareas. Se propicia la **inmigración**
 			- Modificación de la fisonomía étnica que ya era plural, de países sobre todo rurales
-			- Se aprecia una constante conglomeración humana que se ve en una literatura que traslada su escenario a la ciudad (proceso migración de campo a ciudad), nuevas experiencias de promiscuidad de población, ciudades de espíritu laico y secular
+			- Se aprecia una constante conglomeración humana que se ve en una **literatura que traslada su escenario a la ciudad** (proceso migración de campo a ciudad), nuevas experiencias de promiscuidad de población, ciudades de espíritu laico y secular
 			- Producciones que nos llevan del indianismo al indigenismo: alejamiento del romanticismo realista a realismo naturalista, y en hispanoamérica se confunde con él
 			- Las representaciones literarias se confunden con la experiencia concreta de la realidad. La literatura intenta proveer con las representaciones literarias una realidad objetiva
 			- No dejan de lado interés por realidades regionales, las ciudades no son todo
