@@ -237,10 +237,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 - **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie* (1789):
 	- Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la Isla Mauricio, paisaje tropical fácilmente pasa por el paisaje americano
 	- *María* de Jorge Isaacs: Colombia, 1867, recibe *Paul et Virginie* haciendo que los personajes lean pasajes de la novela
-- **François-René de Chateaubriand**, *Atala, ou Les Amours de deux sauvages dans le désert* (1801)
-	- Primera traducción al español: Atala o Los amores de dos salvages en el desierto, París, 1801, realizada el mismo año por el fraile mexicano Fray Servando Teresa de Mier, junto con Simón Rodríguez
-	- Novela que exalta la naturaleza 
-	- Los estudiosos de esta novela subrayaron la filiación adánica de su protagonista indígena, arquetipo de la inocencia primigenia de la humanidad
+- **François-René de Chateaubriand**, *Atala, ou Les Amours de deux sauvages dans le désert* **(1801)**
+	- Primera traducción al español: **Atala o Los amores de dos salvages en el desierto, París, 1801**, realizada el mismo año por el fraile mexicano Fray Servando Teresa de Mier, junto con Simón Rodríguez
+	- Novela que **exalta la naturaleza** 
+	- Los estudiosos de esta novela subrayaron la **filiación adánica de su protagonista indígena**, arquetipo de la inocencia primigenia de la humanidad
 	- La primera edición sale en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido)
 	- Por qué tiene tanta resonancia esta novela? Es una novela lírica y su imaginario lo encontramos en algunas novelas indianistas como Cumandá
 	- Un episodio se titula Los Natchez. Episodio integrado en otro libro de Chateaubriand que es *El genio del cristianismo*
