@@ -275,15 +275,15 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- **Depende de la perspectiva histórica / cultural que se adopte**
 			- Ejemplo: México
 				- **Cantos escritos en lengua indígena**: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
-				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un **gesto muy opositivo frente a España**: deseo de romper incluso la lógica del idioma y la cultura que conlleva
-				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: l**la medieval española**
-				- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
-				- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
-	- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
+					- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un **gesto muy opositivo frente a España**: deseo de romper incluso la lógica del idioma y la cultura que conlleva
+				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: **la medieval española**
+				- Otra postura: idea de que hay que hacer **tabula rasa del pasado**. Hay que crear nuestra literatura mexicana
+				- O sea: **dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura**
+	- **El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados**
 	- Alcances culturales de estas discusiones literarias fueron:
 		- Conflicto entre tradición y progreso: España
-		- Conflicto entre masas y minorías
-		- Caso del Río de la Plata: Pasado colonial pobre relativamente
+		- Conflicto entre masas y minorías**
+		- **Caso del Río de la Plata: Pasado colonial pobre relativamente
 			- Y como observa Andrés Bello en una carta dirigida a Fray Servando Teresa de Mier en 1821, dice Bello que Bs As era probablemente la ciudad donde menos se leía. Las guerras de independencia comienzan en 1810. Por esa misma razón no fueron allí tan conservadores como en Perú o México
 			- Entonces la literatura argentina surge con el mismo fervor que la independencia nacional. Es todo un auge. En argentina encontraremos más polémica y manifiestos doctrinarios que en los demás países
 			- Se sienten liberados del peso de lo colonial antes de que en otros lugares, donde el esplendor colonial deja una huella mucho más grande
