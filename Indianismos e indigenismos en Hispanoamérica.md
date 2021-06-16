@@ -276,7 +276,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Ejemplo: México
 				- **Cantos escritos en lengua indígena**: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
 				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un **gesto muy opositivo frente a España**: deseo de romper incluso la lógica del idioma y la cultura que conlleva
-				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
+				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: l**la medieval española**
 				- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
 				- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
 	- El romanticismo criollo va a ser más una “herramienta civilizadora” que una escuela de bellas artes. Los inteletcuales se van a ver muy involucrados
