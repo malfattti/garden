@@ -534,11 +534,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Parejas de jóvenes casados que encarnan a todas luces la modernidad
 	- Asisten y sienten mucha repulsión por cómo son tratados los indios. Engañados por la **“Trinidad embrutecedora”. El juez, el gobernador y el cura**. Con todo el peso de la instancia religiosa
 	- **Raza, clase, educación y género problematizados**
-	- Se distinguen entonces tres grupos principales:
-		- Indios, notables y forasteros, tres grupos que deben buscar articulación.
+	- Se distinguen entonces **tres grupos principales**:
+		- **Indios, notables y forasteros**, tres grupos que deben buscar articulación.
 		- Inmoralidad de los notables, falta de educación: factores que hacen posible la explotación de los indios
 	- Adoptan dos huérfanas 
-	- Cohesión social: propuesta de asimilación dentro de lo peruano. Diferencia de la propuesta argentina, tan excluyente
+	- **Cohesión social: propuesta de asimilación dentro de lo peruano**. Diferencia de la propuesta argentina, tan excluyente
 	- Cornejo Polar: Matto de Turner propone la integración de la raza desheredada a través de la adopción e integracón
 	- La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
 	- **Cornejo Polar traduce el proyecto como modernizador de aculturación** 
