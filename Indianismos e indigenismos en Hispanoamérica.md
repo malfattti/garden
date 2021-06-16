@@ -18,21 +18,21 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Ambigüedad. El concepto deriva de la conquista
 			- “La cuestión": subterfugio? 
 			- “Literatura de referente indígena”?  “Literatura de autoría indígena”?
-		- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su concepción / visión del mundo y de la literatura.
-			- El plural acá señala los cambios de contextos, de visión del mundo, etc.
-			- Articulaciones de momentos y estéticas vinculados con un contexto de ideas/ideológico
-		- Foco en el referente mismo: indígena. Precisión. Desde la conquista se englobó en una aparente unidad poblaciones, lenguas, culturas. Se homologaron así, para configurar todo lo que no fuera occidental o español… 
-		- Conflictos y tensiones con el paso del tiempo se elaboran de forma englobante. La homologación se encuentra tb en “lo criollo”, “lo indígena”, “lo mestizo"
+		- Uso plural: diferenciar distintos períodos de creación literaria y también estéticas: concepción de la literatura y su visión del mundo / y de la literatura.
+			- **El plural acá señala los cambios de contextos, de visión del mundo**, etc.
+			- Articulaciones de **momentos y estéticas vinculados con un contexto de ideas**/ideológico
+		- **Foco en el referente mismo: indígena**. Precisión. Desde la conquista se **englobó en una aparente unidad poblaciones, lenguas, culturas**. Se homologaron así, **para configurar todo lo que no fuera occidental o español**… 
+		- Conflictos y tensiones con el paso del tiempo se elaboran de forma englobante. **La homologación se encuentra tb en “lo criollo”, “lo indígena”, “lo mestizo"**
 		- Luego se ajustan términos 
 	- Mariátegui (Perú 1894-1930)
-		- Uno de los principales representantes del pensamiento socialista de América Latina
-			- Su obra “Los siete ensayos de interpretación de la realidad peruana” es considerada de referencia para la intelectualidad del continente
+		- **Uno de los principales representantes del pensamiento socialista de América Latina**
+			- Su obra “Los siete ensayos de interpretación de la realidad peruana” (1928) es considerada de referencia para la intelectualidad del continente
 			- Funda el partido socialista peruano en 1928, que luego se fusiona con el partido comunista peruano (marxismo, leninismo, partido de los trabajadores)
 			- El ensayo 2 “El problema del indio’
 			- Ensayo 7: "El proceso de la literatura": apartado 17: indigenismo
 				- El problema indígena no puede estar ausente de la literatura y el arte, estando presente en la sociedad, la economía etc.
-				- El régimen feudal vigente en el Perú de la época es la causa del problema del indio
-				- Solución: la liquidación del feudalismo en el Perú
+				- **El régimen feudal** vigente en el Perú de la época es la causa del problema del indio
+				- Solución: **la liquidación del feudalismo en el Perú**
 				- Problema indígena/del indígena
 				- Los problemas que se derivan de la estructura agraria.
 		- Construcciones raciales ( “criollo”, “indio”, “mestizo”, “cholo”): 
@@ -44,49 +44,46 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Y eventualmente cholo con connotación despectiva: mestizo que adopta modos de vida de criollos (mezcla, falta de pureza, "traición")
 		- Para designar los productos culturales que resultan de esas cohabitaciones conflictivas **Cornejo Polar** acuñó el concepto de **heterogeneidad**
 			- No se trata del deslinde entre una cultura y otro sino de la convivencia en un espacio común nacional de al menos dos culturas que se interpenetran pero no se fusionan
-			- Dentro de un contexto nacional donde los individuos comparten misma nacionalidad cohabitan al menos dos culturas 
-			- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
-			- en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra
-				- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
+				- Este concepto califica muchas realidades, antiguas, modernas, posmodernas, globales.
+				- **en la literatura: la novela indigenista es un producto ejemplar de la heterogeneidad de América Latina porque es un conjunto de discursos que se elabora desde y circulan en una cultura pero cuyo referente es otra**
+				-**el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio.** 
 
 - 02.03: Grandes etapas de la historia siglos XIX-XX. Antecedentes: del neoclasicismo al romanticismo en Hispanoamérica: poesía “de referente indígena” (1800-1825)
-	- Cornejo Polar:
-		- el indigenismo del ppios del s. XX no deja de ser una creación con sello occidental, a pesar de que se centra en el indio. 
-		- La novela indigenista es un discurso paradigmático de la heterogeneidad latinoamericana
-		- Circula en una cultura pero su referente es otra cultura 
-		- La narrativa indigenista está determinada por la herencia de Europa. La tradición europea determina el contenido de la narrativa indigenista sino tb la FORMA estética:
-			- Narrativa escrita en la lengua colonizante
-			- Escrita en forma de novela, género no cultivado por los pueblos autóctonos americanos que preferían las formas de la canción y de la poesía, por constituir su tradición oral
-			- tendencia a la inserción de explicaciones y de elementos costumbristas
-			- No es una visión desde dentro
-		- Esto se suma al doble propósito de la novela indigenista de concientización y denuncia (situación vivida por los indígenas). Literatura con propósito didáctico: información y concientización de injusticias que perduran
-    - Sigue habiendo una separación entre la sociedad criolla y la indígenia. En la región andina es donde mayor heterogeneidad hay: perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
+	- Cornejo Polar (sigue):
+		- La narrativa indigenista está determinada por la herencia de Europa. 
+			- La tradición europea determina **el contenido** de la narrativa indigenista sino tb la **FORMA estética**:
+				- Narrativa escrita en la **lengua colonizante**
+				- Escrita en **forma de novela**, **género no cultivado por los pueblos autóctonos** americanos que preferían las formas de la **canción** y de la **poesía**, por constituir su **tradición oral**
+				- tendencia a la **inserción de explicaciones** y de **elementos costumbristas**
+				- No es una visión **desde dentro**
+			- Esto se suma al **doble propósito de la novela indigenista de concientización y denuncia** (situación vivida por los indígenas). Literatura con **propósito didáctico**: información y concientización de injusticias que perduran
+    - Sigue habiendo una separación entre la sociedad criolla y la indígena. En la región andina es donde mayor heterogeneidad hay: Perú, Bolivia, Ecuador: países donde esta narrativa ha tenido el mayor número de cultivadores.
     - Se delimitan tres fases (tres estéticas, novelísticas):
-		- Indianismo (s. XIX): 
-			- presentan el mundo indígena como exótico, creando personajes idealizados y alejados en el tiempo. 
+		- **Indianismo (s. XIX)**: 
+			- presentan el **mundo indígena como exótico**, creando **personajes idealizados y alejados en el tiempo**. 
 			- Condición constante en las producciones literarias idealistas. Idealización y distancia.
-			-  Géneros: novelas, poesía, teatro tb hay
-		- Indigenismo:
-			- Mariátegui, en sus siete ensayos (1928) se refiere al indigenismo como manifestación que tiene el sentido de una reivindicación de lo autóctono.
-			- En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
-		- Cometa Marzoni contrasta el indigenismo con el indianismo. 
-			- Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835 1889”. 
-			- En las novelas indianistas los indios y sus tradiciones se presentan con simpatía.
-			-  Va a estudiar un amplio corpus decimonónico-romántico y concluye que en ellas el indio aparece transformado por el espíritu europeo. 
-			-  El personaje del indígena es convencional y sin matices. 
-			-  Falseamiento de la realidad + mistificación y clara instrumentalización del indio. 
-			-  Termina estudiando “Aves sin nido” que señala como punto de articulación entre indianismo e indigenismo. 
-			-  Contiene a la vez espíritu reivindicativo y social (Mariátegui, indigenismo). 
-			-  Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. Su novela está empapada aún de una sentimentalidad romántica
-			-  Los indigenistas escriben sus novelas en el marco del realismo (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
-	- Hay todo un corpus que no cabe en el indianismo. 
-		- No se lo representa de forma idealizada sino como un salvaje insalvable. 
+			-  **Géneros: novelas, poesía, teatro tb hay**
+			-  En el campo social ha vuelto el uso del indianismo: movimiento reivindicativo de los propios indígenas. Indianismo en el año 2000 NO remite a la literatura 
+		- **Indigenismo**:
+			- Mariátegui, en sus *Siete ensayos...* (1928) se refiere al indigenismo como manifestación que tiene el sentido de una **reivindicación de lo autóctono**.
+		- **Cometa Marzoni contrasta el indigenismo con el indianismo**. 
+			- Se basa en Concha Melendez quien escribe en el 34 “La novela indianista en HA 1835-1889”. 
+			- En las **novelas indianistas**los indios y sus tradiciones se presentan con simpatía.
+			-  Va a estudiar un **amplio corpus decimonónico-romántico** y concluye que en ellas **el indio aparece transformado por el espíritu europeo**. 
+			-  El **personaje del indígena** es **convencional y sin matices**. 
+			-  Falseamiento de la realidad + mistificación y clara **instrumentalización del indio**. 
+			-  Termina estudiando **“Aves sin nido”** que señala como **punto de articulación entre indianismo e indigenismo**. 
+			-  Contiene a la vez **espíritu reivindicativo y social** (Mariátegui, indigenismo). 
+			-  Este debate lo fomenta la actitud maternalista y la sentimentalidad que remiten a un romanticismo tardío. **Su novela está empapada aún de una sentimentalidad romántica**
+			-  **Los indigenistas escriben sus novelas en el marco del realismo** (una de las grandes tendencias en paralelo a las vanguardias). Discurso determinista de los naturalistas de finales del. S. XIX. visión determinista
+	- **Hay todo un corpus que no cabe en el indianismo**. 
+		- **No se lo representa de forma idealizada sino como un salvaje insalvable**. 
 		- Zonas donde al modernizarse la nación se puso en marcha la idea de aniquilar al indígena y a marginalizar. 
 		- Caso argentino, o sea que en un estudio del indianismo no va a entrar el caso argentino. 
-		- “La cautiva” de Echeverría: describe al indio salvaje imposible de salvar.
+		- “La cautiva” (1837) de Echeverría: describe al indio salvaje imposible de salvar.
 		- Argentina comenzó muy pronto el proceso de modernización así que pronto hubo que implementar las condiciones de realización de la Argentina. 
 		- Siendo el indio el núcleo de la barbarie no podemos idealizarlo.
-		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández: es un gaucho. 
+		- El romanticismo se centra en el gaucho, que se percibe como más asimilable: Martín Fierro, José Hernández (1872): es un gaucho. 
 		- En la primera parte todavía está en cohabitación con los indígenas (bastante serena), en la segunda parte se aburguesa, tiene familia e hijos y aspira a la educación de sus hijos., al trabajo honrado, etc
 		- Vargas Llosa: referencia a Sarmiento / civilización y barbarie
 		- Sarmiento: última obra hace referencia a cuestiones racistas / racismo biológico
@@ -94,24 +91,24 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- POESÍA ENTRE EL NEOCLASICISMO Y EL ROMANTICISMO.
 		- Poesía de referencia indígena es un caso excepcional
 		- **Mariano Melgar**: poeta peruano, 1790 -1815. 
-			- Es un único poeta que expresa lo indígena en un modo lírico. 
-			- Posicionamiento desde dentro. 
+			- Es un **único poeta que expresa lo indígena en un modo lírico**. 
+			- Posicionamiento **desde dentro**. 
 			- Reescribe los yarabíes (forma quechua: *harawi* (canto sentimental popular), mediador avant la lettre de traductor, inventor, creador y puente entre formas poéticas precisas hasta llegar al indigenismo
-			- Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. Nos describe los usos y costumbres de los quechua.
+			- Escribe poesía sentimental y nos habla de lo que desde el punto de vista que asume es importante. Nos describe los **usos y costumbres de los quechua**.
 			- Tb escribe odas. Por ejemplo, Oda a la libertad
 		- **José María Heredia**: cubano, 1803-1839
 			- participó en un levantamiento contra España y fue exiliado muchos años en los Estados Unidos / tb en México
 			- Primer poeta romántico de las Américas
 			- Sensibilidad ante el paisaje
-			- En su exilio mexicano hace una lectura muy moderna de la historia de la conquista de México en "En el teocalli de Cholula" (en 1820, y primero titulado "Fragmentos descriptivos de un poema mexicano", 1a ed. póstuma en 1832, con el título definitivo)
-			- Visión muy matizada (probablemente por ser cubano). Evoca no solo la crueldad de los españoles sino que entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
+			- En su **exilio mexicano** hace una **lectura muy moderna de la historia de la conquista de México** en **"En el teocalli de Cholula"** (en **1820**, y primero titulado "Fragmentos descriptivos de un poema mexicano", 1a ed. póstuma en 1832, con el título definitivo)
+			- **Visión muy matizada** (probablemente por ser cubano). Evoca no solo la crueldad de los españoles sino que entra en consideración la crueldad inherente de prácticas religiosas de los aztecas
 			- Mirada moderna, un poco más libre 
 		- **Simón BOLÍVAR**(Venezuela, 1783-1830): 
-			- Decreto sobre los derechos del indio en 1825 (Cuzco).
+			- **Decreto sobre los derechos del indio en 1825** (Cuzco).
 			- Cómo ingresar derechos propios para la masa de los indígenas. 
-			- Este decreto viene a crear más un ideal que una realidad concreta, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
-			- prohibición de las prácticas de explotación
-			- se basa en la idea de igualdad de los ciudadanos que sustenta la Constitución, que es incompatible con el trabajo forzado y los malos tratos sufridos por los indios
+			- Este decreto viene a **crear más un ideal que una realidad concreta**, algo pensado para sacar a los habitantes autóctonos que vienen sufriendo del yugo
+			- **prohibición de las prácticas de explotación**
+			- **se basa en la idea de igualdad de los ciudadanos que sustenta la Constitución, que es incompatible con el trabajo forzado y los malos tratos sufridos por los indios**
 			- exige:
 				- que el trabajo de los indígenas esté mediado por un contrato
 				- que los indígenas no puedan ser empleados contra su voluntad
@@ -119,20 +116,20 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- que las autoridades repartan bienes a las tropas sin que se grave más por esto a los indígenas que al resto de los ciudadanos
 				- pago justo y en forma de acuerdo con la voluntad del empleado
 				- que las autoridades se encarguen de hacerlo cumplir
-				- que los indígenas no pauen más derechos parroquiales que el resto de los ciudadanos
+				- que los indígenas no paguen más derechos parroquiales que el resto de los ciudadanos
 					- necesidad de mediación de autoridades mayores
 				- falta u omisión en el cumplimiento de estos articulos llevará a acción popular
 		- **José Joaquín Olmedo**(Ecuador 1780-1847): 
-			- en su poema "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar ("instrumentaliza" la figura indígena). 
+			- en su **poema** "La victoria de Junín. Canto a Bolívar" (poesía civil, patriótica, épica) de 1825, **recurre a la figura de Huayna Cápac el emperador inca, y lo hace profetizar la victoria de Bolívar** ("instrumentaliza" la figura indígena). 
 			- Dato interesante, y anterior, Olmedo pronuncia ante las Cortes de Cádiz en 1812 un "Discurso sobre la supresión de la mita" (mita minera).
 		- **Andrés Bello** (Venezuela 1781-1865): 
 			- "Hasta un poeta contenido (=neoclásico) y sabio como él no pudo evitar el tema indianista" (Meléndez, 1970: 71). 
-			- Bello instrumentaliza la evocación del pasado indígena: así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano. 
-			- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "Conserva el modelo, pero cambia el contenido". 
+			- Bello **instrumentaliza la evocación del pasado indígena**: **así como Virgilio recurrió a la mitología griega, Bello recurre al "mito", pero ahora, americano**. 
+			- Ximena Troncoso Araos, en "El retrato sospechoso. Bello, Lastarria y nuestra ambigua relación con los mapuche", Atenea (Concepción), n. 488, 2003, s.p., expresa: "**Conserva el modelo, pero cambia el contenido**". 
 				- Breve fragmento de Troncoso Araos:
 					- La naturaleza americana como tópico no nace con Bello pero con él se torna lo representativo: es lo único concreto a lo que aferrarse
-					- Sus *Silvas americanas* suelen ser consideradas las primeras obras americanistas porque exaltan al mundo americano como utópico y  potencialmente superador de los vicios europeos
-					- poema "La agritcultura de la zona tórrida": 
+					- Sus ***Silvas americanas* suelen ser consideradas las primeras obras americanistas porque exaltan al mundo americano como utópico y  potencialmente superador de los vicios europeos**
+					- poema "La agricultura de la zona tórrida": 
 						- naturaleza pródiga en manos civilizadoras
 						- espacio lleno de posibilidades, todo por hacer
 						- la cultura es protagonista
@@ -170,7 +167,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- La literatura referida al indio nace al mismo tiempo que la conquista del nuevo mundo
 	- Ejemplos:
 	  - **La brevísima (Bartolomé de las Casas** / 1474-1566):  
-		  - *Brevísima relación de la destruición de las Indias *(1552)
+		  - ****Brevísima relación de la destruición de las Indias *(1552)***
 		  - descripción de la destrucción de las Indias. 
 		  - Descripción de episodios de crueldad por parte de los colonizadores.
 		  - crónica moderna o de sucesos. 
@@ -178,38 +175,38 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		  - Hilo de relatos atroces / de genocidios. 
 		  - La obra de Bartolomé de las Casas alimenta la leyenda negra de España. 
 		  - Se apoyan en textos que denuncia lo que está pasando.
-	- Fray Bernardino de Sahagún (c.1500-1590)
-		- *Códice florentino o Historia general de las cosas de Nueva España*: 1579 pero se publica mucho después, en 1793
+	- **Fray Bernardino de Sahagún (c.1500-1590)**
+		- ***Códice florentino o Historia general de las cosas de Nueva España*: 1579**pero se publica mucho después, en 1793
 		- códice: cuadernos plegados, cosidos y encuadernados
 		- LIBRO XII y último del *Códice Florentino*. Titulado: “De la Conquista de la Nueva España que es la ciudad de México”.
 		- Libro conocido como “Escrito de los informantes indígenas de Sahagún”. En él constan por ejemplo los 8 presagios funestos que precedieron la llegada de los españoles.
 		- Escrito de los informantes indígenas de Sahagún: cuando este Fray está en México tiene contacto con algunos aztecas que vivieron de forma contemporánea los acontecimientos de la conquista de Tenochtitlán en México
 		- Este texto también será transcrito en el capítulo I de *La visión de los vencidos*(1959) de Miguel León-Portilla).
 	- **Felipe Huamán Poma de Ayala** (Ayacucho 1534-Lima 1615)
-		- *Primer nueva crónica y buen gobierno* (acabada hacia 1615), con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
+		- ***Primer nueva crónica y buen gobierno* (acabada hacia 1615)**, con 1180 páginas y 397 dibujos, historia de los incas, visión indígena del mundo andino
 		- Restituye una visión catastrófica de la experiencia andina
-		- Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro
+		- **Hay que conocer la visión de los vencidos. Antecedente necesario que desemboca en texto de Todorov, la conquista de América, la visión del otro**
 	-**Inca Garcilaso de la Vega** (Perú, 1540-1616) con los *Comentarios reales* (parte 1: Lisboa 1605, parte 2 póstuma 1616 con el título de Historia del Perú) 
 		- Es un mestizo que traduce en su obra la tensión interior que está sintiendo por pertenecer a dos culturas a la vez
 		- Hijo de una Princesa Inca y de un español
-- Creación de una imagen utópica sobre lo que los escritores posteriores realizarán la vida primitiva al extremo. 
-- El buen salvaje roussoniano no sale de la nada sino de estos relatos
-- Michelle de Montaigne, que conocía las obras de algunos cronistas (Guevara, López de Gómara), publica en 1580 en Burdeos la primera edición de sus ensayos “De los caníbales”. 
+- Creación de una **imagen utópica** sobre lo que los escritores posteriores realzarán la vida primitiva al extremo. 
+- El **buen salvaje roussoniano** no **sale** de la nada sino **de estos relatos**
+- **Michelle de Montaigne**, que conocía las obras de algunos cronistas (Guevara, López de Gómara), publica en **1580**en Burdeos la primera edición de sus ensayos **“De los caníbales”.** 
 	- En este ensayo compara el mundo europeo (los portugueses) y el nuevo mundo. 
-	- Describe los que en el texto se llama horrores bárbaros, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
-	- A través de este texto llegamos a la formulación de la pregunta, quién es el bárbaro?
-	- Naturaleza versus ciudad. La naturaleza parece ser perfecta pero cuando se cruzan intereses de los hombres, empezamos a destruir ese equilibrio.
-	- De de Montaigne entonces se deriva un modelo de América ingenua y con una Edad Dorada
+	- **Describe los que en el texto se llama horrores bárbaros**, sufridos por los indios, así como detalla las múltiples crueldades de los portugueses. Crueldades más refinadas que las bárbaras crueldades de los españoles.
+	- **A través de este texto llegamos a la formulación de la pregunta, quién es el bárbaro**?
+	- **Naturaleza versus ciudad**. La naturaleza parece ser perfecta pero cuando se cruzan intereses de los hombres, empezamos a destruir ese equilibrio.
+	- **De de Montaigne entonces se deriva un modelo de América ingenua y con una Edad Dorada**
 - De de Montaigne a Shakespeare: 
 	- Shakespeare toma su utopía en la Tempestad (1611), la figura del Caliban que resulta ser cualquier cosa antes que la celebración de un hombre natural referida en el ensayo de Montaigne (parodia?)
 - Concha Meléndez (1934) señala que **no se encuentran influencias directas de De Montaigne en literatura indianista americana. Más bien se recuperan otros textos de los que se nutre esa literatura**. O sea que es posible que su influencia se haya diluido 
-- En el marco literario, la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después de los **textos del s. XVI y XVII**
-	- O sea, a mediados del s. XVIII estamos con un **corpus francés que celebra ese primitivismo de signo positivo**
-	- **Voltaire** recupera personajes indios tanto en la tragedia Alzira, como en las sátiras Cándido y L’ingénu (mediados de 1700)
-	- También se destaca **Rousseau**, que aporta a la teoría del buen salvaje. 
-		- En su obra *Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755), desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
+- En el marco literario, **la verdadera ola de evocación de las olas pasadas del indio y la celebración de su primitivismo la conocemos en Francia un siglo y medio después** de los textos del s. XVI y XVII
+	- O sea, a **mediados del s. XVIII** estamos con un **corpus francés que celebra ese primitivismo de signo positivo**
+	- **Voltaire** recupera personajes indios tanto en la tragedia **Alzira**, como en las sátiras **Cándido y L’ingénu** (**mediados de 1700**)
+	- También se destaca **Rousseau**, que aporta a la **teoría del buen salvaje**. 
+		- En su obra ***Discurso sobre el origen y los fundamentos de la desigualdad entre los hombres* (1755)**, desarrolla la teoría del buen salvaje por la cual se estipula que el hombre en general en su estado natural no sufre las desigualdades sociales y económicas que le impone la sociedad civil. 
 		- Libros leídos por una  minoría. 
-		- En s. XIX se traduce al español
+		- **En s. XIX se traduce al español**
 		- Actitud del hombre compenetrado con la naturaleza
 		- A Rousseau se le atribuye la originalidad de los planteamientos que acompañan la celebración de la vida primitiva. 
 		- Pero en verdad su libro tiene otro objetivo: dilucidar el origen de las desigualdades entre los hombres. 
@@ -220,12 +217,12 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- *El salvaje artificial* recupera esta cita de Dryden
 - Todo se remonta a esos textos iniciales, en particular Las Casas
 	- +Comentarios reales del Inca Garcilaso
-- Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou*, Paris, chez Lacombe, 1777
-	- Novela que copia casi literalmente los *Comentarios reales* del Inca Garcilaso.
+- **Jean-François Marmontel (discípulo de Voltaire), *Les Incas ou la destruction de l’empire du Pérou***, Paris, chez Lacombe, **1777**
+	- **Novela que copia casi literalmente los *Comentarios reales* del Inca Garcilaso.**
 	- Pasajes sobre el exterminio de la cultura incaica tal como lo expone el Inca Garcilaso
-	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un ida y vuelta.
+	- Siempre conocemos y es casi un automatismo pensar las influencias desde Europa a América. Pero es importante saber que es un **ida y vuelta**.
 	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
-	- Petit histoire: Marmontel trabajó no con el libros el inca en su idioma original (el español) sino con la traducción francesa (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
+	- Petit histoire: Marmontel **trabajó no con el libros el inca en su idioma original**(el español) **sino con la traducción francesa** (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
 	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español en 1822
 	- Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca Garcilaso y de las casas vuelven a tener influencia en América.
 	- Recepción de Garcilaso filtrada / prestigiada a través de Marmontel.
