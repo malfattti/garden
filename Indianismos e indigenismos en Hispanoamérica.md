@@ -321,7 +321,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- **Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América.**
 				- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
 				- **Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad**
-				- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
+				- **Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español**
 	- Todo esto acontece en el ámbito de la literatura.
 	- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
 	- Afán no inconciente de comunicar mis propias ansias de libertad / independencia
