@@ -373,11 +373,11 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- En cada núcleo federal de la confederación hay un gobierno de un hacendado que controla ese territorio. Rosas deja el control de las partes a los caudillos de provincias
 		- Sarmiento se enfrenta a Bello en un debate sobre cuestiones lingüísticas.
 			- Clasicismo de Bello versus Romanticismo de Sarmiento
-			- se tradujo ideológicamente entre una pugna de conservadores (|Bello) y el liberalismo representado por sarmiento 
-		- Sarmiento va a contribuir a la avanzada de la causa romántica, pero muy pronto se ve que su empeño no es solo literario sino político. Literatura y política andaban muy juntas
+			- se tradujo ideológicamente entre una pugna de conservadores (Bello) y el liberalismo representado por Sarmiento 
+		- **Sarmiento va a contribuir a la avanzada de la causa romántica, pero muy pronto se ve que su empeño no es solo literario sino político. Literatura y política andaban muy juntas**
 		- En Sarmiento el debate literario tiene una dimensión política muy fuerte
 		- Juan Manuel de Rosas no va a caer hasta la batalla de caseros en 1852
-		- Sarmiento va a ser senador, gobernador, embajador en los Estados Unidos. Y por fin presidente de 1868 al 74
+		- Sarmiento va a ser senador, gobernador, embajador en los Estados Unidos. Y **por fin presidente de 1868 al 74**
 		- Sus ambiciones se manifiestan en un ensayo que puede considerarse el más importante del s. XIX: *Facundo*, que se publica en Chile en 1845
 		- Es el más importante ensayo del s. XIX por la gran incitación sociológica, cultural etc que se genera a partir de él
 		- Transformación étnica, educación, principios morales más elevados: los de europa y los de la américa anglosajona
