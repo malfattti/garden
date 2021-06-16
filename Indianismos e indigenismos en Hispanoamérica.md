@@ -573,7 +573,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- saber apreciar las obras indigenistas a pesar de que puedan considerarse oportunistas (críticas de este tipo habrá muchas, Mariátegui se anticipa a esto)
 		- La lit indigenista no puede no idealizar al indio 
 		- la lit indígena será capaz de representar su propio mundo. La lit indigenista es de mestizos
-		- A pesar de que Mariátegui ya está hablando de la lit indigenista, las obras más importantes se van a escribir más tardes, años 30-40
+		- A pesar de que Mariátegui ya está hablando de la lit indigenista, las obras más importantes se van a escribir más tarde, años 30-40
 		- Países andinos, relación entre ficción literaria y debate sociopolítico
 		- Obras cuyo referente es la realidad social inmediata.
 		- Tomás Escajadillo se pregunta qué es una obra indigenista:
