@@ -269,13 +269,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
 		- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
 			- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
-		- Qué es lo que señalamos cuando hablamos de nuestra tradición?
-			- Romanticismo: proyectos de nación ahí donde se carece de una literatura doméstica 
-			- cuestión de los orígenes de las literaturas nacionales: gran debate de la época
-			- Depende de la perspectiva histórica / cultural que se adopte
+		- **Qué es lo que señalamos cuando hablamos de nuestra tradición?**
+			- **Romanticismo: proyectos de nación** ahí donde se carece de una literatura doméstica 
+			- cuestión de los **orígenes de las literaturas nacionales**: gran debate de la época
+			- **Depende de la perspectiva histórica / cultural que se adopte**
 			- Ejemplo: México
-				- Cantos escritos en lengua indígena: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
-				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un gesto muy opositivo frente a España: deseo de romper incluso la lógica del idioma y la cultura que conlleva
+				- **Cantos escritos en lengua indígena**: rey poeta, escribe en idioma náhuatl: Cantares mexicanos, constituido por 36 poemas.
+				- Intelectuales que no suelen hablar náhuatl , que están construyendo naciones criollas y que designan en un **gesto muy opositivo frente a España**: deseo de romper incluso la lógica del idioma y la cultura que conlleva
 				- Por el lazo de la lengua estamos vinculados por una literatura con gran tradición: la medieval española
 				- Otra postura: idea de que hay que hacer tabula rasa del pasado. Hay que crear nuestra literatura mexicana
 				- O sea: dificultad de contestar de forma unívoca cuáles son los orígenes de nuestra literatura
