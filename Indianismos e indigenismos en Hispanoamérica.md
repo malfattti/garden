@@ -242,9 +242,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Novela que **exalta la naturaleza** 
 	- Los estudiosos de esta novela subrayaron la **filiación adánica de su protagonista indígena**, arquetipo de la inocencia primigenia de la humanidad
 	- La primera edición sale en 1801 y en el mismo año se traduce al español. Y l.a traduce Simón Rodríguez, maestro de Simón Bolívar, y el fraile mexicano que se conoce menos pero es espectacular (libro de viaje, predicador independentista y viajero perseguido)
-	- Por qué tiene tanta resonancia esta novela? Es una novela lírica y su imaginario lo encontramos en algunas novelas indianistas como Cumandá
+	- Por qué tiene tanta resonancia esta novela? Es una novela lírica y **su imaginario lo encontramos en algunas novelas indianistas como Cumandá**
 	- Un episodio se titula Los Natchez. Episodio integrado en otro libro de Chateaubriand que es *El genio del cristianismo*
-		- En la novela nos encontramos en los Estados Unidos a finales del s. XVII y asistimos a cómo el indio de la tribu Natchez va a ser apresado por una tribu enemiga en Louisiana. Atrapado por una tribu enemiga y salvado por una joven india ya secretamente cristianizada. Fondo bueno de su cristianización
+		- En la novela nos encontramos en los Estados Unidos a finales del s. XVII y asistimos a cómo el indio de la tribu Natchez va a ser apresado por una tribu enemiga en Louisiana. **Atrapado por una tribu enemiga y salvado por una joven india ya secretamente cristianizada**. Fondo bueno de su cristianización
 	- Atala se suicida ante amor imposible y el padre lo ayuda a enterrarlo a la manera cristiana
 - **James Fenimore Cooper**, *The Last of The Mohicans* (1826)
 	- Revisitar novela indianista de cara a la estadounidense (UN TRABAJO QUE NO SE HA HECHO MUCHO!)
