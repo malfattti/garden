@@ -407,13 +407,13 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- **Etapa post colonial: llamado a los jesuitas para que dirijan la educación secundaria y universitaria del país**
 				- Cumandá narra el amor imposible
 				-  Mujer raptada por los jíbaros cuando niña, se la promete a un cacique jíbaro y al morir este tiene que morir ella por la muerte ritual al que eran sometidas las viudas, ser enterradas con el cacique. 
-				-  Indígenas buenos: cristianizados
+				-  **Indígenas buenos: cristianizados**
 				-  La otredad surge no en términos raciales sino culturales. Lo que separa a los amantes no es la raza. No hay acá discurso del mestizaje
 				-  En esta novela Mera quiere **reavivar la utopía jesuita, intento de promover la unidad nacional a través del catolicismo como agente de cohesión**
 				-  **Reaviva la idea de que una religión común sería la mejor garantiá de una unidad nacional por encima de las diferencias**
 				-  Cumandá viene a ser la víctima de la cultura en la que ha vivido y entonces queda excluida de la nación. Condena a una muerte trágica
-				- Concha Meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo  que le falta a la distancia es cifrar el paternalismo con el que cuenta la belleza de los salvajes. 
-				- Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatoriana hay que ser católico.
+				- Concha Meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo que le falta a la distancia es cifrar el paternalismo con el que cuenta la belleza de los salvajes. 
+				- **Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatoriana hay que ser católico**.
 			- Enriquillo:
 				- 1882. Galván: escritor de la República Dominicana, lugar sorprendente en relación a los países andinos que venimos viendo
 				- Novela histórica romántica y teatro histórico romántico
