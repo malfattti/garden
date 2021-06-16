@@ -236,7 +236,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- crítica a la educación españnola que podría haber sido si no hubiera caído en las manos de la flia francesa
 - **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie* (1789):
 	- Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la Isla Mauricio, paisaje tropical fácilmente pasa por el paisaje americano
-	- **María de Jorge Isaacs: Colombia, 1867, recibe *Paul et Virginie* haciendo que los personajes lean pasajes de la novela
+	- *María* de Jorge Isaacs: Colombia, 1867, recibe *Paul et Virginie* haciendo que los personajes lean pasajes de la novela
 - **François-René de Chateaubriand**, *Atala, ou Les Amours de deux sauvages dans le désert* (1801)
 	- Primera traducción al español: Atala o Los amores de dos salvages en el desierto, París, 1801, realizada el mismo año por el fraile mexicano Fray Servando Teresa de Mier, junto con Simón Rodríguez
 	- Novela que exalta la naturaleza 
