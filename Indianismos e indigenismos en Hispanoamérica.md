@@ -232,7 +232,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- La recepción se facilita tb a que se simplifica y se novela unos relatos que son cronicas que deleitan menos que una novela
 - **Françoise de Graffigny** (1695-1758, *Lettres d’une Péruvienne* (1747):
 	- Relato de a través de una serie de cartas de una Virgen del Sol en contexto inca. Rescatada por una familia noble francesa y es educada en Francia.
-	- Indianismo francés exótico. Todas estas historias pasan en un lugar alejando y beben fuentes que se prestan para desarrollar el indianismo literario
+	- Indianismo francés exótico. Todas estas historias pasan en un lugar alejado y beben fuentes que se prestan para desarrollar el indianismo literario
 	- crítica a la educación españnola que podría haber sido si no hubiera caído en las manos de la flia francesa
 - **Jacques-Henri Bernardin de Saint Pierre**, *Paul et Virginie* (1789):
 	- Concha Meléndez dice que tuvo éxito por ser novela de exotismo tropical. Parecía hablar de realidades americanas, sin embargo ocurre en la Isla Mauricio, paisaje tropical fácilmente pasa por el paisaje americano
