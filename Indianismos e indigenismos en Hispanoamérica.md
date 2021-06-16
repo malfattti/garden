@@ -307,7 +307,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Intención de llegar a un público europeo. Eso no ocurre igual hasta el boom. 
 		- Si no, se escribe para un público muy pequeño, capaz de perpetuar y concretar esas ideas
 		- **Un motivo como el del buen salvaje corresponde a las expectativas de lectura europeizantes de la elite criolla y aspira a la vez a ser tema o símbolo de autoctonía**
-		- En conclusión,** con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES**. O sea: responden a...
+		- En conclusión,**con el asentamiento del romanticismo en América a la par de las independencias, los llamados modelos y antecedentes se han vuelto FUNCIONALES**. O sea: responden a...
 			- No es un interés puesto en el esparcimiento o deleite
 			- Es un deleite que aprovecha
 			- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
