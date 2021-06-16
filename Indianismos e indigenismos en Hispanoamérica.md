@@ -263,9 +263,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Implican una asimetría entre América, Europa y los Estados Unidos
 	- Formación y consolidación de la burguesía
 	- O sea que en Hispanoamericana el romanticismo coincide con la independencia de los países
-	- A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en hispanoamérica
+	- **A partir del primer cuarto del s. XIX entramos en la elaboración de los proyectos de nación. Hacia 1830 se fecha el inicio del romanticismo en Hispanoamérica**
 	- Corresponde a una serie de rasgos:
-		- La liberación de la autoridad literaria peninsular
+		- La **liberación de la autoridad literaria peninsular**
 		- La **literatura romántica en HA** se mueve entre la **evocación del pasado próximo independentista** + **presente nacionalista** (nos estamos construyendo) + la **propaganda por un futuro** que en su gran mayoría se concibe como **liberal** (progreso)
 		- **Romanticismo criollo**: carencia de una literatura doméstica, de una tradición. **Los antecedentes son externos**
 			- **Existe una literatura doméstica** pero esa literatura **desde la presencia colonial** pasa a ser un pasado que poco a poco **se va a clausurar a pesar de que la población indígena siga estando presente**
