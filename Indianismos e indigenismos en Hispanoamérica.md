@@ -224,7 +224,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- Aquí el autor se posiciona a favor de la benignidad del hombre en estado primigenio y la corrupción aportada por el hombre civilizado
 	- Petit histoire: Marmontel **trabajó no con el libros el inca en su idioma original**(el español) **sino con la traducción francesa** (se traducen por primera vez en 1633) en la época en que Marmontel hay una retraducción de la que él se nutre
 	- Esta obra fue un éxito en aquella época, merece cerca de 50 ediciones y conoce este auge a partir de que hubo una traducción al español en 1822
-	- Lo curioso de todo esto es que la novela de Marmontel va a ser el puente por el que autores como Inca Garcilaso y de las casas vuelven a tener influencia en América.
+	- Lo curioso de todo esto es que la novela de **Marmontel va a ser el puente por el que autores como Inca Garcilaso y de las casas vuelven a tener influencia en América**.
 	- Recepción de Garcilaso filtrada / prestigiada a través de Marmontel.
 		- Si le ha interesado a él entonces es interesante. 
 		- Como Europa y América no pueden desvincularse, vemos que hay un prestigio de lo que son productos locales, pero como eran coloniales tampoco se podían tener como fuentes después de las independencias. 
