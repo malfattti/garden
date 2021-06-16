@@ -395,8 +395,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- **1832**: novela corta mexicana *Netzula* (indianista): atribuido a un escritor José María Lafragua, verdadero apellido: Lacunza
 		- **Inicio de indianismo literario con acentro idealizante y el ciclo termina en 1886 (89), con *Aves sin nido***
 		- *Aves sin nido* de Clorinda Mato de Turner, escritora peruana , la primera novela indianista (muy cerca de la **estética romántica**), de **reivindicación social**. **Porque los indígenas que se representan en la novela pertenecen al presente de la autora y no al pasado**.
-		- Dentro del panorama romántico indianista se destacan dos novelas, antes de llegar a Aves sin nido. 
-		- Son las dos de mayor esfuerzo literario, las de mayor difusión. Indianistas con referente indígena. 
+		- Dentro del panorama romántico indianista se destacan dos novelas, antes de llegar a *Aves sin nido*. 
+		- Son las dos de mayor esfuerzo literario, las de mayor difusión. **Indianistas con referente indígena**. 
 			- Juan León Mera (Ecuador): Cumandá o un drama entre salvajes (1879):
 				- Novela muy representativa de las narrativas de la época porque en ella lo literario y el proyecto político se entretejen. Puesta al servicio de lo político, medida de discurrir sobre un proyecto político. Cual es el proyecto de nación que presenta?
 					- Evolución de la sociedad ecuatoriana
