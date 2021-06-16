@@ -453,7 +453,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 					- La realización de los objetivos de la corona hacen evidente que la conquista es inevitable 
 				- Su tema entonces no sería la conquista sino la invención de unos orígenes heroicos idealizados. Vació que hay que llenar y que se va a llenar de formas diversas. Orígenes nacionales pero tb de la literatura 
 				- Dar la dirección de lo que tiene que asumir la nación
-			- Los criollos asumen como propia la historia incaica o de las poblaciones indígenas locales
+			- **Los criollos asumen como propia la historia incaica o de las poblaciones indígenas locales**
 			- Ven la llegada de los españoles como una invasión y la independencia como liberación. La identificación con lo indio y lo andino (Jorge Basadre, historiador) era histórica y simbólica
 			- El indígena real contemporáneo recibe muy poca atención
 			- Entonces los primeros años de la república no van a ver ningún cambio sustancial durante estos primeros años de independencia
