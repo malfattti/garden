@@ -358,7 +358,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Brian muere en el camino.
 			- María tb muere al final del poema pero por un destiempo trágico: los soldados que venían a auxiliarla llegan tarde.
 			- Esta historia trágica no ahora detalles macabros. Por ejemplo, el hijo de la pareja es degollado por los indios
-			- Representación animalizada del indio / impresión del insalvable salvaje
+			- **Representación animalizada del indio** / impresión del insalvable salvaje
 			- María representa a la madre pura / luchadora frente a las fuerzas de la naturaleza, los indios, el destino.
 			- Casada con un inglés de quien está encinta, rechaza el mestizaje sexual con el indio. Ella rechaza la función que le quieren asignar de concubina del indio.
 			- Circunstancia del momento: se proyecta un futuro que no va a acontecer porque en vez de ingleses y alemanes que “mejorarían” la conformación de los argentinos, entran los italianos y españoles
