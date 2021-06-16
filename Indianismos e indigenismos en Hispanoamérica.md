@@ -313,14 +313,14 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Los modelos y antecedentes se han vuelto funcionales a estímulo concreto
 			- no son imitación sino mejor una operatividad cultural, ideológica y política de los modelos y antecedentes, esas representaciones del buen salvaje que se aplican al contexto local
 		- Conceptos actuales : traducción cultural
-		- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de américa
+		- Anti españolismo, rescate de la tradición indígena y optimismo sobre el futuro de América
 			- Cambios significativos para los indígenas
 			- El antiespañolismo resultó en una preferencia para celebrar / adherirse a fuentes románticas de Francia, Inglaterra, Estados Unidos, Alemania 
 			- Así como los artistas románticos recién independizados comparten el idioma con el enemigo poseen tb diferencias: la recuperación de lo autóctono y el rescate de las antiguas glorias de la población nativa. Eso no lo pueden contar los españoles. **Lo cuento en español, pero el rescate es nuestro**
 			- Gesto que se deriva de la situación poscolonial e intento de romper con España
-			- Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América. 
+			- **Identificación afectiva con los sufrimientos y los pesares de los habitantes autóctonos de América.**
 				- Me identifico con los indigenas en su sufrimiento en la conquista al perderlo todo porque me opongo a España… pero NO para liberar a los indígenas
-				- Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad
+				- **Indio, entonces, es símbolo del patriotismo, de amor a la tierra y a la libertad**
 				- Todo eso se reencarna afectivamente en la condición del americano que quiere emanciparse del yugo español
 	- Todo esto acontece en el ámbito de la literatura.
 	- Acá sí se da ese cruce de afectos y condiciones y se trabaja por analogía
