@@ -383,9 +383,9 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 		- Transformación étnica, educación, principios morales más elevados: los de europa y los de la américa anglosajona
 		- Historia de esta transformación étnica 
 		- Sarmiento: poética del racismo, vinculada con la Conquista del desierto, se iba a realizar en 1876 (con el presidente que sucede a Sarmiento, Alsina, y se lleva a cabo Roca -1879-) este proyecto no lo inventa sni sarmiento.
-		- Fomenta la inmigración  para reemplazar la población indígena que se considera inútil, improductiva
+		- Fomenta la inmigración para reemplazar la población indígena que se considera inútil, improductiva
 		- 1810-1826 (Rivadavia): corta los lazos con España. Proyecto de transformación profunda de la Argentina
-		- Coronel alemán que contratan para eliminar a indios ranqueles sobre todo, que ocupaban la llanura pampeana.
+		- Coronel alemán que contratan para **eliminar a indios ranqueles sobre todo, que ocupaban la llanura pampeana.**
 		- Pero tener en cuenta que *Civilización y barbarie* es un libro maniequeo, pero a la vez muy complejo, que usa muchos géneros literarios y tiene una inerpretación difícil: aspectos biográficos, históricos, sociológicos, comentarios políticos. Es un ensayo de muy diversos ingredientes.
 		- Racismo pseudocientífico del s. XIX. No pensar que sarmiento inventó el racismo 
 		- Conflicto y armonía de las razas: devela el desborde 
