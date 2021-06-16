@@ -483,17 +483,17 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- En este contexto**la literatura plantea la cuestión india: la extrema pobreza, marginalización, etc. que sufre la población india.** 
 				- La literatura que brota es **indianista de reivindicación social**. *Aves sin nido* entra en este momento. 
 				- Entonces por eso es considerada un punto de arranque en la literatura indigenista. **Ella no es indígena, algo que caracteriza la narrativa indigenista (el hablar por los demás)**
-			- Decadas finales del s. XIX en que se va a centrar la atención la propuesta del peruano Manuel González Prada (1849-1910) predomina su figura en el escenario progresista
+			- Decadas finales del s. XIX en que se va a centrar la atención la **propuesta del peruano Manuel González Prada (1849-1910)** predomina su figura en el escenario progresista
 			- Se vuelve anarquista después pero es un defensor del liberalismo muy radical y anticlerical. Esto da una gran impresión en Clorinda Matto de Turner, su contemporánea
 			- Entonces en su obra se ve esta influencia.
-			- Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la literatura que cree en el poder de la representación (por eso realista y naturalista)
+			- Esa literatura y giro hacia problemáticas más internas donde encontramos el problema del indio es una visión de la **literatura que cree en el poder de la representación (por eso realista y naturalista)**
 			- Y sigue creyendo en el poder de la intervención a partir de la literatura
 			- **MANUEL GONZÁLEZ PRADA**: 
 				- 2 ensayos en particular
 				- Lo conocemos por ser voz ppal en la ensayística y crítica literaria
 				- Es la voz ppal del período de reconstrucción de la posguerra. MOMENTO de pausa, reflexión, diagnóstico 
-				- “Discurso en el Teatro Politeama” 1888.
-					- Expresa ansia de regeneración moral, 
+				- **“Discurso en el Teatro Politeama” 1888.**
+					- Expresa ansia de **regeneración moral**, 
 					- combate por la creación de un auténtico patriotismo peruano, 
 					- explica su opinión sobre la derrota de la Guerra del Pacífico y en su tonalidad se expresa acento revanchista
 					- Para nosotros es interesante que llame la atención sobre la composición en su mayor parte de la sociedad peruana por indígenas que no tuvieron educación formal
