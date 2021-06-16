@@ -470,10 +470,10 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 			- Se necesita mano de obra para llevar adelante estas tareas. Se propicia la **inmigración**
 			- Modificación de la fisonomía étnica que ya era plural, de países sobre todo rurales
 			- Se aprecia una constante conglomeración humana que se ve en una **literatura que traslada su escenario a la ciudad** (proceso migración de campo a ciudad), nuevas experiencias de promiscuidad de población, ciudades de espíritu laico y secular
-			- Producciones que nos llevan del indianismo al indigenismo: alejamiento del romanticismo realista a realismo naturalista, y en hispanoamérica se confunde con él
-			- Las representaciones literarias se confunden con la experiencia concreta de la realidad. La literatura intenta proveer con las representaciones literarias una realidad objetiva
+			- Producciones que nos llevan del indianismo al indigenismo: **alejamiento del romanticismo idealista a realismo naturalista**, y en hispanoamérica se confunde con él
+			- **Las representaciones literarias se confunden con la experiencia concreta de la realidad. La literatura intenta proveer con las representaciones literarias una realidad objetiva**
 			- No dejan de lado interés por realidades regionales, las ciudades no son todo
-			- **AVES SIN NIDO**: en el corazón de la sierra peruana, pero con muchas referencias a la ciudad. La autora es serrana 
+			- **AVES SIN NIDO**: en el corazón de la **sierra peruana, pero con muchas referencias a la ciudad**. La autora es serrana 
 				- Es necesario fijar algunos factores sociopolíticos de estas décadas:
 				- Giro literario: el indianismo literario da un fruto novedoso con *Aves sin nido*
 				- En 1879-1883: la guerra del pacífico o del salitre. Conduce a la derrota del Perú frente a Chile. 
