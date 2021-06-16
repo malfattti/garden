@@ -415,7 +415,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Concha Meléndez lee una defensa / reivindicación de ciertas grandezas de las que son portadores los indígenas. Ella encuentra un interés por ese mundo otro. Pero lo que le falta a la distancia es cifrar el paternalismo con el que cuenta la belleza de los salvajes. 
 				- **Interés, pero puesto al servicio del cristianismo. Para integrarse a la nación ecuatoriana hay que ser católico**.
 			- ***Enriquillo***:
-				- 1882. Manuel de Jesús Galván: escritor de la República Dominicana, lugar sorprendente en relación a los países andinos que venimos viendo
+				- 1882. Manuel de Jesús Galván: escritor de la **República Dominicana**, lugar sorprendente en relación a los países andinos que venimos viendo
 					- Novela histórica romántica y teatro histórico romántico
 				- **Pretende contribuir a la legitimación del sentimiento de nación. Esta literatura asume al indio a sus tradiciones**
 				- Los escritores liberales asumen la misión de reflejar una realidad que en **esos países andinos** representaban una minoría marginada por el poder conservador
