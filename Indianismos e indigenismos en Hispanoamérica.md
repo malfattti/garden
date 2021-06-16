@@ -543,7 +543,7 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 	- La pareja adopta a las niñas y lleva adelante el proyecto conciliador pero tb homogeneizante. Qué quiere decir esto?
 	- **Cornejo Polar traduce el proyecto como modernizador de aculturación** 
 	- aquí se va del indianismo al indigenismo y en el S. XX: del indigenismo al neoindigenismo
-	- En Perú y Ecuador la hacienda (corazón del régimen agrario feudal heredado del colonialismo) se constituyó no solo como sistema socioeconómico sino que constituye casi la cara olvidada de una modernidad que no resolvía los problemas de loa indígena
+	- En Perú y Ecuador la hacienda (corazón del régimen agrario feudal heredado del colonialismo) se constituyó no solo como sistema socioeconómico sino que constituye casi la cara olvidada de una modernidad que no resolvía los problemas de los indígenas
 	- **Mariátegui: primer pensador indigenista peruano**.
 		- **La figura fundadora del marxismo latinoamericano**: funda en 1928 el Partido Socialista del Perú 
 		- Recorre Perú y eso lo lleva a defender el **derecho de autodeterminación de los indígenas**
