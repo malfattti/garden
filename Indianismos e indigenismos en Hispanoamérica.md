@@ -424,8 +424,8 @@ Con ayuda de herramientas conceptuales elaboradas desde los campos de la antropo
 				- Benito Juarez: liberal, indígena, primer presidente indíigena de América latina 
 				- México, contexto liberal 
 				- Novelas con acento antiespañolista muy marcado: Los mártires de Anahuac
-				- Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador
-				- El indio había desaparecido, se parte de un contexto nacional donde no hay indígenas.
+				- **Las Antillas: la inclusión del indio dentro del sentimiento nacional es aceptada no solo por los liberales sino tb por el poder conservador**
+				- **El indio había desaparecido, se parte de un contexto nacional donde no hay indígenas**
 				- Esta presencia no plantea problemas de homogeneidad. “no molesta” si es que llega a darse.
 				- El tema del indio tuvo una función muy precisa: servir para atenuar autenticidad de esclavo negro como ciudadano y representante de lo real.
 				- Presencia negra/presencia indígena
