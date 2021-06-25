@@ -1,5 +1,5 @@
-	- Decadent Love: Courtship and Romance in Three Decadent Short Stories
-- Three or four short stories:
+- Decadent Love: Courtship and Romance in Three Decadent Short Stories
+
 	- The Street of our Lady of the Fields (Chambers)
 	- The Yellow Sign (Chambers)
 	- The Fifth Edition (Wotton)
