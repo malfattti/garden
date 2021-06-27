@@ -2,8 +2,11 @@
 
 In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields, Hasting does earnestly court Valentine. However, it is strongly suggested in the story that Valentine is a prostitute and that she does not wish him to know (although their friends in common know about it, and keep it secret).
 
-The eye is essential in courtship. This is why I will focus on self-presentation and self-projection, how the surrounding characters interpret those, and how the narrator looks at them and tells that aspect of the story. My leading questions are: How are 
-In these stories, therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correcty by the others. Miss Wotton 
+The eye is essential in courtship. This is why I will focus on self-presentation and self-projection, how the surrounding characters interpret those, and how the narrator looks at them and tells that aspect of the story. With this analysiscómo 
+
+
+
+therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correcty by the others. Miss Wotton 
 
 is an unconventional courtship in the sense that, while his performance resembles that of a conventional courtship, what he wishes to obtain is different 
 
