@@ -1,6 +1,6 @@
 - Decadent Love: Deviant Courtship in two Decadent Short Stories
 
-In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields Hasting does earnestly wish to 
+In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields, Hasting does earnestly court Valentine. However, it is strongly suggested in the story that Valentine is a prostitute and that everyone knows but him
 
 
 is an unconventional courtship in the sense that, while his performance resembles that of a conventional courtship, what he wishes to obtain is different 
