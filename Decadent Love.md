@@ -1,4 +1,4 @@
-- Decadent Love: Dissident Courtship 
+- Decadent Love: Deviant Courtship 
 
 	- The Street of our Lady of the Fields (Chambers)
 	- The Fifth Edition (Wotton)
