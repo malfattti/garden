@@ -6,7 +6,7 @@ In courtship, looks are extremely important. With looks I mean to convey an arra
 
 
 
-In these stories, therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correctkly by the others. Miss Wotton 
+In these stories, therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correctky by the others. Miss Wotton 
 
 is an unconventional courtship in the sense that, while his performance resembles that of a conventional courtship, what he wishes to obtain is different 
 
