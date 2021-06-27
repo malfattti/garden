@@ -1,6 +1,6 @@
-- Decadent Love: Deviant Courtship 
+- Decadent Love: Deviant Courtship in two Decadent Short Stories
 
-	- The Street of our Lady of the Fields (Chambers)
+In this paper I will explore courtship in The Street of our Lady of the Fields (Chambers)
 	- The Fifth Edition (Wotton)
 
 - Dissident passions? And why?
