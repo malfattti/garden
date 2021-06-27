@@ -2,7 +2,9 @@
 
 In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields, Hasting does earnestly court Valentine. However, it is strongly suggested in the story that Valentine is a prostitute and that she does not wish him to know (although their friends in common know about it, and keep it secret).
 
-The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. This is why I will focus on characters' self-presentation and how they are receoved, and how the narrator perceives and presents that aspect of the story. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
+The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. This is why I will focus on how these narratives 
+
+characters' self-presentation and how they are received, and how the narrator perceives and presents that aspect of the story. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
 
 
 
