@@ -1,4 +1,4 @@
-- Decadent Love: Courtship and Romance in Three Decadent Short Stories
+- Decadent Love: Dissident Courtship 
 
 	- The Street of our Lady of the Fields (Chambers)
 	- The Fifth Edition (Wotton)
