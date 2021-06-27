@@ -1,6 +1,6 @@
 - Decadent Love: Deviant Courtship in two Decadent Short Stories
 
-In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, Franklyn Leyden's pursuit of Miss Suttaby is an unconventional courtship in the sense that 
+In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, Franklyn Leyden's pursuit of Miss Suttaby is an unconventional courtship in the sense that he does not wish to earn her affection with his performance, but her 
 
  and   (Wotton)
 
