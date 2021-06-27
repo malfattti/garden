@@ -4,7 +4,7 @@ In this paper I will explore the theme of courtship, understood in a broad sense
 
 The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. I would like, therefore, to focus on the problematized relationship between characters' self-presentation and its reception by other characters, and how said relationship is constructed in the narrative. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
 
-My theoretical framework will include a broad definition of cou
+My theoretical framework will include a broad definition of courtship. I will also 
 
 therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correcty by the others. Miss Wotton 
 
