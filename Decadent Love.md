@@ -1,6 +1,6 @@
 - Decadent Love: Deviant Courtship in two Decadent Short Stories
 
-In this paper I will explore courtship in a broad sense in Mabel Wotton's The Fifth Edition and 
+In this paper I will explore courtship in a broad sense in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition 
 
  and   (Wotton)
 
