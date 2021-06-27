@@ -2,11 +2,9 @@
 
 In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields, Hasting does earnestly court Valentine. However, it is strongly suggested in the story that Valentine is a prostitute and that she does not wish him to know (although their friends in common know about it, and keep it secret).
 
-The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. I would like, therefore, to focus on the problematized relationship between characters' self-presentation and its reception by other characters, and how said relationship is constructed in the narrative.
+The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. I would like, therefore, to focus on the problematized relationship between characters' self-presentation and its reception by other characters, and how said relationship is constructed in the narrative. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
 
-characters' self-presentation and how they are received, and how the narrator perceives and presents that aspect of the story. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
-
-
+My theoretical frame will, firstly, take a broad relationship of courtes
 
 
 therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correcty by the others. Miss Wotton 
