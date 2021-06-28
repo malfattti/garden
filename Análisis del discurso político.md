@@ -1,6 +1,6 @@
 - Ideas para el paper:
 	- Salvador Allende
-		- Encontré el siguiente libro de discursos de Allende
+		- Encontré el siguiente libro de discursos de Allende. Alrededor de 24 discursos: http://biblioteca.clacso.edu.ar/clacso/coediciones/20100825034410/modak.pdf
 	- Mariátegui
 	- Representación de los indígenas en los discursos de presidentes argentinos
 	- Metáforas de los discursos de militares en la dictadura del 76
