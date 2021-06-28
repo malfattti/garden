@@ -1,2 +1,3 @@
 - Ideas para el paper:
-	- 
+	- Salvador Allende
+	- Mariáteg
