@@ -3,4 +3,5 @@
 	- Mariátegui
 	- Representación de los indígenas en los discursos de presidentes argentinos
 	- Metáforas de los discursos de militares en la dictadura del 76
+		- Encontré todos los discursos de Videla de 1976: https://www.scribd.com/document/231712928/Dictadura-Discursos-de-Videla-1976. Son trece discursos.
 	- 
