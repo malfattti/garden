@@ -1,3 +1,6 @@
 - Ideas para el paper:
 	- Salvador Allende
-	- Mariáteg
+	- Mariátegui
+	- Representación de los indígenas en los discursos de presidentes argentinos
+	- Metáforas de los discursos de militares en la dictadura del 76
+	- 
