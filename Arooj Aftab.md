@@ -1,0 +1,2 @@
+- Mencionada por [[Grimes]] en una Instagram story
+- Sacó [[Vulture Prince]] en 2021
