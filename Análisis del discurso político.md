@@ -4,5 +4,5 @@
 	- Representación de los indígenas en los discursos de presidentes argentinos
 	- Metáforas de los discursos de militares en la dictadura del 76
 		- Encontré todos los discursos de Videla de 1976: https://www.scribd.com/document/231712928/Dictadura-Discursos-de-Videla-1976. Son trece discursos.
-		- Entrevista a investigadora del CONICET Marina Franco Los discursos de la represión
+		- Entrevista a investigadora del CONICET [[Marina Franco]] Los discursos de la represión: https://www.pagina12.com.ar/diario/dialogos/21-204600-2012-10-01.html
 	- REPRESENTACIÓN DE SENDERO LUMINOSO

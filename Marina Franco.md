@@ -1,0 +1,2 @@
+- Investigadora del CONICET
+- Entrevista: https://www.pagina12.com.ar/diario/dialogos/21-204600-2012-10-01.html
