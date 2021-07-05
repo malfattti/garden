@@ -7,3 +7,13 @@
 		- Entrevista a investigadora del CONICET [[Marina Franco]] Los discursos de la represión: https://www.pagina12.com.ar/diario/dialogos/21-204600-2012-10-01.html
 	- REPRESENTACIÓN DE SENDERO LUMINOSO
 	- Análisis del Facundo con el sketch engine. EPA!
+		- Leer artículo de Piglia "Sarmiento escritor"
+			- creación del paradigma de civilización y barbarie
+				- búsqueda de campo semántico de civilizaicón y barbarie y ver qué aparece
+				- idea de la escritura en la frontera, la política tiende a leer la "y" como "o", la literatura hace la conjunción posible porque representa un mundo desde otro
+		- Leer introducción del *Facundo* de Alejandra Laera [x]
+			- conjunción de lo político y lo literario (corto y largo plazo, lo llama ella) en el Facundo
+			- importancia de lo hiperbólico en relación con lo literario
+			- Búsqueda en el sketch engine con palabras relacionadas con la hipérbole (tan, muy, tanto, etc.)
+		- Leer el *Facundo*
+		- Reler Paul Baker, Using Corpora in Discourse Analysis
