@@ -15,6 +15,6 @@
 			- conjunción de lo político y lo literario (corto y largo plazo, lo llama ella) en el Facundo
 			- importancia de lo hiperbólico en relación con lo literario
 			- Búsqueda en el sketch engine con palabras relacionadas con la hipérbole (tan, muy, tanto, etc.)
-			- Incluir más obras?
+			- Incluir más obras? Obras completas disponibles en https://casanatalsarmiento.cultura.gob.ar/biblioteca-digital/obras-sarmiento/obras-completas/
 		- Leer el *Facundo*
 		- Reler Paul Baker, Using Corpora in Discourse Analysis
