@@ -16,5 +16,6 @@
 			- importancia de lo hiperbólico en relación con lo literario
 			- Búsqueda en el sketch engine con palabras relacionadas con la hipérbole (tan, muy, tanto, etc.)
 			- Incluir más obras? Obras completas disponibles en https://casanatalsarmiento.cultura.gob.ar/biblioteca-digital/obras-sarmiento/obras-completas/
+			- tener ne cuenta la dipersión (distribución de un término a lo largo del texto)
 		- Leer el *Facundo*
 		- Reler Paul Baker, Using Corpora in Discourse Analysis
