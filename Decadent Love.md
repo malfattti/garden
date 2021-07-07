@@ -1,21 +1,14 @@
 - Decadent Love: Deviant Courtship in two Decadent Short Stories
 
-In this paper I will explore the theme of courtship, understood in a broad sense, in Mabel Wotton's The Fifth Edition and Robert W. Chambers' The Street of our Lady of the Fields. In The Fifth Edition, although Franklyn Leyden's pursuit of the Miss Suttaby resembles a courtship in terms of his performance, his reward is not her affection, but her work and ideas. Furthermore, if realized, their romantic relationship would be considered "deviant" because of her being older. In The Street of our Lady of the Fields, Hasting does earnestly court Valentine. However, it is strongly suggested in the story that Valentine is a prostitute and that she does not wish him to know (although their friends in common know about it, and keep it secret).
+Abstract:
 
-The eye is essential in courtship, and the fact that these are out of the ordinary courtships does not change that. I would like, therefore, to focus on the problematized relationship between characters' self-presentation and its reception by other characters, and how said relationship is constructed in the narrative. With this analysis I aim to answer the following questions: how are these deviant courtships presented and to what aim? How is this presentation related to the decadent agenda?
+In this paper I will explore the topic of courtship, understood in a broad sense, in two short stories written within the Decadent movement: Mabel Wotton's "The Fifth Edition" and Robert W. Chambers' "The Street of our Lady of the Fields". 
 
-My theoretical framework will include a broad definition of courtship. I will also 
+Both stories present courtships that depart from the traditional definition of the term. While in "The Fifth Edition" Franklyn Leyden's pursuit of Miss Suttaby resembles at times a courtship, his objective is to earn not her affection, but her work and ideas. Because he does not really care for her, there is a mismatch between his perception of her and what the narrative discloses about her. In "The Street of our Lady of the Fields", Hastings courts Valentine sincerely. However, it is strongly suggested that she is a prostitute, and she wishes to keep this information from Hastings, who seems unaware of it.
 
-therefore, what the characters show of themselves does not always correspond to reality. Leyden's performance shows him as a good young man, while the thoughts and actions that we learn from him do not match this ideal. Valentine actively avoids telling Hastings the truth, although she knows he believes her to be someone different. Moreover, what the characters show of themselves is not always interpreted correcty by the others. Miss Wotton 
+As the brief descriptions begin to suggest, both stories deal with the problematization of courtship through its essential components of self-presentation and its perception by others. I will analyze how this problematization is constructed on a textual level, focusing on characterization, the presentation of conflicting character perspectives and the role of the narrator. Furthermore, I will show how the narrative, as a Decadent product, interacts with the reader in a similar kind of deviant courtship.
 
-is an unconventional courtship in the sense that, while his performance resembles that of a conventional courtship, what he wishes to obtain is different 
-
-
-
-he does not wish to earn her affection with his performance, but her ideas and work. His performance 
-
- and   (Wotton)
-
+**
 - Dissident passions? And why?
 
 - Elements which are important in these relationships:
