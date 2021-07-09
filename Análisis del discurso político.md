@@ -20,3 +20,5 @@
 		- Leer el *Facundo*
 		- Reler Paul Baker, Using Corpora in Discourse Analysis
 		- http://www.scielo.org.co/pdf/tara/n21/n21a13.pdf para referencia a Adriana Pérsico sobre C y B, dicotomías
+		- Idea para Facundo:
+			- cómo representó Sarmiento en su Facundo el binom
