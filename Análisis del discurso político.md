@@ -21,4 +21,5 @@
 		- Reler Paul Baker, Using Corpora in Discourse Analysis
 		- http://www.scielo.org.co/pdf/tara/n21/n21a13.pdf para referencia a Adriana Pérsico sobre C y B, dicotomías
 		- Idea para Facundo:
-			- cómo representó Sarmiento en su Facundo el binom
+			- cómo representó Sarmiento en su Facundo el binomio Buenos Aires / provincias? Cuál fue su relación con el binomio civilización y barbarie?
+			- cómo se puede relacionar esta representación con los resultados en las elecciones de 1886, cuando Sarmiento 
