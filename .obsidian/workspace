@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "burup forever.md",
+            "file": "2021-10-03.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0997a0c2eeed8b04",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "burup forever.md",
+                "file": "2021-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
   },
   "active": "0a97866126cb0d9d",
   "lastOpenFiles": [
-    "burup forever.md",
-    "2021-09-12.md",
-    "2021-08-04.md",
-    "Análisis del discurso político.md",
-    "Decadent Love.md",
-    "2021-07-05.md",
-    "2021-06-29.md",
-    "Marina Franco.md",
-    "UNSAM edita.md",
-    "2021-06-28.md"
+    "2021-10-03.md",
+    "Untitled 1.md",
+    "recursos poéticos.md",
+    "Roberto Arlt.md",
+    "starke verben.md",
+    "stephen greenblatt.md",
+    "temas de la poesía del siglo de oro.md",
+    "The Sexual Psychology of Decadence.md",
+    "transformaciones estructurales de la esfera pública.md",
+    "ricardo piglia.md"
   ]
 }
