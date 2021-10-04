@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a97866126cb0d9d",
+        "id": "b60862f61ec1522c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "b96ed7b21e093cbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is mode.md",
+            "file": "2021-10-03.md",
             "mode": "source"
           }
         }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is mode.md",
+                "file": "2021-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a97866126cb0d9d",
+  "active": "b96ed7b21e093cbb",
   "lastOpenFiles": [
-    "What is mode.md",
     "2021-10-03.md",
+    "What is mode.md",
+    "Semiotics. The Basics.md",
     "Untitled 1.md",
     "recursos poéticos.md",
     "Roberto Arlt.md",
     "starke verben.md",
     "stephen greenblatt.md",
     "temas de la poesía del siglo de oro.md",
-    "The Sexual Psychology of Decadence.md",
-    "transformaciones estructurales de la esfera pública.md"
+    "The Sexual Psychology of Decadence.md"
   ]
 }
