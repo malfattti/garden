@@ -40,4 +40,4 @@
 	- they express and organize shared ways of conceptualizing phenomena within a culture
 	- they draw upon a 'cultural vocabulary'
 - they account for contradictions within cultures
-- 
+	- brand myth: a brand offers a solution to a contradiction 
