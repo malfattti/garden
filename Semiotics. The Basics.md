@@ -36,4 +36,6 @@
 -  connotation is very important in the advertising discourse
 
 ## Myth
-- Cultural myths 
+- Cultural myths help us make sense of our experiences within a culture
+	- they express and organize shared ways of conceptualizing phenomena within a culture
+	- they dray upon a 'c
