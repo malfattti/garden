@@ -14,8 +14,9 @@
 ## Modes, materiality and affordance
 - Los modos ofrecen diferentes potenciales para crear significado
 	- estos potenciales cumplen un ol fundamental en la elección de un modo en una determinada instancia de comunicación
+	- est
 	- por ejemplo, la escritua y el habla, aunque son modos en parte relacionados, ofrecen diferentes potencialidades:
-		- en la escritura, por ejemplo, para darle énfasis a una palabra podemos usar la negrita.
+		- en la escritura, por ejemplo, para darle énfasis a una palabra podemos usar la negrita. En el habla, usamos otros recursos como la entonación, 
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
