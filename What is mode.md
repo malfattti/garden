@@ -4,9 +4,10 @@
 - Año de publicación: 2009
 
 ## Introduction
-- El modo es un recurso para significar
+- El modo es un recurso para crear significado
 	- socialmente moldeado
 	- culturalmente dado
+	- ejemplos: imagen, escritura, layout, música, gestos, habla.
 ## Modes, materiality and affordance
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
