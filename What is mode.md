@@ -30,7 +30,8 @@
 	-  las imágenes se basan en la lógica del espacio: usa las capacidades de de un espacio enmarcado
 -  los modos se elaboran en función de las necesidades sociales, lo que explica que no todas las potencialidades de la materialidad de un modo se desarrollan para transformarse en las capacidades de un modo en una cultura particular
 -  el enfoque en la materialidad implica dos movimientos:
-	-  uno que se aleja de abstracciones como "lenguaje" o "el sistema lingüístico", hacia lo específic
+	-  uno que se aleja de abstracciones como "lenguaje" o "el sistema lingüístico", hacia lo específico y material de los modos desarrollados en los usos sociales
+	-  otro es que vincua los modos como medios de representación con la corporiedad de los seres humanos
 
 
 
