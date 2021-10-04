@@ -36,4 +36,4 @@
 -  connotation is very important in the advertising discourse
 
 ## Myth
-
+- Cultural myths 
