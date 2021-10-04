@@ -16,7 +16,8 @@
 	- estos potenciales cumplen un rol fundamental en la elección de un modo en una determinada instancia de comunicación
 	- los recursos de cada modo tienen formas específicas en diferentes culturaas
 	- por ejemplo, la escritua y el habla, aunque son modos en parte relacionados, ofrecen diferentes potencialidades:
-		- en la escritura, por ejemplo, para darle énfasis a una palabra podemos usar la negrita. En el habla, usamos otros recursos como la entonación, 
+		- en la escritura, por ejemplo, para darle énfasis a una palabra podemos usar la negrita. En el habla, usamos otros recursos como la entonación
+		- los efectos son 
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
