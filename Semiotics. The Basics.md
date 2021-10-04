@@ -8,4 +8,5 @@
 - Dennotation: informational function
 	- definitional, literal, obvious meaning of a sign
 - Connotation: aesthetic function
-	- more polysemic aspect of signs, 
+	- more polysemic aspect of signs
+	- secondary overtones that may 
