@@ -20,7 +20,7 @@
 		- los efectos son semióticamente similares pero distintivos en su significado específico en cada caso. Son recursos diferentes en modos específicos que pertenecen a una categoría semiótica más específica: "énfasis"
 ## Mode as cultural resource: materiality, semiotic logics and social action
 - En un enfoque social-semiótico del modo, se debe dar igual importancia a la materialidad del modo y al trabajo que la cultura ha hecho sobre ese material a lo largo de la historia.
-	- la accción social u 
+	- la accción social y la capacidad (affordance) del material producen recursos semióticos que son producto de la potencialidad inherente al material, de la selección social de esa potencialidad y de 
 ## The 'reach' of modes
 ## What *is* a mode?
 ## Meaning, mode, text: 'fixing' and 'framing''
