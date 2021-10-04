@@ -36,6 +36,7 @@
 - Cada sociedad desarrolla sus recursos de forma diferente, y por eso el alcance de los modos varía de cultura a cultura
 - Esto implica probelmaas para las traducciones de muchas formas de expresión que pueden no tener su equivalente en el mismo modo de cultura a cultura
 ## What *is* a mode?
-- La capacidad (affordance, el potencial y las limitaciones de un material utilizado como un modo en la semiosis) aplica a todas 
+- La capacidad (affordance, el potencial y las limitaciones de un material utilizado como un modo en la semiosis) aplica a todos los modos y el lenguaje no es una excepción
+- entonces el lenguaje es tan l
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
