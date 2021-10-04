@@ -64,4 +64,4 @@
 - es necesario desarrollar dos tipos de etiquetas:
 	- las que son específicas para cada modo
 	- las que corresponden a funciones y propósitos que son comunes a todos los modos
-	- 
+- el autor termina subrayando la idea de que hay comunidades enteras que no se basan en el lenguaje para hacer significado, es decir, que el lenguaje es solo uno de los modos posibles.
