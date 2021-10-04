@@ -18,5 +18,5 @@
 - Althusser states that together with dennotation we also learn dominant connotations, which position us within ideology
 	- connotations tend to support cultural stereotypes
 	- connotational frameworks are organized around key positions and equations within cultural codes, each pole aligned with a cluster of symbolic attributes
-	- 
+- connotation and dennotation are not easily o
 - 
