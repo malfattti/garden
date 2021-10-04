@@ -33,3 +33,7 @@
 -  connotations depend more on social intersubjectivity than on individual subjectivity
 -  they are dynamic and subject to change 
 -  connotational codes: pervasive patterns of connotations
+-  connotation is very important in the advertising discourse
+
+## Myth
+
