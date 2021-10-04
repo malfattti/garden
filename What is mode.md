@@ -37,6 +37,7 @@
 - Esto implica probelmaas para las traducciones de muchas formas de expresión que pueden no tener su equivalente en el mismo modo de cultura a cultura
 ## What *is* a mode?
 - La capacidad (affordance, el potencial y las limitaciones de un material utilizado como un modo en la semiosis) aplica a todos los modos y el lenguaje no es una excepción
-- entonces el lenguaje es tan l
+- entonces el lenguaje es tan limitado como los otros modos
+- las preguntas en torno al alcance del lenguaje también demuestran 
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
