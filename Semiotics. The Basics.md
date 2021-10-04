@@ -5,4 +5,4 @@
 
 ## Dennotation and connotation
 - the two parts of meaning
-- 
+- Dennotation: 
