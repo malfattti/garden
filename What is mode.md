@@ -8,6 +8,7 @@
 	- socialmente moldeado
 	- culturalmente dado
 	- ejemplos: imagen, escritura, layout, música, gestos, habla.
+- En las áreas de las Humanidades, Ciencias Sociales. Artes, Ed
 ## Modes, materiality and affordance
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
