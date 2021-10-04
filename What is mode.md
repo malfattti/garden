@@ -4,8 +4,10 @@
 - Año de publicación: 2009
 
 ## Introduction
+- El
 ## Modes, materiality and affordance
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
-
+## Meaning, mode, text: 'fixing' and 'framing''
+## Conclusion
