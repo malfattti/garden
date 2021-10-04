@@ -13,7 +13,8 @@
 	- Este autor usa el enfoque e una teoría semiótica basada en lo social con un interés por el poder, la representación y la comunicación
 ## Modes, materiality and affordance
 - Los modos ofrecen diferentes potenciales para crear significado
-	- estos potenciales cumplen un ol fundamental en 
+	- estos potenciales cumplen un ol fundamental en la elección de un modo en una determinada instancia de comunicación
+	- por e
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
