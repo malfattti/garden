@@ -19,5 +19,6 @@
 	- connotations tend to support cultural stereotypes
 	- connotational frameworks are organized around key positions and equations within cultural codes, each pole aligned with a cluster of symbolic attributes
 - connotation and dennotation are not easily or neatly separated
-	- there is no depiction or description without an evaluative elemnet
+	- there is no depiction or description without an evaluative element
+- there is no literal meaning, denotation simply has a broader consensus
 - 
