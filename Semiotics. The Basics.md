@@ -6,5 +6,5 @@
 ## Dennotation and connotation
 - the two parts of meaning
 - Dennotation: informational function
-	- definitional, literal, obvious meaning
+	- definitional, literal, obvious meaning of a sign
 - Connotation: aesthetic function
