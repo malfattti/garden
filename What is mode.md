@@ -47,6 +47,6 @@
 	- tiene que cumplir con tres funciones:
 		- representar lo que ocurre en el mundo (ideational function)
 		- representar las relaciones sociales de quienes participan de la comunicación (interpersonal function)
-		- representar 
+		- representar las dos anteriores como mensajes (textos) coherentes internamente  y con su entorno (textual function)
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
