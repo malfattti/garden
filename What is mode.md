@@ -24,7 +24,7 @@
 	- así es como los modos de una sociedad no son idénticos a los de otras sociedades a pesar de que estas estén relacionadas entre sí
 - a pesar de esto hay cosas en común:
 	-  la secuencia en el tiempo como principio organizador fundamental del habla
-	-  la escritura alfabética por el contrario se organiza en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiem
+	-  la escritura alfabética por el contrario se exhibe en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiempo, lo que explica la secuencia espacial de elementos en la línea de escitura.
 
 
 ## The 'reach' of modes
