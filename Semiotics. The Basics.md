@@ -25,5 +25,6 @@
 	- some connotations are widely recognized unconsciously 
 - Barthes created a stratified model of connotation
 	- dennotation is the first order of signification
-	- connotation is the second: a sign i
+	- connotation is the second: the denotative sign becomes the signifier of a connotative sign
+	- idea that dennotation is a primary meaning has 
 - 
