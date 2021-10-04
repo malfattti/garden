@@ -22,7 +22,9 @@
 - En un enfoque social-semiótico del modo, se debe dar igual importancia a la materialidad del modo y al trabajo que la cultura ha hecho sobre ese material a lo largo de la historia.
 	- la accción social y la capacidad (affordance) del material producen recursos semióticos que son producto de la potencialidad inherente al material, de la selección social de esa potencialidad y de el moldeado social de los rasgos seleccionados
 	- así es como los modos de una sociedad no son idénticos a los de otras sociedades a pesar de que estas estén relacionadas entre sí
-	- a pesar de esto hay cosas en común como la secuencia en el tiempo como principio organizador fundamental del habla
+- a pesar de esto hay cosas en común:
+	-  la secuencia en el tiempo como principio organizador fundamental del habla
+	-  la escritura alfabética por el contrario se organiza en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiem
 
 
 ## The 'reach' of modes
