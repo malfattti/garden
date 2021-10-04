@@ -23,10 +23,11 @@
 	- la accción social y la capacidad (affordance) del material producen recursos semióticos que son producto de la potencialidad inherente al material, de la selección social de esa potencialidad y de el moldeado social de los rasgos seleccionados
 	- así es como los modos de una sociedad no son idénticos a los de otras sociedades a pesar de que estas estén relacionadas entre sí
 - a pesar de esto hay cosas en común:
-	-  la secuencia en el tiempo como principio organizador fundamental del habla
-	-  la escritura alfabética por el contrario se exhibe en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiempo, lo que explica la secuencia espacial de elementos en la línea de escritura
-	-  el sonido y el material gráfico tienen diferentes potenciales para construir significado, y ambos están socialmente moldeados
-	-  en este sentido las diferencias entre escritura y habla parecen iguales o mas significativas que sus siimilitudes y parece extraño que se las subsuma a ambas bajo la etiqueta de "lenguaje", que termina ofuscando sus diferenciaciones como modos con diferentes, aunque relacion capacidades
+	-  por ejemplo: la secuencia en el tiempo como principio organizador fundamental del habla
+		-  la escritura alfabética por el contrario se exhibe en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiempo, lo que explica la secuencia espacial de elementos en la línea de escritura
+		-  el sonido y el material gráfico tienen diferentes potenciales para construir significado, y ambos están socialmente moldeados
+		-  en este sentido las diferencias entre escritura y habla parecen iguales o mas significativas que sus siimilitudes y parece extraño que se las subsuma a ambas bajo la etiqueta de "lenguaje", que termina ofuscando sus diferenciaciones como modos con diferentes, aunque relacionadas, capacidades
+	-  las imágenes se basan en la lógica del espacio
 
 
 
