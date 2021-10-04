@@ -45,8 +45,10 @@
 - desde un punto de vista formal, una teoría semiótica-social de la comunicación tiene requerimientos específicos para un modo. 
 	- el foco está en los requerimientos comunicaciona;es.
 	- tiene que cumplir con tres funciones:
-	- representar lo que ocurre en el mundo (ideational function) (commutation
+		- representar lo que ocurre en el mundo (ideational function) (commutation)
 		- representar las relaciones sociales de quienes participan de la comunicación (interpersonal function)
 		- representar las dos anteriores como mensajes (textos) coherentes internamente  y con su entorno (textual function)
+		- el autor comprueba estas tres funciones en el modo layout y confirma que el layout es un modo
 ## Meaning, mode, text: 'fixing' and 'framing''
+- La multimodalidad ofrece 
 ## Conclusion
