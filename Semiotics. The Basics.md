@@ -4,4 +4,5 @@
 - Año de publicación: 2017
 
 ## Dennotation and connotation
-- the two parts of meaningwqe
+- the two parts of meaning
+- 
