@@ -53,5 +53,6 @@
 - La multimodalidad ofrece una elección de modos: dependiendo de los componentes mediáticos hay diferentes posibilidades de materializar un significado como imagen, gesto, etc., o una combinación de varios modos
 - el significado solo existe en su materialización a través de un modo o un conjunto de modos
 - la relación entre modo y significado ocurre de tres formas:
-	- como una cuestión retórica: una cuestión de capacidades y de requerimientos retóricos. Qué modo es apto para la tarea retórica que se quiere alcanzar?
+	- como una cuestión retórica: una cuestión de capacidades y de requerimientos retóricos. Qué modo es apto para la tarea retórica que se quiere realizar?
+	- como una cuestión ontológica: cada modo implica una visión del mu
 ## Conclusion
