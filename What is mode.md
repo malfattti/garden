@@ -50,5 +50,5 @@
 		- representar las dos anteriores como mensajes (textos) coherentes internamente  y con su entorno (textual function)
 		- el autor comprueba estas tres funciones en el modo layout y confirma que el layout es un modo
 ## Meaning, mode, text: 'fixing' and 'framing''
-- La multimodalidad ofrece 
+- La multimodalidad ofrece una elección de modos: dependiendo de los componentes mediáticos hay diferentes posibilidades de 
 ## Conclusion
