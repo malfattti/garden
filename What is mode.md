@@ -42,5 +42,6 @@
 - para este autor el habla y la escritura son modos distintos
 - cada modo consiste en un conjunto de rasgos/recursos (features) diversos 
 - desde el punto de vista social, un modo es lo que una comunidad toma como un modo, lo que se demuestra en sus prácticas, es un tema de una comunidad y sus necesidades representacionales
+- desde un punto de vista formal, una teoría social de 
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
