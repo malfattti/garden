@@ -23,5 +23,7 @@
 - there is no literal meaning, denotation simply has a broader consensus
 - connotation is looser, less conventional
 	- some connotations are widely recognized unconsciously 
-- Barthes 
+- Barthes created a stratified model of connotation
+	- dennotation is the first order of signification
+	- connotation is the second: a sign i
 - 
