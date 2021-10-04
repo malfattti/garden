@@ -23,4 +23,5 @@
 - there is no literal meaning, denotation simply has a broader consensus
 - connotation is looser, less conventional
 	- some connotations are widely recognized unconsciously 
+- Barthes 
 - 
