@@ -58,6 +58,7 @@
 		- modal fixing: provee el material con el que el texto se moldea a través de distintos marcos de diferente tipo
 		- una vez que un "fix" se ha hecho habitual, es probable que se vea como natural esta forma particular de representación
 		- el encuadre de los géneros es un ejemplo de esto
-		- cada modo tiene sus formas específicas de encuadre. los encuadres son significantes y como tales tienen capacidad de significar. agrupan y segmentan. lo que ha sido 
+		- cada modo tiene sus formas específicas de encuadre. los encuadres son significantes y como tales tienen capacidad de significar. agrupan y segmentan. lo que ha sido  fijado a nivel modal debe ser encuadrado a nivel modal. Juntos, los dos procesos establecen la base del significado en cada instancia de significación.
 	- como una cuestion de los ensambles multimodales: qué modos se seleccionarán y de qué manera serán organizados. 
 ## Conclusion
+- es necesario desarrollar dos tipos de etiqu
