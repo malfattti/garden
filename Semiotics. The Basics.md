@@ -29,5 +29,5 @@
 	- idea that dennotation is a primary meaning has been challenged by other theorists
 	- Language is not neutral and transparent
 		- outr paradigmatic choices generate connotations
-	- Connotation is not purely paradigmatic, sytagmatic relations are also relevant
+	- Connotation is not purely paradigmatic, sytagmatic relations are also relevant. The way connotations are perceived depends on the context
 - 
