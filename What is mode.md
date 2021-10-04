@@ -32,10 +32,8 @@
 -  el enfoque en la materialidad implica dos movimientos:
 	-  uno que se aleja de abstracciones como "lenguaje" o "el sistema lingüístico", hacia lo específico y material de los modos desarrollados en los usos sociales
 	-  otro es que vincua los modos como medios de representación con la corporiedad de los seres humanos
-
-
-
 ## The 'reach' of modes
+
 ## What *is* a mode?
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
