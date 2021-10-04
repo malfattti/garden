@@ -42,4 +42,5 @@
 - they account for contradictions within cultures
 	- brand myth: a brand offers a solution to a contradiction 
 - Like connotation, myths belong to a higher order of signification, according to Barthes
-- the dennotative sign also becomes the signifier of the connotative sign, in the case of myth, "
+- the dennotative sign also becomes the signifier of the connotative sign
+	- in the case of myth, modes of representation which myth uses to build its own system become the signifier of mythical metalanguage. 
