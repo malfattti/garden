@@ -41,3 +41,4 @@
 	- they draw upon a 'cultural vocabulary'
 - they account for contradictions within cultures
 	- brand myth: a brand offers a solution to a contradiction 
+- Like connotation, myths belong to a higher order of signification, according to Barthes
