@@ -8,7 +8,8 @@
 	- socialmente moldeado
 	- culturalmente dado
 	- ejemplos: imagen, escritura, layout, música, gestos, habla.
-- Junto a la multimodalidad, es un oncpto que está ganando n las áreas de las Humanidades, Ciencias Sociales. Artes, Educación (áreas donde el significado es un tema importante), 
+- Junto a la multimodalidad, es un concepto que está ganando terreno en las áreas de las Humanidades, Ciencias Sociales. Artes, Educación (áreas donde el significado es un tema importante)
+	- la multimodalid
 ## Modes, materiality and affordance
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
