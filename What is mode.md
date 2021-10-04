@@ -4,7 +4,9 @@
 - Año de publicación: 2009
 
 ## Introduction
-- El
+- El modo es un recurso para significar
+	- socialmente moldeado
+	- culturalmente dado
 ## Modes, materiality and affordance
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
