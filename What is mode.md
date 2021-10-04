@@ -42,6 +42,9 @@
 - para este autor el habla y la escritura son modos distintos
 - cada modo consiste en un conjunto de rasgos/recursos (features) diversos 
 - desde el punto de vista social, un modo es lo que una comunidad toma como un modo, lo que se demuestra en sus prácticas, es un tema de una comunidad y sus necesidades representacionales
-- desde un punto de vista formal, una teoría social de 
+- desde un punto de vista formal, una teoría semiótica-social de la comunicación tiene requerimientos específicos para un modo. 
+	- el foco está en los requerimientos comunicaciona;es.
+	- tiene que cumplir con tres funciones:
+		- 
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
