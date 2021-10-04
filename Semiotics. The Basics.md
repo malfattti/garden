@@ -15,3 +15,4 @@
 - they require interpretation and thus challenge the notion of communication as decoding
 - Barthes states that connotation creates the illusion of denotation, denotation os just another connotation
 - Dennotation can rather be see as a naturalization process
+- Althusser states that together with dennotation we also learn dominant connotations, which posotion
