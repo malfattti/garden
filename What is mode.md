@@ -61,4 +61,7 @@
 		- cada modo tiene sus formas específicas de encuadre. los encuadres son significantes y como tales tienen capacidad de significar. agrupan y segmentan. lo que ha sido  fijado a nivel modal debe ser encuadrado a nivel modal. Juntos, los dos procesos establecen la base del significado en cada instancia de significación.
 	- como una cuestion de los ensambles multimodales: qué modos se seleccionarán y de qué manera serán organizados. 
 ## Conclusion
-- es necesario desarrollar dos tipos de etiqu
+- es necesario desarrollar dos tipos de etiquetas:
+	- las que son específicas para cada modo
+	- las que corresponden a funciones y propósitos que son comunes a todos los modos
+	- 
