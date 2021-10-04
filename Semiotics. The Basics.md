@@ -30,4 +30,4 @@
 	- Language is not neutral and transparent
 		- outr paradigmatic choices generate connotations
 	- Connotation is not purely paradigmatic, sytagmatic relations are also relevant. The way connotations are perceived depends on the context
-- 
+-  connotations depend more on social intersubjectivity than on individual subjectivity
