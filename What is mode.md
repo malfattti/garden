@@ -12,6 +12,8 @@
 	- la multimodalidad no es una teoría sino que implica un dominio de investigación en el que convergen diferentes disciplinas y enfoques
 	- Este autor usa el enfoque e una teoría semiótica basada en lo social con un interés por el poder, la representación y la comunicación
 ## Modes, materiality and affordance
+- Los modos ofrecen diferentes potenciales para crear significado
+	- estos potenciales cumplen un ol fundamental en 
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
