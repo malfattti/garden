@@ -34,7 +34,8 @@
 	-  otro es que vincua los modos como medios de representación con la corporiedad de los seres humanos
 ## The 'reach' of modes
 - Cada sociedad desarrolla sus recursos de forma diferente, y por eso el alcance de los modos varía de cultura a cultura
-- Esto implica probelmaas para las traducciones de 
+- Esto implica probelmaas para las traducciones de muchas formas de expresión que pueden no tener su equivalente en el mismo modo de cultura a cultura
 ## What *is* a mode?
+- 
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
