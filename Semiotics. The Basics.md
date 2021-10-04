@@ -16,4 +16,5 @@
 - Barthes states that connotation creates the illusion of denotation, denotation os just another connotation
 - Dennotation can rather be see as a naturalization process
 - Althusser states that together with dennotation we also learn dominant connotations, which position us within ideology
-	- connotations tend to support cultural stereotypes, such as refinement in clean ads for upper classes, and 
+	- connotations tend to support cultural stereotypes, such as clean ads that connote refinement and are intended for upper classes, and attention grabbing cues in adds connote bad taste and are meant for lower classes
+- 
