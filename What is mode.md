@@ -17,7 +17,7 @@
 	- los recursos de cada modo tienen formas específicas en diferentes culturaas
 	- por ejemplo, la escritua y el habla, aunque son modos en parte relacionados, ofrecen diferentes potencialidades:
 		- en la escritura, por ejemplo, para darle énfasis a una palabra podemos usar la negrita. En el habla, usamos otros recursos como la entonación
-		- los efectos son 
+		- los efectos son semióticamente similares pero distintivos en su significado específico en cada caso. Son recursos diferentes en modos específicos que pertenecen a una categoría semiótica más específica: "énfasis
 ## Mode as cultural resource: matriality, semiotic logics and social action
 ## The 'reach' of modes
 ## What *is* a mode?
