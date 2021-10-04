@@ -28,4 +28,5 @@
 	- connotation is the second: the denotative sign becomes the signifier of a connotative sign
 	- idea that dennotation is a primary meaning has been challenged by other theorists
 	- Language is not neutral and transparent
+		- outr paradigmatic choices generate connotations
 - 
