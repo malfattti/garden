@@ -40,5 +40,6 @@
 - entonces el lenguaje es tan limitado como los otros modos
 - las preguntas en torno al alcance del lenguaje también demuestran que el término reún e una variedad de fenómenos que no necesariamente van bien juntos como modos. 
 - para este autor el habla y la escritura son modos distintos
+- cada modo consiste en un conjunto de rasgos/recursos (features) diversos 
 ## Meaning, mode, text: 'fixing' and 'framing''
 ## Conclusion
