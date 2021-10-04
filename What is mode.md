@@ -55,5 +55,6 @@
 - la relación entre modo y significado ocurre de tres formas:
 	- como una cuestión retórica: una cuestión de capacidades y de requerimientos retóricos. Qué modo es apto para la tarea retórica que se quiere realizar?
 	- como una cuestión ontológica: cada modo implica una visión del mundo 
+		- modal fixing: provee el material con el que el texto se moldea a través de distintos marcos de diferente tipo
 	- como una cuestion de los ensambles multimodales: qué modos se seleccionarán y de qué manera serán organizados. 
 ## Conclusion
