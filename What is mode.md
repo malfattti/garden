@@ -27,7 +27,8 @@
 		-  la escritura alfabética por el contrario se exhibe en el espacio pero también se apoya en el habla y su lógica de secuencia en el tiempo, lo que explica la secuencia espacial de elementos en la línea de escritura
 		-  el sonido y el material gráfico tienen diferentes potenciales para construir significado, y ambos están socialmente moldeados
 		-  en este sentido las diferencias entre escritura y habla parecen iguales o mas significativas que sus siimilitudes y parece extraño que se las subsuma a ambas bajo la etiqueta de "lenguaje", que termina ofuscando sus diferenciaciones como modos con diferentes, aunque relacionadas, capacidades
-	-  las imágenes se basan en la lógica del espacio: usa las capacidades de 
+	-  las imágenes se basan en la lógica del espacio: usa las capacidades de de un espacio enmarcado
+	-  los modos se 
 
 
 
