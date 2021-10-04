@@ -50,5 +50,7 @@
 		- representar las dos anteriores como mensajes (textos) coherentes internamente  y con su entorno (textual function)
 		- el autor comprueba estas tres funciones en el modo layout y confirma que el layout es un modo
 ## Meaning, mode, text: 'fixing' and 'framing''
-- La multimodalidad ofrece una elección de modos: dependiendo de los componentes mediáticos hay diferentes posibilidades de materializar un significado como imagen, gesto, o una combinaci
+- La multimodalidad ofrece una elección de modos: dependiendo de los componentes mediáticos hay diferentes posibilidades de materializar un significado como imagen, gesto, etc., o una combinación de varios modos
+- el significado solo existe en su materialización a través de un modo o un conjunto de modos
+- la relación entre modo y significado ocu
 ## Conclusion
