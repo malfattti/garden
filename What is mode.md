@@ -21,7 +21,10 @@
 ## Mode as cultural resource: materiality, semiotic logics and social action
 - En un enfoque social-semiótico del modo, se debe dar igual importancia a la materialidad del modo y al trabajo que la cultura ha hecho sobre ese material a lo largo de la historia.
 	- la accción social y la capacidad (affordance) del material producen recursos semióticos que son producto de la potencialidad inherente al material, de la selección social de esa potencialidad y de el moldeado social de los rasgos seleccionados
-	- así es como los modos de una sociedad no son idénticos
+	- así es como los modos de una sociedad no son idénticos a los de otras sociedades a pesar de que estas estén relacionadas entre sí
+	- a pesar de esto hay cosas en común como 
+
+
 ## The 'reach' of modes
 ## What *is* a mode?
 ## Meaning, mode, text: 'fixing' and 'framing''
