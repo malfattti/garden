@@ -29,6 +29,8 @@
 		-  en este sentido las diferencias entre escritura y habla parecen iguales o mas significativas que sus siimilitudes y parece extraño que se las subsuma a ambas bajo la etiqueta de "lenguaje", que termina ofuscando sus diferenciaciones como modos con diferentes, aunque relacionadas, capacidades
 	-  las imágenes se basan en la lógica del espacio: usa las capacidades de de un espacio enmarcado
 -  los modos se elaboran en función de las necesidades sociales, lo que explica que no todas las potencialidades de la materialidad de un modo se desarrollan para transformarse en las capacidades de un modo en una cultura particular
+-  el enfoque en la materialidad implica dos movimientos:
+	-  uno que se aleja de abstracciones como "lenguaje" o "el sistema lingüístico", hacia lo específic
 
 
 
