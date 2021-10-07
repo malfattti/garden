@@ -28,6 +28,7 @@
 - Problemas de este planteo:
 	- incompleto o tendencioso
 	- se excluye la cuestión política que unía a muchos de estos escritores / apoyo a la rev. cubana (lo señala Cortázar) 
+	- Internacionalización de acuerdo a parámetro europeo ()
 
 ## *La gran novela latinoamericana*:  entre el canon y el manifiesto
 
