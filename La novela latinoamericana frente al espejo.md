@@ -12,7 +12,7 @@
 ## *Historia personal del "boom"* o inventarse una tradición 
 - Apartado dedicado a *Historia personal del boom* de [[José Donoso]] (1972)
 - Ensayo breve y que se plantea como subjetivo (carácter menor, subrayado por los motivos de su publicación, no tanto literario sino biográfico, histórico, económico)
-- intento de definir y periodizar el boom
+- intento de definir y periodizar el boom (FINAL: 1970)
 - metáfora de lo familiar para determinar las filiaciones entre la generación del boom y las anteriores
 - los escritores del boom como huérfanos con respecto a las tradiciones locales
 	- los "padres" abrumados por la pesada herencia ortodoxa 
