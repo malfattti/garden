@@ -49,6 +49,6 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 		-  la escritura norteamericana se convirtió un modelo para la descentralización y una nueva "desprofesionalización" de la literatura
 		-  el famoso manifiesto Qué es la literatura? (1947) también abogaba por escritores como Richard Wright con novelas como Black Boy and Native Son: como la revelación de una consciencia y un mundo sin precedentes en los círculos literarios europeos
 		-  En el período de entreguerras, la novela americana fue recibida con entusiasmo en Francia, aunque hubo algo de debate sobre la falta de restricciones en el sentido clásico 
-		-  
+		-  Después de la guerra, sartre no solo favoreció de forma clara la técnica narrativa americana, pero indicó que su propia novela The Reprieve debía casi todas sus innovaciones estilístic
 
 
