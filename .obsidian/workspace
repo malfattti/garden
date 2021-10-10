@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-10.md",
+            "file": "Sartre's America Review.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-10.md",
+                "file": "Sartre's America Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "b60862f61ec1522c",
   "lastOpenFiles": [
+    "Sartre's America Review.md",
     "2021-10-10.md",
     "Untitled 1.md",
     "2021-10-03.md",
@@ -104,7 +105,6 @@
     "What is mode.md",
     "Template semana.md",
     "ocell.md",
-    "Semiotics. The Basics.md",
-    "recursos poéticos.md"
+    "Semiotics. The Basics.md"
   ]
 }
