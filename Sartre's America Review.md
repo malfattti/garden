@@ -13,7 +13,7 @@ Este libro se enfoca en la compleja visión literaria, filosófica y politica qu
 	- versión más matizada y ambivalente 
 	- la descubre como corresponsal en los años de la posguerra
 - "América injuriada": 
-	- guerra fría, rechazo (intervenciones de Estados )
+	- guerra fría, rechazo (intervenciones de Estados Unidos en Latinoamérica y el Sudeste Asiático)
 
 Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fantasía acrítica a una desilusión lúcida, lo que consideraría naif. Además, Hamel señala que las declaraciones de Sartre tienen que ser evaluadas no solo a partir de los eventos particulares y circunstancias históricas en las que surgieron, sino también como producto de una tradición francesa y europea más amplia, que moldearon cada etapa de su percepción de Estados Unidos.
 
