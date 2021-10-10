@@ -54,6 +54,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 			-  Si a Camus le fue mejor que al resto en este sentido, fue porque su estilo recordaba a Sartre a Hemingway
 			-  sartre criticó duramente a escritores como Giraudoux por su clasicismo académico
 			-  para él, estos principios narrativos podían haber sido válidos para Maupassant, pero ya no eran adecuados para confrontar las realidades de la posguerra. 
-			-  Para Sartre, las contribuciones de novelistas británicos como Woolf o Joyce, si bien las conocía, no tenían una significación a la altura de sus c
+			-  Para Sartre, las contribuciones de novelistas británicos como Woolf o Joyce, si bien las conocía, no tenían una significación a la altura de sus contrapartes americanas
+			-  Hammel sugiere que esta confrontación tendenciosa de las características de las literaturas francesa y americana era en última instancia 
 
 
