@@ -11,8 +11,9 @@ Este libro se enfoca en la compleja visión literaria, filosófica y politica qu
 	- América como alternativa nueva y excitante, salvaje, sin ley, frente a el orden y cultura europeos que lo rodeaban: tradicional y clasista
 - "América descubierta":
 	- versión más matizada y ambivalente 
-	- surge con él como corresponsal 
-- "América injuriada":
+	- la descubre como corresponsal en los años de la posguerra
+- "América injuriada": 
+	- guerra fría, rechazo (intervenciones de Estados )
 
 Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fantasía acrítica a una desilusión lúcida, lo que consideraría naif. Además, Hamel señala que las declaraciones de Sartre tienen que ser evaluadas no solo a partir de los eventos particulares y circunstancias históricas en las que surgieron, sino también como producto de una tradición francesa y europea más amplia, que moldearon cada etapa de su percepción de Estados Unidos.
 
