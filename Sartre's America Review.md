@@ -32,6 +32,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 
 ##  Dreaming America and its culture
 
-- 
+- Idea imaginada y fantástica de NY informada por las lecturas infantiles de Sartre y alimentada por el imaginario francés de la NY de la entreguerra
+- sitio de deseo en 
 
 
