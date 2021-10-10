@@ -52,5 +52,6 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 		-  Después de la guerra, sartre no solo favoreció de forma clara la técnica narrativa americana, pero indicó que su propia novela The Reprieve debía casi todas sus innovaciones estilísticas a Dos Passos
 		-  Durante este período Sartre generalmente favoreció ampliamente a los novelistas norteamericanos en sus críticas, mientras que juzgaba mucho más severamente a sus compatriotas. 
 			-  Si a Camus le fue mejor que al resto en este sentido, fue porque su estilo recordaba a Sartre a Hemingway
+			-  sartre criticó duramente a escritores como Girau
 
 
