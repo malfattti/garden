@@ -5,5 +5,5 @@
 - Año de publicación: 2014
 
 ## Introducción
-
+Este libro se enfoca en la compleja visión literaria, filosófica y politica que Sartre tuvo de los Estados Unidos
 
