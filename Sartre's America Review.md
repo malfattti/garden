@@ -46,6 +46,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 		-  Adoptó características asociadas con la figura literaria americana (autodidacta, ferozmente independiente, ruda y sin pretensiones, mezclándose naturalmente con la clase obrera)
 		-  Las integró en la tesis de una nueva teoría de la "escritura comprometida" dirigida a sus compatriotas
 		-  En otras palabras, la literatura americana fue adoptada por Sartre como una forma de denunciar la insularidad del establishment literario parisino, endogámico y burgués, desesperanzadoramente comprometido por su separación de la vida que estaba afuera de su pequeño cocoon
-		-  la escritura norteamericana se convirtió un modelo para la descentralización y una nueva "desprofesionalización
+		-  la escritura norteamericana se convirtió un modelo para la descentralización y una nueva "desprofesionalización" de la literatura
+		-  el famoso manifiesto Qué es la literatura? (1947) también 
 
 
