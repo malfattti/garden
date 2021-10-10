@@ -38,4 +38,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 	- telón de fondo liberador para un orden social mucho menos estratificado y restrictivo, catalizador natural de nuevas ideas y estéticas
 		- ej: el jazz
 
+##  Sartre and American literature
+- La relación de Sartre con Estados Unidos estuvo fuertemente mediada por 
+
 
