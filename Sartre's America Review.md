@@ -25,6 +25,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 	- modifica y perpetúa una visión mítica de Estados Unidos moldeada por el lugar que Sartre mantuvo en la sociedad y cultura francesas
 	- elementos icónicos de Estados Unidos llegaron a Sartre ya mediados por el contexto francés en el que el los descubrió inicialmente, a su vez desarrolladosy transformados por las propias experiencias, imagianciones y viajes de Sartre, que les puso su propio sello personal
 
-- Hammel también busca contrarrestar 
+- Hammel también busca contrarrestar la carga anti-americana que parece haberse adosado al legado de Sartre, particularmente desde el colapso de la Unión Soviética
+	- 
 
 
