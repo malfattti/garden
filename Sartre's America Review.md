@@ -35,6 +35,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 - Idea imaginada y fantástica de NY informada por las lecturas infantiles de Sartre y alimentada por el imaginario francés de la NY de la entreguerra
 	- sitio de deseo en el paisaje cultural de Sartre
 	- función de esta fantasía: encarnar el opuesto de la sofocante y clasista Francia para los intelectuales y escritores burgueses
-	- telón de fondo liberador para un orden social mucho menos estratificado y restrictivo, catalizador natural de nuevas ideas y estética nueva 
+	- telón de fondo liberador para un orden social mucho menos estratificado y restrictivo, catalizador natural de nuevas ideas y estéticas nuevas
+	- ejemplo: el jazz
 
 
