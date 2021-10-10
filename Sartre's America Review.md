@@ -39,6 +39,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 		- ej: el jazz
 
 ##  Sartre and American literature
-- La relación de Sartre con Estados Unidos estuvo fuertemente mediada por 
+- La relación de Sartre con Estados Unidos estuvo fuertemente mediada por su descubrimiento y difusión de la literatura americana
+- los descubrimientos literarios de Sartre también se vincularon con una celebración general de la literatura americana en el pero
 
 
