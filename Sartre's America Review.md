@@ -8,7 +8,7 @@
 Este libro se enfoca en la compleja visión literaria, filosófica y politica que Sartre tuvo de los Estados Unidos, visión que fue cambiando a lo largo de su vida. A pesar de que el libro se organiza ("predeciblemente") en tres secciones cuyos títulos remiten a las etapas por las que Sartre pasó en su visión de Estados Unidos:
 - "América deseada" : 
 	- imaginada por Sartre como pequeño lector (comics, figuras míticas americanas). 
-	- 
+	- América como alternativa nueva y excitante, salvaje, sin ley, frente a el orden y cultura europeos que lo rodeaban: 
 - "América descubierta":
 - "América injuriada":
 
