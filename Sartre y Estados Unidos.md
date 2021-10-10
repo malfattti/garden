@@ -1,1 +1,3 @@
-- En la reseña del libro de Hammel se explic
+- En la reseña del libro de Hammel se explica la relación entre Sartre y la escritura norteamericana. 
+- A partir del período de entreguerras Sartre dio una cálida acogida a la escritura norteamericana (Hemingway, Dos Passos, Steinbeck)
+- Para Sartre las nuevas técnicas desar
