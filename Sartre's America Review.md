@@ -20,6 +20,8 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 
 ##  Introduction: "Sociocritique" and the anti-American label
 - La metodología de Hammel es una adaptación innovativa de la "sociocritique"  francesa (análisis sociológico: Claude Duchet, Marc Angenot, Popovic, etc.)
-- Según este enfoque, la América de Sartre es un constructo complejo hecho de fragmentos textuales heterogéneos, un mosaico en movimiento hecho de muchos tipos de textos di
+- Según este enfoque, la América de Sartre es un constructo complejo hecho de fragmentos textuales heterogéneos, un mosaico en movimiento hecho de muchos tipos de textos diferentes
+	- este "sociograma" nunca está resuelto ni completo
+	- modifica y perpetúa una visión mítica de Estados Unidos moldeada por el lugar que Sartre 
 
 
