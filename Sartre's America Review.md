@@ -28,9 +28,10 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 - Hammel también busca contrarrestar la carga anti-americana que parece haberse adosado al legado de Sartre, particularmente desde el colapso de la Unión Soviética
 	- esta carga ha sido explotada por críticos de sartre para desprestigiar su objetividad y juicios sobre geopolítica y asuntos internacionales (ejemplo: L'Ennemi américain)
 	- distorsiona una perspectiva crítica mucho más matizada
-	- En realidad, las críticas de Sartre estaban en línea con análisis críticos que estaban sucediendo en muchas otras áreas del mundo incluyendo los Estados Unidos, donde historiadores y comentadores políticos
-	- 
-	- )
-	- 
+	- En realidad, las críticas de Sartre estaban en línea con análisis críticos que estaban sucediendo en muchas otras áreas del mundo incluyendo los Estados Unidos, donde historiadores y comentadores políticos hacían críticas similares a la de Sartre en materia de la política internacional de los Estados Unidos
+
+##  Dreaming America and its culture
+
+- 
 
 
