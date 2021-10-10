@@ -19,6 +19,7 @@ Este libro se enfoca en la compleja visión literaria, filosófica y politica qu
 Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fantasía acrítica a una desilusión lúcida, lo que consideraría naif. Además, Hamel señala que las declaraciones de Sartre tienen que ser evaluadas no solo a partir de los eventos particulares y circunstancias históricas en las que surgieron, sino también como producto de una tradición francesa y europea más amplia, que moldearon cada etapa de su percepción de Estados Unidos.
 
 ##  Introduction: "Sociocritique" and the anti-American label
-- La metodología de Hammel es una adaptac
+- La metodología de Hammel es una adaptación innovativa de la "sociocritique"  francesa (análisis sociológico: Claude Duchet, Marc Angenot, Popovic, etc.)
+- Según este enfoque, 
 
 
