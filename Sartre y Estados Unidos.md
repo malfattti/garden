@@ -1,0 +1,1 @@
+- En la reseña del libro de Hammel se explic
