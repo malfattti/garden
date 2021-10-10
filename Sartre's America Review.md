@@ -55,6 +55,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 			-  sartre criticó duramente a escritores como Giraudoux por su clasicismo académico
 			-  para él, estos principios narrativos podían haber sido válidos para Maupassant, pero ya no eran adecuados para confrontar las realidades de la posguerra. 
 			-  Para Sartre, las contribuciones de novelistas británicos como Woolf o Joyce, si bien las conocía, no tenían una significación a la altura de sus contrapartes americanas
-			-  Hammel sugiere que esta confrontación tendenciosa de las características de las literaturas francesa y americana era en última instancia interesada: sus comentarios lo ubicaban en una posición privilegiada dentro del campo americano, pero con todas las virtudes intelectuales asociad
+			-  Hammel sugiere que esta confrontación tendenciosa de las características de las literaturas francesa y americana era en última instancia interesada: sus comentarios lo ubicaban en una posición privilegiada dentro del campo americano, pero con todas las virtudes intelectuales asociadas con el ambiente francés, visible en el análisis que lo sacrificaba en post de la cruda pero auténtica modernidad americana
+			-  
 
 
