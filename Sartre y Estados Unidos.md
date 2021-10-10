@@ -6,5 +6,5 @@
 
 A mí me pareció interesante que, cuando usted me dijo que buscara sobre "la influencia de Sartre en Estados Unidos", yo pensé en que Hemingway, Dos Passos, se habían influenciado por la visión de la literatura que Sartre expresó en Qué es la literatura. Pero me encontré con el recorrido contrario: que esos escritores influenciaron a Sartre, y que a partir de su prosa Sartre delineó su idea de literatura comprometida. 
 Es interesante señalar que con su apoyo radical a la técnica narrativa norteamericana, Sartre buscó "menospreciar las escenas literarias europea y francesa", que consideraba que no estaban utilizando las herramientas correctas para "confrontar las realidades de la posguerra." Esto es, a pesar de la novedad de prosas como la de Joyce o Woolf (quizás estas prosas ya no eran tan novedosas para Sartre). 
-De la prosa norteamericana Sartre to
+De la prosa norteamericana Sartre tomó 
 
