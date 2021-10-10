@@ -3,3 +3,5 @@
 - Para Sartre las nuevas técnicas desarrolladas por estos escritores respondían a las necesidades de una literatura comprometida en ese momento
 - Sartre no sólo elogió la literatura norteamericana sino que adoptó muchas de sus técnicas para sus propias obras y al mismo tiempo utilizó este modelo para criticar duramente a las producciones europeas de la época
 - A pesar de eistir autores 
+
+A mí me pareció interesante que, cuando usted me dijo que buscara sobre "la influencia de Sartre en Estados Unidos"
