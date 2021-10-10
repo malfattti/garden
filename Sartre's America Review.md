@@ -40,6 +40,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 
 ##  Sartre and American literature
 - La relación de Sartre con Estados Unidos estuvo fuertemente mediada por su descubrimiento y difusión de la literatura americana
-- los descubrimientos literarios de Sartre también se vincularon con una celebración general de la literatura americana en el pero
+- los descubrimientos literarios de Sartre también se vincularon con una celebración general de la literatura americana en el período de entreguerras
+	-  en las décadas de 1920 y 1930, el establishment literario francés celebró y tradujo a William Faulkner, John Steinbeck, Sinclair 
 
 
