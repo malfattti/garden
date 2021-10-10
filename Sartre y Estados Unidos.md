@@ -5,4 +5,4 @@
 - A pesar de eistir autores 
 
 A mí me pareció interesante que, cuando usted me dijo que buscara sobre "la influencia de Sartre en Estados Unidos", yo pensé en que Hemingway, Dos Passos, se habían influenciado por la visión de la literatura que Sartre expresó en Qué es la literatura. Pero me encontré con el recorrido contrario: que esos escritores influenciaron a Sartre. Que a partir de su prosa Sartre delineó su idea de literatura comprometida. 
-Es interesante señalar que con su apoyo radical a la técnica narrativa nort
+Es interesante señalar que con su apoyo radical a la técnica narrativa norteamericana, Sartre buscó 
