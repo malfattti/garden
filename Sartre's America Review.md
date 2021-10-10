@@ -48,6 +48,7 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 		-  En otras palabras, la literatura americana fue adoptada por Sartre como una forma de denunciar la insularidad del establishment literario parisino, endogámico y burgués, desesperanzadoramente comprometido por su separación de la vida que estaba afuera de su pequeño cocoon
 		-  la escritura norteamericana se convirtió un modelo para la descentralización y una nueva "desprofesionalización" de la literatura
 		-  el famoso manifiesto Qué es la literatura? (1947) también abogaba por escritores como Richard Wright con novelas como Black Boy and Native Son: como la revelación de una consciencia y un mundo sin precedentes en los círculos literarios europeos
-		-  En el período de entreguerras, 
+		-  En el período de entreguerras, la novela americana fue recibida con entusiasmo en Francia, aunque hubo algo de debate sobre la falta de restricciones en el sentido clásico 
+		-  
 
 
