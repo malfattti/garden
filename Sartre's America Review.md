@@ -45,6 +45,6 @@ Pero Hamel no reduce la visión de Sartre a etapas lineares que van de una fanta
 	-  pero Sartre fue un paso más allá en esta celebración, porque en sus alabanzas de la literatura americana no solo buscó menospreciar las escenas literarias europea y francesa, sino que desarrolló una agenda literaria particular. 
 		-  Adoptó características asociadas con la figura literaria americana (autodidacta, ferozmente independiente, ruda y sin pretensiones, mezclándose naturalmente con la clase obrera)
 		-  Las integró en la tesis de una nueva teoría de la "escritura comprometida" dirigida a sus compatriotas
-		-  En otras palabras, la literatura americana fue adoptada por Sartre como una forma de denunciar 
+		-  En otras palabras, la literatura americana fue adoptada por Sartre como una forma de denunciar la insularidad del establishment literario parisino, 
 
 
