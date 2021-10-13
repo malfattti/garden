@@ -1,4 +1,4 @@
-"menospreciar las escenas literarias europea y francesa, sino que desarrolló una agenda literaria particular. - En la reseña del libro de Hammel se explica la relación entre Sartre y la escritura norteamericana. 
+
 - A partir del período de entreguerras Sartre dio una cálida acogida a la escritura norteamericana (Hemingway, Dos Passos, Steinbeck)
 - Para Sartre las nuevas técnicas desarrolladas por estos escritores respondían a las necesidades de una literatura comprometida en ese momento
 - Sartre no sólo elogió la literatura norteamericana sino que adoptó muchas de sus técnicas para sus propias obras y al mismo tiempo utilizó este modelo para criticar duramente a las producciones europeas de la época
