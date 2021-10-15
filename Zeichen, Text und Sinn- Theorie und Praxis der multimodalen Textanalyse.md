@@ -6,4 +6,4 @@
 
 ## Abstract
 - Este texto es un pantallazo de tendencias importantes en el desarrollo de una teoría de los textos y herramientas de análisis modernas y orientadas a la semiótica
-- Partiendo de conceptos centrales en la semiótica de los últimos años se esboza un estado de la cuestión de 
+- Partiendo de conceptos centrales en la semiótica de los últimos años se esboza un estado de la cuestión de los textos multimodales y refleja sus críticos
