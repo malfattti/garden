@@ -1,5 +1,4 @@
 # Metadatos
-- Autor: John ireland
-- Reseña de L'Amérique selon Sartre : littérature, philosophie, politique by Yan Hamel
-- Publicado en: Sartre Studies International
+- Autor: Harmut Stöckl
+- Publicado en: Textsemiotik: Studien zu multimodalen Textenl
 - Año de publicación: 2014
