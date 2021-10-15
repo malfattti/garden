@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Sartre's America Review.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "07f614636bc79dbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
             "mode": "source"
           }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
+                "file": "Sartre's America Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +107,9 @@
   },
   "active": "b60862f61ec1522c",
   "lastOpenFiles": [
+    "Sartre's America Review.md",
     "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
     "2021-10-15.md",
-    "Sartre's America Review.md",
     "Sartre y Estados Unidos.md",
     "Semiotics. The Basics.md",
     "Untitled 2.md",
