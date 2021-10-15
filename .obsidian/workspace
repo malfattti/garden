@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sartre's America Review.md",
+            "file": "2021-10-15.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sartre's America Review.md",
+                "file": "2021-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "b60862f61ec1522c",
   "lastOpenFiles": [
+    "2021-10-15.md",
     "Sartre's America Review.md",
     "Sartre y Estados Unidos.md",
     "Semiotics. The Basics.md",
@@ -104,7 +105,6 @@
     "Untitled 1.md",
     "2021-10-03.md",
     "La novela latinoamericana frente al espejo.md",
-    "la teoría de la argumentación una perspectiva pragmadialéctica.md",
-    "What is mode.md"
+    "la teoría de la argumentación una perspectiva pragmadialéctica.md"
   ]
 }
