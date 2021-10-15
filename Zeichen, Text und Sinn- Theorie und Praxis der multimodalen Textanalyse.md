@@ -5,4 +5,4 @@
 
 
 ## Abstract
-- Este texto es un pantallazo de tendencias importantes en el desarrollo de una teoría de 
+- Este texto es un pantallazo de tendencias importantes en el desarrollo de una teoría de los textos y herramientas de análisis modernas y orientadas a la semiótica
