@@ -1,4 +1,8 @@
 # Metadatos
 - Autor: Harmut Stöckl
 - Publicado en: Textsemiotik: Studien zu multimodalen Textenl
-- Año de publicación: 2014
+- Año de publicación: 2006
+
+
+## Abstract
+- Este texto es un pantallazo de tendencias importantes en el desarrollo de una teoría de 
