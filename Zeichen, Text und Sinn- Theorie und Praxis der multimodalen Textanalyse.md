@@ -21,4 +21,8 @@
 
 ## Recursos semióticos y potenciales de sentido
 
-## Connotación, 'provenance 
+## Connotación, 'provenance - 'experimential meaning potential'
+
+## Código - estructura y función
+
+## Mensaje- texto - g-ene
