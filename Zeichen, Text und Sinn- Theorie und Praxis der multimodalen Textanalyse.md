@@ -11,4 +11,4 @@
 - Aspectos semánticos
 - Aspectos sintácticos
 - Aspectos pragmáticos
-- 
+- La lógica de los vínculos intermodales
