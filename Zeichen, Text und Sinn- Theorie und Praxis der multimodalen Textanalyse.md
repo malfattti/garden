@@ -25,4 +25,10 @@
 
 ## Código - estructura y función
 
-## Mensaje- texto - g-ene
+## Mensaje- texto - género - Discurso
+
+## Medium y materialidad
+
+## Elementos centrales de una concepción teórica de los textos multimodales
+
+**
