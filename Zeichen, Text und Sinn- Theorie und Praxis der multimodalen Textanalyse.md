@@ -13,4 +13,8 @@
 	- Aspectos pragmáticos
 	- La lógica de los vínculos intermodales
 
-## Introducción 
+## Introducción - Qué es la semiótica del texto?
+
+
+
+## Introducción - Qué es la semiótica del texto?
