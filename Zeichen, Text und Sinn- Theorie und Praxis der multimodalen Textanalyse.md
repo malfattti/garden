@@ -17,4 +17,8 @@
 
 
 
-## Introducción - Qué es la semiótica del texto?
+## Direcciones de cambio en la lingüística del texto y la semiótica
+
+## Recursos semióticos y potenciales de sentido
+
+## Connotación, 'provenance 
