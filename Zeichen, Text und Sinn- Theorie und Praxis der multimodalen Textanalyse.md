@@ -31,4 +31,8 @@
 
 ## Elementos centrales de una concepción teórica de los textos multimodales
 
-**
+## Potencial de interpretación de las modalidades y sinergias
+
+## Gramaticalización de las modalidades
+
+Inter
