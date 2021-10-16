@@ -16,7 +16,7 @@
 ## Introducción - Qué es la semiótica del texto?
 - La semiótica del texto es un concepto no del todo claro. Dificultad en su definición, proceso en marcha
 - Dificultades:
-		- Texto: dificultad por diversidad de formas y funciones. Se define mejcategoría estructurada prototípicamente con configuraciones y ponderaciones variables de los rasgos textuales
+		- Texto: dificultad por diversidad de formas y funciones. Se define mejor como una categoría estructurada prototípicamente con configuraciones y ponderaciones variables de los rasgos textuales
 		- Semiótica: 
 
 
