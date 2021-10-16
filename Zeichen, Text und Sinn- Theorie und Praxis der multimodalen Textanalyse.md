@@ -20,7 +20,7 @@
 		- Semiótica: una ciencia aún en proceso de definición
 		- Además: riesgo de tautología porque la semiótica se refiere a los signos y entonces debe necesariamente referirse a los textos
 - Sin embargo la concepción de semiótica como "disciplina para describir las estructuras de los signos con el fin de reconstruir el significado en textos y géneros textuales concretos" está justificada teniendo en cuenta el siguiente énfasis:
-	- la semiótica del texto se refiere (a diferencia de la semiolingüística)
+	- la semiótica del texto se refiere (a diferencia de la semiolingüística) a la arquitectura y significado social de todos los posibles tipos de signos. "Semiótica del texto" 
 
 
 ## Direcciones de cambio en la lingüística del texto y la semiótica
