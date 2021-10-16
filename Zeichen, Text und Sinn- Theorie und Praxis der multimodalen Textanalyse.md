@@ -17,7 +17,7 @@
 - La semiótica del texto es un concepto no del todo claro. Dificultad en su definición, proceso en marcha
 - Dificultades:
 	- dos aspectos, texto y semiótica, de por si ya difíciles de definir
-		- Texto: 
+		- Texto: dificultad porcategoría estructurada prototípicamente con configuraciones y ponderaciones variables de los rasgos textuales
 
 
 ## Direcciones de cambio en la lingüística del texto y la semiótica
