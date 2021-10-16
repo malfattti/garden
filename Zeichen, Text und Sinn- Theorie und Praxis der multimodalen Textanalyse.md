@@ -18,7 +18,7 @@
 - Dificultades:
 		- Texto: dificultad por diversidad de formas y funciones. Se define mejor como una categoría estructurada prototípicamente con configuraciones y ponderaciones variables de los rasgos textuales
 		- Semiótica: una ciencia aún en proceso de definición
-		- Además: riesgo de tautología 
+		- Además: riesgo de tautología porque los signos
 
 
 ## Direcciones de cambio en la lingüística del texto y la semiótica
