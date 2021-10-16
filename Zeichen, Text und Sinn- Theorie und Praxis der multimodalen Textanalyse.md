@@ -18,6 +18,7 @@
 - Dificultades:
 	- dos aspectos, texto y semiótica, de por si ya difíciles de definir
 		- Texto: dificultad por diversidad de formas y funciones. categoría estructurada prototípicamente con configuraciones y ponderaciones variables de los rasgos textuales
+		- Semi'
 
 
 ## Direcciones de cambio en la lingüística del texto y la semiótica
