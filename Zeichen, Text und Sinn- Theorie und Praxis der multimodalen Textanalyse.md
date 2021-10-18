@@ -44,7 +44,7 @@
 	- modelos de descripción concebidos para el lenguaje se prueban en otros códigos no lingúísticos
 
 ## Recursos semióticos y potenciales de sentido
--  conceptualizaciones recientes que reflejan cuánto ha ambiado el pensamiento semiótico sobre el texto y la comunicación bajo la influencia de las teorías de la multimodalidad.
+-  conceptualizaciones recientes que reflejan cuánto ha cambiado el pensamiento semiótico sobre el texto y la comunicación bajo la influencia de las teorías de la multimodalidad.
 
 ## Connotación, 'provenance - 'experimential meaning potential'
 
