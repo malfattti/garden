@@ -8,4 +8,4 @@
 ## Lenguaje
 - Idioma amalgamado hablado por
 ## Signos, huellas
-- episodio en el que William 
+- episodio en el que William descubr
