@@ -6,6 +6,6 @@
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - descripción del monasterio
 ## Lenguaje
-
+- Idioma 
 ## Signos, huellas
 - episodio en el que William 
