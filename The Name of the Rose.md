@@ -4,4 +4,4 @@
 
 ## Recursividad
 
-##Lengua
+## Lenguaje
