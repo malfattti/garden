@@ -1,3 +1,3 @@
 # Metadatos
 - Autor: Umberto Eco
-- Año de publicación: 2006
+- Año de publicación: 1980 / tr
