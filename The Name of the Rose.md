@@ -7,5 +7,5 @@
 - descripción del monasterio
 ## Lenguaje
 - Idioma amalgamado hablado por
-## Signos, huellas, imágenes
+## Signos, huellas, imágenes y palabras
 - episodio en el que William descubre el nombre y paradero del caballo
