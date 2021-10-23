@@ -6,6 +6,6 @@
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - descripción del monasterio
 ## Lenguaje
-- Idioma amalgamado hablado por
+- Idioma amalgamado hablado por Salvatore
 ## Signos, huellas, imágenes y palabras
 - episodio en el que William descubre el nombre y paradero del caballo
