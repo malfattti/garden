@@ -5,7 +5,6 @@
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
-- descripción del monasterio
 - descripción de la biblioteca como laberinto (36)
 ## Lenguaje
 - Idioma hecho de idiomas hablado por Salvatore (46-47)
