@@ -4,7 +4,7 @@
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
-- descripción del 
+- descripción del monasterio
 ## Lenguaje
 
 ## Signos, huellas
