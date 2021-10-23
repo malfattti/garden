@@ -7,4 +7,5 @@
 - 
 ## Lenguaje
 
-##
+## Signos, huellas
+- 
