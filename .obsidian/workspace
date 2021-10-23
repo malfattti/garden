@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-23.md",
+            "file": "The Name of the Rose.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-23.md",
+                "file": "The Name of the Rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "The Name of the Rose.md",
     "2021-10-23.md",
     "El insomnio de Bolívar.md",
     "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
-    "The Name of the Rose.md",
     "I am Cuba.md",
     "2021-10-22.md",
     "Sartre's America Review.md",
