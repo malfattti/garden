@@ -33,6 +33,7 @@
 			- ejemplos de búsquedas liberadoras, momentos de aprendizaje para Valencia en su deseo de superar el síndrome de Falcón
 			- síntesis de algunos ensayos
 ## Sobre autores
+- Epígrafe "La distancia fue la condición del descubrimiento" (Octavio P)
 ### Esa tribu errante
 -
 ### El tiempo de los inasibles
