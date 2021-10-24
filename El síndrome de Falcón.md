@@ -6,6 +6,8 @@
 ## Sobre autores
 ### Esa tribu errante
 ### El tiempo de los inasibles
+### Borges o el arte imposible
+
 
 ## Sobre literatura ecuatoriana
 
