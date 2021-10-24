@@ -13,7 +13,11 @@
 ### Westpahlen escribe mientras ruge el volcán
 ### Vagas Llosa, el guardían ante el abismo
 ### ¿Qué decía el mensaje de Ribeyro?
-### Enrique Vila-Matas
+### Enrique Vila-Matas y una silenciosa turba
+### Lampedusa, el cazador de herencias
+### Brevario del Gatopardo
+### Adonis y la voz que tiene más luces que el Sol
+### Ishiguro, el otro rostro de la novel
 
 
 ## Sobre literatura ecuatoriana
