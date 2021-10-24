@@ -17,11 +17,15 @@
 ### Lampedusa, el cazador de herencias
 ### Brevario del Gatopardo
 ### Adonis y la voz que tiene más luces que el Sol
-### Ishiguro, el otro rostro de la novel
+### Ishiguro, el otro rostro de la novela
+### Greenaway o de la segunda sangre del mundo
+### Dino Buzzati y la prosa de la espera
 
 
 ## Sobre literatura ecuatoriana
-
+### El síndrome de Falcón
+### ¿Cuánta patria necesita un novelista?
+### Hay un escritor escondido en la
 ## Sobre la escritura
 
 ## Dossier de repción crítica
