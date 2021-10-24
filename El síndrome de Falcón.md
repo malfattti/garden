@@ -30,12 +30,14 @@
 			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y lugar al final de cada uno de ellos)
 		- Título: 
 			- recoge una serie de ensayos sobre escritores que no sufren este síndrome
-			- ejemplos de b
+			- ejemplos de búsquedas liberadoras
+			- síntesis de algunos ensayos
 ## Sobre autores
 ### Esa tribu errante
 -
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
+- sentido abierto de la tradición
 ### Juarroz en el extremo del lenguaje
 ### Cortázar, ida y vuelta
 ### Aira y la comedia de los procedimientos
