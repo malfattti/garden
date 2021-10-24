@@ -11,7 +11,10 @@
 ### Cortázar, ida y vuelta
 ### Aira y la comedia de los procedimientos
 ### Westpahlen escribe mientras ruge el volcán
-### Vagas Llosa, el guardían ante el abis
+### Vagas Llosa, el guardían ante el abismo
+### ¿Qué decía el mensaje de Ribeyro?
+### Enrique Vila-Matas
+
 
 ## Sobre literatura ecuatoriana
 
