@@ -15,7 +15,10 @@
 			- distancia de lo académico o teórico
 			- partir de una imagen plástica (imago) para plantear un ensayo libre 
 			- defensa de la libertad estética sobre uso instrumental de la literatura
+		- Alcance: 
 			- América Latina pero tb otras geografías y culturas
+		- Novela
+			- 
 ## Sobre autores
 ### Esa tribu errante
 -
