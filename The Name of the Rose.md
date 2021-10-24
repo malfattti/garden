@@ -21,7 +21,7 @@
 		- the abbot asks William to investigate this death
 		- William expresses his desire to visit the library, but the abbot tells him that no one is allowed to go inside the library, apart from the librarian himself
 - Sext:
-	- William and Ado visit the church. 
+	- William and Adso visit the church. 
 		- long description of the frescoes that adorn the door of the church, full of beauty and horror
 		- they meet a monk called Salvatore, who speaks in a mix of languages
 	- William meets a friend he has not seen in a long time, Ubertino of Casale, and they have a long conversation abou their views on heressy and the different factions within the church
@@ -29,6 +29,11 @@
 -  Toward nones
 	-  They meet Severinus the herbalist monk, William has a long conversation with him about herbs
 	-  Severinus shows signs of knowing more about Adelmo's death than what his words suggest
+
+- After nones:
+	- William and Adso visit the scriptorium and Adelmo's desk
+	- 
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
