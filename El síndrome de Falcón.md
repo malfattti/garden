@@ -19,8 +19,7 @@
 			- América Latina pero tb otras geografías y culturas
 		- Novela
 			- permeable e inclusiva, por eso siempre en diálogo o conflicto con otros elementos, parte de su evolución
-		- El mercado editorial:
-			- 
+		- Peso del mercado editorial sobre los autores y 
 ## Sobre autores
 ### Esa tribu errante
 -
