@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Name of the Rose.md",
+            "file": "El síndrome de Falcón.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Name of the Rose.md",
+                "file": "El síndrome de Falcón.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "El síndrome de Falcón.md",
+    "2021-10-15.md",
+    "2021-10-22.md",
     "The Name of the Rose.md",
     "2021-10-23.md",
     "El insomnio de Bolívar.md",
     "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
     "I am Cuba.md",
-    "2021-10-22.md",
     "Sartre's America Review.md",
-    "2021-10-15.md",
-    "Sartre y Estados Unidos.md",
-    "Semiotics. The Basics.md"
+    "Sartre y Estados Unidos.md"
   ]
 }
