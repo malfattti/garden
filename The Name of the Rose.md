@@ -22,7 +22,7 @@
 		- William expresses his desire to visit the library, but the abbot tells him that no one is allowed to go inside the library, apart from the librarian himself
 - Sext:
 	- William and Ado visit the church. 
-		- long description of a 
+		- long description of the frescoes that adorn the door of the church, full of 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
