@@ -24,7 +24,7 @@
 	- Prólogo a la primera edición
 		- Tres partes:
 			- Sobre autores: escritores relevantes para el autor, mapa del lector
-			- 
+			- Sobre literatura ecuatoriana: búsqueda y tradición 
 ## Sobre autores
 ### Esa tribu errante
 -
