@@ -7,7 +7,11 @@
 ### Esa tribu errante
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
-
+### Juarroz en el extremo del lenguaje
+### Cortázar, ida y vuelta
+### Aira y la comedia de los procedimientos
+### Westpahlen escribe mientras ruge el volcán
+### Vagas Llosa, el guardían ante el abis
 
 ## Sobre literatura ecuatoriana
 
