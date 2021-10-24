@@ -49,7 +49,7 @@
 - En la tradición latinoamericana encontramos muchos miembros de esta tribu errante porque la tradición no está, como en otras sociedades, regida tan fuertemente por canales comericales y culturales: el autor inventa su público con formatos irregulares
 - Hibridización en la teoría literaria: 
 	- exaltación/banalización de lo híbrido
-- Ribeyro: 
+- Ribeyro: lucha por alcanzar la imposible novela en sus diarios
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
