@@ -5,7 +5,9 @@
 
 ## Paratexto
 - Epígrafes:
-	- Pascal Quignard: oposición del individuo a la sociedad: creatividad e inutilidad colectiva
+	- Pascal Quignard: oposición del individuo a la sociedad: creatividad + o pero inutilidad colectiva
+	- Escher: lo ludico / lo real
+P
 ## Sobre autores
 ### Esa tribu errante
 -
