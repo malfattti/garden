@@ -7,7 +7,10 @@
 - Epígrafes:
 	- Pascal Quignard: oposición del individuo a la sociedad: creatividad + o pero inutilidad colectiva
 	- Escher: lo ludico / lo real
-P
+- Prólogos: 
+	- Prólogo a la segunda edición:
+		- explica cambios
+		- comenta el efecto del libro en la sociedad: reacci'
 ## Sobre autores
 ### Esa tribu errante
 -
