@@ -32,6 +32,7 @@
 
 - After nones:
 	- William and Adso visit the scriptorium and Adelmo's desk
+	- They meet the librarian, malachi of Hildesheim
 	- 
 	- 
 ## Recursividad
