@@ -40,7 +40,8 @@
 	- A monk interrupts Jorge and talks about a discussion he and Adelmo had before his death regarding this subject. Jorge claims not to remember this conversation.
 - Vespers:
 	- Adso and William visit the rest of the abbey
-	- They meet Nicholas of Morimondo, master glazier of the abbey, who shows a lot of interest for William's 
+	- They meet Nicholas of Morimondo, master glazier of the abbey, who shows a lot of interest for William's glasses
+		- this monk 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
