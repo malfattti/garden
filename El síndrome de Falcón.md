@@ -50,6 +50,7 @@
 - Hibridización en la teoría literaria: 
 	- exaltación/banalización de lo híbrido
 - Ribeyro: lucha por alcanzar la imposible novela en sus diarios
+- Novelas que parecen largos cuentos o colecciones de cuentos, cuentos que parecen
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
