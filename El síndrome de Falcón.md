@@ -10,7 +10,8 @@
 - Prólogos: 
 	- Prólogo a la segunda edición:
 		- explica cambios
-		- comenta el efecto del libro en la sociedad: reacci'
+		- comenta el efecto del libro en la sociedad: reacción entre ecuatorianistas, apertura de los lectores y los narradores ecuatorianos hacia nuevos horizontes
+		- Propósito del ensayo: no 
 ## Sobre autores
 ### Esa tribu errante
 -
