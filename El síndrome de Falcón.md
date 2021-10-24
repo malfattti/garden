@@ -30,7 +30,7 @@
 			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y lugar al final de cada uno de ellos)
 		- Título: 
 			- recoge una serie de ensayos sobre escritores que no sufren este síndrome
-			- ejemplos de búsquedas liberadoras
+			- ejemplos de búsquedas liberadoras, momentos de aprendizaje para Valencia en su deseo de su
 			- síntesis de algunos ensayos
 ## Sobre autores
 ### Esa tribu errante
@@ -39,6 +39,7 @@
 ### Borges o el arte imposible
 - sentido abierto de la tradición
 ### Juarroz en el extremo del lenguaje
+- Ética de la escritura
 ### Cortázar, ida y vuelta
 ### Aira y la comedia de los procedimientos
 ### Westpahlen escribe mientras ruge el volcán
