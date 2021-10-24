@@ -20,7 +20,7 @@
 		- Novela
 			- permeable e inclusiva, por eso siempre en diálogo o conflicto con otros elementos, parte de su evolución
 		- Peso del mercado editorial sobre los autores y su creatividad
-		- La reivindicación de la autonomía estética NO implica manierismo estilístico (rebelión "sin causa"?), solipsismo estético ni exotismo global intercambiable (Volpi?)
+		- La reivindicación de la autonomía estética NO implica manierismo estilístico (rebelión "sin causa"?), solipsismo estético () ni exotismo global intercambiable (Volpi?)
 ## Sobre autores
 ### Esa tribu errante
 -
