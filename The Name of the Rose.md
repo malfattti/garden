@@ -24,7 +24,7 @@
 	- William and Ado visit the church. 
 		- long description of the frescoes that adorn the door of the church, full of beauty and horror
 		- they meet a monk called Salvatore, who speaks in a mix of languages
-		- They 
+	- William meets a friend he has not seen in a long time, Ubertino of Casale, and they have a long conversation abou their views on heressy and mi
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
