@@ -12,7 +12,11 @@
 ### First day:
 - Prime: 
 	- They reach the foot of the abbey
-	- William demonstrates his ability as a detective, indicating some monks who have lost a horse, where the horse is, its name and appearance, just by reading the isgns he ha at hand
+	- William demonstrates his ability as a detective, indicating some monks who have lost a horse, where the horse is, its name and appearance, just by reading the isgns he has at hand
+	- The layout of the abbey is described
+- Terce:
+	- William and the abbot have a conversation
+	- 
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
