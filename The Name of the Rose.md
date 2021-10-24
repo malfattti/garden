@@ -36,6 +36,8 @@
 	- monks see William using his glasses to read the library's catalogue
 	- they meet Jorge of Burgos, a blind monk who talks about the depiction of bad images on the grounds of it being exemplary
 		- it is suggested that his blindness is due to is deep interes for these images
+
+- A monk interrupts Jorge and talks about a discussion he and Adelmo had before his death, in which Jorge 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
