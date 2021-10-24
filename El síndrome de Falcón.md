@@ -42,7 +42,8 @@
 	- Los novelistas no hablan en absoluto del cuento (cuento, género menor)
 - La tribu errante se compone de:
 	- Los novelistas que escriben a veces cuentos, sin hablar demasiado de ello
-	- Los cuentistas al margen de la masividad porque no se adaptan a la exigencia editorial de escribir una novela 
+	- Los cuentistas al margen de la masividad porque no se adaptan a la exigencia editorial de escribir una novela. Algunos de ellos habrán pensado en escribir una, o tienen una novela escrita.
+- Esta tribu de frontera nos da libros de fron
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
