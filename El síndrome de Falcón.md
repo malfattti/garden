@@ -3,6 +3,9 @@
 - Autor: Leonardo Valencia
 - Año de publicación: 2008 / segunda edición 2019 (+ subtítulo + estudio introductorio de Wilfrido H. Corral + dossier de recepción critica + artículo sobre Lupe Rumazo - Ecuador)
 
+## Paratexto
+- Epígrafes:
+	- Pascal Quignard: oposición del individuo a la sociedad: creatividad e inutilidad colectiva
 ## Sobre autores
 ### Esa tribu errante
 -
