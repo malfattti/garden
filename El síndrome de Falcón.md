@@ -25,7 +25,7 @@
 		- Tres partes:
 			- Sobre autores: escritores relevantes para el autor, mapa del lector
 			- Sobre literatura ecuatoriana: búsqueda del escritor y tradición nacional
-			- Sobre la escritura: reflexiones sobre experiencia de escribir
+			- Sobre la escritura: reflexiones sobre experiencia de escribir 
 ## Sobre autores
 ### Esa tribu errante
 -
