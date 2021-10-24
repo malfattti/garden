@@ -32,8 +32,8 @@
 
 - After nones:
 	- William and Adso visit the scriptorium and Adelmo's desk
-	- They meet the librarian, malachi of Hildesheim
-	- 
+	- They meet the librarian, malachi of Hildesheim, and other monks who work there
+	- monks see William using his glasses to read the library's catalogue
 	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
