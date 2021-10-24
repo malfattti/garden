@@ -50,7 +50,9 @@
 - Hibridización en la teoría literaria: 
 	- exaltación/banalización de lo híbrido
 - Ribeyro: lucha por alcanzar la imposible novela en sus diarios
-- Valencia plantea que desde esta condición excepci
+- Valencia plantea que desde esta condición excepcional de quienes van de un género a otro hay que LEER Y ESCRIBIR toda narración: 
+	- con la ética del cuentista
+	- con la flexibilidad integradora de la novela
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
