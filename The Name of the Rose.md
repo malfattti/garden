@@ -52,7 +52,9 @@
 		- Jorge de Burgos converses with William about laughter, and about whether Christ laughed or not
 
 - Second day:
-	- Matins 
+	- William and Adso join the other monks in prayers
+	- while the prayer takes place, and before sunshine, the ritual is interrupted by the servants announcing the sight of a dead man
+	-  
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
@@ -62,3 +64,4 @@
 ## Signos, huellas, imágenes y palabras
 - episodio en el que William descubre el nombre y paradero del caballo
 - descripción de la iglesa y el fresco (40-45), interpretado como un signo de los hechos que van a ocurrir
+- description of the footprints in the snow as a palimpsest

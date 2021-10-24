@@ -3,6 +3,28 @@
 - Autor: Leonardo Valencia
 - Año de publicación: 2008 / segunda edición 2019 (+ subtítulo + estudio introductorio de Wilfrido H. Corral + dossier de recepción critica + artículo sobre Lupe Rumazo - Ecuador)
 
+## Razones por las que me gustó mucho este ensayo
+- Es una visión de Latinoamérica que extrañaba porque estoy acostumbrada a leer la otredad desde Europa, sintiéndome parte de la otredad pero leyéndola como si no... mmm
+- Este libro es en cambio la otredad leyéndose a sí misma
+	- la otredad no es tratada como una problemática sino que es un recurso 
+- Este es un libro sumamente riguroso pero sensible. Es un ensayista que también resulta muy buen divulgador. Todas las obras y autores referenciados por el autor, sin excepción, e independientemente de su valoración positiva o negativa, despertaron una enorme curiosidad en mí, la cual no pude seguir porque debía seguir leyendo!
+- Me parece maravilloso que incluya tantos géneros diferentes dentro de su concepción de la literatura, allí donde muchos solamente pondrían la novela (Volpi): poesía, diario, novela, cuento, narrativa cinematográfica, apuntes de clases, etc., subrayando siempre que esta mezcla es una característica de la literatura latinoamericana
+	- la novela siendo uno de los géneros más permeables a esa hibridación 
+- así, su tradición de la literatura latinoamericana + mundial está compuesta por los "inasibles", es decir, 
+	- aquellos escritores que pudieron negociar con la tradición literaria de sus países de origen de forma idiosincrática, y al mismo tiempo abrirse a su manera a la literatura universal 
+	- que pudieron escapar al mandato de una novela mimética subordinada a la realidad política de su momento
+- Volpi considera solo a la novela en su ensayo, y su posición como representante de una nueva generación de escritores es oponerse al boom, que había copado el mercado editorial, de manera que la literatura latinoamericana que no cumplía con las características de la del boom no tenía la apertura que la que sí
+- La mirada de Valencia es mucho más amplia: los hijos siempre tienen que cargar a los padres como Eneas a Anquises. El caso del boom, el crack y McOndo es solo un caso entre muchas generaciones de escritores que tuvieron que negociar de alguna manera con los mandatos de su época y ser la vanguardia 
+	- Por ejemplo, Pablo Palacio se distanció del realismo social que estaba vigente en su época para hacer una obra vanguardista 
+- Lo que Valencia valora es ese gesto creativo y audaz de los escritores
+- Valencia apenas menciona el boom (3 veces!, aunque dedica un capítulo a Cortázar, lo cual también indica este movimiento. Al fin, el boom fue solo una época y un grupo de autores entre muchos, y eso es lo que hay que mostrarle al mundo. Este autor hace andando, y eso me gusta mucho
+	- habla mucho de releer
+	- de puentes y espacios
+	- Qué belleza la entrevista a Juarroz
+- Volpi en cambio...
+	- al final, es como si se leyera en esa tradición que tanto niega. y su solución no es creativa
+- Es un libro sumamente 
+
 ## Paratexto
 - Epígrafes:
 	- Pascal Quignard: oposición del individuo a la sociedad: creatividad + o pero inutilidad colectiva
