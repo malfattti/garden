@@ -37,7 +37,9 @@
 ### Esa tribu errante
 - Sobre autores que están entre el cuento y la novela, sin renegar de ninguno de los dos géneros
 - Valencia vincula esta errancia con Pirandello cuando habla de un personaje como una pesadilla de la que librarse por medio de la escritura
-- Hay una guerra declara
+- Hay una guerra declarada entre cuento y novela:
+	- Los cuentistas dicen que la novela está sobrevalorada
+	- Los novelistas 
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
