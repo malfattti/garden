@@ -26,6 +26,8 @@
 			- Sobre autores: escritores relevantes para el autor, mapa del lector
 			- Sobre literatura ecuatoriana: búsqueda del escritor y tradición nacional
 			- Sobre la escritura: reflexiones sobre experiencia de escribir 
+		- Naturaleza de estos ensayos:
+			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y ocasiín )
 ## Sobre autores
 ### Esa tribu errante
 -
