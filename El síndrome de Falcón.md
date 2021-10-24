@@ -1,7 +1,7 @@
 # Metadatos
 - Título completo (de la segunda edición): El síndrome de Falcón. Literatura inasible y nacionalismos
 - Autor: Leonardo Valencia
-- Año de publicación: 2008 / segunda edición 2019 (+recepción critica)
+- Año de publicación: 2008 / segunda edición 2019 (+recepción critica+artículo sobre Lupe Rumazo - Ecuador)
 
 ## Sobre autores
 ### Esa tribu errante
@@ -25,7 +25,10 @@
 ## Sobre literatura ecuatoriana
 ### El síndrome de Falcón
 ### ¿Cuánta patria necesita un novelista?
-### Hay un escritor escondido en la
+### Hay un escritor escondido en la acuarela
+### Elogio y paradoja de la frontera
+### Nunca me fui con tu nombre por la tierra
+### Carta breve con final para Lupe Rumazo
 ## Sobre la escritura
 
 ## Dossier de repción crítica
