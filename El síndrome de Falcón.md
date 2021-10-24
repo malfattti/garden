@@ -11,7 +11,7 @@
 	- Prólogo a la segunda edición:
 		- explica cambios
 		- comenta el efecto del libro en la sociedad: reacción entre ecuatorianistas, apertura de los lectores y los narradores ecuatorianos hacia nuevos horizontes
-		- Propósito del ensayo: no 
+		- Propósito del ensayo: distancia de lo académico o teórico para cons
 ## Sobre autores
 ### Esa tribu errante
 -
