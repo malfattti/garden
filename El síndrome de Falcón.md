@@ -11,7 +11,7 @@
 	- Prólogo a la segunda edición:
 		- explica cambios
 		- comenta el efecto del libro en la sociedad: reacción entre ecuatorianistas, apertura de los lectores y los narradores ecuatorianos hacia nuevos horizontes
-		- Propósito del ensayo: distancia de lo académico o teórico para cons
+		- Propósito del ensayo: distancia de lo académico o teórico, partir de una imagen plástica para plantear un ensayo libre que defienda la imaginación sobre uso instrumental de la li
 ## Sobre autores
 ### Esa tribu errante
 -
