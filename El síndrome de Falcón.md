@@ -46,7 +46,10 @@
 - Esta tribu de frontera nos da libros de frontera, poco conocidos
 - Por qué a veces el continuum narrativo de un autor se interrumpe a veces a las 15 y otras a las 300 pp.?
 	- Vuelta a la idea inicial, personaje como pesadilla, algunas propias de novela, otras, rebeldes, propias de cuentos
-- En la tradición latinoamericana encontramos muchos miembros de esta tribu errante porque la tradición no está, como en otras sociedades, regida tan fuertemente por canales comericales y culturales: el autor inventa su público con formatos irregula
+- En la tradición latinoamericana encontramos muchos miembros de esta tribu errante porque la tradición no está, como en otras sociedades, regida tan fuertemente por canales comericales y culturales: el autor inventa su público con formatos irregulares
+- Hibridización en la teoría literaria: 
+	- exaltación/banalización de lo híbrido
+	- 
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
