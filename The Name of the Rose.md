@@ -5,7 +5,9 @@
 ## Estructura, historia
 ### Epígrafe: 
 - Naturally, a manusccript
-- Prefacio (?): se cuenta la historia de hallazgo y pérdida del manusc
+- Prefacio (?): se cuenta la historia de hallazgo y pérdida del manuscrito
+### Prólogo:
+- Adso presenta sus circunstancias actuale
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
