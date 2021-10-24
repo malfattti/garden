@@ -43,7 +43,8 @@
 - La tribu errante se compone de:
 	- Los novelistas que escriben a veces cuentos, sin hablar demasiado de ello
 	- Los cuentistas al margen de la masividad porque no se adaptan a la exigencia editorial de escribir una novela. Algunos de ellos habrán pensado en escribir una, o tienen una novela escrita.
-- Esta tribu de frontera nos da libros de fron
+- Esta tribu de frontera nos da libros de frontera, poco conocidos
+- Por qué a veces el continuum narrativo de un autor se interrumpe a veces a las 15 y otras a las 10
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
