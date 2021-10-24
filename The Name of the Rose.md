@@ -14,6 +14,7 @@
 	- They reach the foot of the abbey
 	- William demonstrates his ability as a detective, indicating some monks who have lost a horse, where the horse is, its name and appearance, just by reading the isgns he has at hand
 	- The layout of the abbey is described
+
 - Terce:
 	- William and the abbot have a conversation
 		- the abbot tells him that a young monk called Adelmo of Otranto, was discovered dead in the snow, at the bottom of a cliff below the Aedificium
@@ -36,8 +37,8 @@
 	- monks see William using his glasses to read the library's catalogue
 	- they meet Jorge of Burgos, a blind monk who talks about the depiction of bad images on the grounds of it being exemplary
 		- it is suggested that his blindness is due to is deep interes for these images
-
-- A monk interrupts Jorge and talks about a discussion he and Adelmo had before his death, in which Jorge 
+	- A monk interrupts Jorge and talks about a discussion he and Adelmo had before his death regarding this subject. Jorge claims not to remember this conversation.
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
