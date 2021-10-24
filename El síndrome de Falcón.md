@@ -22,7 +22,9 @@
 		- Peso del mercado editorial sobre los autores y su creatividad
 		- La reivindicación de la autonomía estética NO implica manierismo estilístico (rebelión "sin causa"?), solipsismo estético (subjetivismo radical) ni exotismo global intercambiable (Volpi?)
 	- Prólogo a la primera edición
-		- 
+		- Tres partes:
+			- Sobre autores: escritores relevantes para el autor, mapa del lector
+			- 
 ## Sobre autores
 ### Esa tribu errante
 -
