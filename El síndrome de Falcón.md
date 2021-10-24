@@ -39,7 +39,9 @@
 - Valencia vincula esta errancia con Pirandello cuando habla de un personaje como una pesadilla de la que librarse por medio de la escritura
 - Hay una guerra declarada entre cuento y novela:
 	- Los cuentistas dicen que la novela está sobrevalorada
-	- Los novelistas 
+	- Los novelistas no hablan en absoluto del cuento (cuento, género menor)
+- La tribu errante se compone de:
+	- Los novelistas que escriben a veces cuentos, sin hablar 
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
