@@ -27,7 +27,8 @@
 	- William meets a friend he has not seen in a long time, Ubertino of Casale, and they have a long conversation abou their views on heressy and the different factions within the church
 
 -  Toward nones
-	-  They meet Severinus the herbalist monk, William has a long conversation with him about 
+	-  They meet Severinus the herbalist monk, William has a long conversation with him about herbs
+	-  Severinus shows wigsn of knowing more about the
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
