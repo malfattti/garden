@@ -43,7 +43,8 @@
 	- They meet Nicholas of Morimondo, master glazier of the abbey, who shows a lot of interest for William's glasses
 		- William and this monk have a conversation about the access to science and knowledge
 	- William states some conclusions about Adelmo's death:
-		- 
+		- something is happening in the ibrary at night
+		- he thinks Adelmo killed himself
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
