@@ -34,7 +34,7 @@
 	- William and Adso visit the scriptorium and Adelmo's desk
 	- They meet the librarian, malachi of Hildesheim, and other monks who work there
 	- monks see William using his glasses to read the library's catalogue
-	- 
+	- they meet Jorge of Burgos, a blind monk who talks about the depiction of 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
