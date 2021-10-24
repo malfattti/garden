@@ -2,8 +2,10 @@
 - Autor: Umberto Eco
 - Año de publicación: 1980 / trad. al inglés 1983
 
-## Historia
-###
+## Estructura, historia
+### Epígrafe: 
+- Naturally, a manusccript
+- Prefacio (?): se cuenta la historia de hallazgo y pérdida del manusc
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
