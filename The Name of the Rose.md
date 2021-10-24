@@ -10,7 +10,9 @@
 - Adso presenta sus circunstancias actuales, el propósito de su narración, los circunstancias que rodearon la historia que está por contar, presenta a Brother William y las características de su viaje juntos.
 
 ### First day:
-- Prime
+- Prime: 
+	- They reach the foot of the abbey
+	- William demonstrates his ability as a detective, indicating some monks who have lost a horse, where the horse is, its name and appearance, just by reading the isgns he ha at hand
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
