@@ -35,8 +35,9 @@
 ## Sobre autores
 - Epígrafe "La distancia fue la condición del descubrimiento" (Octavio Paz)
 ### Esa tribu errante
-- Sobre autores que están entre el cuento y la novela
-- Valencia vincula esta errancia con Pirandello cuando habla 
+- Sobre autores que están entre el cuento y la novela, sin renegar de ninguno de los dos géneros
+- Valencia vincula esta errancia con Pirandello cuando habla de un personaje como una pesadilla de la que librarse por medio de la escritura
+- Hay una guerra declara
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
