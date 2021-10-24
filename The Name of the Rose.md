@@ -50,6 +50,9 @@
 	- Compline: 
 		- They have an indulgent meal 
 		- Jorge de Burgos converses with William about laughter, and about whether Christ laughed or not
+
+- Second day:
+	- Matins 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
