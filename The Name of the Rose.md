@@ -17,7 +17,9 @@
 - Terce:
 	- William and the abbot have a conversation
 	- the abbot tells him that a young monk called Adelmo of Otranto, was discovered dead in the snow, at the bottom of a cliff below the Aedificium
+		- Adelmo 
 	- the abbot asks William to investigate this death
+	- William expresses his desire to visit the library, but the abbot tells him that no one is allowed to go inside the library, apart from the librarian himself
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
