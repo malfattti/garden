@@ -30,7 +30,7 @@
 			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y lugar al final de cada uno de ellos)
 		- Título: 
 			- recoge una serie de ensayos sobre escritores que no sufren este síndrome
-			- ejemplos de búsquedas liberadoras, momentos de aprendizaje para Valencia en su deseo de su
+			- ejemplos de búsquedas liberadoras, momentos de aprendizaje para Valencia en su deseo de superar el síndrome de Falcón
 			- síntesis de algunos ensayos
 ## Sobre autores
 ### Esa tribu errante
@@ -60,6 +60,7 @@
 
 ## Sobre literatura ecuatoriana
 ### El síndrome de Falcón
+- Pablo Palacio: el lenguaje es la realidad
 ### ¿Cuánta patria necesita un novelista?
 ### Hay un escritor escondido en la acuarela
 ### Elogio y paradoja de la frontera
