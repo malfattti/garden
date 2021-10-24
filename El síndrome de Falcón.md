@@ -33,9 +33,10 @@
 			- ejemplos de búsquedas liberadoras, momentos de aprendizaje para Valencia en su deseo de superar el síndrome de Falcón
 			- síntesis de algunos ensayos
 ## Sobre autores
-- Epígrafe "La distancia fue la condición del descubrimiento" (Octavio P)
+- Epígrafe "La distancia fue la condición del descubrimiento" (Octavio Paz)
 ### Esa tribu errante
--
+- Sobre autores que están entre el cuento y la novela
+- Valencia vincula esta errancia con Pirandello cuando habla 
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 - sentido abierto de la tradición
