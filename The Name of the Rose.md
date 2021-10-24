@@ -16,7 +16,7 @@
 	- The layout of the abbey is described
 - Terce:
 	- William and the abbot have a conversation
-	- 
+	- the abbot tells him that a young monk called Adelmo of Otranto
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
