@@ -20,7 +20,7 @@
 		- Novela
 			- permeable e inclusiva, por eso siempre en diálogo o conflicto con otros elementos, parte de su evolución
 		- Peso del mercado editorial sobre los autores y su creatividad
-		- Esta 
+		- La reivindicación de la autonomía estética No implica 
 ## Sobre autores
 ### Esa tribu errante
 -
