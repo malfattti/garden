@@ -1,10 +1,11 @@
 # Metadatos
 - Título completo (de la segunda edición): El síndrome de Falcón. Literatura inasible y nacionalismos
 - Autor: Leonardo Valencia
-- Año de publicación: 2008 / segunda edición 2019 (+subtítulo + estudio introductorio de Wilfrido H. Corral + dossier de recepción critica+artículo sobre Lupe Rumazo - Ecuador)
+- Año de publicación: 2008 / segunda edición 2019 (+ subtítulo + estudio introductorio de Wilfrido H. Corral + dossier de recepción critica + artículo sobre Lupe Rumazo - Ecuador)
 
 ## Sobre autores
 ### Esa tribu errante
+-
 ### El tiempo de los inasibles
 ### Borges o el arte imposible
 ### Juarroz en el extremo del lenguaje
