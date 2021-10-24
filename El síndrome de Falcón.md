@@ -27,7 +27,10 @@
 			- Sobre literatura ecuatoriana: búsqueda del escritor y tradición nacional
 			- Sobre la escritura: reflexiones sobre experiencia de escribir 
 		- Naturaleza de estos ensayos:
-			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y ocasiín )
+			- recogidos de una trayectoria diversa: congresos, entrevistas, publicaciones (fecha y lugar al final de cada uno de ellos)
+		- Título: 
+			- recoge una serie de ensayos sobre escritores que no sufren este síndrome
+			- ejemplos de b
 ## Sobre autores
 ### Esa tribu errante
 -
