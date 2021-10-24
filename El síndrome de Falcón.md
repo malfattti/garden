@@ -44,11 +44,15 @@
 ### Westpahlen escribe mientras ruge el volcán
 ### Vagas Llosa, el guardían ante el abismo
 ### ¿Qué decía el mensaje de Ribeyro?
+- 
 ### Enrique Vila-Matas y una silenciosa turba
 ### Lampedusa, el cazador de herencias
+- sentido abierto de la tradición
 ### Brevario del Gatopardo
 ### Adonis y la voz que tiene más luces que el Sol
+- sentido abierto de la tradición
 ### Ishiguro, el otro rostro de la novela
+- resistencia al encasillamiento realista
 ### Greenaway o de la segunda sangre del mundo
 ### Dino Buzzati y la prosa de la espera
 
