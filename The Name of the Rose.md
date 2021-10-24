@@ -7,7 +7,10 @@
 - Naturally, a manusccript
 - Prefacio (?): se cuenta la historia de hallazgo y pérdida del manuscrito
 ### Prólogo:
-- Adso presenta sus circunstancias actuales, el propósito de su narración, los circunstancias que rodearon la historia que está por contar, presenta a William 
+- Adso presenta sus circunstancias actuales, el propósito de su narración, los circunstancias que rodearon la historia que está por contar, presenta a Brother William y las características de su viaje juntos.
+
+### First day:
+- Prime
 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
