@@ -28,7 +28,7 @@
 
 -  Toward nones
 	-  They meet Severinus the herbalist monk, William has a long conversation with him about herbs
-	-  Severinus shows wigsn of knowing more about the
+	-  Severinus shows signs of knowing more about Adelmo's death than what his words suggest
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
