@@ -67,7 +67,7 @@
 		- William suspects that Benno is trying to distract them from something else he does not want them to see
 		- William becomes more curious about the library
 - Berengar:
-	- Williams presses berenga
+	- Williams presses Berengar, and
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
