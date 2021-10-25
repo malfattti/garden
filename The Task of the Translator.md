@@ -54,6 +54,8 @@
 - el original no puede entrar ahí de forma completa, pero lo que sí aparece en este reino es aquel elemento de la tarducción que va más allá de la transmisión del tema de la obra
 - este núcleo es el elemento de la traducción que no se presta a una nueva traducción
 
-### 
+### Párrafo 9
+- La tarea del traductor es encontrar la intención particular hacia la lengua de llegada que produce en esa lengua el eco del origen
+- esto es lo que la tradu
 
 
