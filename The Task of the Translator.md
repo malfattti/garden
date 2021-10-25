@@ -45,8 +45,10 @@
 ### Párrafo 7
 - Si la afinidad entre lenguajes se manifiesta en las traducciones, esto no se alcanza mediante el parecido vago de una copia a su original
 	- afinidad no implica parecido
-	- la afinidad suprahistórica de los lenguajes conssite en que en cada uno de ellos como un todo, se quiere decir una y la misma cosa
+	- la afinidad suprahistórica de los lenguajes consiste en que en cada uno de ellos como un todo, se quiere decir una y la misma cosa
 		- a esto se puede llegar no a través de un solo lenguaje sino solamente en la sumatoria de todas las intenciones, lo que el llama el lenguaje puro
 ### Párrafo 8
-- una traducción es solo una forma provisional de 
-	- en el fondo tb dice que la traducción es una interpretación
+- una traducción es solo una forma provisional de llegar a un acuerdo con la entranjeridad de las lenguas
+	- en el fondo tb dice que la traducción es una interpretación?
+
+
