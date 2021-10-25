@@ -19,3 +19,4 @@
 	- esto solo puede traducirlo un traductor que sea también un poeta
 
 - Una mala traducción entonces es la transmisión icorrecta de un contenido no esencial. 
+- Una mala traducción es una que desea servir al lector... pero esto solo podría ser cierto si el original tuviera también el propósito de servir al lector
