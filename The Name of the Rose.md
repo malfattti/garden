@@ -81,7 +81,7 @@
 		- Aymaro states that curiosity among monks is being deterred
 		- William tells Adso that Aymaro has noticed the loss of power of the abbey because of the importance of money, and that he wants a transformation of the abbey through which it can claim power again: through ecnomic power
 	- William and Adso visit the scriptorium again
-	- Adso notices that the 
+	- Adso notices that the coldest part of the scriptorium, which no one wants to occupy, is the closest one to that staircase that leads to the library
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
