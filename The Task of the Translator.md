@@ -58,5 +58,6 @@
 - La tarea del traductor es encontrar la intención particular hacia la lengua de llegada que produce en esa lengua el eco del origen
 - esto es lo que diferencia la traducción del trabajo del poeta, porque la intención de este último nunca está dirigida al lenguaje como tal, en su totalidad, pero solamenre e inmediatamente a aspectos lingúísticos contextuales específicos
 - una traducción no está en el centro del bosque del lenguaje, del lado de afuera mirando hacia la cresta boscosa :)
+- también difieren traducción y original en la
 
 
