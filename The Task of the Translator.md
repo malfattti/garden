@@ -45,5 +45,5 @@
 ### Párrafo 7
 - Si la afinidad entre lenguajes se manifiesta en las traducciones, esto no se alcanza mediante el parecido vago de una copia a su original
 	- afinidad no implica parecido
-	- 
+	- la afinidad suprahistórica de los lenguajes conssite en que en cada uno de ellos co
 	- en el fondo tb dice que la traducción es una interpretación
