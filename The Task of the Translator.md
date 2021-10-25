@@ -30,3 +30,6 @@
 		- relación vital
 		- su traducción marca una etapa en la continuación de su vida
 		- implican que en el curso de la supervivencia de una obra de arte, esta ha alcanzado su fama
+		- una traducci'
+
+- Este prop
