@@ -90,6 +90,9 @@
 			- Jorge gets upset, William apologizes
 		- William and Adso search Venantius' desk, shortly thereafter Benno tells William they must talk outside.
 			- William asks Malachi, the librarian, to watch Venantius' desk. He suspects that Benno and the other monks do not want them to find something there, but that they do not know what that something is
+
+- Sext
+	- During the conversation it becomes clear that Benno wanted to find an excuse to keep them away from Venantius' desk 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
