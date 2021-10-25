@@ -38,6 +38,6 @@
 		- relación de naturaleza única
 		- las lenguas están relacionadas entre sí, ante todo en cuanto a lo que quieren expresar
 
-- 
+- No translation would be possible if their purpose were a likeness to its original 
 
 - Este prop
