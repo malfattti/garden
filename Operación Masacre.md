@@ -37,3 +37,4 @@
 	- aparece de nuevo troxler explicando su función aquella noche: oficiar de punto de contacto entre los compañeros
 	- poco después de terminada la pelea y cuando las personas se empiezan a ir, cae la policía y lleva a todos en un colectivo
 	- también explica aquello que salió mal en la revolución
+	- cuenta de los fusilamientos de Valle y otros civiles y militares más
