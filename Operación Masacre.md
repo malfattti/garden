@@ -33,3 +33,5 @@
 	- Casa de Vicente Rodríguez, trabajador del puerto, sale para trabajar a la noche 
 	- se encuentra con un vecino y le confiesa que en realidad va a la biblioteca ara educarse, y que está sin trabajo
 	- invita al vecino a escuchar la pelea a la casa de unos amigos
+	- todos los personajes se ven reunidos allí
+	- aparece de nuevo troxler explicando su función aquella noche: oficiar de punto de contacto entre los compañeros
