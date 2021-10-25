@@ -1,9 +1,10 @@
-### Metadatos
+## Metadatos
 - Autor: Walter Benjamin
 - Publicado en: Textsemiotik: Walter Benjamin. Selected wiritings. Volume I. 1913-1926
 - Año de publicación: 1996
 
 ## Notas
+### 
 - Al contrario de lo que piensa Eco, para Benjamin no tiene sentido pensar en un lector, empírico o ideal, al pensar en la apreciación de una obra de arte
 	- el arte postula la existencia física y espiritual del hombre, pero no se preocupa por su atención. Ninguna obra de arte se destina a un lector, escucha, audiencia.
 
@@ -41,5 +42,6 @@
 - No translation would be possible if their purpose were a likeness to its original 
 - en su período de supervivencia el original pasa por cambios que tienen que ver con los cambios en los significados de las palabras, pero con cuestiones mucho más amplias como las corrientes literarias y su percepción en un momento dado
 - la lengua materna del autor también es transformada (esto lo dice Eco cuando indica que una traducción puede envejecer)
+- La 
 
 - Este prop
