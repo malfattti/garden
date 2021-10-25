@@ -20,3 +20,5 @@
 
 - Una mala traducción entonces es la transmisión icorrecta de un contenido no esencial. 
 - Una mala traducción es una que desea servir al lector... pero esto solo podría ser cierto si el original tuviera también el propósito de servir al lector
+
+- La traducción es una forma que se gobierna por unas leyes que se encuentran en el original, conte
