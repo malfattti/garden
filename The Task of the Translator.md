@@ -29,3 +29,4 @@
 	- La relación entre una obra y su buena traducción es la más cercana que puede haber con el original en relación con la traducibilidad del original
 		- relación vital
 		- su traducción marca una etapa en la continuación de su vida
+		- implican que en el curso de la supervivencia de una obra de arte, esta ha alcanzado su fama
