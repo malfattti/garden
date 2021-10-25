@@ -39,6 +39,6 @@
 		- las lenguas están relacionadas entre sí, ante todo en cuanto a lo que quieren expresar
 
 - No translation would be possible if their purpose were a likeness to its original 
-- en su período de supervivencia el original pasa por cambios que tienen que ver con los cambios en los significados de las palabras, pero con cuestiones mucho más amplias como 
+- en su período de supervivencia el original pasa por cambios que tienen que ver con los cambios en los significados de las palabras, pero con cuestiones mucho más amplias como las corrientes literarias y su percepción en un momento dado
 
 - Este prop
