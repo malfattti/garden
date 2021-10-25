@@ -26,4 +26,4 @@
 	- se presta su naturaleza a la traducción? (decisión apodíctica: incondicionalmente cierto, necesariamente válido)
 		- esta pregunta es independiente de la primera y no tiene la misma significación, sino una mayor, porque la traducibilidad de una obra debe ser considerada incluso si el hombre es incapaz de traducirla
 	- si la traducción es una forma, entonces la traducibilidad debe ser un rasgo esencial de ciertas obras (como para Piglia la novela se caracteriza por su traducibilidad, el poema es el que no puede ser traducido)
-	- 
+	- La relación entre una obra y su buena traducción es la más cercana que puede haber con el original en relación con la traducibilidad del origi
