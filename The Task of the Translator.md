@@ -13,3 +13,6 @@
 	- parece ser la única razón para decir dos veces la misma cosa
 
 - para Benjamin el arte no comunica nada
+- Una traducción no puede transmitir nada sino comunicación, o sea lo que no es esencial de una obra de arte
+	- aquí Benjamin empieza a hablar de malas traducciones especialmente,
+- Hay algo que va más allá
