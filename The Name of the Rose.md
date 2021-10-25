@@ -73,7 +73,7 @@
 - William and Adso speak of penitence
 
 - Terce
-	- William and Adso hear Salvatore and the cook have a quarrel involving a "whore" that salvatore allegedly "fucks at night", and heressy
+	- William and Adso hear Salvatore and the cook have a quarrel involving a "whore" that Salvatore allegedly "fucks at night", and heressy
 	- William and Adso speak of penitence again
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
