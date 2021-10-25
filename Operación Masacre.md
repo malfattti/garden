@@ -44,3 +44,4 @@
 	- destino de cada uno: es más resumido
 	- al final, Troxler hace una crítica de la revolución libertadora: una revolución del pueblo no puede estar dirigida por militares, debe estar dirigida por el puebo. los militares pueden sumarse pero no dirigirla
 	- tb reflexiona sobre el peronismo como movimiento, y sobre por qué los odiaban "ellos", la oligarquía: el odio del explotador por el explotado
+	- mucho más programático, futuro, la patria socialista, cómo llegar a ello, nuevas formas de organizaci;on
