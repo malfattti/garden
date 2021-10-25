@@ -72,7 +72,8 @@
 	- William suspects Adelmo died because of something Berengar showed or taught him, or made him do
 - William and Adso speak of penitence
 
-- Te
+- Terce
+	- Wi
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
