@@ -31,6 +31,7 @@
 		- su traducción marca una etapa en la continuación de su vida
 		- implican que en el curso de la supervivencia de una obra de arte, esta ha alcanzado su fama
 		- una traducción no sirve al original, sino que debe su vida a él
-		- en una traducción adquiere su último, continuamente renovado, más completo de
+		- en una traducción adquiere su último, continuamente renovado, más completo desenvolvimiento
+	- Este proceso de desenvolvimiento es gobernado por un alto sentido del propósito
 
 - Este prop
