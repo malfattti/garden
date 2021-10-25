@@ -17,4 +17,5 @@
 	- aquí Benjamin empieza a hablar de malas traducciones especialmente, pero hasta ahora parece haber incluido a todas las traducciones, malas o no
 - Hay algo que va más allá de la comunicación, lo poético.
 	- esto solo puede traducirlo un traductor que sea también un poeta
-	- 
+
+- Una mala traducción entonces es la transmisión icorrecta de un contenido no esencial. 
