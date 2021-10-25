@@ -69,6 +69,6 @@
 		- la fidelidad no puede hacer nada por la transmisión de un significado
 		- si se es fiel reproduciendo la forma no se puede serlo al transmitir el sentido
 	- libertad de dar una reproducción fiel del sentido
-	- 
+	- una traducción, en vez de imitar el sentido del original, debe amorosamente y en detalle incorporar la forma de significar del original, así haciend 
 
 
