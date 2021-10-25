@@ -59,6 +59,7 @@
 - esto es lo que diferencia la traducción del trabajo del poeta, porque la intención de este último nunca está dirigida al lenguaje como tal, en su totalidad, pero solamenre e inmediatamente a aspectos lingúísticos contextuales específicos
 - una traducción no está en el centro del bosque del lenguaje, del lado de afuera mirando hacia la cresta boscosa :)
 - también difieren traducción y original en la intención del poeta (espontánea, primaria, manifiesta), y la del traductor (derivativa, última, ideacional)
-- el trabajo del traductor es integrar 
+- el trabajo del traductor se guía por el deseo de integrar muchas lenguas en un verdadero lenguaje
+- este es el lenguaje que encierra la 
 
 
