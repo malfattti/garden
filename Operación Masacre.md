@@ -42,5 +42,5 @@
 	- reciben la orden de fusilarlos
 	- música en el viaje al lugar del fusilamiento
 	- destino de cada uno: es más resumido
-	- al final, Troxler hace una crítica de la revolución libertadora: una revolución del pueblo no puede estar dirigida por militares, debe estar dirigida
-	- tb reflexiona sobre el peronismo como movimiento, y sobre por qué los odiaban "ellos",
+	- al final, Troxler hace una crítica de la revolución libertadora: una revolución del pueblo no puede estar dirigida por militares, debe estar dirigida por el puebo. los militares pueden sumarse pero no dirigirla
+	- tb reflexiona sobre el peronismo como movimiento, y sobre por qué los odiaban "ellos", la oligarquía: el odio del explotador por el explotado
