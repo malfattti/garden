@@ -75,7 +75,7 @@
 - Terce
 	- William and Adso hear Salvatore and the cook have a quarrel involving a "whore" that Salvatore allegedly "fucks at night", and heressy
 	- William and Adso speak of penitence again
-	- William and Amaro of Alessandria have a discussion about the relationship between royal and religious power, the status of the abbey
+	- William and Amaro of Alessandria have a discussion about the relationship between royal and religious power, the diminished status of the abbey and the consequences suffered by the library and 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
