@@ -32,12 +32,13 @@
 		- implican que en el curso de la supervivencia de una obra de arte, esta ha alcanzado su fama
 		- una traducción no sirve al original, sino que debe su vida a él
 		- en una traducción adquiere su último, continuamente renovado, más completo desenvolvimiento
+	### Párrafo 5
 	- Este proceso de desenvolvimiento es gobernado por un alto sentido del propósito
 	- este propósito tiene su finalidad en la expresión de su naturaleza, la representación de su significación
 	- la traducción entonces en última instancia debe servir el propósito de expresar la relación más íntima de los lenguajes con esa respuesta
 		- relación de naturaleza única
 		- las lenguas están relacionadas entre sí, ante todo en cuanto a lo que quieren expresar
-
+### Párrafo 6
 - No translation would be possible if their purpose were a likeness to its original 
 - en su período de supervivencia el original pasa por cambios que tienen que ver con los cambios en los significados de las palabras, pero con cuestiones mucho más amplias como las corrientes literarias y su percepción en un momento dado
 - la lengua materna del autor también es transformada (esto lo dice Eco cuando indica que una traducción puede envejecer)
