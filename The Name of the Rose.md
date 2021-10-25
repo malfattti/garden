@@ -85,4 +85,4 @@
 - episodio en el que William descubre el nombre y paradero del caballo
 - descripción de la iglesa y el fresco (40-45), interpretado como un signo de los hechos que van a ocurrir
 - description of the footprints in the snow as a palimpsest
-- descripti
+- description of the crime scene and th
