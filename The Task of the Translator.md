@@ -64,6 +64,8 @@
 - así, la traducción está entre la poesía y la teoría
 
 ## Párrafo 10
-- En una teoría que busca encontrar en la traducción algo más que una reproducción de significado, los problemas planteados
+- En una teoría que busca encontrar en la traducción algo más que una reproducción de significado, los problemas planteados por una teoría tradicional de la traducción ya no tienen sentido:
+	- fidelidad a la palabra
+	- libertad de dar una reproducción fiel del sentido
 
 
