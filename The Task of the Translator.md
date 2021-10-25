@@ -61,5 +61,6 @@
 - también difieren traducción y original en la intención del poeta (espontánea, primaria, manifiesta), y la del traductor (derivativa, última, ideacional)
 - el trabajo del traductor se guía por el deseo de integrar muchas lenguas en un verdadero lenguaje
 - este es el lenguaje que encierra la perfección con la que sueña el filósofo
+- así, la traducción está entre la poesía y la teoría
 
 
