@@ -85,7 +85,7 @@
 	- They examine Venantius' desk, closer to the fireplace
 	- Jorge appears again, as if out of nowehere
 		- Adso comments on how all the monks go to him for knowledge
-		- Jorge and William have another discussion re laughter and Jesus' laughter, Jorge unwittingly admits to having had the conversation with A
+		- Jorge and William have another discussion re laughter and Jesus' laughter, Jorge unwittingly admits to having had the conversation with Venantiu
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
