@@ -68,7 +68,7 @@
 		- William becomes more curious about the library
 - Berengar:
 	- Williams presses Berengar, stating he was the last person to see Adelmo alive
-	- be
+	- Berengar
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
