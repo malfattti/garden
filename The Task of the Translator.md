@@ -47,9 +47,9 @@
 	- afinidad no implica parecido
 	- la afinidad suprahistórica de los lenguajes consiste en que en cada uno de ellos como un todo, se quiere decir una y la misma cosa
 		- a esto se puede llegar no a través de un solo lenguaje sino solamente en la sumatoria de todas las intenciones, lo que el llama el lenguaje puro
+		-  en el fondo tb dice que la traducción es una interpretación?
 ### Párrafo 8
-- una traducción es solo una forma provisional de llegar a un acuerdo con la entranjeridad de las lenguas
-	- en el fondo tb dice que la traducción es una interpretación?
-- 
+- una traducción es solo una forma provisional de llegar a un acuerdo con la extranjeridad de las lenguas
+- la traducción, si bien no lo logra de forma permanente, apunta al reino predestinado y hasta ahora inaccesible 
 
 
