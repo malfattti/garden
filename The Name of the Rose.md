@@ -62,7 +62,7 @@
 	-  William and Adso observe the monks' faces as they pray, and William decides that Benno and Berengar must be interrogated
 	-  Benno:
 		-  he expands on the aforementioned discussion on imagery by Adelmo and Jorge
-		-  he reveals that after the argument Adelmo and Venancius, both now dead, apporached Berengar and confabulated with him 
+		-  he reveals that after the argument Adelmo and Venantius, both now dead, apporached Berengar and confabulated with him 
 			-  During the argument Berengar had spoken of African riddles
 		- William suspects that Benno is trying to distract them from something else he does not want them to see
 		- William becomes more curious about the library
