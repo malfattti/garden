@@ -56,6 +56,6 @@
 
 ### Párrafo 9
 - La tarea del traductor es encontrar la intención particular hacia la lengua de llegada que produce en esa lengua el eco del origen
-- esto es lo que la tradu
+- esto es lo que diferencia la traducción del trabajo del poeta, porque la intención de este último nunca está dirigida al lenguaje como tal, en
 
 
