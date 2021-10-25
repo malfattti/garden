@@ -23,4 +23,5 @@
 
 - La traducción es una forma que se gobierna por unas leyes que se encuentran en el original, contenidas en el tema de su traducibilidad, que se resume en dos preguntas:
 	- existe el traductor adecuado en la totalidad de sus lectores? (decisión contingente)
-	- se presta su naturaleza a la traducción?
+	- se presta su naturaleza a la traducción? (decisión apodíctica: incondicionalmente cierto, necesariamente válido)
+	- 
