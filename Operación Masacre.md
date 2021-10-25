@@ -35,5 +35,5 @@
 	- invita al vecino a escuchar la pelea a la casa de unos amigos
 	- todos los personajes se ven reunidos allí
 	- aparece de nuevo troxler explicando su función aquella noche: oficiar de punto de contacto entre los compañeros
-	- poco después de terminada la pelea y cuando las personas se empiezan a ir, 
+	- poco después de terminada la pelea y cuando las personas se empiezan a ir, cae la policía y lleva a todos en un colectivo
 	- también explica aquello que salió mal en la revolución
