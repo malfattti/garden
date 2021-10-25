@@ -9,4 +9,7 @@
 
 - Una traducción, está dirigida a aquellos lectores que no entienden el original?
 	- al parecer si, 
-	- esto explica para Benjamin el la traducción y el original tienen posiciones muy distintas en el reino del arte
+	- esto explica para Benjamin el hecho de que la traducción y el original tengan posiciones muy distintas en el reino del arte
+	- parece ser la única razón para decir dos veces la misma cosa
+
+- para Benjamin el arte no comunica nada
