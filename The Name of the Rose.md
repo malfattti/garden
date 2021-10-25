@@ -54,7 +54,7 @@
 ### Second day:
 - Matins:
 	- William and Adso join the other monks in prayers
-	- While the prayer takes place, and before sunshine, the ritual is interrupted by the servants announcing the sight of a dead man, 
+	- While the prayer takes place, and before sunshine, the ritual is interrupted by the servants announcing the sight of a dead man, venancius
 	- brother William and Adso investigate the scene of the crime. The abbot asks William to act quickly
 	- William talks to Severinus, the herbalist, again
 
