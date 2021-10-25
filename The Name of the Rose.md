@@ -51,10 +51,23 @@
 		- They have an indulgent meal 
 		- Jorge de Burgos converses with William about laughter, and about whether Christ laughed or not
 
-- Second day:
+### Second day:
+- Matins:
 	- William and Adso join the other monks in prayers
-	- while the prayer takes place, and before sunshine, the ritual is interrupted by the servants announcing the sight of a dead man
-	-  
+	- While the prayer takes place, and before sunshine, the ritual is interrupted by the servants announcing the sight of a dead man, 
+	- brother William and Adso investigate the scene of the crime. The abbot asks William to act quickly
+	- William talks to Severinus, the herbalist, again
+
+- Prime:
+	-  William and Adso observe the monks' faces as they pray, and William decides that Benno and Berengar must be interrogated
+	-  Benno:
+		-  he expands on the aforementioned discussion on imagery by Adelmo and Jorge
+		-  he reveals that after the argument Adelmo and Venancius, both now dead, apporached Berengar and confabulated with him 
+			-  During the argument Berengar had spoken of African riddles
+		- William suspects that Benno is trying to distract them from something else he does not want them to see
+		- William becomes more curious about the library
+- Berengar:
+	- Williams 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
