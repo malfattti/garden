@@ -43,4 +43,4 @@
 - en su período de supervivencia el original pasa por cambios que tienen que ver con los cambios en los significados de las palabras, pero con cuestiones mucho más amplias como las corrientes literarias y su percepción en un momento dado
 - la lengua materna del autor también es transformada (esto lo dice Eco cuando indica que una traducción puede envejecer)
 ### Párrafo 7
-- Si la afinidad entre lenguaje
+- Si la afinidad entre lenguajes se manifiesta en las traducciones, esto no se alcanza mediante el parecido vago de una copia a su original
