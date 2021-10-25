@@ -41,3 +41,5 @@
 	- ola de sangre, en lanus ya están fusilando mientras que a ellos les están tomando declaraciones aún
 	- reciben la orden de fusilarlos
 	- música en el viaje al lugar del fusilamiento
+	- destino de cada uno: es más resumido
+	- al final, Troxler hace una cr'
