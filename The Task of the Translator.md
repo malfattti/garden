@@ -50,6 +50,6 @@
 		-  en el fondo tb dice que la traducción es una interpretación?
 ### Párrafo 8
 - una traducción es solo una forma provisional de llegar a un acuerdo con la extranjeridad de las lenguas
-- la traducción, si bien no lo logra de forma permanente, apunta al reino predestinado y hasta ahora inaccesible 
+- la traducción, si bien no lo logra de forma permanente, apunta al reino predestinado y hasta ahora inaccesible de la reconciliación 
 
 
