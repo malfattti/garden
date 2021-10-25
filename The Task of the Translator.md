@@ -8,4 +8,5 @@
 	- el arte postula la existencia física y espiritual del hombre, pero no se preocupa por su atención. Ninguna obra de arte se destina a un lector, escucha, audiencia.
 
 - Una traducción, está dirigida a aquellos lectores que no entienden el original?
-	- 
+	- al parecer si, 
+	- esto explica para Benjamin el la traducción y el original tienen posiciones muy distintas en el reino del arte
