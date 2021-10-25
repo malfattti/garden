@@ -35,5 +35,6 @@
 	- Este proceso de desenvolvimiento es gobernado por un alto sentido del propósito
 	- este propósito tiene su finalidad en la expresión de su naturaleza, la representación de su significación
 	- la traducción entonces en última instancia debe servir el propósito de expresar la relación más íntima de los lenguajes con esa respuesta
+	- relación es de naturaleza muy singular y raramente se habla de ella fuera del 
 
 - Este prop
