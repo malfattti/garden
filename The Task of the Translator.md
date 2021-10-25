@@ -63,4 +63,7 @@
 - este es el lenguaje que encierra la perfección con la que sueña el filósofo
 - así, la traducción está entre la poesía y la teoría
 
+## Párrafo 10
+- En una teoría que busca encontrar en la traducción algo más que una reproducción de significado, los problemas planteados
+
 
