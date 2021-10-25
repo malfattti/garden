@@ -36,6 +36,8 @@
 	- este propósito tiene su finalidad en la expresión de su naturaleza, la representación de su significación
 	- la traducción entonces en última instancia debe servir el propósito de expresar la relación más íntima de los lenguajes con esa respuesta
 		- relación de naturaleza única
-		- las lenguas están relacionadas pero a 
+		- las lenguas están relacionadas entre sí, ante todo en cuanto a lo que quieren expresar
+
+- 
 
 - Este prop
