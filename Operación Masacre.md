@@ -39,3 +39,4 @@
 	- también explica aquello que salió mal en la revolución
 	- cuenta de los fusilamientos de Valle y otros civiles y militares más
 	- ola de sangre, en lanus ya están fusilando mientras que a ellos les están tomando declaraciones aún
+	- reciben la orden de fusilarlos
