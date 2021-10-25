@@ -50,5 +50,6 @@
 ### Párrafo 8
 - una traducción es solo una forma provisional de llegar a un acuerdo con la entranjeridad de las lenguas
 	- en el fondo tb dice que la traducción es una interpretación?
+- 
 
 
