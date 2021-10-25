@@ -44,3 +44,4 @@
 - la lengua materna del autor también es transformada (esto lo dice Eco cuando indica que una traducción puede envejecer)
 ### Párrafo 7
 - Si la afinidad entre lenguajes se manifiesta en las traducciones, esto no se alcanza mediante el parecido vago de una copia a su original
+	- afinidad no implica parecido
