@@ -33,5 +33,6 @@
 		- una traducción no sirve al original, sino que debe su vida a él
 		- en una traducción adquiere su último, continuamente renovado, más completo desenvolvimiento
 	- Este proceso de desenvolvimiento es gobernado por un alto sentido del propósito
+	- este propósito tiene su finalidad en la expresión de su naturaleza, la representación de su significación
 
 - Este prop
