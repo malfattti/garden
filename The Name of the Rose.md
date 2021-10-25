@@ -92,7 +92,8 @@
 			- William asks Malachi, the librarian, to watch Venantius' desk. He suspects that Benno and the other monks do not want them to find something there, but that they do not know what that something is
 
 - Sext
-	- During the conversation it becomes clear that Benno wanted to find an excuse to keep them away from Venantius' desk 
+	- During the conversation it becomes clear that Benno wanted to find an excuse to keep them away from Venantius' desk, but what he says reveals that he knows bits and pieces of something important going on in the abbey
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
