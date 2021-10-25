@@ -69,5 +69,6 @@
 		- la fidelidad no puede hacer nada por la transmisión de un significado
 		- si se es fiel reproduciendo la forma no se puede serlo al transmitir el sentido
 	- libertad de dar una reproducción fiel del sentido
+	- 
 
 
