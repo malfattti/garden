@@ -94,6 +94,27 @@
 - Sext
 	- During the conversation it becomes clear that Benno wanted to find an excuse to keep them away from Venantius' desk, but what he says reveals that he knows bits and pieces of something important going on in the abbey
 		- Benno reveals himself to be young and struggling with the limitations that the monastic discipline is setting on his curiosity
+		- He tells them that Berengar fancied Adelmo and that he saw Berenger proposition something to Adelmo Adelmo slipping into Berengar's cell in the night, then leave, running
+		- He then saw him go to Jorge, and later leave him, terrified
+		- He also saw Venantius see the scene and later speak with Adelmo
+		- From this, William infers that Adelmo killed himself, because of the shame and lack of support from the other monks, and that Venantius was later killed because he knows the secret
+		- William considers that Berengar, Malachi, Jorge, and also Benno himself, are suspects
+		- William resolves they must enter the library that night
+	- Nones
+		- The abbot and William discuss the display of wealth in the abbey.
+		- they discuss the different heressies and factions within the church
+			- there is a possibe connection that could be made, between the crimes taking place in the abbot, and the theses of these different groups. The abbot fears that the visit of a company of archers sent belonging to the King of France, supposed to overview the meetings between the different factions, will disrupt the abbey's life even more (RELEER)
+			- the abbot suggests the cellar was involved in heressy and that he may be linked to the crimes
+		- William tells Adso that the abbot may be trying to distract them from the library
+		- Also concludes he knows too much already
+
+- After Vespers
+	- The pair go for a walk and meet Alinardo of Grotaferrata
+		- he tells them that before others went up to the library
+		- he tells them that the library can be accessed once the Aedificium is closed by way of the ossarium
+
+- Compline
+	- After a sad dinner, William and Adso enter the ossarium the way in which Alinardo has indicated
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
@@ -104,4 +125,4 @@
 - episodio en el que William descubre el nombre y paradero del caballo
 - descripción de la iglesa y el fresco (40-45), interpretado como un signo de los hechos que van a ocurrir
 - description of the footprints in the snow as a palimpsest
-- description of the crime scene and 
+- description of the crime scene and the body, like a detective novel
