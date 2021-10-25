@@ -5,4 +5,4 @@
 
 ## Notas
 - Al contrario de lo que piensa Eco, para Benjamin no tiene sentido pensar en un lector, empírico o ideal, al pensar en la apreciación de una obra de arte
-	- el arte post
+	- el arte postula la existencia física y espiritual del hombre, pero no se preocupa por su atención. Ninguna obra de arte se destina a un lector, escucha
