@@ -93,7 +93,7 @@
 
 - Sext
 	- During the conversation it becomes clear that Benno wanted to find an excuse to keep them away from Venantius' desk, but what he says reveals that he knows bits and pieces of something important going on in the abbey
-	- 
+		- Benno reveals himself to be young and struggling with the limitations that the monastic discipline is setting on his curiosity
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
