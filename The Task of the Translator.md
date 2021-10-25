@@ -14,5 +14,7 @@
 
 - para Benjamin el arte no comunica nada
 - Una traducción no puede transmitir nada sino comunicación, o sea lo que no es esencial de una obra de arte
-	- aquí Benjamin empieza a hablar de malas traducciones especialmente,
-- Hay algo que va más allá
+	- aquí Benjamin empieza a hablar de malas traducciones especialmente, pero hasta ahora parece haber incluido a todas las traducciones, malas o no
+- Hay algo que va más allá de la comunicación, lo poético.
+	- esto solo puede traducirlo un traductor que sea también un poeta
+	- 
