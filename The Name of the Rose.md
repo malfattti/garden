@@ -88,7 +88,8 @@
 		- Jorge and William have another discussion re laughter and Jesus' laughter
 			- Jorge unwittingly admits to having had the discussion about the licitness of laughter he said he did not remember the day before
 			- Jorge gets upset, William apologizes
-		- William and Adso 
+		- William and Adso search Venantius' desk, shortly thereafter Benno tells William they must talk outside.
+			- William asks Malachi, the libraria, to watch venanitu's 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
