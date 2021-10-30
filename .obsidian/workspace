@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-10-30.md",
+            "file": "What is Literature.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-30.md",
+                "file": "What is Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "What is Literature.md",
     "2021-10-30.md",
     "2021-10-23.md",
     "frantz fannon.md",
@@ -104,7 +105,6 @@
     "Zeichen, Text und Sinn- Theorie und Praxis der multimodalen Textanalyse.md",
     "la hora de los hornos.md",
     "la forma externa la fuerza coercitiva de la estrofa.md",
-    "The Name of the Rose.md",
-    "El síndrome de Falcón.md"
+    "The Name of the Rose.md"
   ]
 }
