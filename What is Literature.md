@@ -7,5 +7,6 @@
 - Se propone, para superar estas críticas, "to examine the art of writing without prejudice. 
 - Preguntas:
 	- What is writing? 
+		- Empie
 	- Why does one write? 
 	- For whom?
