@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lengua y superdiversidad.md",
+            "file": "The Name of the Rose.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lengua y superdiversidad.md",
+                "file": "The Name of the Rose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "The Name of the Rose.md",
     "lengua y superdiversidad.md",
     "Decadence and aestheticism.md",
     "de salónica a ladinokomunita el judeoespañol desde los umbrales del siglo xx hasta la actualidad.md",
@@ -104,7 +105,6 @@
     "What is Literature.md",
     "2021-10-30.md",
     "2021-10-23.md",
-    "frantz fannon.md",
-    "Operación Masacre.md"
+    "frantz fannon.md"
   ]
 }
