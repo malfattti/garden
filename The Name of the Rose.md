@@ -115,6 +115,29 @@
 
 - Compline
 	- After a sad dinner, William and Adso enter the ossarium the way in which Alinardo has indicated
+	- They access the scriptorium and notice that two books are missing from Venantius desk. A page lies on the floor revealing the hurry with which they were taken
+	- when they examine it, because Adso brings a litght too close to it, some signs appear in a brownish color
+	- They discover someone else is there with them, someone who wants to distract them from Venantius' desk. They chase the figure to no avail
+	- When they return to the desk, they notice that William's glasses have been stolen, though the paper with the emerging signs remains with him.
+
+- Night
+	- They visit the library and get lost in the labyrinth
+	- they discover various tricks put in place to disorient and scare visitors
+	- they finally find a way out and the abbot tells them that Berengar is missing
+
+### Third day
+- From lauds to prime
+	- a bloodstained cloth is found in Berengar's cell
+
+- Terce
+	- Adso goes to the library and reflects on books and knowledge
+
+- Sext
+	- Salvatore and Adso speak over lunch, Salvatore tells him about his whereabouts before his arrival at the abbey. 
+	- When Adso asks him about Fra Dolcino, Salvatore becomes hostile and leaves
+
+- Nones
+	- As Williams waits for Nicholas to make him a new pair of glasses, Adso and him speak of heressy. Adso has a lot of doubts and questions which William tries to ellucidate.
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
