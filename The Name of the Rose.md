@@ -146,7 +146,8 @@
 
 - After compline
 	- Ubertino tells Adso the story of Fra Dolcino
-	- Adso recalls the story of Brother Michael's death by bur
+	- Adso recalls the story of Brother Michael's death by burning
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
