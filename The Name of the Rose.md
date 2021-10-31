@@ -145,7 +145,8 @@
 	- Adso asks Salvatore for food, he provides it along with a lamp to Adso, showing he knows what they plan to do later
 
 - After compline
-	- 
+	- Ubertino tells Adso the story of Fra Dolcino
+	- Adso recalls the story of Brother Michael's death by bur
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
