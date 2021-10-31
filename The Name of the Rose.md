@@ -138,6 +138,14 @@
 
 - Nones
 	- As Williams waits for Nicholas to make him a new pair of glasses, Adso and him speak of heressy. Adso has a lot of doubts and questions which William tries to ellucidate.
+- Vespers:
+	- the abbot announces that Bernard Gui will be sent to the abbey. He is a "remarkably learned" inquisitor 
+	- the abbot asks William to solve the murder mistery quickly, but he refuses to let them in the library
+	- William and Adso observe the library from outside and draw a map of it
+	- Adso asks Salvatore for food, he provides it along with a lamp to Adso, showing he knows what they plan to do later
+
+- After compline
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
