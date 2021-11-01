@@ -160,6 +160,9 @@
 		- He had told about it to Malachi and Berengar, because he needed to find something out about its ingredientes. 
 		- Others might have heard	
 	- As they leave, Malachi shows up and acts suspiciously
+
+- Prime
+	- William 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
