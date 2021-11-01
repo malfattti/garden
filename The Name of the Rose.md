@@ -149,6 +149,9 @@
 	- Adso recalls the story of Brother Michael's death by burning
 	- Adso goes to the library on his own and sees books with illuminations of women
 	- Adso meets a girl in the abbey's kitchen and they have sex
+- Night
+	- Adso confesses to William 
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
