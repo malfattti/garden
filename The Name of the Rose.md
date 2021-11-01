@@ -156,7 +156,7 @@
 ### Fourth day
 - Lauds
 	- William and Severinus examine Berengar's body and find out two of his fingers are black (which Severinus reveals was also the case with Venantius'), when they open his mouth they find his tongue is also black
-	- Severinus tells William of a very powerful substance he kept and had been stolen. He had told about it to Malachi and Berengar, because he needed to find something abo
+	- Severinus tells William of a very powerful substance he kept and had been stolen. He had told about it to Malachi and Berengar, because he needed to find something out about its ingredientes. He 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
