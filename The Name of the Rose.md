@@ -151,11 +151,11 @@
 	- Adso meets a girl in the abbey's kitchen and they have sex
 - Night
 	- Adso confesses to William 
-	- Adso and William discover a dead body in  balneary
+	- Adso and William discover a dead body in  balneary. it's Berengar.
 
 ### Fourth day
 - Lauds
-- 
+	- William and Severinus examine Berengar's body and find out two of his fingers are black (which Severinus reveals was also the  )
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
