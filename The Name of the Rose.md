@@ -162,7 +162,8 @@
 	- As they leave, Malachi shows up and acts suspiciously
 
 - Prime
-	- William 
+	- William interrogates Salvatore
+		- he confesses that the girl that Adso met in the kitchen had been brought it by him for the cellarer
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
