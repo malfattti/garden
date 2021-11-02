@@ -173,7 +173,9 @@
 	- William and Adso meet again and William tells him about what he has deciphered from the manuscript. They must find out which book these notes are taken from, which on their own don't say much.
 
 - Sext
-	- Adso goes hunting for truffles with 
+	- Adso goes hunting for truffles with Severinus
+	- the Minorites arrive
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
