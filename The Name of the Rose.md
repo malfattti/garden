@@ -165,7 +165,8 @@
 	- William interrogates Salvatore
 		- he confesses that the girl that Adso met in the kitchen had been brought it by him for the cellarer
 		- he confesses that he met Remigio as they were both part of Dolcino's band, and they had been together since, having entered the abbey together
-		- Severinus finds William's lenses in Berengar's clothes and 
+		- Severinus finds William's lenses in Berengar's clothes and Nicholas gives him a new pair he has just finished making
+		- Williams goes to decipher 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
