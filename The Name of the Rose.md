@@ -175,7 +175,7 @@
 - Sext
 	- Adso goes hunting for truffles with Severinus
 	- the Minorites arrive
-	- 
+	- Adso is present in the meeting between Ubertino, William and Michael of cesena
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
