@@ -181,7 +181,7 @@
 	- William and Adso meet Alinardo as they wait for suppertime, and he tells them about how he almost became a librarian
 	- William and Adso discuss William's  methods to achieve the truth
 
-
+- After compline
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
