@@ -176,7 +176,9 @@
 	- Adso goes hunting for truffles with Severinus
 	- the Minorites arrive
 	- Adso is present in the meeting between Ubertino, William and Michael of Cesena
-	- They discuss the plants of John XXII: do declare that nor heaven nor hell will open
+	- They discuss the plants of John XXII: do declare that nor heaven nor hell will open their gates until the final judgment, basing himself on a new interpretation of the scriptures
+- Vespers
+	- William and Adso Alinardo 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
