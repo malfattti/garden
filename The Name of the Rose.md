@@ -169,7 +169,8 @@
 		- Williams goes to decipher the signs in the manuscript
 
 - Terce
-	- Adso walks in the 
+	- Adso walks the abbey's grounds thinking about the girl and feeling love
+	- 
 ## Recursividad
 - esctructura: días estructurados de los monjes, la estructura se repite una y otra vez
 - recursividad de los inventos y máquinas antes y después de la Edad Media (17)
