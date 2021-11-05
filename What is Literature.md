@@ -18,6 +18,7 @@
 		- mientras el escritor puede guiarnos y hacernos ver en la descripción de una choza el símbolo de la injusticia social y provocar nuestra indignación, el pintor está mudo, todos los pensamientos y sentimientos están presentes en la tela, indiferenciados el uno del otro, el observador puede elegir
 		- el escritor trabaja con significados, pero aquí cabe hacer otra distinción:
 		- solo para la prosa aplica el dominio de los signos, la poesía está del mismo lado que la pintura, la música, la escultura
-		- la poesía no usa las palabras
+		- la poesía no usa las palabras, sino que las sirve
+		- si la búsqueda de la ver
 	- Why does one write? 
 	- For whom?
