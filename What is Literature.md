@@ -26,6 +26,7 @@
 		- para el poeta el el lenguaje es una estructura del mundo externo, el hablante está en una situación en el lenguaje, está inmerso en las palabras. El poeta está afuera del lenguaje, ve el revés de las palabras, como si no compartiera la condición humana y como si se estuviera encontrando por primera vez con la palabra como una barrera al encontrarse con los hombres
 		- no las usa como un signo de un aspecto del mundo sino como una imagen de uno de esos aspectos, no expresa un significado sino que representa, a través de su sonoridad, duración, terminación másculina o femenina, aspecto visual, etc., que componen en totalidad una "cara de carne"
 		- p. 31, párrafo que se continúa de la p. 30, no me queda muy claro
-		- entonces etre la palabra y la cosa significada se establece  
+		- entonces etre la palabra y la cosa significada se establece una doble relación recíproca de parecido y significado mágicos
+		- 
 	- Why does one write? 
 	- For whom?
