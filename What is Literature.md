@@ -31,5 +31,6 @@
 		- p. 31: plantea problema de la traducción con la palabra Florence
 		- la palabra poética es un microcosmos
 		- La crisis del lenguaje que estalló al comienzo del s. XX es una crisis poética (modernismo?)
+		- ejemplo con Rimbaud: oh estaciones, oh castillos. qué alma es impecable?
 	- Why does one write? 
 	- For whom?
