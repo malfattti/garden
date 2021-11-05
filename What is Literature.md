@@ -38,6 +38,8 @@
 		- la sustancia de la prosa es por naturaleza significativa, o sea que las palabras son ante todo no objetos sino designaciones para objetos
 		- la prosa es ante todo una actitud de la mente: estamos inmersos en el lenguaje como en nuestro propio cuerpo 
 		- la prosa no es sino el instrumento privilegiado de una tarea determinada
+		- el poeta tiene la tarea de contemplar las palabras de forma desinteresada 
+		- cuál es el objetivo del prosista al escribir?
 
 	- Why does one write? 
 	- For whom?
