@@ -43,7 +43,7 @@
 		- cuál es el objetivo del prosista al escribir?
 		- no puede ser la contemplación pura 
 		- el objetivo de la lengua es comunicar (opuesto a Benjamin en [[The Task of the Translator]]// de acuerdo con [[Roman Jakobson]])
-		- 
+		- algo que vale la pena ser comunicado 
 	
 
 	- Why does one write? 
