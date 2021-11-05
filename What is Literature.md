@@ -19,6 +19,6 @@
 		- el escritor trabaja con significados, pero aquí cabe hacer otra distinción:
 		- solo para la prosa aplica el dominio de los signos, la poesía está del mismo lado que la pintura, la música, la escultura
 		- la poesía no usa las palabras, sino que las sirve
-		- si la búsqueda de la verdad ocurre en y a través del lenguaje concebido como una especie de instrumento, es innecesario pensar que los poetas buscan encontrar una verdad, ni sueñan con nombrar el mundo
+		- si la búsqueda de la verdad ocurre en y a través del lenguaje concebido como una especie de instrumento, es innecesario pensar que los poetas buscan encontrar una verdad, ni sueñan con nombrar el mundo, porque en nombrar al mundo el nombre se revela como no esencial al lado de la cosa que es esencial
 	- Why does one write? 
 	- For whom?
