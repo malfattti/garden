@@ -15,6 +15,8 @@
 		- los artistas desean crear una cosa, algo que no tiene por qué hacer referencia a otra cosa. Si bien su obra va a estar habitada por su alma, nunca va a expresar sus emociones como lo hacen las palabras o gestos
 		- sus emociones se mezclan y oscurecen en una obra de arte, nadie podría reconocerlas ahí, no son legibles como tales
 		- lo mismo ocurre en la música
-		- mientras el escritor puede guiarnos y hacernos ver en la descripción de una choza el símbolo de la injusticia social y provocar nuestra indignación, el pintor está mudo
+		- mientras el escritor puede guiarnos y hacernos ver en la descripción de una choza el símbolo de la injusticia social y provocar nuestra indignación, el pintor está mudo, todos los pensamientos y sentimientos están presentes en la tela, indiferenciados el uno del otro, el observador puede elegir
+		- el escritor trabaja con significados, pero aquí cabe hacer otra distinción:
+		- 
 	- Why does one write? 
 	- For whom?
