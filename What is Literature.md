@@ -30,6 +30,6 @@
 		- después hay otra referencia a los significados de las palabras y lo que los poetas hacen con ellos, que no me queda muy claro tampoco. para mí acá es cuando hace un poco de agua su división de la prosa y la poesía.
 		- p. 31: plantea problema de la traducción con la palabra Florence
 		- la palabra poética es un microcosmos
-		- La crisis del lenguaje que estalló al comienzo del s. XX es una crisis poética 
+		- La crisis del lenguaje que estalló al comienzo del s. XX es una crisis poética (modernismo?)
 	- Why does one write? 
 	- For whom?
