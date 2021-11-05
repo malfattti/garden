@@ -23,6 +23,7 @@
 		- el poeta se ha retirado del lenguaje-instrumento en un solo movimiento, ha elegido de una vez por todas la actitud poética que considera a las palabras como cosas y no como signos
 		- el hombre que habla está más allá de las palabras y cerca del objeto, mientras que el poeta está del lado de estas. para el que habla las palabras están domesticadas, son convencionales y temporalmente útiles, para el poeta en un estado salvaje, crecen naturalmente en el mundo como el pasto y los árboles.
 		- esto ni significa que las palabras hayan perdido su significado, pero este se vuelve natural, ya no es un objetivo que se persigue y no se puede alcanzar, sino una propiedad de cada término, análogo a las expresiones de una cara o los significados tristes o alegres de los sonidos y los colores (ESTO ES UN POCO VAGO, p. 30)
-		- para el poeta el el lenguaje es una estructura del mundo externo, el hablante está en una situación en el lenguaje, está inmerso en las palabras. El poeta está afuera del lenguaje, ve el revés de las palabras, como si no compartiera la condición humana y como si se estuviera encontran
+		- para el poeta el el lenguaje es una estructura del mundo externo, el hablante está en una situación en el lenguaje, está inmerso en las palabras. El poeta está afuera del lenguaje, ve el revés de las palabras, como si no compartiera la condición humana y como si se estuviera encontrando por primera vez con la palabra como una barrera al encontrarse con los hombres
+		- 
 	- Why does one write? 
 	- For whom?
