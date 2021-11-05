@@ -41,6 +41,7 @@
 		- el poeta tiene la tarea de contemplar las palabras de forma desinteresada 
 		- cuál es el objetivo del prosista al escribir?
 		- no puede ser la contemplación pura 
+		- la palabra es acción
 
 	- Why does one write? 
 	- For whom?
