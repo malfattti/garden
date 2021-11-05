@@ -29,5 +29,7 @@
 		- entonces etre la palabra y la cosa significada se establece una doble relación recíproca de parecido y significado mágicos
 		- después hay otra referencia a los significados de las palabras y lo que los poetas hacen con ellos, que no me queda muy claro tampoco. para mí acá es cuando hace un poco de agua su división de la prosa y la poesía.
 		- p. 31: plantea problema de la traducción con la palabra Florence
+		- la palabra poética es un microcosmos
+		- 
 	- Why does one write? 
 	- For whom?
