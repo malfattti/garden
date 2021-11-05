@@ -11,6 +11,7 @@
 		- dice que no hay paralelismos entre el arte, así que esta teoría no se aplica a todas las artes
 		- en las artes plásticas, la forma y la materia son diferentes a las de la escritura, porque no se refieren a nada exterior a ellas mismas, al contrario de lo que ocurre con el lenguaje
 		- si uno le confiere a un objeto de contemplación artística el valor de la significación (por ejemplo, las rosas significan "fidelidad"), entonces esto implica que dejé de percibirlo, de verlo como ese objeto, y dejé de comportarme como un artista
-		- para el a
+		- para el artista, estos objetos son objetos en el mayor de los grados, y está lo más lejos posible de considerar que los colores y los signos son un lenguaje
+		- en la obra de arte, 
 	- Why does one write? 
 	- For whom?
