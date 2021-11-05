@@ -45,7 +45,7 @@
 		- el objetivo de la lengua es comunicar (opuesto a Benjamin en [[The Task of the Translator]]// de acuerdo con [[Roman Jakobson]])
 		- algo que vale la pena ser comunicado 
 		- a qué nos referimos cuando decimos que algo vale la pena ser comunicado si no es algo que recurre a un sistema de valores trascendentales
-		- 
+		- es incorrecto pensar que la palabra no tiene efectos sobre las cosas: hablar es actuar, lo que uno n
 	
 
 	- Why does one write? 
