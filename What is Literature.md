@@ -27,6 +27,7 @@
 		- no las usa como un signo de un aspecto del mundo sino como una imagen de uno de esos aspectos, no expresa un significado sino que representa, a través de su sonoridad, duración, terminación másculina o femenina, aspecto visual, etc., que componen en totalidad una "cara de carne"
 		- p. 31, párrafo que se continúa de la p. 30, no me queda muy claro
 		- entonces etre la palabra y la cosa significada se establece una doble relación recíproca de parecido y significado mágicos
-		- después hay otra referenc
+		- después hay otra referencia a los significados de las palabras y lo que los poetas hacen con ellos, que no me queda muy claro tampoco. para mí acá es cuando hace un poco de agua su división de la prosa y la poesía.
+		- 
 	- Why does one write? 
 	- For whom?
