@@ -37,7 +37,7 @@
 		- Mientras tanto, la prosa es esencialmente utilitaria. el escritor es un hablante, y hace uso de las palabras
 		- la sustancia de la prosa es por naturaleza significativa, o sea que las palabras son ante todo no objetos sino designaciones para objetos
 		- la prosa es ante todo una actitud de la mente: estamos inmersos en el lenguaje como en nuestro propio cuerpo 
-		- la prosa no es sino el instrumento privilegiado
+		- la prosa no es sino el instrumento privilegiado de una tarea determinada
 
 	- Why does one write? 
 	- For whom?
