@@ -13,6 +13,8 @@
 		- si uno le confiere a un objeto de contemplación artística el valor de la significación (por ejemplo, las rosas significan "fidelidad"), entonces esto implica que dejé de percibirlo, de verlo como ese objeto, y dejé de comportarme como un artista
 		- para el artista, estos objetos son objetos en el mayor de los grados, y está lo más lejos posible de considerar que los colores y los signos son un lenguaje
 		- los artistas desean crear una cosa, algo que no tiene por qué hacer referencia a otra cosa. Si bien su obra va a estar habitada por su alma, nunca va a expresar sus emociones como lo hacen las palabras o gestos
-		- sus emociones se mezclan y oscurecen en una obra de arte, nadie podría reconocerlas ahí, no son legib
+		- sus emociones se mezclan y oscurecen en una obra de arte, nadie podría reconocerlas ahí, no son legibles como tales
+		- lo mismo ocurre en la música
+		- mientras el escritor puede guiarnos y hacernos ver en una choza e
 	- Why does one write? 
 	- For whom?
