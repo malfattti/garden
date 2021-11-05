@@ -34,8 +34,8 @@
 		- ejemplo con Rimbaud: oh estaciones, oh castillos. qué alma es impecable? Nadie está siendo cuestionado ni cuestionando, el poeta está ausente. sería absurdo pensar que Rimbaud quiso decir que todos tenemos nuestros defectos. si hubiera querido decir eso, lo habría dicho.
 		- hay emociones en el origen del lenguaje pero estas no están expresadas ahí. cuando el escritor de prosa exhibe sentimientos, los ilustra, mientras que el poeta inyecta sus sentimientos en el poema y deja de reconocerlos, las palabras los toman, penetran y metamorfosean, no significan para él, incluso en sus propios ojos
 		- cómo puede esperarse despertar la indignación o el entusiasmo político del lector cuando la cosa que unx hace es retirarlo de la condición humana e invitarlo a considerar con los ojos de Dios un lenguaje que se ha dado vuelta de adentro hacia afuera? !!!!!
-		- Mientras tanto, la prosa es esencialmente utilitaria
-
+		- Mientras tanto, la prosa es esencialmente utilitaria. el escritor es un hablante, y hace uso de las palabras
+		- la naturalez
 
 	- Why does one write? 
 	- For whom?
