@@ -32,6 +32,6 @@
 		- la palabra poética es un microcosmos
 		- La crisis del lenguaje que estalló al comienzo del s. XX es una crisis poética (modernismo?)
 		- ejemplo con Rimbaud: oh estaciones, oh castillos. qué alma es impecable? Nadie está siendo cuestionado ni cuestionando, el poeta está ausente. sería absurdo pensar que Rimbaud quiso decir que todos tenemos nuestros defectos. si hubiera querido decir eso, lo habría dicho.
-		- hay emociones en el origen del lenguaje pero estas no están expresadas ahí. cuando el escritor de prosa exhibe sentimientos, los ilustra, mientras que el poeta inyecta sus sentimientos en el poema y deja de 
+		- hay emociones en el origen del lenguaje pero estas no están expresadas ahí. cuando el escritor de prosa exhibe sentimientos, los ilustra, mientras que el poeta inyecta sus sentimientos en el poema y deja de reconocerlos, las palabras los 
 	- Why does one write? 
 	- For whom?
