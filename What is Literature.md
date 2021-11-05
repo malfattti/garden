@@ -40,6 +40,7 @@
 		- la prosa no es sino el instrumento privilegiado de una tarea determinada
 		- el poeta tiene la tarea de contemplar las palabras de forma desinteresada 
 		- cuál es el objetivo del prosista al escribir?
+		- no puede ser la contemplación pura 
 
 	- Why does one write? 
 	- For whom?
