@@ -50,7 +50,7 @@
 		- al hablar al develo la situación por mi misma intención de cambiarla, para cambiarla, la exhibo, con cada palabra que digo me involucro un poco más en el mundo y en el futuro
 		- escritor: acción secundaría / acción por medio de exhibición
 		- el escritor comprometido sabe que sus palabras son acciones y que son armas cargadas. si elige disparar, debe hacerlo como un hombre (ok!)
-		- 
+		- si un escritor está en silencio en torno a 
 	
 
 	- Why does one write? 
