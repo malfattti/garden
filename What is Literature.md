@@ -53,7 +53,7 @@
 		- si un escritor está en silencio en torno a un tema, tb es significativo, y es menester preguntarle por qué 
 		- el estilo: hace al valor de la prosa, pero debe pasar desapercibido
 		- el placer estético solo es puro si está inmerso en el conjunto
-		- el arte no pierde nada por ser comprometido, el arte comprometido se renueva en su lenguaje y técnica gracias a 
+		- el arte no pierde nada por ser comprometido, el arte comprometido se renueva en su lenguaje y técnica gracias a los nuevos requerimientos 
 	
 
 	- Why does one write? 
