@@ -74,5 +74,5 @@
 		- cuando percibimos, la cosa es dada como esencial y el sujeto como lo no esencial. pero en la creación el sujeto busca esencialidad la obtiene, pero una vez que lo hace el objeto pasa a ser no esencial (?).
 		- esta dialéctica es muy clara en el arte de la escritura, porque el objeto literario existe solo en movimiento.
 		- para hacerlo visible el acto de lectura es necesario
-		- el escritor no puede leer lo que escribe, porque leer implica una espera y una adivinació
+		- el escritor no puede leer lo que escribe, porque leer implica una espera y una adivinación. al no poder tener esto, el autor no puede ser objetivo (no puede dejar de ser sujeto)
 	- For whom?
