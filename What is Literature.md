@@ -68,5 +68,5 @@
 		- decisión de llevar a cabo un escape o una conquista... a través del arte. por qué?
 		- esta decisión es común a todos nosotros
 		- en el nombre de esta decisión tal vez es que se debe requerir el compromiso de los escritores.
-		- 
+		- el hombre es el medio por el cual las cosas se manifiestan en el mundo
 	- For whom?
