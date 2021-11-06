@@ -70,4 +70,5 @@
 		- en el nombre de esta decisión tal vez es que se debe requerir el compromiso de los escritores.
 		- el hombre es el medio por el cual las cosas se manifiestan en el mundo
 		- con cada uno de nuestros actos el mundo nos revela una nueva cara
+		- además de reveladores, somos inesenciales para la cosa revelada
 	- For whom?
