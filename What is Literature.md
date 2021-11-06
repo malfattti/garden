@@ -88,6 +88,7 @@
 			- la obra existe para el lector solo en la medida de sus capacidades, siempre puede indagar más y crear más
 			- porque la creación solo puede encontrar su razón de ser en la lectura, toda obra literaria es una apelación  a que lleve a la existencia objetiva la revelación que yo he hecho a través de la lengua
 			- o sea que el escritor apela a la libertad de su lector para colaborar en la producción de su obra 
+			- el libro no es, como la herramienta, 
 			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
 		- 
 	- For whom?
