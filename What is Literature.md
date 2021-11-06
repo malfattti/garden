@@ -80,6 +80,7 @@
 		- la operación de escribir implica la de leer como su correlato dialéctico y estas dos actividades implican dos agentes diferentes
 		- es su esfuerzo conjunto el que trae a la luz ese objeto concreto e imaginario que es el trabajo de la mente. no hay arte que no sea por y para otros.
 		- leer postula la esencialidad tanto del objeto como del sujeto. 
-			- el objeto es esencial porque es trascendente, 
+			- el objeto es esencial porque es trascendente, impone sus propias estructuras y uno debe esperarlo y osbervarlo
+			- el sujeto es esencial porque debe develar ese objeto 
 		- 
 	- For whom?
