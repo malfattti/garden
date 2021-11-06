@@ -71,5 +71,5 @@
 		- el hombre es el medio por el cual las cosas se manifiestan en el mundo
 		- con cada uno de nuestros actos el mundo nos revela una nueva cara
 		- además de reveladores, somos inesenciales para la cosa revelada
-		- 
+		- el sujeto busca esencialidad en su creación y la obtiene, pero una vez que lo hace en el 
 	- For whom?
