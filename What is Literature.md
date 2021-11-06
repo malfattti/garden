@@ -59,6 +59,7 @@
 			- pero para los teóricos contemporáneos a Sartre, el escritor no debe preocuparse ni por cuestiones temporarias ni por la búsqueda estética
 			- su función es enviar mensajes
 			- crítica a los críticos: preocupados solo por los muertos, estos que ya no tienen la capacidad de generar una ruptura
+			- se critica a la idea de mensaje
 	
 
 	- Why does one write? 
