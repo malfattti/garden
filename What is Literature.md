@@ -56,7 +56,7 @@
 		- el arte no pierde nada por ser comprometido, el arte comprometido se renueva en su lenguaje y técnica gracias a los nuevos requerimientos de la esfera social y metafísica
 		- críticas:
 			- lo más lógico hubiera sido haberlas enmarcado en la teoría del arte por el arte
-			- pero para los teóricos de 
+			- pero para los teóricos contemporáneos a Sartre, el escritor no debe preocuparse ni por cuestiones temporarias
 	
 
 	- Why does one write? 
