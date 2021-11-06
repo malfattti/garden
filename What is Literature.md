@@ -86,7 +86,7 @@
 			- la obra literaria no tiene otra sustancia que la subjetividad del lector. Lo que la anima son las emociones del lector, que suscita en él
 			- al mismo tiempo, cada palabra despierta nuestro sentimientos y nos los reflejan en nosotros mismos
 			- la obra existe para el lector solo en la medida de sus capacidades, siempre puede indagar más y crear más
-			- porque la creación solo puede encontrar su razón de ser en la lectura,  
+			- porque la creación solo puede encontrar su razón de ser en la lectura, toda obra literaria es una apelación 
 			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
 		- 
 	- For whom?
