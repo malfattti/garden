@@ -79,6 +79,7 @@
 		- o sea que el autor se encuentra solo consigo mismo, el objeto creado está fuera de su alcance. Un escritor no escribe para sí mismo
 		- la operación de escribir implica la de leer como su correlato dialéctico y estas dos actividades implican dos agentes diferentes
 		- es su esfuerzo conjunto el que trae a la luz ese objeto concreto e imaginario que es el trabajo de la mente. no hay arte que no sea por y para otros.
-		- 
+		- leer postula la esencialidad tanto del objeto como del sujeto. 
+			- el objeto es esencual orque e
 		- 
 	- For whom?
