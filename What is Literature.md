@@ -58,7 +58,7 @@
 			- lo más lógico hubiera sido haberlas enmarcado en la teoría del arte por el arte
 			- pero para los teóricos contemporáneos a Sartre, el escritor no debe preocuparse ni por cuestiones temporarias ni por la búsqueda estética
 			- su función es enviar mensajes
-			- crítica a los críticos
+			- crítica a los críticos: preocupados solo por los muertos
 	
 
 	- Why does one write? 
