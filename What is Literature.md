@@ -83,7 +83,7 @@
 			- el objeto es esencial porque es trascendente, impone sus propias estructuras y uno debe esperarlo y osbervarlo
 			- el sujeto es esencial porque debe develar ese objeto y producirlo
 			- aquí se habla del silencio en cuya cima el lector debe colocarse, inventarlo, para luego colocar allí las palabras y oraciones que despierta (p. 52), no es tan claro esto
-			- la obra literaria no tiene o
+			- la obra literaria no tiene otra sustancia que la subjetividad del lector. Lo que la anima son las emociones del lector, que suscita en él
 			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
 		- 
 	- For whom?
