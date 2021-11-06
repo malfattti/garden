@@ -47,7 +47,9 @@
 		- a qué nos referimos cuando decimos que algo vale la pena ser comunicado si no es algo que recurre a un sistema de valores trascendentales
 		- es incorrecto pensar que la palabra no tiene efectos sobre las cosas: hablar es actuar, lo que uno nombra ya no es nunca lo mismo; ha perdido su inocencia (es muy simplista esta idea)
 		- cuando una persona se ve reflejada en una obra de arte, ya no puede actuar de la misma forma: o se entera de lo que hace y persiste en su accionar, conciente de ello, o va a dejar de hacerlo
-		- al hablar al develo la situación por mi misma intención de cambiarla, para cambiarla, la exhibo, con cada palabra que me involucro 
+		- al hablar al develo la situación por mi misma intención de cambiarla, para cambiarla, la exhibo, con cada palabra que digo me involucro un poco más en el mundo y en el futuro
+		- escritor: acción secundaría / acción por medio de exhibición
+		- el escritor comprometid
 	
 
 	- Why does one write? 
