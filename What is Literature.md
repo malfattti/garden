@@ -62,6 +62,7 @@
 			- crítica a la idea de literatura como mensaje porque supone una cualidad trascendental que para Sartre no es relevante en la literatura como el la entiende
 			- el mensaje es un alma hecha objeto
 			- Crítica a una crítica biografista y una sobreinterpretación del mensaje literario
+			- para Sartre, sin embargo, el artista debe comprometerse completamente con su obra, no de una forma pasiva, 
 	
 
 	- Why does one write? 
