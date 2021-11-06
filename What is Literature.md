@@ -72,4 +72,5 @@
 		- con cada uno de nuestros actos el mundo nos revela una nueva cara
 		- además de reveladores, somos inesenciales para la cosa revelada
 		- cuando percibimos, la cosa es dada como esencial y el sujeto como lo no esencial. pero en la creación el sujeto busca esencialidad la obtiene, pero una vez que lo hace el objeto pasa a ser no esencial (?).
+		- esta dialéctica es muy clara en el arte de la escritura, porque el objeto literario existe solo en movimiento.
 	- For whom?
