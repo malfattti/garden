@@ -51,7 +51,8 @@
 		- escritor: acción secundaría / acción por medio de exhibición
 		- el escritor comprometido sabe que sus palabras son acciones y que son armas cargadas. si elige disparar, debe hacerlo como un hombre (ok!)
 		- si un escritor está en silencio en torno a un tema, tb es significativo, y es menester preguntarle por qué 
-		- el estilo: 
+		- el estilo: hace al valor de la prosa, pero debe pasar desapercibido
+		- el placer es
 	
 
 	- Why does one write? 
