@@ -65,6 +65,8 @@
 			- para Sartre, sin embargo, el artista debe comprometerse completamente con su obra, no de una forma pasiva, entonces le parece correcto hacer la pregunta: "por qué uno escribe?"	
 
 	- Why does one write? 
-		- decisión de llevar a cabo un escape o una conquista a través del arte. por qué?
-		- en el nombre de esta decisión tal vez es que se debe requerir 
+		- decisión de llevar a cabo un escape o una conquista... a través del arte. por qué?
+		- esta decisión es común a todos nosotros
+		- en el nombre de esta decisión tal vez es que se debe requerir el compromiso de los escritores.
+		- 
 	- For whom?
