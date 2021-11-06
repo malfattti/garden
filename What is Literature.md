@@ -77,6 +77,7 @@
 		- el escritor no puede leer lo que escribe, porque leer implica una espera y una adivinación. al no poder tener esto, el autor no puede ser objetivo (no puede dejar de ser sujeto)
 		- el autor proyecta, el futuro del autor son las páginas en blanco, el del lector son las páginas escritas
 		- o sea que el autor se encuentra solo consigo mismo, el objeto creado está fuera de su alcance. Un escritor no escribe para sí mismo
-		- la operación de escribir implica la de leer como su correlato dialéctico y e
+		- la operación de escribir implica la de leer como su correlato dialéctico y estas dos actividades implican dos agentes diferentes
+		- es su esfuerzo conjunto el que trae a la luz ese objeto concreto e imaginario que es 
 		- 
 	- For whom?
