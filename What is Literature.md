@@ -75,4 +75,5 @@
 		- esta dialéctica es muy clara en el arte de la escritura, porque el objeto literario existe solo en movimiento.
 		- para hacerlo visible el acto de lectura es necesario
 		- el escritor no puede leer lo que escribe, porque leer implica una espera y una adivinación. al no poder tener esto, el autor no puede ser objetivo (no puede dejar de ser sujeto)
+		- el autor proyecta, el futuro del autor son las páginas en blanco, el del lector son las páginas escritas
 	- For whom?
