@@ -60,6 +60,8 @@
 			- su función es enviar mensajes
 			- crítica a los críticos: preocupados solo por los muertos, estos que ya no tienen la capacidad de generar una ruptura
 			- crítica a la idea de literatura como mensaje porque supone una cualidad trascendental que para Sartre no es relevante en la literatura como el la entiende
+			- el mensaje es un alma hecha objeto
+			- 
 	
 
 	- Why does one write? 
