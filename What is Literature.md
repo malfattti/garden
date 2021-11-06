@@ -82,6 +82,7 @@
 		- leer postula la esencialidad tanto del objeto como del sujeto. 
 			- el objeto es esencial porque es trascendente, impone sus propias estructuras y uno debe esperarlo y osbervarlo
 			- el sujeto es esencial porque debe develar ese objeto y producirlo
-			- el autor guía al lector, pero el lector inventa 
+			- aquí se habla del silencio desde el cual el lector debe 
+			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
 		- 
 	- For whom?
