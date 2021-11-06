@@ -85,7 +85,8 @@
 			- aquí se habla del silencio en cuya cima el lector debe colocarse, inventarlo, para luego colocar allí las palabras y oraciones que despierta (p. 52), no es tan claro esto
 			- la obra literaria no tiene otra sustancia que la subjetividad del lector. Lo que la anima son las emociones del lector, que suscita en él
 			- al mismo tiempo, cada palabra despierta nuestro sentimientos y nos los reflejan en nosotros mismos
-			- la obra existe para el lector solo en la medida de sus capacidades 
+			- la obra existe para el lector solo en la medida de sus capacidades, siempre puede indagar más y crear más
+			- porque la creación solo puede encontrar su razón de ser en la lectura,  
 			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
 		- 
 	- For whom?
