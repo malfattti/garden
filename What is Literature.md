@@ -55,7 +55,7 @@
 		- el placer estético solo es puro si está inmerso en el conjunto
 		- el arte no pierde nada por ser comprometido, el arte comprometido se renueva en su lenguaje y técnica gracias a los nuevos requerimientos de la esfera social y metafísica
 		- críticas:
-			- 
+			- lo más lógico hubiera sido haberlas enmarcado en la teoría del arte por el arte
 	
 
 	- Why does one write? 
