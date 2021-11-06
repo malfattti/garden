@@ -76,4 +76,5 @@
 		- para hacerlo visible el acto de lectura es necesario
 		- el escritor no puede leer lo que escribe, porque leer implica una espera y una adivinación. al no poder tener esto, el autor no puede ser objetivo (no puede dejar de ser sujeto)
 		- el autor proyecta, el futuro del autor son las páginas en blanco, el del lector son las páginas escritas
+		- o sea que el autor se encuentra solo consigo mismo
 	- For whom?
