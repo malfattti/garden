@@ -159,4 +159,4 @@
 		- o sea que cada palabra se refiere a dos contextos a la vez a dos contextos, dos fuerzas se aplican simultáneamente a cada frase y determinan la tensión incomparable de su novela. hizo de la escisión un pretexto para su obra de arte
 		- La actividad del escritor es inútil, incluso puede ser dañino para la sociedad volverse auto conciente
 		- la transición a lo mediato que puede desencadenarse solo por la negación de lo inmediato es una revolución perpetua
-		- solo las clases gobernantes pueden permitirse el lujo de remunerar una actividad tan improductiva y peligrosa y lo hacen por una cuestión de táctica y de 
+		- solo las clases gobernantes pueden permitirse el lujo de remunerar una actividad tan improductiva y peligrosa y lo hacen por una cuestión de táctica y por un error de interpretación. Sobre todo por error: las clases al
