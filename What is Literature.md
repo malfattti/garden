@@ -148,4 +148,5 @@
 		- y si para explicar una obra de arte acudimos en vez del público a la condición del autor mismo? 
 			- idea de milieu (Taine): Sartre la considera una idea determinativa: el milieu produce al escritor. Es al contrario, dice Sartre, el público llama al artista, cuestiona su libertad. El milieu es una fuerza desde atrás, el público en cambio es una espera, un vacío esperando ser llenado. Es el otro.
 
-- un escritor está comprometido cuando trata de alcanzar la más lúcida y completa conciencia de estar "embarcado" "in t
+- un escritor está comprometido cuando trata de alcanzar la más lúcida y completa conciencia de estar "embarcado" "in the thick of it" o sea comprometidos. Sartre dice que los hombres pasan el tiempo huyendo de su propio compromiso y es el trabajo del escritor enfrentarlos con eso
+- 
