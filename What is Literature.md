@@ -124,6 +124,7 @@
 				- saberse esencial a la totalidad del ser 
 				- el universo del novelista carecería de profundiad si no se lo descubriera en un movimiento hecho para trascenderlo
 	- el autor debe esforzarse por hacerme crear lo que el revela, o sea hacerme comprometerme
+	- porque este universo se crea con el esfuerzo conjunto de do
 			
 		
 	- For whom?
