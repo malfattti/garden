@@ -140,3 +140,4 @@
 		- el lector al que hablo tiene una base de conocimiento que aprovecho para enseñarle lo que no sabe
 		- el lector está involucrado en la historia
 		- los autores tb son históricos, cada libro propone una liberación concreta sobre la base de una alienación particular
+		- la elección del autor de cierto aspecto del 
