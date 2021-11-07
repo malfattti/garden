@@ -126,7 +126,7 @@
 	- el autor debe esforzarse por hacerme crear lo que el revela, o sea hacerme comprometerme
 	- porque este universo se crea con el esfuerzo conjunto de dos libertades, y porque el autor intenta a través mío integrarlo en el universo, debe parecer en su esencia inyectado con una libertad que ha tomado la libertad humana como su fin. la obra debe tener un aire de generosidad, recordarnos que es una exigencia y un regalo
 	- en el corazón del imperativo estético discernimos el imperativo moral
-	- P. 67-68: dice que es posible imaginarse una buena 
+	- P. 67-68: dice que es posible imaginarse una buena novela escrita por un escritor negro americano 
 			
 		
 	- For whom?
