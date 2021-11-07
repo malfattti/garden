@@ -137,3 +137,4 @@
 		- pero esto es un ideal, y es peligroso hablar de valores ideales porque no tienen carne. la libertad en un sentido ideal no tiene fin
 		- lo quiera o no lo quiera el escritor, aunque apunte a lo eterno, le está hablando a sus contemporáneos y hermanos de clase y raza
 		- los productos de la mente son por naturaleza alusivos, hay mucho que no se dice porque se encuentran en el contexto
+		- el lector al que hablo tiene una base de conocimiento que aprovecho 
