@@ -98,6 +98,7 @@
 			- el lector se vuelve crédulo, la credulidad lo envuelve como en un sueño, pero a cada momento conciente de ser libre (esta pág es confusa, 57)
 			- una elección perpetua de creer, en todo momento puedo despertarme y lo sé, pero no quiero, leer es un sueño de libertad
 			- todos los sentimientos que surgen de esta creencia imaginaria son como modulaciones particulares de mi libertad
+			- los sentimie
 			
 		
 	- For whom?
