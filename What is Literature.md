@@ -142,4 +142,4 @@
 		- los autores tb son históricos, cada libro propone una liberación concreta sobre la base de una alienación particular
 		- la elección del autor de cierto aspecto del mundo determina al lector y viceversa, al elegir su lector el autor decide su tema
 		- entonces todas las obras contienen en sí mismas la imagen del lector para quien fueron creadas
-		- ejemplo de El silencio del mar, que fue rechazada por el público de emigrantes en UK o US pero muy efectiva con la población francesa viviendo bajo la ocupación porque retrataban a un soldado nazi como una persona con matices, ya que tras convivir años así es como los v
+		- ejemplo de El silencio del mar, que fue rechazada por el público de emigrantes en UK o US pero muy efectiva con la población francesa viviendo bajo la ocupación porque retrataban a un soldado nazi como una persona con matices, ya que tras convivir años y bajo los efectos de propaganda inteligente, de así es como los veían
