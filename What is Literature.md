@@ -92,6 +92,7 @@
 			- el libro no es, como la herramienta, un medio para un fin cualquiera, el fin al cual se ofrece es la libertad de su lector (no sirve a la libertad del lector, sino que la requiere)
 			- the work of art does not have an end, it is an end (p. 56, no estoy segura de entender esto), es un imperativo categórico, una vez que abro el libro tengo una responsabilidad sobre él
 			- el escritor, al esperar la colaboración del lector lo considera puramente libre y en ningún caso se dirige a su pasividad, no espera afectarlo ni comunicarle emociones determinadas desde el primer momento
+			- si el escritor quiere algo en concreto, solo debe proponer la tarea a ser realizada, no debe buscar apabullar al lector
 			
 		
 	- For whom?
