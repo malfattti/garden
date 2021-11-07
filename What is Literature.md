@@ -94,6 +94,8 @@
 			- el escritor, al esperar la colaboración del lector lo considera puramente libre y en ningún caso se dirige a su pasividad, no espera afectarlo ni comunicarle emociones determinadas desde el primer momento
 			- si el escritor quiere algo en concreto, solo debe proponer la tarea a ser realizada, no debe buscar apabullar al lector
 			- the reader must be able to make a certain aesthetic withdrawal
+				-  el lector debe contar con cierta posibilidad de
+repliegue estético
 			
 		
 	- For whom?
