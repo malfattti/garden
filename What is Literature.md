@@ -95,6 +95,8 @@
 			- si el escritor quiere algo en concreto, solo debe proponer la tarea a ser realizada, no debe buscar apabullar al lector
 			- the reader must be able to make a certain aesthetic withdrawal (el arte por el arte), pero esto no significa que el autor haga un llamado a una especie de libertad abstracta/conceptual
 				-  en español lo traduce como "el lector debe contar con cierta posibilidad de repliegue estético"
+
+			- el lector se vuelve crédulo, la credulidad l
 			
 		
 	- For whom?
