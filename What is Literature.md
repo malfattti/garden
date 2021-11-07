@@ -134,4 +134,6 @@
 
 	- For whom does one write?
 		- a primera vista parece que uno escribe para el lector universal
-		- pero esto es un ideal, y es peligroso hablar de valores ideales porque no tienen carne
+		- pero esto es un ideal, y es peligroso hablar de valores ideales porque no tienen carne. la libertad en un sentido ideal no tiene fin
+		- lo quiera o no lo quiera el escritor, aunque apunte a lo eterno, le está hablando a sus contemporáneos y hermanos de clase y raza
+		- los product
