@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Literature.md",
+            "file": "2021-11-07.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Literature.md",
+                "file": "2021-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "2021-11-07.md",
     "What is Literature.md",
     "The Name of the Rose.md",
     "lengua y superdiversidad.md",
@@ -104,7 +105,6 @@
     "burup forever.md",
     "Análisis del discurso político.md",
     "2021-10-30.md",
-    "2021-10-23.md",
-    "frantz fannon.md"
+    "2021-10-23.md"
   ]
 }
