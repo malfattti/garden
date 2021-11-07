@@ -99,7 +99,7 @@
 			- una elección perpetua de creer, en todo momento puedo despertarme y lo sé, pero no quiero, leer es un sueño de libertad
 			- todos los sentimientos que surgen de esta creencia imaginaria son como modulaciones particulares de mi libertad
 			- los sentimientos del lector nunca están dominados por el objeto, sino que es el lector el que pone la consistecia y objetividad, con sus sentimientos, a la obra que lee
-			- leer es un ejercicio de la generosidad, lo que el au
+			- leer es un ejercicio de la generosidad, lo que el autor pide del lector no es el ejercicio de una libertad abstracta sino el regalo de toda su persona, con sus pasiones, sus prejuicios, sus simpatías, su temperamento sec
 			
 		
 	- For whom?
