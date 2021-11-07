@@ -142,3 +142,4 @@
 		- los autores tb son históricos, cada libro propone una liberación concreta sobre la base de una alienación particular
 		- la elección del autor de cierto aspecto del mundo determina al lector y viceversa, al elegir su lector el autor decide su tema
 		- entonces todas las obras contienen en sí mismas la imagen del lector para quien fueron creadas
+		- ejemplo de El silencio del mar, que fue rechazada 
