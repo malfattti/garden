@@ -90,6 +90,6 @@
 			- o sea que el escritor apela a la libertad de su lector para colaborar en la producción de su obra 
 			- el libro no es, como la herramienta, un medio para un fin cualquiera, el fin al cual se ofrece es la libertad de su lector (no sirve a la libertad del lector, sino que la requiere)
 			- the work of art does not have an end, it is an end (p. 56, no estoy segura de entender esto)
-			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
+			
 		
 	- For whom?
