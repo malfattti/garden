@@ -147,3 +147,5 @@
 		- La historia de Vercors definió a su público, y al hacerlo se definió a si misma
 		- y si para explicar una obra de arte acudimos en vez del público a la condición del autor mismo? 
 			- idea de milieu (Taine): Sartre la considera una idea determinativa: el milieu produce al escritor. Es al contrario, dice Sartre, el público llama al artista, cuestiona su libertad. El milieu es una fuerza desde atrás, el público en cambio es una espera, un vacío esperando ser llenado. Es el otro.
+
+- un escritor está comprometido cuando trata de alcanzar la mayor 
