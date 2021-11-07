@@ -93,9 +93,8 @@
 			- the work of art does not have an end, it is an end (p. 56, no estoy segura de entender esto), es un imperativo categórico, una vez que abro el libro tengo una responsabilidad sobre él
 			- el escritor, al esperar la colaboración del lector lo considera puramente libre y en ningún caso se dirige a su pasividad, no espera afectarlo ni comunicarle emociones determinadas desde el primer momento
 			- si el escritor quiere algo en concreto, solo debe proponer la tarea a ser realizada, no debe buscar apabullar al lector
-			- the reader must be able to make a certain aesthetic withdrawal
-				-  el lector debe contar con cierta posibilidad de
-repliegue estético
+			- the reader must be able to make a certain aesthetic withdrawal (el arte por el arte), pero esto no significa que el autor haga un llamado a una especie de libertad abstracta/conceptual
+				-  en español lo traduce como "el lector debe contar con cierta posibilidad de repliegue estético"
 			
 		
 	- For whom?
