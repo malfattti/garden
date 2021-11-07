@@ -139,4 +139,4 @@
 		- los productos de la mente son por naturaleza alusivos, hay mucho que no se dice porque se encuentran en el contexto
 		- el lector al que hablo tiene una base de conocimiento que aprovecho para enseñarle lo que no sabe
 		- el lector está involucrado en la historia
-		- los autores tb son históricos
+		- los autores tb son históricos, cada libro propone una liberació
