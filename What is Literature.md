@@ -133,4 +133,5 @@
 	- si el escritor está comprometido a defender la libertad, se trata de valores ideales o de la libertad de todos los días? esta pregunta está relacionada con la de "for whom does one write"?
 
 	- For whom does one write?
-		- a primera vista 
+		- a primera vista parece que uno escribe para el lector universal
+		- pero esto es un ideal, y es peligroso hablar de valores ideales porque no tienen carne
