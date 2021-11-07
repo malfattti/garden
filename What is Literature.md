@@ -124,8 +124,7 @@
 				- saberse esencial a la totalidad del ser 
 				- el universo del novelista carecería de profundiad si no se lo descubriera en un movimiento hecho para trascenderlo
 	- el autor debe esforzarse por hacerme crear lo que el revela, o sea hacerme comprometerme
-	- porque este universo se crea con el esfuerzo conjunto de dos libertades, y porque el autor intenta a través mío integrarlo en el universo, debe parecer en su esencia inyectado con una libertad que ha tomado la libertad humana como su fin. 
-	-
+	- porque este universo se crea con el esfuerzo conjunto de dos libertades, y porque el autor intenta a través mío integrarlo en el universo, debe parecer en su esencia inyectado con una libertad que ha tomado la libertad humana como su fin. la obra debe tener un aire de generosidad
 			
 		
 	- For whom?
