@@ -128,7 +128,8 @@
 	- en el corazón del imperativo estético discernimos el imperativo moral
 	- P. 67-68: dice que es posible imaginarse una buena novela escrita por un escritor negro americano aún cuando hubiera odio por los blancos en su totalidad, porque a través de ese odio estaría demandando la libertad de su raza
 	- por el contrario no es posible imaginar una buena novela escrita para elogiar el anti-semitismo
-	- c
+	- cuando siento que mi libertad está indisolublemente vinculada con la de todos los hombres, no puede ser exigido que la ude para aprobar la esclavitud de una parte de los hombres
+	- el escritor libre dirigiéndose a hombres libres tiene n so
 			
 		
 	- For whom?
