@@ -151,4 +151,6 @@
 - un escritor está comprometido cuando trata de alcanzar la más lúcida y completa conciencia de estar "embarcado" "in the thick of it" o sea comprometidos. Sartre dice que los hombres pasan el tiempo huyendo de su propio compromiso y es el trabajo del escritor enfrentarlos con eso
 - el escritor es por excelencia un mediador
 - el escritor en principio emerge de su intención libre de escribir, pero eso implica luego un rol social. aunque quiera cambiar ese rol, primero debe meterse en ese rol
-	- entonces el público se encarga de rodear al autor y hacerle demandas 
+- entonces el público se encarga de rodear al autor y hacerle demandas, y a partir de ese encuentro es que el autor puede montar su obra
+- Richard Wright:
+		- 
