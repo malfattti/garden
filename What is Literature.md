@@ -144,4 +144,5 @@
 		- entonces todas las obras contienen en sí mismas la imagen del lector para quien fueron creadas
 		- ejemplo de El silencio del mar, que fue rechazada por el público de emigrantes en UK o US pero muy efectiva con la población francesa viviendo bajo la ocupación porque retrataban a un soldado nazi como una persona con matices, ya que tras convivir años y bajo los efectos de propaganda inteligente, así es como los veían
 		- poco tiempo después, en el 42 cuando Alemania y Francia se enfrentaban otra vez, la obra de Vercors perdió efectividad: presentar estos matices era un idilio
-		- La historia de Vercors definió a su público, y al hacerlo s
+		- La historia de Vercors definió a su público, y al hacerlo se definió a si misma
+		- si para explicar una obra de arte acudimos en vez del público usamos el autor p
