@@ -96,7 +96,8 @@
 			- the reader must be able to make a certain aesthetic withdrawal (el arte por el arte), pero esto no significa que el autor haga un llamado a una especie de libertad abstracta/conceptual
 				-  en español lo traduce como "el lector debe contar con cierta posibilidad de repliegue estético"
 			- el lector se vuelve crédulo, la credulidad lo envuelve como en un sueño, pero a cada momento conciente de ser libre (esta pág es confusa, 57)
-			- una elección perpetua d
+			- una elección perpetua de creer, en todo momento puedo despertarme y lo sé, pero no quiero, leer es un sueño de libertad
+			- todos los sentimientos que surgen de esta creencia imaginaria son como modulaciones particulares de mi libertad
 			
 		
 	- For whom?
