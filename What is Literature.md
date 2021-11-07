@@ -83,14 +83,15 @@
 			- el objeto es esencial porque es trascendente, impone sus propias estructuras y uno debe esperarlo y osbervarlo
 			- el sujeto es esencial porque debe develar ese objeto y producirlo
 			- aquí se habla del silencio en cuya cima el lector debe colocarse, inventarlo, para luego colocar allí las palabras y oraciones que despierta (p. 52), no es tan claro esto
-			- el autor guía al lector, pero el lector inventa: la lectura es una creación dirigida
+			- el autor guía al lector, pero el lector inventa los significados de los silencios de la obra (? p. 53): la lectura es una creación dirigida
 			- la obra literaria no tiene otra sustancia que la subjetividad del lector. Lo que la anima son las emociones del lector, que suscita en él
 			- al mismo tiempo, cada palabra despierta nuestro sentimientos y nos los reflejan en nosotros mismos
 			- la obra existe para el lector solo en la medida de sus capacidades, siempre puede indagar más y crear más
 			- porque la creación solo puede encontrar su razón de ser en la lectura, toda obra literaria es una apelación a que lleve a la existencia objetiva la revelación que yo he hecho a través de la lengua
 			- o sea que el escritor apela a la libertad de su lector para colaborar en la producción de su obra 
 			- el libro no es, como la herramienta, un medio para un fin cualquiera, el fin al cual se ofrece es la libertad de su lector (no sirve a la libertad del lector, sino que la requiere)
-			- the work of art does not have an end, it is an end (p. 56, no estoy segura de entender esto)
+			- the work of art does not have an end, it is an end (p. 56, no estoy segura de entender esto), es un imperativo categórico, una vez que abro el libro tengo una responsabilidad sobre él
+			- 
 			
 		
 	- For whom?
