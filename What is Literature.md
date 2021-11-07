@@ -155,3 +155,4 @@
 - Richard Wright:
 		- autor negro del sur que fue trasladado al norte 
 		- para Sartre una persona con esas características no puede sino escribir sobre las personas negras y las blancas y exponer la alienación de la raza negra en la sociedad estadounidense, apasionadamente (no objetivamente como los realistas) y de manera que comprometa al lector
+		- público? intel
