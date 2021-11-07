@@ -130,7 +130,7 @@
 	- por el contrario no es posible imaginar una buena novela escrita para elogiar el anti-semitismo
 	- cuando siento que mi libertad está indisolublemente vinculada con la de todos los hombres, no puede ser exigido que la ude para aprobar la esclavitud de una parte de los hombres
 	- el escritor libre dirigiéndose a hombres libres tiene un solo tema: la libertad
-	- si el escritor está comprometido a defender la libertad, se trata de valores ideales o de la libertad de todos los días
+	- si el escritor está comprometido a defender la libertad, se trata de valores ideales o de la libertad de todos los días? esta pregunta está relacionada con la de "for whom does one write"?
 			
 		
 	- For whom?
