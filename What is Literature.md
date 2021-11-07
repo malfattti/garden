@@ -153,4 +153,5 @@
 - el escritor en principio emerge de su intención libre de escribir, pero eso implica luego un rol social. aunque quiera cambiar ese rol, primero debe meterse en ese rol
 	- entonces el público se encarga de rodear al autor y hacerle demandas, y a partir de ese encuentro es que el autor puede montar su obra
 - Richard Wright:
-		- 
+		- autor negro del sur que fue trasladado al norte 
+		- para Sartre una persona con esas características no puede sino 
