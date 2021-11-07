@@ -154,4 +154,4 @@
 	- entonces el público se encarga de rodear al autor y hacerle demandas, y a partir de ese encuentro es que el autor puede montar su obra
 - Richard Wright:
 		- autor negro del sur que fue trasladado al norte 
-		- para Sartre una persona con esas características no puede sino escribir sobre las personas negras y las blancas y exponer la alienación de la raza negra en la sociedad estadounidense, apasionada
+		- para Sartre una persona con esas características no puede sino escribir sobre las personas negras y las blancas y exponer la alienación de la raza negra en la sociedad estadounidense, apasionadamente (no objetivamente como los realistas) y de manera que comprometa al lector
