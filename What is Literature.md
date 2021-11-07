@@ -100,6 +100,30 @@
 			- todos los sentimientos que surgen de esta creencia imaginaria son como modulaciones particulares de mi libertad
 			- los sentimientos del lector nunca están dominados por el objeto, sino que es el lector el que pone la consistecia y objetividad, con sus sentimientos, a la obra que lee
 			- leer es un ejercicio de la generosidad, lo que el autor pide del lector no es el ejercicio de una libertad abstracta sino el regalo de toda su persona, con sus pasiones, sus prejuicios, sus simpatías, su temperamento sexual y su escala de valores
+			- el autor no solo exige la libertad del lector, suno que pide a cambio que el lector también reconozca su libertad creativa (demanda mutua que se potencia)
+			- al contrario, como la naturaleza no tiene un creador, no exige nuuestra libertad
+			- cuando un artista captura la naturaleza, vuelve su orden intencional y lo regala, lo transmite, a la humanidad. Pero el artista nunca puede contemplar objetivamente su creación, se queda en la frontera entre lo objetivo y lo subjetivo
+			- al contrario, el lector progresa en su seguridad. cuando establece relaciones entre las diferentes partes de la obra, tiene la garantía de que han sido puestas allí adrede. lo que aparece en un libro nunca es accidental (el arte no conoce ruido)
+			- el autor transforma sus emociones en emociones libres, o sea las libera, está en una actitud generosa (esto es un poco parecido a lo que dice sobre la poesía al comienzo, que las emociones del pintor o poeta están allí, pero transformadas, irreconocibles para él/ella)
+			- dialéctica que va y viene: el autor y el lector se demandan más y más mutuamente. La libertad del autor revela la del lector y viceversa
+			- no importa si el arte es realista o formal. en ambos casos el objeto que contemplamos (ej. un árbol en una pintura) está allí porque la obra lo requiere, no por una relación causal con el resto de las cosas. la finalidad no está en las formas o colores sino en su imaginación material (? algunas dudas, p. 62)
+			- la obra nunca se limita a lo pintado o narrado, sino que los objetos aparecen con el trasfondo del universo
+			- el acto creativo, a través de los objetos que produce y reproduce, apunta a una renovación total del mundo
+			- la finalidad del arte es recuperar al mundo dándolo a conocer como es, pero como si tuviera su origen en la libertad humana (capacidad de cambiar el mundo está inscrita en el arte, su procedimiento). para esto es necesario la ceremonia de la lectura
+			- el autor elige apelar a la libertad de los otros hombres para que, a través de las implicaciones de sus demandas recíprocas, puedan readaptar la totalidad del ser al hombre y pueda de nuevo encerrar al universo en el hombre (?! p. 63)
+			- placer o felicidad estética: dársela al lector es el objetivo del escritor, cuando este sentimiento aparece significa que el trabajo se ha cumplido.
+			- esta felicidad se le niega al creador cuando crea 
+			- p. 63 al final y 64: habla del utilitarismo y medios y fines y la conciencia posicional (?) no entiendo
+			- el reconocimiento de la libertad es ya alegría o placer, no solo por la pura autonomía sino por ser una actividad creativa
+			- sentimiento de seguridad: armonía entre subjetividad y objetividad
+			- disfrute posicional? y conciencia no posicional ? de ser esencial en relación a un objeto percibido como esencial
+			- como el objeto estético es propiamente el mundo en tanto que se lo penetra a través de lo imaginario, la alegría estética acompaña la conciencia posicional de que el mundo es un valor, o sea una tarea propuesta a la libertad humana (MUY LINDO)
+			- a esto lo llama la modificación estética del proyecto humano
+			- el mundo es mi tarea
+			- entonces escribir es dos cosas: revelar el mundo y ofrecerlo como una tarea a la generosidad del lector
+				- saberse esencial a la totalidad del ser 
+				- el universo del novelista carecería de profundiad si no se lo descubriera en un movimiento hecho para trascenderlo
+	- el autor debe esforzarse por hacerme crear lo que el revela, o sea hacerme comprometerme
 			
 		
 	- For whom?
