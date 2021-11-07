@@ -157,4 +157,4 @@
 		- para Sartre una persona con esas características no puede sino escribir sobre las personas negras y las blancas y exponer la alienación de la raza negra en la sociedad estadounidense, apasionadamente (no objetivamente como los realistas) y de manera que comprometa al lector
 		- público? negros educados del norte y los americanos blancos de buena fe (intelectuales, demócratas de izq., etc.) o sea un público fracturado, uno  del que Wright es su conciencia, otro es el otro para el autor
 		- o sea que cada palabra se refiere a dos contextos a la vez a dos contextos, dos fuerzas se aplican simultáneamente a cada frase y determinan la tensión incomparable de su novela. hizo de la escisión un pretexto para su obra de arte
-		- La actividl escritor es dañino o
+		- La actividad del escritor es inútil, incluso puede ser dañino para la sociedad volverse auto
