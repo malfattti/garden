@@ -175,4 +175,4 @@
 			- se rompen los moldes del s. XVII, cuando los escritores al elegir la profesión sabían las reglas y costumbres, su rango. En el s. XVIII está todo por hacer
 			- el escritor le pedía a su público burgués que deje atrás sus humillaciones, prejuicios y miedos, y a su público noble que se deshaga de su casta y sus privilegios
 			- libertad abstracta frente a opresión concreta / razón frente a historia (practicar una razón anti-histórica en contra de la historia --> revelar los requerimientos esenciales de la lit. abstracta. el escritor se hace universal y requiere entonces lectores universales
-			- cómo es q
+			- cómo es que al hacer esto estaba yendo en la misma dirección que el desarrollo histórico?
