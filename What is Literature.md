@@ -171,4 +171,4 @@
 			- en el escritor hay una contradicción de clase (es pobre pero vive en el lujo y se codea con la realeza), su mente y su público, las dos cosas estaban escindidas
 			- desde afuera podía contemplar a las clases gobernantes con los ojos de la burguesía y a la burguesía con los ojos de la nobleza y retenía una suficiente complicidad con los dos como para entenderlos igualmente "desde dentro".
 			- entonces la literatura ganó su independencia al ser colocada por casualidad entre aspiraciones confusas y una ideologúia en ruinas. Ya no estaba ahí para reflejar los lugares comunes de la colectividad, sino para identificarse con la mente, con el poder de formar y criticar ideas
-			- da lugar a una nueva esla verdad se convirtió en una idea reguladora de la literatura y un límite distante del movimiento crítico 
+			- da lugar a una nueva espiritualidad que se manifiesta como el poder de superar continuamente lo que está dado, la verdad se convirtió en una idea reguladora de la literatura y un límite distante del movimiento crítico 
