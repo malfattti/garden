@@ -174,4 +174,5 @@
 			- Espiritualidad, literatura y verdad: la literatura da lugar a una nueva espiritualidad que se manifiesta como el poder de superar continuamente lo que está dado, la verdad se convirtió en una idea reguladora de la literatura y un límite distante del movimiento crítico. La literatura es el ejercicio de la libertad
 			- se rompen los moldes del s. XVII, cuando los escritores al elegir la profesión sabían las reglas y costumbres, su rango. En el s. XVIII está todo por hacer
 			- el escritor le pedía a su público burgués que deje atrás sus humillaciones, prejuicios y miedos, y a su público noble que se deshaga de su casta y sus privilegios
-			- cómo es que el escritor al hacer esto coincide con la dirección de los eventos históricos (libertad abstracta frente a opresión concreta / razón frente a historia (practicar una razón anti-histórica en contra de la historia --> revelar los requerimientos esenciales de la lit. abstracta))
+			- cómo es que el escritor al hacer esto coincide con la dirección de los eventos históricos (libertad abstracta frente a opresión concreta / razón frente a historia (practicar una razón anti-histórica en contra de la historia --> revelar los requerimientos esenciales de la lit. abstracta)). el escritor se hace universal y requiere entonces lectores universales
+			- 
