@@ -182,4 +182,4 @@
 			- con el triunfo de la burguesía el lugar de los escritores fue convusionado: debido a la desaparición del objeto de sus demandas
 			- ahora los escritores ya no tenían la posición privilegiada que se había escindido y las había permitido tener un pie en cada terreno. La burguesía absorbió a la nobleza y entonces ahora los escritores debían atender las demandas de un público unido
 			- no podían escapar su origen burgués
-			- porque la burguesía estaba justificada por el mito del utilitarismo. Si la obra de arte entraba la ronda utilitarista, tenía que bajar del cielo del fin sin condicionamientos para resignarse a ser útil. Después de 
+			- porque la burguesía estaba justificada por el mito del utilitarismo. Si la obra de arte entraba la ronda utilitarista, tenía que bajar del cielo del fin sin condicionamientos para resignarse a ser útil. Después de ser la mala conciencia del privilegiado en el s. XVIII corría el riesgo de convertirse en la buena conciencia de una clase opresora en el s. XIX
