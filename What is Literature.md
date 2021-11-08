@@ -180,4 +180,4 @@
 				- en ese entonces, una obra era peligrosa, el autor era un aventurero, y sus novelas un acto. no necesitaban probar lo que hoy sí
 			- el autor se vuelve conciente del presente, sabe que esta hora es suya y que es única. lo espiritual ya no está en lo atemporal sino en el presente
 			- con el triunfo de la burguesía el lugar de los escritores fue convusionado: debido a la desaparición del objeto de sus demandas
-			- ahora los escritores ya no tenían la posición privilegiada que se había escindido y las había permitido tener un pie en cada terreno. La burguesía absorbió a la nobleza y entonces ahora los escritores debían atend
+			- ahora los escritores ya no tenían la posición privilegiada que se había escindido y las había permitido tener un pie en cada terreno. La burguesía absorbió a la nobleza y entonces ahora los escritores debían atender las demandas de un público unido
