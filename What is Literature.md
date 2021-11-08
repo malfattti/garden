@@ -169,3 +169,4 @@
 			- entonces el autor se encontraba entre dos grupos hostiles entre sí: el que lo había financiado hasta ahora, y el que había comenzado a comprar sus libros.
 			- para que una clase adquiera conciencia de clase debe verse desde adentro y afuera a la vez, en otras palabras, debe enriquecerse a partir de una competencia externa.
 			- en el escritor hay una contradicción de clase (es pobre pero vive en el lujo y se codea con la realeza), su mente y su público, las dos cosas estaban escindidas
+			- desde afuera podía contemplar a las clases gobernantes con los ojos de la burguesía y a la burguesía con los ojos de la nobleza y retenía una suficiente complicidad con los dos como para entenderlos igualmente "d
