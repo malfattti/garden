@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Literature.md",
+            "file": "2021-12-05.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Literature.md",
+                "file": "2021-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "2021-12-05.md",
     "What is Literature.md",
     "2021-11-10.md",
     "The Name of the Rose.md",
@@ -105,7 +106,6 @@
     "Decadence and aestheticism.md",
     "de salónica a ladinokomunita el judeoespañol desde los umbrales del siglo xx hasta la actualidad.md",
     "burup forever.md",
-    "Análisis del discurso político.md",
-    "2021-10-30.md"
+    "Análisis del discurso político.md"
   ]
 }
