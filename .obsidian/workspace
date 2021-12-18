@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-10.md",
+            "file": "empanadas.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-10.md",
+                "file": "empanadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "empanadas.md",
+    "2021-12-17.md",
     "2021-12-10.md",
     "2021-12-05.md",
     "What is Literature.md",
@@ -104,8 +106,6 @@
     "The Name of the Rose.md",
     "2021-11-07.md",
     "lengua y superdiversidad.md",
-    "Decadence and aestheticism.md",
-    "de salónica a ladinokomunita el judeoespañol desde los umbrales del siglo xx hasta la actualidad.md",
-    "burup forever.md"
+    "Decadence and aestheticism.md"
   ]
 }
