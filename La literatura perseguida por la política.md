@@ -9,4 +9,5 @@
 	- En Francia y otras naciones europeas, la libertad de pensamiento y de palabra, la igualdad de derechos son una realidad. En estos países la relación entre el novelista y el público es enteramente diferente a la que se da en Latinoamérica o España
 	- En países subdesarrollados la literatura busca reflejar la realidad política y deja de lado la evolución de la técnica (de lo contrario: obra mimética, refrito de lo que se crea en los países desarrollados)
 		- enfoque anacrónico
-		- voluntad oficial: despolitización (España) o 
+		- voluntad oficial: despolitización (España) o politización total al servicio del Estado (URSS)
+		- la prensa no cumple con su trabajo de comunicar las
