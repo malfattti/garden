@@ -20,4 +20,4 @@
 		- "el escritor hace política sin saberlo''
 		- "cuando no hay libertad política, todo es política, y el desdoblamiento entre escritor y ciudadano (que plantea Lucien Goldmann: distinción entre el compromiso del ciudadano y del artista) desaparece"
 		- en estas sociedades solamente la conquista de las libertades públicas (España) y el fin del monopolio artístico del realismo socialista y de la presión estatal + retorno al marxismo primitivo (Unión Soviética) permitirían el pasaje a una literatura de exploración (el nouveau roman es de esto solo una muestra)
-		- el comprom
+		- el compromiso del futuro será menos con la política y más con el arte y la técnica
