@@ -7,3 +7,4 @@
 - Comienza comentando la omnipresencia de esta discusión en el debate de escritores y artistas a nivel internacional, y criticando el reduccionismo de las posiciones defendidas: o bien la autonomía total de la literatura, o bien la inevitabilidad de que toda literatura sea comprometida
 - Para Goytisolo el problema debe abordarse sin dejar de lado el contexto en el cual nacen estas discusiones. 
 	- En Francia y otras naciones europeas, la libertad de pensamiento y de palabra, la igualdad de derechos son una realidad. En estos países la relación entre el novelusta y el público es enteramente diferebte a la que se da en Latinoamérica o España
+	- En países subdesarrollados la literatura busca reflejar la realidad política, de lo contrario buscaría imitar una obra mimética, imi
