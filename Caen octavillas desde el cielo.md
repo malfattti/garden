@@ -3,3 +3,4 @@
 - Año de publicación: 2012
 
 - 2012 en España: 
+	- de Zapatero (izq) a Rajoy (conservador)
