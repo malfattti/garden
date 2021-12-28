@@ -16,3 +16,4 @@
 		- la prensa no cumple con su trabajo de comunicar las tensiones y contradicciones de la sociedad, los grupos sociales no pueden manifestarse ni defender sus intereses libremente
 		- entonces el escritor se convierte, aunque no lo quiera, en el portavoz de las dinámicas y los intereses, como una válvula de escape
 		- la función de la literatura es de consolación
+		- el compromiso viene determinado de antemano por la situación particular del artista
