@@ -8,8 +8,11 @@
 - Para Goytisolo el problema debe abordarse sin dejar de lado el contexto en el cual nacen estas discusiones. 
 	- En Francia y otras naciones europeas, la libertad de pensamiento y de palabra, la igualdad de derechos son una realidad. En estos países la relación entre el novelista y el público es enteramente diferente a la que se da en Latinoamérica o España
 		- El compromiso político es una elección libre del escritor
+		- la función de la literatura es de búsqueda
+		- el escritor tiene la posibilida de desarrollar su técnica
 	- En países subdesarrollados la literatura busca reflejar la realidad política y deja de lado la evolución de la técnica (de lo contrario: obra mimética, refrito de lo que se crea en los países desarrollados)
 		- enfoque anacrónico
 		- voluntad oficial: despolitización (España) o politización total al servicio del Estado (URSS)
 		- la prensa no cumple con su trabajo de comunicar las tensiones y contradicciones de la sociedad, los grupos sociales no pueden manifestarse ni defender sus intereses libremente
 		- entonces el escritor se convierte, aunque no lo quiera, en el portavoz de las dinámicas y los intereses, como una válvula de escape
+		- la función de la literatura es de consolación
