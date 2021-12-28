@@ -1,3 +1,5 @@
 - Autor: Isaac Rosa
-- Publicado en: Javier G
-- Año de publicación: 2015
+- Publicado en: Javier Gallego, *Lo llevamos crudo* (prólogo)
+- Año de publicación: 2012
+
+- 202
