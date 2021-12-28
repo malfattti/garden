@@ -10,4 +10,5 @@
 	- En países subdesarrollados la literatura busca reflejar la realidad política y deja de lado la evolución de la técnica (de lo contrario: obra mimética, refrito de lo que se crea en los países desarrollados)
 		- enfoque anacrónico
 		- voluntad oficial: despolitización (España) o politización total al servicio del Estado (URSS)
-		- la prensa no cumple con su trabajo de comunicar las
+		- la prensa no cumple con su trabajo de comunicar las tensiones y contradicciones de la sociedad, los grupos sociales no pueden manifestarse ni defender sus intereses libremente
+		- entonces el escritor se convierte en el portav
