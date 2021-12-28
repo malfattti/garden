@@ -18,4 +18,4 @@
 		- la función de la literatura es de consolación
 		- el compromiso viene determinado de antemano por la situación particular del artista y las exigencias del público
 		- "el escritor hace política sin saberlo''
-		- "cuando no hay libertad política, todo es política, y el desdoblamiento entre escritor y ciudadano (que plantea Lucien Goldmann: distinción entre el compromiso del ciudadano y del artista)
+		- "cuando no hay libertad política, todo es política, y el desdoblamiento entre escritor y ciudadano (que plantea Lucien Goldmann: distinción entre el compromiso del ciudadano y del artista) desaparece"
