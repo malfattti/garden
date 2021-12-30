@@ -14,4 +14,4 @@
 	- hacia el lenguaje con sintaxis profunda y estructura / no como léxico o buen decir
 	- intención crítica: demostrar la falsedad y corrupción del tradicional lenguaje literario español y en qué medida las instituciones españolas se basan en esa retórica de la pureza, casticismo apoyando una cultura cerrada y un sistema de dependencias y sumisión
 	- contaminación de todos los niveles del lenguaje escrito, radical desjerarquización (fusión permanenre e irónica de géneros y estilos)
-	- 
+	- Don Julián: flujo total de la lengua más pronunciado aún: signos de puntuación, solo la coma y el punto y coma; tiempos verbales, solo el presente y el gerundio
