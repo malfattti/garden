@@ -1,0 +1,3 @@
+- Autor: Carlos Fuentes 
+- Publicado en: La nueva novela hispanoamericana
+- Año de publicación: 1967
