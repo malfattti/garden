@@ -16,3 +16,4 @@
 	- voluntad de estilo
 	- reelaboración del habla popular
 	- narrador peligroso: revela que sí se puede hacer buena literatura con contenido político
+	- ir más allá de la anécdota y convertirla en categoría ()
