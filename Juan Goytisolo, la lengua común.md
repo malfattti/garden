@@ -27,3 +27,4 @@
 		- En Señas de identidad: cambios en España, turismo europeo en España, emigración, visión de España ante los ojos de la izquierda extranjera. Imagen nueva y vieja de España
 		- Don Julián: arruinar las ruinas, puesta en duda de España, su historia y cultura. Regreso de todo lo que España ha expulsado y expulsión de todo lo que ha conservado
 		- reconocimiento, por parte de españoles e hispanoamericanos, de la ruina de nuestra imagen y cultura
+		- pérdida de la pretensión universalista de la burguesía europea: todos somos exiliados, mundo sin centro
