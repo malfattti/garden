@@ -1,0 +1,3 @@
+- Autor: Isaac Rosa
+- Publicado: como prólogo a ¿Quién mató a Rosendo?
+- Año de publicación: 1967
