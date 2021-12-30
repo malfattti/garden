@@ -11,3 +11,6 @@
 		- instrucción judicial/buscar causas de fondo
 - Y qué sí es?
 	- Literatura, dice Rosa
+	- en los retratos y descripciones de gran belleza y eficacia
+	- manejo de tiempo y espacio (dilata la acción sin suspenderla)
+	- voluntad de estilo
