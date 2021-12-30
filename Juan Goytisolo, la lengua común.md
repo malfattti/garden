@@ -19,4 +19,5 @@
 	- de esta forma Don Julián une a dos fenómenos literarios con el mismo signo idiomático: la novela española y la hispanoamericana
 		- mismo signo pero diferente actitud ante él: 
 		- el hispanoamericano no se siente dueño del lenguaje porque es el lenguaje del conquistador y de las academias. Problema: poseer el lenguaje
-		- El español por el contrario debe desposeerla para que esta se convierta en desafío y exploración
+		- El español por el contrario debe desposeerla para que esta se convierta en desafío y exploración. Que el lenguaje deje de ser de los señores para que se convierta en el de los parias
+		- 
