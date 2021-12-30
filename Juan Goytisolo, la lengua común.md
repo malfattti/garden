@@ -10,5 +10,5 @@
 	- Paralelo entre identidad de Álvaro y de la estructura de la novela: apertura, desamparo y violación al lenguaje de la prosa novelesca española
 	- Destrucción del lenguaje escrito --> destrucción de España sagrada basada en la posesión de un léxico "pútrido", estancado?
 	- prosa tradicional: complacencia (c/paisaje, nostalgia, folklore etc), reclamada por derecha e izquierda tradicionales - pesada herencia.
-
-- Señ
+- Señas de identidad y Don Julián: reivindican el poder crítico de la literatura en España
+- 
