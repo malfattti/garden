@@ -28,3 +28,5 @@
 		- Don Julián: arruinar las ruinas, puesta en duda de España, su historia y cultura. Regreso de todo lo que España ha expulsado y expulsión de todo lo que ha conservado
 		- reconocimiento, por parte de españoles e hispanoamericanos, de la ruina de nuestra imagen y cultura
 		- pérdida de la pretensión universalista de la burguesía europea: todos somos exiliados, mundo sin centro
+		- pérdida del "buen salvaje" (?)
+		- el español : sujeto de una
