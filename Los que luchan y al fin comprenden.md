@@ -14,3 +14,5 @@
 	- en los retratos y descripciones de gran belleza y eficacia
 	- manejo de tiempo y espacio (dilata la acción sin suspenderla)
 	- voluntad de estilo
+	- reelaboración del habla popular
+	- narrador peligroso: revela que sí se puede hacer buena literatura con contenido político
