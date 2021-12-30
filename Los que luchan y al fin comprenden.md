@@ -22,4 +22,4 @@
 	- ante Walsh, 3 posturas:
 		- quienes le niegan su lugar en la historia de la literatura por su militancia y tomar las armas
 		- quienes lamentan que haya sacrificado su talento en pos de la militancia
-		- quienes celebra(mos) su elección
+		- quienes celebra(mos) su elección de luchar por una sociedad más justa en la que se pudiera hacer literatura sin más
