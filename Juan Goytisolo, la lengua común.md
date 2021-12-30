@@ -4,4 +4,5 @@
 
 - Juan Goytisolo: representa encuentro de la novela española con la hispanoamericana
 - vínculo con Buñuel y Cernuda: profanación de lo consagrado por la cultura española 
-- Señas de identidad de Goytisolo: novela de transición 
+- Señas de identidad de Goytisolo: novela de transición que obedece a esta necesidad. Luego obra maestra: Don Julián
+- Estructura de señas de identidad
