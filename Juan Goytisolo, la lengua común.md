@@ -6,4 +6,5 @@
 - vínculo con Buñuel y Cernuda: profanación de lo consagrado por la cultura española 
 - Señas de identidad de Goytisolo: 
 	- novela de transición que obedece a esta necesidad. Luego obra maestra: Don Julián
-	- Estructura tripartita que corresponde a la tercera, primera y segunda personas que se alternan para constituir la identidad del personaje principal, Álvaro, que nos lleva a preguntarnos q
+	- Estructura tripartita que corresponde a la tercera, primera y segunda personas que se alternan para constituir la identidad del personaje principal, Álvaro, que nos lleva a preguntarnos quién es él, que es lo mismo que preguntarse "qué es España?"
+	- Identidad de Álvaro 
