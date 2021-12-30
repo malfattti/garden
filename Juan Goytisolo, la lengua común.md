@@ -12,4 +12,4 @@
 	- prosa tradicional: complacencia (c/paisaje, nostalgia, folklore etc), reclamada por derecha e izquierda tradicionales - pesada herencia.
 - Señas de identidad y Don Julián: reivindican el poder crítico de la literatura en España
 	- hacia el lenguaje con sintaxis profunda y estructura / no como léxico o buen decir
-	- intención crítica: demostrar la falsedad y corrupción del tradicional lenguaje literario español
+	- intención crítica: demostrar la falsedad y corrupción del tradicional lenguaje literario español y en qué medida las instituciones españolas se basan en esa retórica de la pureza, casticismo apoyando una cultura cerrada y un sistema de dependencias y sumisión
