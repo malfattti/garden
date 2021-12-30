@@ -24,4 +24,5 @@
 		- la primera generación de escritores formada en el fascismo confundió el testimonio con la acción revolucionaria y le dio una inminencia que no tenía 
 		- frente a la mitología de la derecha levantó una de izquierda: la guerra no terminó, el presente es el pasado
 	- Para Goytisolo, esa guerra sí ha terminado, y otra guerra: la de la España feudal encaminándose al capitalismo de consumo, recién empezaba (realidad contradictoria y no ilusión decadente)
-		- En Señas de identidad: cambios en España, turismo europeo en España, emigración, visión de España . Imagen nueva y vieja de España
+		- En Señas de identidad: cambios en España, turismo europeo en España, emigración, visión de España ante los ojos de la izquierda extranjera. Imagen nueva y vieja de España
+		- Don Julián: arruinar las ruinas, puesta en duda de Espa
