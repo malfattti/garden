@@ -20,4 +20,6 @@
 	- lección valiosa para periodistas: reivindicación del periodismo de investigación, exhaustividad, obsesión, reconstrucción de los hechos segundo a segundo, visita del lugar del crimen
 	- lección para los novelistas: manual de literatura, exhibición de recursos. Sobre todo manejo de tiempo y espacio, pero tb habilidad para el retrato y para transmitir la emoción revolucionaria, los que se incorporan a "la fraternidad de los que luchan y al fin comprenden"
 	- ante Walsh, 3 posturas:
-		- quienes le
+		- quienes le niegan su lugar en la historia de la literatura por su militancia y tomar las armas
+		- quienes lamentan que haya sacrificado su talento en pos de la militancia
+		- quienes celebra(mos) su elección
