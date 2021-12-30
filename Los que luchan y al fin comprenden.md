@@ -18,4 +18,6 @@
 	- narrador peligroso: revela que sí se puede hacer buena literatura con contenido político
 	- ir más allá de la anécdota y convertirla en categoría (máquina de poder)
 	- lección valiosa para periodistas: reivindicación del periodismo de investigación, exhaustividad, obsesión, reconstrucción de los hechos segundo a segundo, visita del lugar del crimen
-	- lección para los novelistas: manual de literatura, exhibición de recursos. Sobre todo manejo de tiempo y espacio, pero tb habilidad para el retrato y para transmitir la emoción revolucionaria, los que se inco
+	- lección para los novelistas: manual de literatura, exhibición de recursos. Sobre todo manejo de tiempo y espacio, pero tb habilidad para el retrato y para transmitir la emoción revolucionaria, los que se incorporan a "la fraternidad de los que luchan y al fin comprenden"
+	- ante Walsh, 3 posturas:
+		- quienes le
