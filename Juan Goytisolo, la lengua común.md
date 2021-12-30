@@ -3,4 +3,5 @@
 - Año de publicación: 1969
 
 - Juan Goytisolo: representa encuentro de la novela española con la hispanoamericana
-- vínculo con Buñuel y Cernuda
+- vínculo con Buñuel y Cernuda: profanación de lo consagrado por la cultura española 
+- Señas de identidad de Goytisolo: novela de transición 
