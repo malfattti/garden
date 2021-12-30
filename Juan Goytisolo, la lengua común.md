@@ -7,4 +7,5 @@
 - Señas de identidad de Goytisolo: 
 	- novela de transición que obedece a esta necesidad. Luego obra maestra: Don Julián
 	- Estructura tripartita que corresponde a la tercera, primera y segunda personas que se alternan para constituir la identidad del personaje principal, Álvaro, que nos lleva a preguntarnos quién es él, que es lo mismo que preguntarse "qué es España?"
-	- Identidad de Álvaro 
+	- Paralelo entre identidad de Álvaro y de la estructura de la novela: apertura, desamparo y violación al lenguaje de la prosa novelesca española
+	- Destrucción del lenguaje escrito
