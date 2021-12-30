@@ -8,4 +8,4 @@
 	- una novela policial: se salta las convenciones del género + traiciona expectativas del lector. No hay intriga ni el criminal es uno solo (múltiples responsabilidades y complicidad de todo el sistema), perdedores no tienen glamour
 	- un reportaje periodístico (aunque originalmente haya sido una serie de artículos para el semanaro de la CGT y aunque Walsh sea precursor del Nuevo Periodismo)
 		- Walsh desconfiaba del periodismo (ya en 1964, desilusión en prólogo de Operación Masacre). Deja periodismo tradicionl para buscar formas más democráticas de difundir información (ANCLA)
-		- además, estilo personal y literario, no periodístico (templado)
+		- además, estilo personal y literario, no periodístico (templado), no pretende objetividad profesional, sino búsqueda de la verdad pero tb denuncia, rabia
