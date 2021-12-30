@@ -16,4 +16,5 @@
 	- contaminación de todos los niveles del lenguaje escrito, radical desjerarquización (fusión permanenre e irónica de géneros y estilos)
 - Don Julián: flujo total de la lengua más pronunciado aún: signos de puntuación, solo la coma y el punto y coma; tiempos verbales, solo el presente y el gerundio
 	- emprende tarea más urgente de la novela española: destruir un lenguaje viejo y crear uno nuevo a través de la novela
-	- de esta forma Don Julián
+	- de esta forma Don Julián une a dos fenómenos literarios con el mismo signo idiomático: la novela española y la hispanoamericana
+		- mismo signo pero diferenre actitud ante él
