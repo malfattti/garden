@@ -30,4 +30,4 @@
 		- pérdida de la pretensión universalista de la burguesía europea: todos somos exiliados, mundo sin centro
 		- pérdida del "buen salvaje" (?)
 		- el español : sujeto de una cultura europea marginalizada. Debe integrarse a Europa y al tercer mundo
-		- búsqueda común de libertad nueva / 
+		- búsqueda común de libertad nueva / desconocida
