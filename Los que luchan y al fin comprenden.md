@@ -1,7 +1,6 @@
 - Autor: Isaac Rosa
 - Publicado: como prólogo a ¿Quién mató a Rosendo? de la editorial 451 Editores
 - Año de publicación: 2010, originalmente 1968
-
 - Rosa identifica en esta obra lo político, aquello que nos enseñan que la 'buena' literatura no debe contener + mezcla de géneros e inclusión de una labor periodística
 - Luego lo que esta obra no es: 
 	- una novela negra
@@ -10,3 +9,5 @@
 		- Walsh desconfiaba del periodismo (ya en 1964, desilusión en prólogo de Operación Masacre). Deja periodismo tradicionl para buscar formas más democráticas de difundir información (ANCLA)
 		- además, estilo personal y literario, no periodístico (templado), no pretende objetividad profesional, sino búsqueda de la verdad pero tb denuncia, rabia
 		- instrucción judicial/buscar causas de fondo
+- Y qué sí es?
+	- Literatura, dice Rosa
