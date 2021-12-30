@@ -22,4 +22,4 @@
 		- El español por el contrario debe desposeerla para que esta se convierta en desafío y exploración. Que el lenguaje deje de ser de los señores para que se convierta en el de los parias
 	- rebelión no solo contra el pasado remoto sino con el inmediato de Goytisolo y su generación
 		- la primera generación de escritores formada en el fascismo confundió el testimonio con la acción revolucionaria y le dio una inminencia que no tenía 
-		- frente a la mitología de la derecha levantó una de izquierda
+		- frente a la mitología de la derecha levantó una de izquierda: la guerra no terminó, 
