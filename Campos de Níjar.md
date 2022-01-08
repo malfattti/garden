@@ -1,3 +1,6 @@
 - Temas:
 	- España como África
-	- Pobreza, enfermedad
+	- Pobreza, enfermedades (tricoma)
+		- contraste entre pobreza y belleza (gente, paisajes)
+
+- 
