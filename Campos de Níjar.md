@@ -26,4 +26,7 @@
 			- realismo
 			- espacios reconocibles, restitución del referente
 			- presencia de fotografías
-			- tiempo reducido: tiempo de la experiencia y de la escritura equivalen. Inmediatez / escena / presente de la narración. El viaje m
+			- tiempo reducido: tiempo de la experiencia y de la escritura equivalen. Inmediatez / escena / presente de la narración. El viaje vale más que la escritura
+			- personajes remiten a personas reales conocidas
+			- los temas son actuales
+			- legibilidad: función informativa, testimonial. Léxico común y sintaxis sencilla (igual es Goytisolo en esto una excepción: en él, búsqueda ling)
