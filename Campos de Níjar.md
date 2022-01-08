@@ -5,7 +5,8 @@
 	- Emigración a Cataluña, otros países de Europa, América
 	- Lo convival (comparten comidas, cigarrillos, bebida)
 	- Turismo extranjero
-	- crítica
+	- crítica al régimen, sutil, implícita, por la censura
+	- Recuerdo, impresiones
 
 - Lenguaje/discurso
 	- Oralidad, reproducción del lenguaje almeriense tanto en la fonética como en el vocabulario. Ampliación del vocabulario busca superar pobreza léxica. Atención a las variedades de los pueblos que recorre
