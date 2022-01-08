@@ -30,3 +30,6 @@
 			- personajes remiten a personas reales conocidas
 			- los temas son actuales
 			- legibilidad: función informativa, testimonial. Léxico común y sintaxis sencilla (igual es Goytisolo en esto una excepción: en él, búsqueda lingüística)
+
+- Imagen inversa: presentar un contradiscurso
+	- periodismo oficial
