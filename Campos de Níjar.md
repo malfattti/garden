@@ -5,7 +5,7 @@
 	- Emigración a Cataluña, otros países de Europa, América
 	- Lo convival (comparten comidas, cigarrillos, bebida)
 
-- Lenguaje
-	- Oralidad, reproducción del lenguaje almeriense tanto en la fonética como en el vocabulario. Ampliación del vocabulario
+- Lenguaje/discurso
+	- Oralidad, reproducción del lenguaje almeriense tanto en la fonética como en el vocabulario. Ampliación del vocabulario busca superar pobreza léxica. Aten
 	- Discurso oficial (en la ruta, pintadas que hacen referencia a Franco y sus políticas de gobierno) versus el de la gente común
-	- La prensa (final, todo lo que él ha reportado brilla por)
+	- La prensa (final, todo lo que él ha reportado brilla por su ausencia en los periódicos)
