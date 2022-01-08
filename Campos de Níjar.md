@@ -36,4 +36,4 @@
 	- plantear una continuidad temporal en la decadencia frente a la idea de una discontinuidad o corte a partir de la guerra civil
 	- plantear una discontinuidad espacial (diferentes espacios: diferentes clases sociales) frente a la idea de continuidad de la prensa
 	- plantear un simbolismo en torno a la muerte, sequedad, aridez y aburrimiento frente al oficial de vida, sol, luz
-	- Y en Goytisolo, oposición y separación entre escritor burgués y población y proletariado: al final, él se va, continúa su vida. Y 
+	- Y en Goytisolo, oposición y separación entre escritor burgués y población y proletariado: al final, él se va, continúa su vida. Y el hombre analfabeto que quiere que él lo lleve a Barcelona se queda en Almería.
