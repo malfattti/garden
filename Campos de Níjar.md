@@ -32,4 +32,5 @@
 			- legibilidad: función informativa, testimonial. Léxico común y sintaxis sencilla (igual es Goytisolo en esto una excepción: en él, búsqueda lingüística)
 
 - Imagen inversa: presentar un contradiscurso
-	- periodismo oficial
+	- frente a periodismo oficial y propaganda
+	- plantear una continuidad temporal en la decadencia frente a la idea de una discontinuidad o corte a partir de l 
