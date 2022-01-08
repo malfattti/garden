@@ -5,6 +5,7 @@
 	- Emigración a Cataluña, otros países de Europa, América
 	- Lo convival (comparten comidas, cigarrillos, bebida)
 	- Turismo extranjero
+	- crítica
 
 - Lenguaje/discurso
 	- Oralidad, reproducción del lenguaje almeriense tanto en la fonética como en el vocabulario. Ampliación del vocabulario busca superar pobreza léxica. Atención a las variedades de los pueblos que recorre
@@ -12,4 +13,5 @@
 	- La prensa (final, todo lo que él ha reportado brilla por su ausencia en los periódicos)
 
 - Género:
-	- la literatura amplía sus fronteras, busca 
+	- la literatura amplía sus fronteras, busca posicionarse frente al discurso oficial, al lenguaje académico y el periodístico
+	- el relato de viaje como un
