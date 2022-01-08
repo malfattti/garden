@@ -1,3 +1,4 @@
+- Publicada en 1960
 - Temas:
 	- España como África
 	- Pobreza, enfermedades (tricoma), falta de trabajo
