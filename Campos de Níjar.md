@@ -25,3 +25,5 @@
 			- estrategias del decir verdadero (borrar signos literarios y ficcionales)
 			- realismo
 			- espacios reconocibles, restitución del referente
+			- presencia de fotografías
+			- tiempo reducido: tiempo de la experiencia y de la escritura equivalen. Inmediatez / escena / presente de la narración. El viaje m
