@@ -1,0 +1,3 @@
+- Temas:
+	- España como África
+	- Pobreza, enfermedad

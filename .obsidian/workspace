@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "La literatura perseguida por la política.md",
+            "file": "Campos de Níjar.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La literatura perseguida por la política.md",
+                "file": "Campos de Níjar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "Campos de Níjar.md",
+    "2022-01-08.md",
     "La literatura perseguida por la política.md",
     "2021-12-28.md",
     "Introducción. El malestar del compromiso.md",
@@ -104,8 +106,6 @@
     "2021-12-30.md",
     "Juan Goytisolo, la lengua común.md",
     "Caen octavillas desde el cielo.md",
-    "El síndrome de Falcón.md",
-    "La novela latinoamericana frente al espejo.md",
-    "stuart hall.md"
+    "El síndrome de Falcón.md"
   ]
 }
