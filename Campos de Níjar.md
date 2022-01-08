@@ -2,5 +2,5 @@
 	- España como África
 	- Pobreza, enfermedades (tricoma)
 		- contraste entre pobreza y belleza (gente, paisajes)
-
-- 
+	- Emigración a Cataluña, otros países de Europa, América
+	- 
