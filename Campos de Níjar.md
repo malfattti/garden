@@ -19,4 +19,6 @@
 
 - Género:
 	- la literatura amplía sus fronteras, busca posicionarse frente al discurso oficial, al lenguaje académico y el periodístico
-	- el relato de viaje como un
+	- modelo periodístico:
+		- función referencial, paliar los silencios de la prensa oficial (contradiscuros)
+		- relato de viaje: estrategias del decir verdadera
