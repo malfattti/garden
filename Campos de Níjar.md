@@ -13,6 +13,7 @@
 	- Oralidad, reproducción del lenguaje almeriense tanto en la fonética como en el vocabulario. Ampliación del vocabulario busca superar pobreza léxica. Atención a las variedades de los pueblos que recorre
 	- Discurso oficial (en la ruta, pintadas que hacen referencia a Franco y sus políticas de gobierno) versus el de la gente común
 	- La prensa (ironía final, todo lo que él ha reportado brilla por su ausencia en los periódicos)
+	- Datos geográficos e históricos (Carlos III, Ortega y Gasset, escaso protagonismo de los almerienses en la historia, dominación musulmana: breve esplendor / conquista de re)
 
 - Género:
 	- la literatura amplía sus fronteras, busca posicionarse frente al discurso oficial, al lenguaje académico y el periodístico
