@@ -33,4 +33,6 @@
 
 - Imagen inversa: presentar un contradiscurso
 	- frente a periodismo oficial y propaganda
-	- plantear una continuidad temporal en la decadencia frente a la idea de una discontinuidad o corte a partir de l 
+	- plantear una continuidad temporal en la decadencia frente a la idea de una discontinuidad o corte a partir de la guerra civil
+	- plantear una discontinuidad espacial (diferentes espacios: diferentes clases sociales) frente a la idea de continuidad de la prensa
+	- plantear  un simbolismo en torno a la muerte, sequedad, aridez y aburr
