@@ -9,4 +9,4 @@
 	- sortea la censura porque esta es anacrónica y no se adapta: desarrolla mecanismos y alusiones
 - Literatura comprometida española: 	
 	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confundín en un mismo cause
-	- la literatura desea 
+	- la literatura desea transformar la palabra en acto (enunciado performativo Austin. pero un enunciado per)
