@@ -1,1 +1,1 @@
-- Si bien el contesto social y político en que aparece una obra literaria son relevantes para comprender la plena adquisición de sentido del texto, 
+- Si bien el contesto social y político en que aparece una obra literaria son relevantes para comprender la plena adquisición de sentido del texto, éstos no pueden ser el criterio único ni predominante
