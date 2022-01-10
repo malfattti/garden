@@ -17,3 +17,4 @@
 
 - Para Goytisolo, la generacion del medio siglo cumplió como pudo con las exigencias morales y cívicas de su época, pero lo hizo en detrimento de las exigencias de su propio arte y de las leyes evolutivas del género.
 	- desajuste del calendario español con respecto al europeo
+	- formas envejecidas, REALISMO, los autores fuera de España 
