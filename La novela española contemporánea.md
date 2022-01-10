@@ -18,4 +18,4 @@
 - Para Goytisolo, la generacion del medio siglo cumplió como pudo con las exigencias morales y cívicas de su época, pero lo hizo en detrimento de las exigencias de su propio arte y de las leyes evolutivas del género.
 	- desajuste del calendario español con respecto al europeo: el realismo se impone en España cuando en el resto del mundo está muriendo
 	- formas envejecidas, REALISMO, los autores fuera de España van por una forma más auténtica y coherente o sea la no intervención del locutor del relato (?), foco en la historia (Benveniste)
-	- luego: reivindicación del discurso (B.)
+	- luego: reivindicación del discurso (B.), formalismo, atención al signo y no al referente.
