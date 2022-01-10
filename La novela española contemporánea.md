@@ -19,3 +19,5 @@
 	- desajuste del calendario español con respecto al europeo: el realismo se impone en España cuando en el resto del mundo está muriendo
 	- formas envejecidas, REALISMO, los autores fuera de España van por una forma más auténtica y coherente o sea la no intervención del locutor del relato (?), foco en la historia (Benveniste)
 	- luego: reivindicación del discurso (B.), formalismo, atención al signo y no al referente.
+	- pero en España no son capaces de responder a esa exigencia, si bien sí lo hacen a las exigencias político-sociales de su época
+	- 
