@@ -8,4 +8,5 @@
 	- literatura realista, función testimonial que la prensa no cumple
 	- sortea la censura porque esta es anacrónica y no se adapta: desarrolla mecanismos y alusiones
 - Literatura comprometida española: 	
-	- 
+	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confundín en un mismo cause
+	- la literatura desea 
