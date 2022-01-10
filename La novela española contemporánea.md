@@ -7,6 +7,7 @@
 - Literatura de protesta (1950-1965)
 	- literatura realista, función testimonial que la prensa no cumple
 	- sortea la censura porque esta es anacrónica y no se adapta: desarrolla mecanismos y alusiones
-- Literatura comprometida española: 	
-	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confundín en un mismo cause
-	- la literatura desea transformar la palabra en acto (enunciado performativo Austin. pero un enunciado per)
+	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confunden en un mismo cause
+	- la literatura desea transformar la palabra en acto (enunciado performativo Austin). 
+	- pero un enunciado performativo solo tiene realidad si es autentificado como acto
+	- --> ilusión performativa
