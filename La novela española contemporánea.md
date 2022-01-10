@@ -7,3 +7,5 @@
 - Literatura de protesta (1950-1965)
 	- literatura realista, función testimonial que la prensa no cumple
 	- sortea la censura porque esta es anacrónica y no se adapta: desarrolla mecanismos y alusiones
+- Literatura comprometida española: 	
+	- 
