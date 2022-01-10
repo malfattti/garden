@@ -29,3 +29,4 @@
 - España 1971: lento despegue de subdesarrollo pero sin alcanzar ventajas morales y materiales de naciones más ricas
 	- acercamiento a Europa
 	- mayor exigencia del lector ya que estuvo en contacto con novelas latinoamericanas
+	- fuerza provocadora en el lenguaje de la novela: en Goytisolo, Señas de identidad y Don Julián
