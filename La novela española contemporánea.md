@@ -1,4 +1,4 @@
-- Si bien el contesto social y político en que aparece una obra literaria son relevantes para comprender la plena adquisición de sentido del texto, éstos no pueden ser el criterio único ni predominante
+- Si bien el contexto social y político en que aparece una obra literaria son relevantes para comprender la plena adquisición de sentido del texto (Todorov), éstos no pueden ser el criterio único ni predominante
 	- La novela social española es solo una de las formas posibles de la novela
 - Guerra civil y franquismo: 
 	- retraso 
