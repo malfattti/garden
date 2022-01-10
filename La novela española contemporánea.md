@@ -16,5 +16,5 @@
 		- en el caso de Arias, el enunciado es performativo porque la plabara es autentificada como acto. Es el único que logra esto.
 
 - Para Goytisolo, la generacion del medio siglo cumplió como pudo con las exigencias morales y cívicas de su época, pero lo hizo en detrimento de las exigencias de su propio arte y de las leyes evolutivas del género.
-	- desajuste del calendario español con respecto al europeo: el realismo se impone en España cuando en el resto del mundo est
+	- desajuste del calendario español con respecto al europeo: el realismo se impone en España cuando en el resto del mundo está muriendo
 	- formas envejecidas, REALISMO, los autores fuera de España 
