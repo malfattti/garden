@@ -26,4 +26,5 @@
 
 - En los países donde no hay libertad de expresión artística, la provocación es temática
 - en aquellos donde la libertad expresiva ya se ha alcanzado no hay temas provocadores, solo el lenguaje puede ser subversivo en el capitalismo
-- España 1971: lento despegue de 
+- España 1971: lento despegue de subdesarrollo pero sin alcanzar ventajas morales y materiales de naciones más ricas
+	- acercamiento a Europa
