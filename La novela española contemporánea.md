@@ -5,4 +5,4 @@
 	- vacío intelectual
 	- generación del medio siglo (así nombrada por Castellet) generación que se educa en medio de ese vacío (la de Goytisolo), generación sin tradición, sin libertad, sin público
 - Literatura de protesta (1950-1965)
-	- literatura realista, función testimonial que la prensa no cumple
+	- literatura realista, función testimonial que la prensa no cumple, sortea la censura porque esta es anacrónica y no 
