@@ -3,3 +3,4 @@
 - Guerra civil y franquismo: 
 	- retraso 
 	- vacío intelectual
+	- generación que se educa en medio de ese vacío (la de Goytisolo), generación sin tradición
