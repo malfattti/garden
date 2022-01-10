@@ -10,5 +10,5 @@
 	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confunden en un mismo cause
 	- la literatura desea transformar la palabra en acto (enunciado performativo Austin). 
 	- pero un enunciado performativo solo tiene realidad si es autentificado como acto
-	- --> ilusión performativa de esta literatura, insinceridad o violación de la palabra, queda solo en 
-	- Gonzalo Arias advierte el peligro de que la literatura comprometida nunca pase realmente a la acción
+	- --> ilusión performativa de esta literatura, insinceridad o violación de la palabra, queda solo en gestos
+	- [[Gonzalo Arias]] advierte el peligro de que la literatura comprometida nunca pase realmente a la acción y por eso publica en 1968 en París [[Los encartelados]]
