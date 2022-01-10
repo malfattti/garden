@@ -3,4 +3,4 @@
 - Guerra civil y franquismo: 
 	- retraso 
 	- vacío intelectual
-	- generación que se educa en medio de ese vacío (la de Goytisolo), generación sin tradición
+	- generación del medio siglo (así nombrada por Castellet) generación que se educa en medio de ese vacío (la de Goytisolo), generación sin tradición, sin libertad, sin público
