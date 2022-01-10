@@ -15,4 +15,4 @@
 		- en efecto, Arias sale a la calle transformando en acto lo que ha escrito, es arrestado, luego reincide y es internado en un psiquiátrico 
 		- en el caso de Arias, el enunciado es performativo porque la plabara es autentificada como acto. Es el único que logra esto.
 
-- Para Goytisolo, la generacion del medio siglocumplió com
+- Para Goytisolo, la generacion del medio siglo cumplió como pudo con las exigencias morales y cívicas de su época, pero lo hizo en detrimento de las exigencias de su propio arte
