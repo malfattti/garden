@@ -23,3 +23,6 @@
 	- ignoraron que para criticar la realidad española era preciso empezar por su lenguaje (herencia del 98, vacío, anquilosado, formas estéticas envejecidas)
 		- el primero que arremetió contra este lenguaje fue Luis Martín-Santos con *Tiempo de silencio* (foco en discurso), es una novela despareja, apenas un comienzo de la tendencia
 		- A esta novela se le opone *El Jarama* de [[Rafael Sánchez Ferlosio]] que es la obra cúlmine del realismo español (foco en historia)
+
+- En los países donde no hay libertad de expresión artística, la provocación es temática
+- en aquellos donde la libertad expresiva ya se ha alcanzado no ha
