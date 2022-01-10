@@ -28,3 +28,4 @@
 - en aquellos donde la libertad expresiva ya se ha alcanzado no hay temas provocadores, solo el lenguaje puede ser subversivo en el capitalismo
 - España 1971: lento despegue de subdesarrollo pero sin alcanzar ventajas morales y materiales de naciones más ricas
 	- acercamiento a Europa
+	- mayor exigencia del lector ya que estuvo en contacto con novelas latinoamericanas
