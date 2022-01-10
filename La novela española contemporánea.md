@@ -12,4 +12,5 @@
 	- pero un enunciado performativo solo tiene realidad si es autentificado como acto
 	- --> ilusión performativa de esta literatura, insinceridad o violación de la palabra, queda solo en gestos
 	- [[Gonzalo Arias]] advierte el peligro de que la literatura comprometida nunca pase realmente a la acción y por eso publica en 1968 en París [[Los encartelados]]
-		- en efecto, Arias sale a la calle transformando en acto lo que ha escrito, es arrestado, luego reincide y es 
+		- en efecto, Arias sale a la calle transformando en acto lo que ha escrito, es arrestado, luego reincide y es internado en un psiquiátrico 
+		- en el caso de Arias, el enunciado es performativo porque la plabara es autentificada como acto
