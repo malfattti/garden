@@ -10,4 +10,4 @@
 	- cuando aparecen las primeras obras de la generación del medio siglo español, acción y escritura se confunden en un mismo cause
 	- la literatura desea transformar la palabra en acto (enunciado performativo Austin). 
 	- pero un enunciado performativo solo tiene realidad si es autentificado como acto
-	- --> ilusión performativa de esta literatura: 
+	- --> ilusión performativa de esta literatura
