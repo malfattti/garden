@@ -25,4 +25,5 @@
 		- A esta novela se le opone *El Jarama* de [[Rafael Sánchez Ferlosio]] que es la obra cúlmine del realismo español (foco en historia)
 
 - En los países donde no hay libertad de expresión artística, la provocación es temática
-- en aquellos donde la libertad expresiva ya se ha alcanzado no ha
+- en aquellos donde la libertad expresiva ya se ha alcanzado no hay temas provocadores, solo el lenguaje puede ser subversivo en el capitalismo
+- España 1971: lento despegue de 
