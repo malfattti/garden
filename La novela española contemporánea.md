@@ -20,4 +20,4 @@
 	- formas envejecidas, REALISMO, los autores fuera de España van por una forma más auténtica y coherente o sea la no intervención del locutor del relato (?), foco en la historia (Benveniste)
 	- luego: reivindicación del discurso (B.), formalismo, atención al signo y no al referente.
 	- pero en España no son capaces de responder a esa exigencia, si bien sí lo hacen a las exigencias político-sociales de su época
-	- 
+	- ignoraron que para criticar la realidad española era preciso empezar por su lenguaje (herencia del 98, vacío)
