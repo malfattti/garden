@@ -52,4 +52,5 @@
 			- recibe por este poemario el premio Nueva España en México
 	- al cumplirse dos años de su muerte en 1986 se publican sus obras completas
 - preocupaciones sociales
+	-  poesía social > triunvirato vasco: +Blas de Otero +Gabriel Celaya
 	-  
