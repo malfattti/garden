@@ -1,0 +1,47 @@
+- Autora: [[Belén Blázquez Vilaplana]]
+- Publicado en: [[Cuadernos hispanoamericanos]] 
+- Año de publicación: [[1967]]
+
+- Destaca la importancia de reconocer la dificultad especial de las mujeres en el franquismo
+	- no solo como los hh sufren las consecuencias de la guerra y la dictadura (simpatía republicana) sino además por su condición de ser mujer
+	- Los derechos de las mujeres sufrieron un retroceso luego de algunas conquistas en el período republicano
+- Pese a ese panorama hubo un grupo de mujeres que expresó su punto de vista y descontento en relación al contexto que les tocaba vivir
+- últimos años: rescate, investigación
+	- algunas: lugar destacado, otras, olvido
+- es importante tener en cuenta el condicionamiento de su contexto, q las consideraba un ser inferior, heroicidad
+
+- AFA:
+- Una de las voces poéticas más importantes de la posguerra
+- Retrato:
+	- autora vasca en Madrid
+	- generación ?
+	- antifranquista
+	- madre
+	- catedrática de literatura
+	- defensora de un papel social y activo de la mujer frente al patriarcado franquista
+- Relevancia de su obra:
+- para entender la realidad literaria de los años 50 en España
+- por el papel de puente entre diferentes sensibilidades y entre quienes habían quedado dentro y fuera de España durante el franquismo.
+- el descubrimiento y difusión de su obra ha pasado diferentes etapas
+	- sus amigos y familiares han cumplido un rol central en su conocimiento
+
+- poesía social con perspectva de mujer
+- Biografía, rasgos interesantes:
+	- Parte de la primera promoción de bachilleres mujeres españolas
+	- Estudia Filosofía y Letras y obtiene una plaza de catedrática de instituto
+	- En 1926 fallece su padre y se muda a Madrid para trabajar y mandar dinero a su familia
+	- en Madrid estrecha lazos con su primo con quien se casaría más tarde
+	- muere su primer hijo en el parto (193?)
+	- durante la guerra civil deja de creer en Dios (Iglesia y franquismo)
+	- Triunfo de Franco (1939-adelante):
+		- es apartarda de su actividad docente y no logra recuperar su puesto aunque lo intenta
+		- escribe poemas desde la infancia pero la guerra dificulta su actividad literaria
+		- en esos años se dedica a leer, escribir, traducir y sobre todo a la familia.
+			- preocupaciones de su primera obra
+		- acompaña al marido a Soria, esta ciudad la influye de forma significiativa en su poesía (paisajes Machado)
+		- trabajo en la biblioteca Nacional de Madrid, Bibliobús
+			- frecuenta barrios marginales
+		- Beca para estudiar en París (1957)
+		- En los últimos años de su vida se traslada con su marido a Avilés y se aparta del mundo de la poesía y los círculos literarios y artísticos (Madrid)
+		- no publica nada hasta el nacimiento de su nieta, le dedica dos libros de cuentos
+- 
