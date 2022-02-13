@@ -68,4 +68,5 @@
 		- feminismo y subversión del patriarcado
 		- maternidad en todos sus aspectos
 	- Censura
-		- Tanto Mujer de Barri cimi 
+		- Tanto Mujer de Barro como Belleza cruel tuvieron que sortear la censura
+		- BC fue primero publicado en España gracias a ayuda de Max Aub quien la instó a hacerlo concursar en el Nueva España 
