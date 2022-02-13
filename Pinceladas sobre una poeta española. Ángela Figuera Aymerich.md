@@ -47,4 +47,5 @@
 		- no es abundante: diez libros y algunas traducciones
 		- irregular por incompatibilidad entre deberes familiares y escritura
 		- Primera etapa: poemas inéditos (1920 a 26), regalo a su marido
-		- 
+		- primer libro en 1948
+		- Belleza cruel 1958, obra de mayor repercusión internacional, 
