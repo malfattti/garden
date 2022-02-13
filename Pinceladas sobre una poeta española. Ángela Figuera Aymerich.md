@@ -56,3 +56,6 @@
 	-  AFA a diferencia de ellos no creía que la poesía podía cambiar la sociedad, pero sí que era la herramienta de la que ellos disponían
 	-  poesía comprometida: función de denuncia y defender intereses colectivos
 	-  en su poesía social, mayor foco en el fondo que en la forma
+
+- Identidad femenina
+	- maternidad: pero desmitificación y 
