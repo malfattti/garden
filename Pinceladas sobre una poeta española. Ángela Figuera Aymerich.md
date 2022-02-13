@@ -58,4 +58,4 @@
 	-  en su poesía social, mayor foco en el fondo que en la forma
 
 - Identidad femenina
-	- maternidad: pero desmitificación y oposición al capitalismo y androcentrismo, 
+	- maternidad: pero desmitificación y oposición al capitalismo y androcentrismo, no mantenedora de la Sagrada familia
