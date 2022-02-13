@@ -46,4 +46,4 @@
 	- Obra, rasgos interesantes:
 		- no es abundante: diez libros y algunas traducciones
 		- irregular por incompatibilidad entre deberes familiares y escritura
-		- primeros poema
+		- primeros poemas inéditos de 
