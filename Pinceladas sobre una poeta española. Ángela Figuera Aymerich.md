@@ -60,4 +60,5 @@
 - Identidad femenina
 	- maternidad: pero desmitificación y oposición al capitalismo y androcentrismo, no mantenedora de la Sagrada familia
 	- punto de vista femenino fue en su época un obstáculo pero luego un factor para su reivindicación
-	- declaró que no creía en el feminismo, sin embargo muchos críticos aruyen que muchos de sus planteos en relación a la sociedad pa
+	- declaró que no creía en el feminismo, sin embargo muchos críticos aruyen que muchos de sus planteos en relación a la sociedad patriarcal sí eran feministas
+	- 
