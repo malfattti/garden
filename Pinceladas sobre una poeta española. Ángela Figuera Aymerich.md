@@ -49,4 +49,7 @@
 		- Primera etapa: poemas inéditos (1920 a 26), regalo a su marido
 		- primer libro en 1948
 		- Belleza cruel 1958, obra de mayor repercusión internacional, publicado en México
-			- recibe por este poemario el premio 
+			- recibe por este poemario el premio Nueva España en México
+- al cumplirse dos años de su muerte en 1986 se publican sus obras completas
+
+	- 
