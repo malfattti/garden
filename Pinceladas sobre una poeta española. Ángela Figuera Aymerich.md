@@ -45,4 +45,4 @@
 		- no publica nada hasta el nacimiento de su nieta, le dedica dos libros de cuentos
 	- Obra, rasgos interesantes:
 		- no es abundante: diez libros y algunas traducciones
-		- 
+		- irregular por
