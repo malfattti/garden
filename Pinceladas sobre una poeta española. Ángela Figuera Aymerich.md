@@ -46,5 +46,5 @@
 	- Obra, rasgos interesantes:
 		- no es abundante: diez libros y algunas traducciones
 		- irregular por incompatibilidad entre deberes familiares y escritura
-		- Primera etapprimeros poemas inéditos (1920 a 26), regalo a su marido
+		- Primera etapa: primeros poemas inéditos (1920 a 26), regalo a su marido
 		- 
