@@ -24,7 +24,6 @@
 - por el papel de puente entre diferentes sensibilidades y entre quienes habían quedado dentro y fuera de España durante el franquismo.
 - el descubrimiento y difusión de su obra ha pasado diferentes etapas
 	- sus amigos y familiares han cumplido un rol central en su conocimiento
-
 - poesía social con perspectva de mujer
 - Biografía, rasgos interesantes:
 	- Parte de la primera promoción de bachilleres mujeres españolas
