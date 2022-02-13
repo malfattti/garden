@@ -59,3 +59,4 @@
 
 - Identidad femenina
 	- maternidad: pero desmitificación y oposición al capitalismo y androcentrismo, no mantenedora de la Sagrada familia
+	- punto de vista feme
