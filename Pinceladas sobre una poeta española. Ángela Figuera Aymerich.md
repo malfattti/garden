@@ -61,4 +61,8 @@
 	- maternidad: pero desmitificación y oposición al capitalismo y androcentrismo, no mantenedora de la Sagrada familia
 	- punto de vista femenino fue en su época un obstáculo pero luego un factor para su reivindicación
 	- declaró que no creía en el feminismo, sin embargo muchos críticos aruyen que muchos de sus planteos en relación a la sociedad patriarcal sí eran feministas
-	- 
+	- rasgos de identidad de género en su obra
+		- erotismo femenino
+		- conexión de la mujer con tierramy naturaleza
+		- unión de las mujeres
+		- feminismo y sibversión del patriarcado
