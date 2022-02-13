@@ -44,4 +44,5 @@
 		- En los últimos años de su vida se traslada con su marido a Avilés y se aparta del mundo de la poesía y los círculos literarios y artísticos (Madrid)
 		- no publica nada hasta el nacimiento de su nieta, le dedica dos libros de cuentos
 	- Obra, rasgos interesantes:
-		- no es abundante: doez libros y algunas trad
+		- no es abundante: diez libros y algunas traducciones
+		- 
