@@ -69,4 +69,7 @@
 		- maternidad en todos sus aspectos
 	- Censura
 		- Tanto Mujer de Barro como Belleza cruel tuvieron que sortear la censura
-		- BC fue primero publicado en España gracias a ayuda de Max Aub quien la instó a hacerlo concursar en el Nueva España 
+		- BC fue primero publicado en España gracias a ayuda de Max Aub quien la instó a hacerlo concursar en el Premio Nueva España 
+		- Llegó a España en cuentagotas
+		- famoso por el prólogo de León Felipe
+		- 
