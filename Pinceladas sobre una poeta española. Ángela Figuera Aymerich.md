@@ -65,4 +65,7 @@
 		- erotismo femenino
 		- conexión de la mujer con tierramy naturaleza
 		- unión de las mujeres
-		- feminismo y sibversión del patriarcado
+		- feminismo y subversión del patriarcado
+		- maternidad en todos sus aspectos
+	- Censura
+		- Tanto Mujer de Barri cimi 
