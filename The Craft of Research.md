@@ -53,5 +53,9 @@
 					- ask questions analogous to those that sources have asked about similar topics
 				- ask questions that show disagreement
 				- ig you are an experienced researcher, look for questions that others ask but haven't answered yet: conclusions usually contain open questions, new research ideas etc.
-		- 
+	- Evaluate questions:
+		- look for questions that may help you look at your topic in a new way.
+		- avoid this kind of questions:
+			- thheir answer is settled
+			- 
 
