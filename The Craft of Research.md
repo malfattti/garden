@@ -37,7 +37,10 @@
 		- to engage your critical thinking, ask about:
 			- Topic's history:
 				- how does it fit in a larger developmental context?
-				- how has its internal history developed
+				- how has its internal history developed?
 			- topic's composition
+				- how does your topic fit in a larger structure?
+				- how do its parts fit together as a system?
 			- Topic's categories
+				- how can your topic be grouped into kinds
 
