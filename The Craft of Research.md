@@ -7,4 +7,4 @@
 - Topic: specific interest within that area. 
 	- specific approach to a subject 
 	- asking a question, the answer of which would solve a problem that my readers care about
-	- 
+- It is useful to pick a topic within that that m
