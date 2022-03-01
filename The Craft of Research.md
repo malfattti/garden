@@ -21,5 +21,6 @@
 		- skim latest issues of journals in your field (not just articles but conference announcements, calls for papers, reviews)
 		- investigate which resources are particularly abundant in your library.
 - How to go from a broad topic to a focused topic
-	- a topic: a starting point for your research (*topos*)
+	- a topic: a starting point for your research (*topos*) from which you can head off in a particular direction and narrow it down from broad to focused
+		- a topic is too broad if you can state i
 
