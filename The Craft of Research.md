@@ -67,6 +67,8 @@
 	- You may not have an answer to "so what"  at the beginning of your project, but you must work on this questions throughout your project
 	- 3 steps to achieve an answer to the "so what" question:
 		- name your topic using nouns derived from verbs: 
-			- I am trying to learn about... the causes of the disappearence of 
+			- I am trying to learn about... the causes of the disappearence of large North American mammals...
+		-  add an indirect question that indicates what you do not know or understand about yout topic
+			-  ... because I want to find out 
 
 
