@@ -34,6 +34,10 @@
 	- Make an inventory of possible questions:
 		- start with standard journalistic questions: who, what, when, where
 		- focus, however, on how and why
-		- to critical thinking:
-			- Topic's 
+		- to engage your critical thinking, ask about:
+			- Topic's history:
+				- how does it fit in a larger developmental context?
+				- how has its internal history developed
+			- topic's composition
+			- Topic's categories
 
