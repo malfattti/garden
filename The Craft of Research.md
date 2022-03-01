@@ -30,6 +30,6 @@
 		- caution: do not narrow down your topic so much that there is no information available regarding it
 - How to go from a focused topic to questions
 	- beginners' mistake: to collect any information available on the topic, which could produce a report on the topic, but does not provide an answer to any specific question, which should be the aim of a serious researcher
-	- Thus, the best wayt to begin working on your focused topic is to formulate questions that direct you to the information 
+	- Thus, the best way to begin working on your focused topic is to formulate questions that direct you to the information you need to answer them.
 
 
