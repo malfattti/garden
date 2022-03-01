@@ -27,6 +27,7 @@
 		- lacking these action words make your topic a static claim, and  these do not lead anywhere: "There is free will in Tolstoy's novels". 
 		- adding the "action" words transform these claims into something a reader could be interested in: "The **conflict** of free will and inevitability in Tolstoy's **description** of three battles in *War and Peace* --> In *War and Peace* Tolstoy describes three battles in which free will and inevitability conflict.
 		- these claims may seem thin but get richer as your project progresses.
-		- caution: do not narrow down your topic so much that there is no
+		- caution: do not narrow down your topic so much that there is no information available regarding it
+- How to go from a focused topic to questions
 
 
