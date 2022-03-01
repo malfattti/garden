@@ -1,3 +1,3 @@
-- Autorxs: [[Belén Blázquez Vilaplana]]
+- Autorxs: [[Wayne C. Booth]], [[Gregory G. Colomb]], [[Joseph M. Williams]]
 - Publicado en: [[Cuadernos hispanoamericanos]] 
 - Año de publicación: [[1967]]
