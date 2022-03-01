@@ -3,11 +3,13 @@
 - Año de publicación: [[1995]] + reeds.
 
 ## Chapter 3: From Topics to Questions
-- Subject: broad area of knowledge
-- Topic: specific interest within that area. 
+### Subject: 
+- a broad area of knowledge
+### Topic: 
+	- specific interest within that area. 
 	- specific approach to a subject 
 	- asking a question, the answer of which would solve a problem that my readers care about
-- How to pick a topic:
+	- How to pick a topic:
 	- start with what most interests you
 	- you do not have to be an expert on it, you do want to become one
-	- make a list of topics that 
+	- make a list of interests that you would like to explore
