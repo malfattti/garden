@@ -23,7 +23,7 @@
 - How to go from a broad topic to a focused topic
 	- a topic: a starting point for your research (*topos*) from which you can head off in a particular direction and narrow it down from broad to focused
 		- a topic is too broad if you can state it in four or five words: "Free will in Tolstoy"
-	- a topic must be narrowed down by adding words and phrases, specially those deriving from "action" words: "The **conflict** of free will and inevitability in Tolstoy's description of three battles in *War and Peace*
-		- lacking
+	- a topic must be narrowed down by adding words and phrases, specially those deriving from "action" words: "The **conflict** of free will and inevitability in Tolstoy's **description** of three battles in *War and Peace*
+		- lacking these action words make your topic a static thing, and static opics fdo not lead anywhere: "There is free will in Tolstoy's novels.
 
 
