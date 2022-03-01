@@ -14,5 +14,6 @@
 	- you do not have to be an expert on it, you do want to become one
 	- make a list of interests that you would like to explore
 	- choose one or two by:
-		- skimming the subheadings of your topic in general guides/reference books
-		- look for online encyclopedias or other reputed online references and check out the bibliography at the end of the entry for your general topic
+		- skimming the subheadings of your topic in general guides/reference books/specialized indexes
+		- look for online/paper encyclopedias or other reputed online references and check out the bibliography at the end of the entry for your general topic
+		- find ideas in blogs
