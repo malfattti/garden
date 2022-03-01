@@ -43,4 +43,7 @@
 				- how do its parts fit together as a system?
 			- Topic's categories
 				- how can your topic be grouped into kinds
+				- how does it compare/contrast with others like it?
+			- Turn positive questions into negative ones
+			- ask what if and other speculative questions: what if your topic 
 
