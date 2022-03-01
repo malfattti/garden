@@ -70,7 +70,9 @@
 			- I am trying to learn about... the *causes* of the disappearence of large North American mammals...
 		-  add an indirect question that indicates what you do not know or understand about yout topic
 			-  because I want to find out who/what/when/where/whether/why/how
-			-  here you state why you are pursuing yo
+			-  here you state why you are pursuing your topic: to answer a question important to you
 			-   I am trying to learn about the *causes* of the disappearence of large North American mammals because I want to find out whether they were hunted to extinction
+
+- 
 
 
