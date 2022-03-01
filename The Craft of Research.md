@@ -74,10 +74,10 @@
 			-  here you state why you are pursuing your topic: to answer a question important to you
 			-   I am trying to learn about the *causes* of the disappearence of large North American mammals because I want to find out whether they were hunted to extinction
 		- answer so what? by motivating your questions
-		- here you find out whether your your questions could interest not just you but others
-		- add a second indirect question which explains why you asked your first question:
+			- here you find out whether your your questions could interest not just you but others
+			- add a second indirect question which explains why you asked your first question:
 			- in order to help my reader understand how, why or whether...
-			-  I am trying to learn about the *causes* of the disappearence of large North American mammals because I want to find out whether they were hunted to extinction in order to help my reader understand whether native peoples lived in harmony with nature or helped destroy it.
+				-  I am trying to learn about the *causes* of the disappearence of large North American mammals because I want to find out whether they were hunted to extinction in order to help my reader understand whether native peoples lived in harmony with nature or helped destroy it.
 		- this indirect question should seize your reader s interest
 		- if it touches on issues important to your field, even indirectly, then your readers should care about its answer.
 
