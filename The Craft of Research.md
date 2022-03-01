@@ -32,6 +32,8 @@
 	- beginners' mistake: to collect any information available on the topic, which could produce a report on the topic, but does not provide an answer to any specific question, which should be the aim of a serious researcher
 	- Thus, the best way to begin working on your focused topic is to formulate questions that direct you to the information you need to answer them
 	- Make an inventory of possible questions:
-		- start with standard journalist
-
+		- start with standard journalistic questions: who, what, when, where
+		- focus, however, on how and why
+		- to critical thinking:
+			- Topic's 
 
