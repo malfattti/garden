@@ -23,5 +23,6 @@
 - How to go from a broad topic to a focused topic
 	- a topic: a starting point for your research (*topos*) from which you can head off in a particular direction and narrow it down from broad to focused
 		- a topic is too broad if you can state it in four or five words: "Free will in Tolstoy"
+	- a topic must be narrowed down by adding words and phrases, specially those deriving from "action 
 
 
