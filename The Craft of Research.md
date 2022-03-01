@@ -69,6 +69,7 @@
 		- name your topic using nouns derived from verbs: 
 			- I am trying to learn about... the causes of the disappearence of large North American mammals...
 		-  add an indirect question that indicates what you do not know or understand about yout topic
-			-  ... because I want to find out 
+			-  because I want to find out who/what/when/where/whether/why/how
+			-  ... because I want to find out whether they were hunted to extinction
 
 
