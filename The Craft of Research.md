@@ -61,6 +61,7 @@
 			- their answers are dead ends
 	- Once you have a few promising questions, try to combine them into larger ones that could be potentially interesting to readers
 - The most significant question: So what?
-- Once you have a question you that holds your interest, it must be interrogated in a deeper way
-- 
+	- Once you have a question you that holds your interest, it must be interrogated in a deeper way
+	- You may not have an answer to "so what"  at the beginning of your project, but you must work on this questions throughout your project
+	- why would 
 
