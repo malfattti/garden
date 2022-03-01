@@ -50,5 +50,7 @@
 				- build on agreement
 					- extend the reach of someone's claim
 					- ask questions that might support the same claim with new evidence
-					- ask questions analogous to 
+					- ask questions analogous to those that sources have asked about similar topics
+				- ask questions that show disagreement
+				- ig you are an experienced researcher, look for questions that others ask but ha
 
