@@ -6,4 +6,5 @@
 - Subject: broad area of knowledge
 - Topic: specific interest within that area. 
 	- specific zpproach to a subject 
-	- asking a question that wou
+	- asking a question, the answer of which would solve a problem that my readers care abou
+	- 
