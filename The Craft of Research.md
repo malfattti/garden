@@ -45,5 +45,7 @@
 				- how can your topic be grouped into kinds
 				- how does it compare/contrast with others like it?
 			- Turn positive questions into negative ones
-			- ask what if and other speculative questions: what if your topic 
+			- ask what if and other speculative questions: what if your topic never existed, dissappeared etc.
+			- ask questions suggested by your sources (once you have done some reading about ):
+				- once
 
