@@ -13,3 +13,6 @@
 	- start with what most interests you
 	- you do not have to be an expert on it, you do want to become one
 	- make a list of interests that you would like to explore
+	- choose one or two by:
+		- skimming the subheadings of your topic in general guides/reference books
+		- look for online encyclope
