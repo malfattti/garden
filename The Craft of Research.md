@@ -60,6 +60,6 @@
 			- their answers would be merely speculative
 			- their answers are dead ends
 	- Once you have a few promising questions, try to combine them into larger ones that could be potentially interesting to readers
-
-- 
+- The most significant question: So what?
+- Once you have a question that that holds  
 
