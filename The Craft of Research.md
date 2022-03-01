@@ -56,6 +56,8 @@
 	- Evaluate questions:
 		- look for questions that may help you look at your topic in a new way.
 		- avoid this kind of questions:
-			- thheir answer is settled
+			- their answer is settled --> questions with how and why may lead to further thinking on the topic
+			- there answers would be merely speculative
+			- 
 			- 
 
