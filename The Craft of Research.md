@@ -61,5 +61,6 @@
 			- their answers are dead ends
 	- Once you have a few promising questions, try to combine them into larger ones that could be potentially interesting to readers
 - The most significant question: So what?
-- Once you have a question that that holds  
+- Once you have a question you that holds your interest, it must be interrogated in a deeper way
+- 
 
