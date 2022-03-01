@@ -7,4 +7,6 @@
 - Topic: specific interest within that area. 
 	- specific approach to a subject 
 	- asking a question, the answer of which would solve a problem that my readers care about
-- It is useful to pick a topic within that that m
+- How to pick a topic:
+	- start with what most interests you
+	- you do not have to be an expert on it, you do want to become one, learn a lot m
