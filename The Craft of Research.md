@@ -17,3 +17,5 @@
 		- skimming the subheadings of your topic in general guides/reference books/specialized indexes
 		- look for online/paper encyclopedias or other reputed online references and check out the bibliography at the end of the entry for your general topic
 		- find ideas in blogs
+		- find what interests other researchers
+		- skim latest issues of journals in your field (not just articles but conference announcements, calls for papers, reviews)
