@@ -1,0 +1,3 @@
+- Autorxs: [[Belén Blázquez Vilaplana]]
+- Publicado en: [[Cuadernos hispanoamericanos]] 
+- Año de publicación: [[1967]]
