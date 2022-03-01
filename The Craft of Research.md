@@ -48,6 +48,7 @@
 			- ask what if and other speculative questions: what if your topic never existed, dissappeared etc.
 			- ask questions suggested by your sources (once you have done some reading about the topic):
 				- build on agreement
-				- extend the reach of someone's claim
-				- once
+					- extend the reach of someone's claim
+					- ask questions that might support the same claim with new evidence
+					- ask questions analogous to 
 
