@@ -1,3 +1,3 @@
 - Autorxs: [[Wayne C. Booth]], [[Gregory G. Colomb]], [[Joseph M. Williams]]
-- Publicado en: [[Cuadernos hispanoamericanos]] 
+- Publicado por: [[[University of Chicago Press]] 
 - Año de publicación: [[1967]]
