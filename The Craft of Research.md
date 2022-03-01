@@ -5,6 +5,6 @@
 ## Chapter 3: From Topics to Questions
 - Subject: broad area of knowledge
 - Topic: specific interest within that area. 
-	- specific zpproach to a subject 
+	- specific approach to a subject 
 	- asking a question, the answer of which would solve a problem that my readers care abou
 	- 
