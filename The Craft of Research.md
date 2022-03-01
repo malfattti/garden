@@ -66,7 +66,7 @@
 	- what will be lost if you don't answer your question?
 	- You may not have an answer to "so what"  at the beginning of your project, but you must work on this questions throughout your project
 	- 3 steps to achieve an answer to the "so what" question:
-		- name your topic:
-			- 
+		- name your topic using nouns derived from verbs: 
+			- I am trying to learn about... the causes of the disappearence of 
 
 
