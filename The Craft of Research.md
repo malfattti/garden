@@ -19,3 +19,7 @@
 		- find ideas in blogs
 		- find what interests other researchers
 		- skim latest issues of journals in your field (not just articles but conference announcements, calls for papers, reviews)
+		- investigate which resources are particularly abundant in your library.
+- How to go from a broad topic to a focused topic
+	- a topic: a starting point for your research (*topos*)
+
