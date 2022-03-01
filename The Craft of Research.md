@@ -62,6 +62,8 @@
 	- Once you have a few promising questions, try to combine them into larger ones that could be potentially interesting to readers
 - The most significant question: So what?
 	- Once you have a question you that holds your interest, it must be interrogated in a deeper way
+	- why would others think your question is worth answering?
+	- what will be lost if you don't answer your question?
 	- You may not have an answer to "so what"  at the beginning of your project, but you must work on this questions throughout your project
-	- why would 
+
 
