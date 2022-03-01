@@ -59,5 +59,7 @@
 			- their answer is settled --> questions with how and why may lead to further thinking on the topic
 			- their answers would be merely speculative
 			- their answers are dead ends
-	- Once you have a few promising questions, try to combine them into larger ones
+	- Once you have a few promising questions, try to combine them into larger ones that could be potentially interesting to readers
+
+- 
 
