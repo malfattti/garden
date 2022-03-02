@@ -1,1 +1,1 @@
-- "Cosmopolitanism" derives from the greek kosmopolit
+- "Cosmopolitanism" derives from the Greek "kosmopolités", which means 'citizen of the world'
