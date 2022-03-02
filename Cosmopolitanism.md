@@ -9,4 +9,7 @@
 	- Greek and Roman Cosmopolitanism
 		- Aristotle and Plato represent an ideal political culture that is not cosmopolitan
 			- for an Athenian citizen, the pursuit of good life is linked to the fate of their city and a similar pursuit by the fellow inhabitants
-			- cosmopolitan expectations: atowards foreigners who live in Athens
+			- cosmopolitan expectations: attitudes towards foreigners who live in Athens
+			- however not anti-cosmopolitan (not an active exclusion or persecusion, simply uncosmopolitan
+
+- 
