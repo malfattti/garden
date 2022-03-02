@@ -13,6 +13,7 @@
 			- however not anti-cosmopolitan (not an active exclusion or persecusion of foreigners, for example), simply uncosmopolitan
 		- Other greeks however were pursuing cosmopolitan interests:
 			- for example, travelling intelectuals focused on the contrast between the natural ties of humanity and the conventional ties of politics (Sophist Hippias)
+			- Socrates avoids traditional political engagement and focuses on political examinations that
 
 	- 
 
