@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Craft of Research.md",
+            "file": "Cosmopolitanism.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Craft of Research.md",
+                "file": "Cosmopolitanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "Cosmopolitanism.md",
+    "2022-03-01.md",
     "The Craft of Research.md",
     "lengua y superdiversidad.md",
     "los orígenes de la narrativa policial en la argentina recepción y transformación de modelos genéricos alemanes franceses e ingleses.md",
@@ -103,8 +105,6 @@
     "luce irigaray.md",
     "Marina Franco.md",
     "migración y sociolingüística a través de las prácticas y los discursos de hispanohablantes en el s xxi.md",
-    "motivos tradiciones y géneros en la poesía de la edad dorada.md",
-    "multitudes del yo biografía e historia de las mujeres.md",
-    "Operación Masacre.md"
+    "motivos tradiciones y géneros en la poesía de la edad dorada.md"
   ]
 }
