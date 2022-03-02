@@ -8,4 +8,5 @@
 - History of Cosmopolitanism
 	- Greek and Roman Cosmopolitanism
 		- Aristotle and Plato represent an ideal political culture that is not cosmopolitan
-			- 
+			- for an Athenian citizenpursuit of good life linked
+			- cosmopolitan expectations
