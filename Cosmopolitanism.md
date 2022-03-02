@@ -1,1 +1,3 @@
-- "Cosmopolitanism" derives from the Greek "kosmopolités", which means 'citizen of the world'
+- "Cosmopolitanism" derives from the Greek "kosmopolités", which means 'citizen of the world'.
+- used to cover a wide range of moral and sociopolitical issues withink Philosophy
+- the core idea is that 
