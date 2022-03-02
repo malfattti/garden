@@ -1,0 +1,1 @@
+- "Cosmopolitanism" derives from the greek kosmopolit
