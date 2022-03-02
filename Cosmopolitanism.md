@@ -11,7 +11,8 @@
 			- for an Athenian citizen, the pursuit of good life is linked to the fate of their city and a similar pursuit by the fellow inhabitants
 			- cosmopolitan expectations: attitudes towards foreigners who live in Athens
 			- however not anti-cosmopolitan (not an active exclusion or persecusion of foreigners, for example), simply uncosmopolitan
-		
+		- Other greeks however were pursuing cosmopolitan interests:
+			- for example, travelling intelectuals 
 
 	- 
 
