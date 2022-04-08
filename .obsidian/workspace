@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stephen greenblatt.md",
+            "file": "2022-03-27.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stephen greenblatt.md",
+                "file": "2022-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "2022-03-27.md",
     "stephen greenblatt.md",
     "Jean-François Lyotard.md",
     "journal/2020-11-28.md",
@@ -105,7 +106,6 @@
     "The Craft of Research.md",
     "lengua y superdiversidad.md",
     "los orígenes de la narrativa policial en la argentina recepción y transformación de modelos genéricos alemanes franceses e ingleses.md",
-    "Los que luchan y al fin comprenden.md",
-    "luce irigaray.md"
+    "Los que luchan y al fin comprenden.md"
   ]
 }
