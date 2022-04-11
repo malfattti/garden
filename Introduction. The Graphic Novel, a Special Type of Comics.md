@@ -13,5 +13,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 	- adulto: serio y sofisticado
 	- orientadas al realismo y no necesariamente a la ficción
 	- elementos autobiográficos y semiautobiográficos
-	- elementos documentales o hstóricos
-	- desdibujamiento de cómo 
+	- elementos documentales o históricos, historia oral
+	- desdibujamiento de cómo se organiza el sentido en la academia
