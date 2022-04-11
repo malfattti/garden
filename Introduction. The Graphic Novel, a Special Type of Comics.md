@@ -12,4 +12,6 @@ Esta introducción se encarga de establecer las características distintivas de 
 - contenido:
 	- adulto: serio y sofisticado
 	- orientadas al realismo y no necesariamente a la ficción
-	- elementos b
+	- elementos autobiográficos y semiautobiográficos
+	- elementos documentales o hstóricos
+	- desdibujamiento de cómo 
