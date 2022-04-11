@@ -21,3 +21,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 	- sin embargo, esta distinción no es clara ya que muchas novelas gráficas se publican en primera instancia de forma serializada y esto puede ser una ventaja para lxs autorxs.
 - producción y disstribución
 	- importancia de las editoriales independientes
+		- muchas veces esto permite mayor libertad creativa
+- 
