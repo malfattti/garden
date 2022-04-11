@@ -15,4 +15,6 @@ Esta introducción se encarga de establecer las características distintivas de 
 	- elementos autobiográficos y semiautobiográficos
 	- elementos documentales o históricos, historia oral
 	- desdibujamiento de cómo se organiza el sentido en la academia
-
+- formato de publicación:
+	- preferencia por el formato libro
+	- se evita la serializaci
