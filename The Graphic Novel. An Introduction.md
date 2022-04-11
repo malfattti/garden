@@ -1,0 +1,3 @@
+- Autores: 
+- Publicado en: La nueva novela hispanoamericana
+- Año de publicación: 1969
