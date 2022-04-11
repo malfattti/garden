@@ -17,4 +17,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 	- desdibujamiento de cómo se organiza el sentido en la academia
 - formato de publicación:
 	- preferencia por el formato libro
-	- se evita la serializaci
+	- se evita la serialización
+	- sin embargo, esta distinción no es clara ya que muchas novelas gráficas se publican en primera instancia de forma serializada y esto puede ser una ventaja para lxs artistas.
