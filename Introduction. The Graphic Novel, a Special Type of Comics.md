@@ -7,5 +7,6 @@ Esta introducción se encarga de establecer las características distintivas de 
 - forma:
 	- cuadrícula y secuencialidad: exploración y superación de los límites a los que estaban sujetos los comics 
 		-  búsqueda de un estilo invidual y reconocible
-		-  técnicas de layout inusuales
+		-  técnicas de layout inusuales y ruptura de la estructura de cuadrícula convencional
+		-  narrativa: rechazo (comics abstractos) o énfasis del rol del narrador, 
 	- 
