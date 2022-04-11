@@ -25,4 +25,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 
 Estas características parten de la diferenciación entre los comics y las novelas gráficas.
 Lxs autorxs establecen además que estas características no son algo fijo y que también es importante considerar el contexto espacial y temporal de las publicaciones.
-En esta introducción también se comenta
+En esta introducción también se comenta la estructura del libro:
+- Capítulos 2-4: contextualización histórica
