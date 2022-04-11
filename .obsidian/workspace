@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04-11.md",
+            "file": "stephen greenblatt.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-11.md",
+                "file": "stephen greenblatt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "stephen greenblatt.md",
+    "journal/2020-11-28.md",
+    "The Graphic Novel. An Introduction.md",
     "2022-04-11.md",
     "2022-04-08.md",
     "2022-03-27.md",
-    "stephen greenblatt.md",
     "Jean-François Lyotard.md",
-    "journal/2020-11-28.md",
     "Cosmopolitanism.md",
     "2022-03-01.md",
-    "The Craft of Research.md",
-    "lengua y superdiversidad.md"
+    "The Craft of Research.md"
   ]
 }
