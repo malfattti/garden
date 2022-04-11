@@ -26,5 +26,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 Estas características parten de la diferenciación entre los comics y las novelas gráficas.
 Lxs autorxs establecen además que estas características no son algo fijo y que también es importante considerar el contexto espacial y temporal de las publicaciones.
 En esta introducción también se comenta la estructura del libro:
-- Capítulos 2-4: contextualización histórica. Recorrido por el desarrollo de los comics para adultxs desde 1945, pasando por creadorxs como Harvey 
+- Capítulos 2-4: contextualización histórica. Recorrido por el desarrollo de los comics para adultxs desde 1945, pasando por pionerxs como Harvey Kurtzman, por la apropiación de los comics efectuadas por el pop-art (2), por los 
 - 
