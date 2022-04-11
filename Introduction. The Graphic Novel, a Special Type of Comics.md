@@ -5,6 +5,6 @@
 Resumen
 Esta introducción se encarga de establecer las características distintivas de la novela gráfica en cuanto a:
 - forma:
-	- cuadrícula y secuencialidad:
+	- cuadrícula y secuencialidad: exploración y 
 	- estilo de dibujo: invidual y reconocible
 	- 
