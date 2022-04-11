@@ -24,4 +24,5 @@ Esta introducción se encarga de establecer las características distintivas de 
 		- muchas veces esto permite mayor libertad creativa
 
 Estas características parten de la diferenciación entre los comics y las novelas gráficas.
-Lxs autorxs establecen además
+Lxs autorxs establecen además que estas características no son algo fijo y que también es importante considerar el contexto espacial y temporal de las publicaciones.
+En esta introducción también se comenta
