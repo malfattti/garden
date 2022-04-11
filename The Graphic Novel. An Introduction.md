@@ -1,3 +1,3 @@
-- Autores: 
-- Publicado en: La nueva novela hispanoamericana
-- Año de publicación: 1969
+- Autores: Jan Baetens and Hugo Frey
+- Publicado en: The Graphic Novel. An Introduction
+- Año de publicación: 2014
