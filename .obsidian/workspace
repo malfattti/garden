@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-17.md",
+            "file": "2022-07-25.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-07-17.md",
+                "file": "2022-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "07f614636bc79dbc",
   "lastOpenFiles": [
+    "2022-07-25.md",
     "2022-07-17.md",
     "Introduction. The Graphic Novel, a Special Type of Comics.md",
     "2022-04-11.md",
@@ -104,7 +105,6 @@
     "Cosmopolitanism.md",
     "stephen greenblatt.md",
     "journal/2020-11-28.md",
-    "2022-04-08.md",
-    "2022-03-27.md"
+    "2022-04-08.md"
   ]
 }
